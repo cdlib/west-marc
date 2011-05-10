@@ -1,0 +1,271 @@
+Record 1
+LDR  01436nam  2200289 a 4500
+001  CHSV04-B311
+003  CStRLIN
+005  20040916102612.0
+008  040713s1870    cau           000 0 eng d
+040       $a CLU $c CLU $d NN $d CStRLIN
+090       $a 371.974 $b D96
+100  1    $a Dwinelle, John W. $q (John Whipple), $d 1816-1881.
+245  10   $a Argument of Mr. John W. Dwinelle on the right of colored children to be admitted to the public schools.
+260       $a San Francisco, Cal[if]. : $b Bacon & Co., Book & Job Printers, $c [1870?]
+300       $a 26 p. ; $c 24 cm.
+500       $a RLIN:  OUTPUT EACH 590 AS SEPARATE 852 z; DROP THE 590'S FROM THE OUTPUT REC (09/04).
+500       $a At head of title: Supreme Court of California.
+500       $a "Mary Frances Ward, by A.J. Ward, her guardian ad litem, plaintiff, against Noah F. Flood, principal of the Broadway Grammar School, in the City and County of San Francisco, defendant"--p. [1].
+650   0   $a Segregation in education $z United States.
+650   0   $a Segregation in education $z California $z San Francisco.
+650   0   $a African Americans $x Education (Elementary) $z California $z San Francisco.
+650   0   $a Public schools $z California $z San Francisco.
+700  1    $a Ward, Mary Frances.
+700  1    $a Flood, Noah H.
+710  1    $a California. $b Supreme Court.
+852       $a CHSV $b MAIN $h 371.974 $i D96 $z FIRST 590, OUTPUT AS 852 z. $z SECOND 590, OUTPUT AS 852 z. $z THIRD 590, OUTPUT AS 852 z.
+901       $a CHSV $b 04-B311
+
+Record 2
+LDR  01756ntm  2200265 a 4500
+001  CHSV04-B345
+003  CStRLIN
+005  20040916102704.0
+008  040914i19011959caua          001 0deng d
+040       $a CHi $c CHi $e appm
+043       $a n-us-ca
+100  1    $a Cross, Ralph Herbert, $d 1874-1964.
+245  10   $a R.H. Cross scrapbooks, $f 1901-1959.
+300       $a 3 v. : $b ill. ; $c 38 cm. or smaller.
+500       $a CHSV:  OUTPUT FOLLOWING 852 SUBFLDS AS IS: 2 c, 2 f, h, i, 2 k, l, 2 m, n, q, 2 s, t, 3 x (11/05).
+500       $a OUTPUT 2 590 a'S AS SEPARATE 852 z'S IN THE 852; OUTPUT 852 z BEGINNING WITH "LIBRARY HAS: " AS 852 3 AFTER REMOVING "LIBRARY HAS: "; OUTPUT 2 OTHER 852 z'S AS z'S.
+545  0    $a R.H. Cross was an attorney, bank president, and author of the book titled The early inns of California, 1844-1869.
+520  2    $a Scrapbooks primarily include clippings on the history of Placerville and other northern California areas, and on prominent people.  Scrapbooks also include articles on R.H. Cross and his family; a portrait (photo reproduction) of Cross; notes on family buried at Sylvan Cemetery; articles on the Legal Aid Society of San Francisco and the California Historical Society; clippings of comics and humorous anecdotes; and ephemera.  Vol. 1 includes clippings on early hotels and an index.
+651   0   $a California, Northern $x History.
+600  10   $a Cross, Ralph Herbert, $d 1874-1964.
+655   7   $a Scrapbooks. $2 rbgenr
+655   7   $a Clippings. $2 rbgenr
+655   7   $a Ephemera. $2 rbgenr
+852       $a CHSV $b MAIN $c FIRST C $c 2ND C $f 1ST F $f 2ND F $h ThQA447 $i .G39 1999 $k 1ST K $k 2ND K $l SUBFLD L $m 1ST M $m 2ND M $n SUBFLD N $q SUBFLD Q $s 1ST S $s 2ND S $t 1 $x 001 (1ST X) $x 2ND X $x 3RD X $z 1ST Z $z 3RD Z $z FIRST 590. $z SECOND 590. $3 v. 1-2 (HOLDINGS)
+901       $a CHSV $b 04-B345
+
+Record 3
+LDR  01320ntm  2200241 a 4500
+001  CHSV04-B346
+003  CStRLIN
+005  20040916102808.0
+008  040915i19091909caua          000 0 eng d
+040       $a CHi $c CHi $e appm
+043       $a n-us-ca
+245  00   $a Saul Morris book of receipts, $f 1909.
+300       $a 1 v. (ca. 500 items) : $b ill. ; $c 39 cm..
+500       $a CHSV:  852 DOES NOT HAVE h, i, j - DO NOT OUTPUT CALL NUMBER (09/04).
+500   0   $a INCOMING 852 b = CHSV, OUTPUT AS MAIN; DO NOT TRANSFER 541 AND 583 FIELDS TO 852, DO NOT OUTPUT.
+545  0    $a Saul Morris's parents, James and Pauline Morris, owned a general store in Chinese Camp.
+520  2    $a All receipts are for items sold to Saul Morris at Chinese Camp.  Receipts are from businesses primarily in San Francisco but also Stockton, Oakland, San Jose, and Michigan.  Approximately 40 different businesses are represented.  Purchases include food, medicine, candy, shoes, clothing, cooking equipment (such as tea kettles), paint, mattresses, blasting powder, hardware, post cards, chewing gum, seed, furniture, and a guitar.
+650   0   $a General stores $z California $z Chinese Camp.
+600  10   $a Morris, Saul.
+655   7   $a Receipts. $2 aat
+700  1    $a Morris, Saul.
+852       $a CHSV $b MAIN $e 678 Mission St. San Francisco CA 94105 $k MS OV.
+901       $a CHSV $b 04-B346
+
+Record 4
+LDR  00890nas  2200229 a 4500
+001  CHSV04-S2
+003  CStRLIN
+005  20040916102849.0
+008  040720c19709999cau x p a     0  | 0eng d
+040       $a WHi $c WHi $d OCoLC $d CU
+090       $a F868.C76 $b M44
+245  04   $a Los Meganos.
+260       $a Brentwood, CA : $b East Contra Costa Historical Society, $c 1970-
+300       $a v. ; $c 28 cm.
+362  0    $a Vol. 1, no. 1 (June 1970)-
+500       $a CHSV:  852 HAS h, MULTIPLE i'S - OUTPUT AS IS (09/04).
+500       $a CHS REC WITH 541 AND 583 FIELDS, DO NOT TRANSFER TO 852, DO NOT OUTPUT.
+651   0   $a Contra Costa County (Calif.) $x History $x Periodicals.
+710  2    $a East Contra Costa Historical Society.
+752       $a United States $b California $d Brentwood
+852       $a CHSV $b MAIN $h F868.C76 $i M44 $i ECC Historical Wing (2nd i) $k LC PER $3 v.1, no.1 (Jun 1970) - present, some issues missing.
+901       $a CHSV $b 04-S2
+
+Record 5
+LDR  01259nas  2200277 a 4500
+001  CHSV04-S4
+003  CStRLIN
+005  20050201160501.0
+008  040723c19889999cauqr         0  | 0eng d
+040       $a CU $c CU $d CStRLIN
+043       $a n-us-ca
+090       $a F868.S7 $b M87
+130  0    $a Muse (Santa Rosa, Calif.)
+245  04   $a The muse.
+260       $a Santa Rosa, Calif. : $b Sonoma County Museum, $c 1988-
+310       $a Quarterly, $b 1991-
+321       $a Every two months, $b 1988-1990
+362  0    $a Vol. 1, no. 1 (Jan./Feb. 1988)-
+500       $a CHSV: 852 HAS 3 SUBFLD z'S, 2 BEGIN WITH "Library has: ", 1 DOES NOT. THE 852 Z NOT BEGINNING "Library has: ' SHOULD BE OUTPUT AS IS IN 852 Z; FOR THE OTHER 2, REMOVE "Library has: " FROM EACH AND CONCATENATE, SEPARATING BY "; " AND OUTPUT IN SINGLE SUBFLD 3 (03/05).
+610  20   $a Sonoma County Museum $x Periodicals.
+651   0   $a Sonoma County (Calif.) $x History $x Periodicals.
+710  2    $a Sonoma County Museum.
+752       $a United States $b California $d Santa Rosa
+780  00   $t Recollections (Santa Rosa, Calif.)
+852       $a CHSV $b MAIN $h F868.S7 $i M87 $k LCPER $z SUBFLD Z - NOT A HOLDINGS NOTE $3 Index for 1988-2004 (1ST HOLDINGS Z);  v.1, no.1 (Jan/Feb 1988) - present, some issues missing (2ND HOLDINGS Z).
+901       $a CHSV $b 04-S4
+
+Record 6
+LDR  01396ckc  2200265 a 4500
+001  CHSV02-F39
+003  CStRLIN
+005  20051011150239.0
+007  kh bob
+008  020911i18651886caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Ingersoll, Wm. B. $q (William B.)
+245  10   $a Portraits $h [graphic] / $c Wm. B. Ingersoll.
+260       $c [ca. 1865-1886]
+300       $a 11photographic prints (2 cabinet cards, 9 cartes de visite) : $b b&w ; $c 17 x 11 cm. or smaller.
+500       $a CHSV:  OUTPUT 852 AS FOLLOWS: TAKE 4 LETTER LI CODE (CHSV) FROM 001 & OUTPUT IN 852 a, TAKE LOC CODE (MAIN) FROM 852 b & OUTPUT IN b; OUTPUT INCOMING 852 e, j, x AS IS (11/05).
+500       $a OUTPUT 901 AS FOLLOWS: TAKE LI CODE (CHSV) FROM 001 & OUTPUT IN 901 a; OUTPUT REMAINDER OF 001 IN 901 b.
+500       $a DROP INPUT 852.
+520  8    $a Portraits of unidentified individual men, women and children; group of two children; large group of men.
+545  0    $a William B. Ingersoll had a gallery in Oakland on Sixth Street, ca. 1867; studio at 1069 Broadway, Oakland, 1872-86.
+655   7   $a Cartes de visite $z California $z Oakland. $2 gmgpc
+655   7   $a Cabinet photographs $z California $z Oakland. $2 gmgpc
+852       $a CHSV $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 047 $x CIN=BCB $z Shelflist location: GS--Photographers--Oakland--Ingersoll, William B.
+901       $a CHSV $b 02-F39
+
+Record 7
+LDR  01148dXX  2200229 a 4500
+001  CHSV03-F81
+003  CStRLIN
+005  20020510143000.0
+007  kh bob
+008  030320i18871887caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Todd, J. A. $q (John A.)
+260       $c [ca. 1887]
+300       $a 9 photographic prints (cabinet cards) : $b b&w ; $c 17 x 11 cm.
+500       $a CHSV:  DELETE REC HAS NO 245, INVALID TYPE & BIBLVL, NO 005, UNKNOWN LOC CODE - OUTPUT DELETE REC WITH NO 998 ERROR FIELDS AND WITH 005 CREATED BY SETTING FORCEDATE=Y (11/05).
+545  0    $a John A. Todd operated in San Francisco in 1887, at 2126 Fillmore St.
+520  8    $a Portraits of unidentified individual women, one man, and a child.  One group portrait of a woman and a boy.  One portrait of unidentified woman in theatrical costume.
+655   7   $a Cabinet photographs $z California $z San Francisco. $2 gmgpc
+655   7   $a Group portraits $z California $z San Francisco. $2 gmgpc
+852       $a CHSV $b XXYY $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 065 $x CIN=BC $z Shelflist location: GS--Photographers--SF--Todd, John A.
+901       $a CHSV $b 03-F81
+
+Record 8
+LDR  01199ckc  2200253 a 4500
+001  CHSV02-F37
+003  CStRLIN
+005  20051011152152.0
+007  kh bo 
+008  020911i18891934caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Webster, F. A.
+245  10   $a Portraits $h [graphic] / $c Webster.
+260       $c [ca. 1889-1934]
+300       $a 5 photographic prints (1 cabinet card;1 paris panel; 1 swiss panel) : $b b&w ; $c mount 25 x 17 cm. or smaller.
+500       $a CHSV:  DROP INCOMING 9XX FIELDS (11/05).
+520  8    $a Two portraits of unidentified women (one woman posing as Greek statue?); portrait of unidentified woman and boy; paris panel of unidentified girl; cabinet card of girl "Eleanor" (name noted on verso).
+545  0    $a Studio at 1069 Broadway, corner of 12th Street, Oakland, 1889-1934.
+655   7   $a Portrait photographs $z California $z Oakland. $2 gmgpc
+655   7   $a Cabinet photographs $z California $z Oakland. $2 gmgpc
+655   7   $a Group portraits $z Calfornia $z Oakland. $2 gmgpc
+852       $a CHSV $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 047 $x CIN=BCB $z Shelflist location: GS--Photographers--Oakland--Webster, F.A.
+901       $a CHSV $b 02-F37
+
+Record 9
+LDR  02943cXX  2200385 a 4500
+001  CHSV03-F103
+003  CStRLIN
+005  20051011154940.0
+007  kh bob
+008  030407i18uu18uucaunnn            kneng d
+040       $a CHi $c CHi
+043       $a n-us-ca
+100  1    $a Taber, I. West.
+260       $c [18--]
+300       $a ca. 141 photographic prints (including 73 cabinet cards, 13 cartes de visites) : $b b&w, some hand col. ; $c 36 x 31 cm. or smaller.
+351       $a Arranged in 13 folders: 1: railway cut in snow; 2: San Francisco; 3: Los Angeles, missions, and California miscellany; 4: portraits (cartes de visite); 5-9: portraits (cabinet cards); 10-11: portraits (cabinet cards); 12: Raphael Weill; 13: photocopy of 1880 Carnival album.
+500       $a CHSV:  REC HAS NO 245, INVALID TYPE & BIBLVL, UNKNOWN LOC CODE IN 852 b; OUTPUT WITH 4 998 ERROR FLDS (11/05).
+520       $a Many portraits, including three from "Taber's state collection of portraits of representative Californians in memoriam," one bride, one man identified as "Col. Fred. Grant, September 22d, 1879", and one man identified as Raphael Weill (a bas relief photo).  Several photos depict cutting a railway passage through the snow in Cascade and Blue Canon.  Other subjects include: California missions; San Francisco (Mt. Olympus, '49 Mining Camp at the Midwinter Expo, interior of Chinese Grand Restaurant, incense table in Joss Temple of Lung Gong, Taber's studio interior and exterior, residences, beach at Cliff House); Los Angeles (Longstreet's, Wolfskill orange grove, an irrigation canal); H. Casebolt's elevated railroad; the Arlington House in Santa Barbara; the Central Pacific Rail Road Depot in Oakland, Calif.  Includes a photocopy of the 1880 Carnival album.
+600  10   $a Weill, Raphael $v Portraits.
+600  10   $a Grant, Frederick, $c Colonel $v Portraits.
+650   0   $a Railroad engineering $z California $v Photographs.
+650   0   $a Missions $z California $v Photographs.
+651   0   $a San Francisco (Calif.) $v Pictorial works.
+651   0   $a Oakland (Calif.) $v Pictorial works.
+651   0   $a Los Angeles (Calif.) $v Pictorial works.
+650   0   $a Brides $z California $z San Francisco $v Portraits.
+655   7   $a Cabinet photographs $z California $z San Francisco. $2 gmgpc
+655   7   $a Cartes de visite $z California $z San Francisco. $2 gmgpc
+655   7   $a Photographic printszCalifornia $z San Francisco. $2 gmgpc
+852       $a CHSV $b XXX $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 063-064 $x CIN=BCB $z Shelflist location: GS--Photographers--SF--Taber, Isaiah West.
+901       $a CHSV $b 03-F103
+998       $a CHSV $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1002 $c Record contains no 245 field $d Release-027-000 $e 03-F103
+
+Record 10
+LDR  01613ctca 2200313 a 4500
+001  CHSV02-B289
+003  CStRLIN
+005  20051011160129.0
+008  020920i19211969cauao         000 0deng d
+040       $a CHi $c CHi $e appm
+043       $a n-us-ca
+110  2    $a Ina Coolbrith Circle.
+245  10   $a Ina Coolbrith Circle records, $f 1921-1969.
+300       $a 3 boxes, 1 flat box (2.5 linear ft.) + $e 1 sound tape reel (10 cm, 0.6 cm tape)
+351       $3 Sound tape reel housed in Box 3.
+500       $a CHSV:  852 HAS MULTIPLE SUBFLD b'S, OUTPUT ONLY 1ST (11/05).
+520  8    $a Includes two scrapbooks, one of Ina Coolbrith Circle newspaper clippings, and one in memoriam for Ina Coolbrith, containing letters, poems, programs, and other ephemera. Also includes a tape recording (1 reel) of a program from Southern Calif., in praise of Ina Coolbrith, [1954? or 1955].
+544       $n Portrait of Coolbrith taken by Ansel Adams moved from memorial scrapbook to RM-Adams, Ansel. Other photographs shelved as MSP 457.
+545  1    $a The Ina Coolbrith Circle was a literary club begun in honor of the first poet laureate of Calif.
+555  8    $a Descriptive guide available in library. Electronic version available on the Internet.
+650   0   $a American poetry $z California.
+600  10   $a Coolbrith, Ina D. $q (Ina Donna), $d 1842?-1928.
+651   0   $a California $v Poetry.
+655   7   $a Scrapbooks. $2 rbgenr
+655   7   $a Minutes. $2 aat
+655   7   $a Membership lists. $2 rbgenr
+700  1    $a Coolbrith, Ina D. $q (Ina Donna), $d 1842?-1928.
+852       $a CHSV $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $j MS 457
+901       $a CHSV $b 02-B289
+
+Record 11
+LDR  03243ckca 2200385 a 4500
+001  CHSV04-F2
+003  CStRLIN
+005  20051011161407.0
+007  kh bob
+008  040616i18951906caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Collins, Isabel Porter, $b 1875-1954.
+245  10   $a Photographs from Isabel Porter Collins collection $h [graphic].
+260       $c [1895-1906]
+300       $a 2 boxes (215 photographic prints) : $b b&w; $c 8 x 10 in. or smaller and 11 x 14 in.
+351       $a Organized into 18 folders.
+500       $a CHSV:  REMOVE BACKSLASHES (HEX 5C) FROM FIRST INPUT 852 SUBLFD h AND i BEFORE OUTPUT (11/05).
+500       $a SECOND INPUT 852 DOES NOT HAVE b - DO NOT CREATE AN OUTPUT 852.
+545  0    $a Isabel Porter Collins was an amateur and fine art photographer, artist and teacher.  She was born in Petaluma, Calif., in 1875 and attended Mark Hopkins Institute of Art in San Francisco, Calif., ca. 1898-1900.
+520  8    $a Chiefly portraits of fellow students and others taken while Isabel Porter Collins attended the Mark Hopkins Institute of Art in San Francisco, Calif.  Many of the photos appear to have been made in rooms and studios there.  Contains identified and unidentified subjects.  Includes portraits of George Parmenter, Alice Best, Blanche Cummings, Darmapala, Robert Aitken, Theodore Kean, Lorenzo Latimer, Florence Lundborg, Louise Schawm, Laura Adams Armer, Xavier Martinez, Annabel Lee, Arthur Mathews, Lucia Mathews, Harry Raleigh, Maynard Dixon, Luisa de Brettville (Spreckles), and a few self-portraits.  Also includes photos of Raymond Yelland's anatomy class.  There are photos of students in class (one includes Douglas Tilden); unidentified female nudes; and portraits of children; unidentified except for one marked "Helen Swett."  Also includes one photo of an African American boy in a jester costume and two images of a Chinese girl.  There are a few photos related to the Spanish-American War of 1898 that show a group from the Catholic Ladies Aid Society, a hospital scene, military exercises in Golden Gate Park, and a portrait of "Chaplain, Tenn. Regiment."  Oversize photos include images of a 1949 centennial gardens tour of the Larkin House in Monterey, Calif.
+520  8    $a Two San Francisco Chinatown photos show a street scene, and a funeral procession in the street.  A miscellaneous folder includes photos of a Mark Hopkins Institute of Art medallion, a San Francisco sidewalk scene,  two murals, an interior view of a studio(?), and a Coalinga, Calif., oil well.
+544       $a Forms part of MS 422.
+610  20   $a Mark Hopkins Institute of Art $v Pictorial works.
+650   0   $a Art students $z California $z San Francisco $v Pictorial works.
+650   0   $a Classrooms $z California $z San Francisco $v Photographs.
+650   0   $a Spanish-American War, 1898 $z California $z San Francisco $v Photographs.
+650   0   $a Children $v Portraits.
+651   0   $a San Francisco (Calif.) $v Pictorial works.
+651   0   $a Monterey (Calif.) $v Pictorial works.
+655   7   $a Photographic prints. $2 gmgpc
+655   7   $a Portraits. $2 gmgpc
+655   7   $a Group portraits. $2 gmgpc
+852       $a CHSV $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $h 641.8 $i P8
+901       $a CHSV $b 04-F2
+

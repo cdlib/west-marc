@@ -1,0 +1,164 @@
+Record 1
+LDR  00898dz   2200229n  4500
+001  n  00000039 
+003  DLC
+005  20020619180900.0
+008  000113n| acaaaaaan          |a ana      
+010       $a n  00000039 
+040       $a DLC $b eng $c DLC
+130   0   $a Publikationsreihe der Museen der Mobiliendepots
+430   0   $a Publikationsreihe der M MD
+642       $a Bd. 1 $5 DPCC $5 DLC
+643       $a Hamburg $b Dèolling und Galitz $d Bd. 4
+643       $a Wien $b Bèohlau $d Bd. 1-
+644       $a f $5 DLC
+645       $a t $5 DPCC $5 DLC
+646       $a s $5 DLC
+667       $a Publisher varies: Wien, Bèohlau; Hamburg, Dèolling und Galitz; and Wien, Brandstèatter. Per Deut. Bibl. online)
+670       $a Ehemalige Hofsilber & Tafelkammer, c1996: $b ser. t.p. (Eine Publikationsreihe M MD/der Museen des Mobiliendepots; appears at the foot of t.p. in two lines) colophon (Publikation der Museen des Mobiliendepots)
+699       $a Has 430. Select.
+
+Record 2
+LDR  01064cz   2200229n  4500
+001  n  00000040 
+003  DLC
+005  20020619180900.0
+008  000113n| acannaabn          |a ana      
+010       $a n  00000040  $z n 2001009816
+040       $a DLC $b eng $c DLC $d DLC
+110  2    $a Museen des Mobiliendepots (Vienna, Austria)
+410  2    $a Museen des Mobiliendepot (Vienna, Austria)
+410  2    $a Museen des Mobiliendepots Hofsilver- und Tafelkammer (Vienna, Austria)
+410  2    $a M MD
+410  2    $a Museum Kaiserliches Hofmobiliendepot (Vienna, Austria)
+670       $a Tafeln bei Hofe, 1998: $b t.p. (Museen des Mobiliendepots; M MD)
+670       $a Int'l dir. of arts, 1997/98: $b v. 1, p. 31 (Museen des Mobiliendepot, Wien ehem. KK. Hofmobiliendepot [no publs. in LC database])
+670       $a Museum@online, Jan. 13, 2000 $b (Museen des Mobiliendepots: Hofsilber- und Tafelkammer)
+670       $a WebMuseen, Jan. 13, 2000 $b (Museen des Mobiliendepots Hofsilver- und Tafelkammer)
+670       $a Inventarisiert, 2000: $b p. 6 (Museum Kaiserliches Hofmobiliendepot)
+699       $a Has 410. Select.
+
+Record 3
+LDR  00448cz   2200145n  4500
+001  n  00000420 
+003  DLC
+005  20020619180900.0
+008  000112n| acannaabn          |a aaa      
+010       $a n  00000420 
+040       $a DLC $b eng $c DLC $d DLC
+100  1    $a Seix, Victáoria. $t Disfruta con papel machâe. $l English
+400  1    $a Seix, Victáoria. $t Creating with papier mãachâe
+670       $a Seix, Victáoria. Creating with papier mãachâe, 2000.
+699       $a Has 400. Select.
+
+Record 4
+LDR  00797cz   2200157n  4500
+001  n  00000677 
+003  DLC
+005  20020619180900.0
+008  000104n| acannaabn          |n aaa      
+010       $a n  00000677 
+040       $a DLC $b eng $c DLC $d DLC
+100  1    $a Weaver, Donald F., $d 1957-
+670       $a High performance computing systems and applications, 2000: $b CIP t.p. (Donald F. Weaver, Dept. of Chem., Queen's U., Kingston, Ontario, Can) data sheet (b. Jul. 12, 1957)
+670       $a Epilepsy and seizures ... 2001: $b p. [4] of cover (Dr. Donald Weaver is Professor of Neurology and Professor of Chemistry at Queen's University, in Kingston, Ontario, and is director of the University's Epilepsy Clinic)
+670       $a Amicus, April 16, 2002 $b (Weaver, Donald Frederic, 1957-)
+699       $a No 4xx, none of the 66x's. Skip
+
+Record 5
+LDR  00590cz   2200193n  4500
+001  n  00000730 
+003  DLC
+005  20020619180900.0
+008  000103n| acaabaaan          |a ana      
+010       $a n  00000730 
+040       $a DLC $b eng $c DLC $d DLC
+130   0   $a Scholastic placebook
+643       $a New York $b Scholastic
+644       $a f $5 DLC
+645       $a t $5 DPCC $5 DLC
+646       $a s $5 DLC
+663       $a 663 field.
+670       $a Canizares, Susan. Supermarket, c2002: $b p. 4 of cover (Scholastic PlaceBook [Scholastic is in tiny print with PlaceBook appearing to be more the title])
+699       $a Has 663. Select.
+
+Record 6
+LDR  00654cz   2200157n  4500
+001  n  00005427 
+003  DLC
+005  20020619180900.0
+008  000815n| acannaabn          |a aaa      
+010       $a n  00005427 
+040       $a DLC $b eng $c DLC $d DLC
+100  1    $a Vogel, Hans J.
+664       $a 664 field.
+670       $a Calcium-binding protein protocols, v. 2, 2001: $b t.p. (Hans J. Vogel) p. 73 (Vogel, H.J.)
+670       $a Univ. of Calgary website via WWW, Feb. 12, 2002: $b (B.Sc. Chemistry, Univ. of Groningen, 1974; M.Sc. Biochemistry, Univ. of Groningen, 1978; Ph.D. Biochemistry, Univ. of Alberta, 1981; Hans Jan Vogel; "real" name: Harm Jan Vogel)
+699       $a Has 664. Select.
+
+Record 7
+LDR  00491cz   2200157n  4500
+001  n  00005538 
+003  DLC
+005  20020619180900.0
+008  000808n| acannaabn          |a aaa      
+010       $a n  00005538  $z n  91082573 
+035       $a (OCoLC)oca05285092
+040       $a DLC $b eng $c DLC $d TNJ $d DLC $d StEdNL
+100  1    $a Malam, John, $d 1957-
+500  1    $a Phillips, Jo, $d 1957-
+670       $a Malam, John. Florence Nightingale, 2001: $b CIP t.p. (John Malam) data sheet (b. Feb. 23, 1957)
+699       $a Has 500. Select.
+
+Record 8
+LDR  00577cz   2200157n  4500
+001  n  00008089 
+003  DLC
+005  20020619180900.0
+008  001026n| acannaabn          |a aaa      
+010       $a n  00008089 
+040       $a DLC $b eng $c DLC $d DLC
+100  1    $a Timothy, Dallen J.
+665       $a 665 field.
+670       $a Tourism and political boundaries, 2001: $b CIP t.p. (Dallen J. Timothy) data sheet (b. November 10, 1966)
+670       $a Tourism in destination communities, 2002: $b CIP t.p. (D.J. Timothy; Dept. Recreation, Management & Tourism, Arizona State Univ., USA)
+699       $a Has 665. Select.
+
+Record 9
+LDR  00401cz   2200145n  4500
+001  n  00022982 
+003  DLC
+005  20020619180900.0
+008  000223n| acannaabn          |a aaa      
+010       $a n  00022982 
+040       $a DLC $b eng $c DLC $d DLC
+100  1    $a Tudoran, Dorin. $t Poems. $l English & Romanian. $k Selections
+666  1    $a 666 field.
+670       $a Tudoran, Dorin. Optional future, 1999.
+699       $a Has 666. Select.
+
+Record 10
+LDR  00470cz   2200145n  4500
+001  n  00023159 
+003  DLC
+005  20020619180900.0
+008  000128n| acannaabn          |n aaa      
+010       $a n  00023159 
+040       $a DLC $b eng $c DLC $d DLC
+053   0   $a PT2671.A817
+100  1    $a Kastner, Jèorg, $d 1962-
+550       $a Kastner, Jèorg. Im Schatten von Notre-Dame, c1999: $b t.p. (Jèorg Kastner) jkt. (b. 1962 in Minden an der Weser; freelance writer in Hannover)
+699       $a Has 550. Select.
+
+Record 11
+LDR  00404dz   2200133n  4500
+001  n  00026610 
+003  DLC
+005  20020619180900.0
+008  000817n| acannaabn          |n aaa      
+010       $a n  00026610 
+040       $a DLC $b eng $c DLC
+100  1    $a Peitsch, Helmut, $d 1948-
+670       $a Peitsch, Helmut. Georg Forster, c2001: $b CIP t.p. (Helmut Peitsch) data sheet (4/29/1948)
+699       $a No required fields. Do not select.
+

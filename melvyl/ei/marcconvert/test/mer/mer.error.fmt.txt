@@ -1,0 +1,33 @@
+Record 1
+LDR  01696nXX  2200385 a 4500
+001  UCMb10000227
+003  DLC
+005  20040510143000.0
+008  021112s2003    nyua     b    001 0beng  
+010       $a 2002192739
+020       $a 0060084766
+040       $a DLC $c DLC $d NhCcYBP
+043       $a n-us-dc $a n-us---
+082  00   $a 323/.092 $a B $2 21
+100  1    $a Hansen, Drew W.
+250       $a 1st ed.
+260       $a New York : $b Ecco, $c c2003.
+300       $a 293 p. : $b ill. ; $c 22 cm.
+500       $a UCM: REC HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE - OUTPUT WITH 4 998 ERROR FIELDS (04/05).
+504       $a Includes bibliographical references (p. [231]-277) and index.
+600  10   $a King, Martin Luther, $c Jr., $d 1929-1968.
+600  10   $a King, Martin Luther, $c Jr., $d 1929-1968 $x Oratory.
+650   0   $a March on Washington for Jobs and Freedom, Washington, D.C., 1963
+650   0   $a Speeches, addresses, etc., American $x Washington (D.C.)
+650   0   $a African Americans $v Biography.
+650   0   $a African American civil rights workers $v Biography.
+650   0   $a Baptists $z United States $x Clergy $v Biography.
+650   0   $a African Americans $x Civil rights $x History $y 20th century.
+650   0   $a Civil rights movements $z United States $x History $y 20th century.
+852       $a MER $b XXXX $h E185.97.K5 $i H273 2003
+901       $a MER $b 10000227
+998       $a MER $b 1003 $c Record contains the unknown location code XXXX $d Release-022-000 $e 10000227
+998       $a MER $b 1004 $c Record contains the invalid leader type X $d Release-022-000 $e 10000227
+998       $a MER $b 1005 $c Record contains the invalid bibliographic level X $d Release-022-000 $e 10000227
+998       $a MER $b 1002 $c Record contains no 245 field $d Release-022-000 $e 10000227
+

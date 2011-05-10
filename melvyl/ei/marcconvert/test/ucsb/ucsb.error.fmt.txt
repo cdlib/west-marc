@@ -1,0 +1,27 @@
+Record 1
+LDR  02171nQT^a2200313^a^4500
+001  SBXL001812016
+005  20020823110659.0
+008  931022s1995    nyu      b    000 0 eng  
+010       $a    93040237 
+020       $a 0820424358 (alk. paper)
+035  9    $a (SBN)AJZ1024
+040       $a DLC $c DLC $d DLC $d OrLoB-B
+050  00   $a P121 $b .S8115 1995
+082  00   $a 401 $2 20
+100  1    $a Strauch, Eduard Hugo, $d 1925-
+260       $a New York : $b P. Lang, $c c1995.
+300       $a xii, 319 p. ; $c 24 cm.
+490  1    $a American university studies. Series XIII, Linguistics, $x 0740-4557 ; $v vol. 29
+500       $a SBXL: NON-DELETE; HAS NO 245 UNKNOWN LOC, BAD BIBLEVEL BAD TYPE; CREATE 4 998s.
+504       $a Includes bibliographical references (p. [307]-316).
+505  0    $a Pt. 1. The Four Lessons of Nature. Ch. 1. The Lesson of Camouflage. Ch. 2. The Lesson of Metamorphosis and Ritual. Ch. 3. The Lesson of Life's Limits. Ch. 4. The Lesson of Symbiosis for Language and Thought -- Pt. 2. Nature's Four Lessons: The Evidence in Language and in Writing Strategies. Ch. 5. Camouflage Detection. Ch. 6. Understanding Metamorphosis. Ch. 7. Facing and Transcending the Limits of Language. Ch. 8. Symbiosis in Language -- Pt. 3. Nature's Four Lessons: The Evidence in Literature. Ch. 9. The Evidence of Nature in Literature. Ch. 10. Camouflage Detection, Metamorphosis, Limits, and Symbiosis in Poetry and Poetics. Ch. 11. Tragedy and Comedy. Ch. 12. Literary Theories and the Four Epistemic Modes -- An Ageless Epistemology for the New Age? -- The Existentialist versus the Symbiotic Understanding of Human Destiny.
+650   0   $a Philology $x Philosophy.
+830   0   $a American university studies. $n Series XIII, $p Linguistics ; $v vol. 29
+852       $a SBXL $b NESSIEx $h P121 $i .S8115 1995 $n us
+901       $a SBXL $b 001812016
+998       $a SBXL $b 1003 $c Record contains the unknown location code NESSIEx $d Release-027-000 $e 001812016
+998       $a SBXL $b 1004 $c Record contains the invalid leader type Q $d Release-027-000 $e 001812016
+998       $a SBXL $b 1005 $c Record contains the invalid bibliographic level T $d Release-027-000 $e 001812016
+998       $a SBXL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 001812016
+

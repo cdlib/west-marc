@@ -1,0 +1,46 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2004-8-4 15:08:43
+End:   2004-8-4 15:08:47
+
+------------------------------------------
+Run Statistics:
+          17 - Records Input
+          12 - Records Output
+           0 - Records Skipped
+           5 - Records Rejected
+           4 - Records with non-fatal errors
+
+
+               Reject records
+               3 occurrences: 901 field is missing
+               2 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      dr.la.benchjav.mrc
+  outfile:     ucla.convert.mrc
+  reportfile:  ucla.report.txt
+  errorfile:   ucla.error.mrc
+  rejectfile:  ucla.reject.mrc
+  loctabfile:  tab_locations.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-013-000
+
+------------------------------------------

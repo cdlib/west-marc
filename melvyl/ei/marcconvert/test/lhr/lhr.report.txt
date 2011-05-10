@@ -1,0 +1,42 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2010-4-2 13:51:58
+End:   2010-4-2 13:51:58
+
+------------------------------------------
+Run Statistics:
+           6 - Records Input
+           2 - Records Output
+           0 - Records Skipped
+           5 - Records Rejected
+           0 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  Parser found invalid 920 $a in input MarcRecord:UCX
+               2 occurrences: Parser found no 003 or 852 fields in input MarcRecord
+               1 occurrence:  Parser found no 856 fields in input MarcRecord
+               1 occurrence:  Parser found no 920 fields in input MarcRecord
+
+------------------------------------------
+Configuration:
+  infile:      lhr.benchjav.mrc
+  outfile:     lhr.convert.mrc
+  reportfile:  lhr.report.txt
+  errorfile:   lhr.error.mrc
+  rejectfile:  lhr.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: N
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

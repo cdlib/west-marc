@@ -1,0 +1,759 @@
+Record 1
+LDR  00815dam  22002531a 45  
+001  AAA-1067    
+005  20030326000000.0
+008  821227s1813    enk      c    00010 eng  
+010       $a    14004640 
+035       $a RLINCCSG79255439-B
+035       $a (CaOTULAS)36050989
+035       $a (C)ZZC00234882
+040       $c CarP $d CStRLIN
+050  0    $a Z997 $b .W71
+090       $a 016.09 $b W71 $i 10/18/90 T
+100  10   $a Willett, Ralph, $d 1719-1795.
+245  10   $a Merly library : $b A catalogue of the well known and celebrated library ofthe late Ralph Willett, esq.
+260  1    $a London : $b [s.n.], $c 1813
+300       $a 119 p. ; $c 22 cm.
+500       $a CSL: LEADER STATUS IS 'd' (DELETE); OUTPUT STATUS AS INPUT (03/03).
+650   0   $a Rare books.
+650   0   $a Incunabula $x Catalogs.
+852       $a CSLD $b RARE $h 016.09 $i W71
+901       $a CSLD $b AAA-1067
+
+Record 2
+LDR  01131cam  22002657  45  
+001  ABT-0232    
+005  20030326000000.0
+007  heüamb---baca       
+007  hzübhb---baba       
+008  890511r19881903miuacfh b     00110 eng d
+035       $a RLINCCSG89-B3368
+011       $a 04-3971
+037       $a CL0086000014 $b University Microfilms International
+040       $a *CNI* $c *CNI* $d CStRLIN
+050   4   $a CS71.A36 $b 1903a
+090       $a \MICRO-\FICHE\G3\G2873\ $n \For print ed., see:  CS 71 A36 1903a Sutro.\ $f Anal. $p 1 $i 05/11/89 CT
+100  10   $a Fielding, Harriet Chapin, $d 1847-
+245  14   $a The ancestors and descendants of Isaac Alden and Irene Smith his wife $h [microform] : $b (1599-1903) / $c by Harriet Chapin Fielding.
+260  0    $a [S.l. : $b s.n.], $c c1903.
+300       $a 144 p., [6] leaves of plates : $b ill., facsims., ports.
+440   0   $a Genealogy & local history ; $v G2873.
+500       $a CSL: FILL CHARS IN LEADER CODES: CHANGE STATUS TO 'c', ENCLVL TO '7', ISBD TO BLANK (03/03).
+600  30   $a Alden family.
+852       $a CSLD $b SUTRO $j MICRO- FICHE G3 G2873 $x Anal. $z For print ed., see: CS 71 A36 1903a Sutro.
+901       $a CSLD $b ABT-0232
+
+Record 3
+LDR  01021nam  2200229 a 45  
+001  ABW-4264    
+005  20030326000000.0
+008  830110s1980    dcu      b   f00000 eng d
+035       $a RLINCCSY83-B8
+040       $a NNU-L $c NNU-L $d C
+043       $a n-us---
+086       $a GA 1.14:So8
+090       $a \GA1.14\ $b So8 $n 20\Another copy in microfiche\ $i 01/17/83 CT
+245  02   $a A Guide to sources for identifying General Accounting Office reports.
+260  0    $a [Washington] : $b U.S. General Accounting Office, Office of Information Systems and Services, Technical Information Sources and Services Branch, Audit Reference Services, $c 1980.
+300       $a iii, 83 p. ; $c 27 cm.
+500       $a CSL: LEADER TYPE IS 'h'; CHANGE TO 'a' AND OUTPUT RECORD (03/03).
+610  10   $a United States. $b General Accounting Office $x Bibliography.
+650   0   $a Finance, Public $z United States $x Accounting $x Bibliography.
+710  20   $a United States. $b General Accounting Office. $b Audit Reference Services.
+852       $a CSLD $b US $h GA1.14 $i So8
+901       $a CSLD $b ABW-4264
+
+Record 4
+LDR  01414cam  22003491  45  
+001  AAA-0117    
+003  CStRLIN
+005  20030326000000.0
+008  821206s1824    pauabeg       00000 eng  
+010       $a rc 00001607  $z rc 00001607 
+035       $a RLINCCSG79254476-B
+019       $a 112312322
+035       $a (CaOTULAS)36045338
+035       $a (C)ZZB00137590
+040       $c CarP $d CStRLIN
+043       $a n-cn-mb $a n-us--- $a n-us-mn
+050  0    $a F597 $b .L845
+051       $c Copy 2.
+090       $a 917.7 $b K25 $i 01/07/94 T
+092       $a 353.00l $b Af27
+100  1    $a Keating, William Hypolitus, $d 1799-1840.
+245  10   $a Narrative of an expedition to the source of St. Peter's river, Lake Winnepeek, Lake of the Woods, &c. &c. performed in the year 1823 by order of the Hon. J. C. Calhoun, secretary of war, under the command of Stephen H. Ling, major, U.S.T.E. Comp. from the notes of Major Long, Messrs, Say, Keating, and Colhoun,
+260       $a Philadelphia, $b H. C. Carey & I. Lea, $c 1824.
+300       $a 2 v. $b fronts., 15 pl. (incl. plan. music) fold. map. tables. $c 22 cm.
+500       $a CSL: DROP FIELDS 005, 039, 069, 590, 852, 899, 9XX.
+541       $* Y $3 photo
+583       $3 photo $* N $a Processed $c 03/30/93
+650   0   $a Dakota Indians.
+651   0   $a Manitoba $x Description and travel.
+700  10   $a Lovell, Joseph, $d 1788-1836.
+852       $a CSLD $b M $h 917.7 $i K25 $z Drop this 590 field (output as $z).
+901       $a CSLD $b AAA-0117
+
+Record 5
+LDR  00901cas  2200289 a 45  
+001  ACV-0152    
+005  20030326000000.0
+008  921016c19899999mduar1   i    0  üa0eng d
+010       $a    91659127 
+035       $a RLINCCSG92-S324
+042       $a lc $a nsdp
+050  0    $a R11 $b .P673
+060  0    $a ZWZ 112 $b P578p
+082  00   $a 610/.92/273
+082       $a B
+090       $a R153 $b .P59 $p 3 $i 10/16/92 CT
+210  0    $a Phys. obit.
+222   0   $a Physicians' obituaries
+245  00   $a Physicians' obituaries : $b an obituary index to the Journal of the American Medical Association.
+300       $a v. ; $c 28 cm.
+310       $a Annual
+362  0    $a 1989-
+500       $a CSL: DROP FIELDS WITH NULL $a: 020, 022, 040, 100, 260, 351, 500, 506, 541, 545, 555, 600, 651, 700 (03/03).
+630  00   $a JAMA $x Indexes.
+650   0   $a Medicine $x Periodicals $x Indexes.
+852       $a CSLD $b SUTRO $h R153 $i .P59 $3 1989-
+901       $a CSLD $b ACV-0152
+
+Record 6
+LDR  00806cas  2200217 a 45  
+001  ACV-0221    
+005  20030326000000.0
+008  911001c198u9999cauar         0uuu 0eng d
+035       $a RLINCCSG91-S388
+040       $a C $c C
+043       $a n-us-ca
+090       $a KFC424 $b .A56 $p 3 $i 10/01/91 CT
+130  00   $a Annual legislative report (Builders Exchanges Legislative Network (Calif.))
+245  10   $a Annual legislative report / $c Builders Exchanges Legislative Network.
+260  01   $a Sacramento, Calif. : $b The Network,
+300       $a v. ; $c 28 cm.
+500       $a CSL: 01O FIELD HAS SUBFIELD $o ONLY; DO NOT OUTPUT 010 (03/03).
+650   0   $a Construction industry $x Law and legislation $z California.
+710  20   $a Builders Exchanges Legislative Network (Calif.)
+852       $a CSLD $b CAL* $h KFC424 $i .A56 $3 1990
+901       $a CSLD $b ACV-0221
+
+Record 7
+LDR  00891nam  22002771  45  
+001  AAA-0114    
+005  20030326000000.0
+008  820923m19021908enk           00000 eng  
+010       $a    08000333 $z 080333
+035       $a RLINCCSG79254473-B
+035       $a (CaOTULAS)36175764
+035       $a (C)ZZB00137584
+035       $a 3RD 035, OUTPUT AS 035
+040       $c CarP $d CStRLIN
+050  0    $a PB1353 $b .I6 vol. 4, 8-9
+090       $a 891.6 $b I68 v.4
+100  10   $a Keating, Geoffrey, $d 1570?-1644.
+245  14   $a The history of Ireland,
+260  0    $a London, $b For the Irish texts society by D. Nutt, $c 1902-
+300       $a 237p. $c 23 cm.
+440   0   $a Irish texts society ... Publications $v v. 4
+500       $a CSL: RECORD HAS 010 $o & 3 035 FIELDS; OUTPUT 4 035 FIELDS (03/03).
+700  11   $a Comyn, David, $e ed.
+700  11   $a Dinneen, Patrick S., $e ed.
+852       $a CSLD $b M $h 891.6 $i I68 v.4
+901       $a CSLD $b AAA-0114
+
+Record 8
+LDR  01272cas  2200433 a 45  
+001  ACY-3742    
+003  CStRLIN
+005  20030326000000.0
+008  930413c19889999pauar     lr  0  üa0eng d
+010       $a sn 88010187 
+035       $a RLINCCSG93-S131
+022       $y 0891-1517
+040       $a CU-I $c CU-I $d NST $d N $d NST $d MCM $d NST $d NSDP $d NST $d CStRLIN $d C
+042       $a msc
+043       $a n-us---
+050       $a KF6652 $b .O35
+090       $a HE952.U5 $b C8 $p 3 $i 04/13/93 CT
+245  00   $a Kitchen sink weekly
+260       $a [Philadelphia, PA : $b North American Pub. Co., $c c1988-
+300       $a v. ; $c 29 cm.
+310       $a Annual
+362  1    $a Began with:  Official 1988 version.
+500       $a CSL: TEST 901 OUTPUT:  901 $a = 'CSLD' & $b = 001 CONTENTS (03/03).
+505       $a output this 505
+580       $a output this 580
+600  10   $a output this 600
+610   3   $a output this 610
+650   2   $a output this 650
+651   4   $a output this 651
+693  20   $a output this 693
+696  04   $% SP81 $a output this 696.
+711  10   $a output this 711
+752   3   $a output this 752
+787   2   $a output this 787
+797   4   $a output this 797
+810  20   $a output this 810
+830  20   $a output this 830
+852       $a CSLD $b RREF $h HE952.U5 $i C8 $3 Current year only.
+901       $a CSLD $b ACY-3742
+
+Record 9
+LDR  00504ndma 22001697a 45  
+001  ACZ-0193    
+005  20030326000000.0
+008  931028s1993    cau                 eng  
+110  2    $a Shot of Class
+245  00   $a Sing sing $f 1993
+260       $a Sacramento, Calif.
+300       $a 8 1/2 x 11 ins.
+500       $a CSL: AMC (LDR 08 = a); OUTPUT 1 852 FIELD W/ $b = CAL* (03/03)
+650   0   $a Performing arts.
+650   0   $a Restaurants, lunch rooms, etc. $z California $z Sacramento.
+852       $a CSLD $b CAL*
+901       $a CSLD $b ACZ-0193
+
+Record 10
+LDR  01029nas  2200289 a 45  
+001  ACZ-4905    
+005  20030326000000.0
+008  790911c19uu9999aluar    ab  f0uuua0eng d
+035       $a 05363781
+035       $a (GPO)85016865 
+040       $a GAO $c GAO $d m.c. $d SER $d RCS $d GPO $d MvI-ran $d MvI-ran
+060  0    $a Z 5063 A296
+074       $a 424-I
+086  0    $a D 301.26/20:28
+090       $a D 301.26/20:28
+245  00   $a Air University abstracts of research reports.
+260  00   $a Maxwell Air Force Base, Ala. : $b Air University Library.
+265       $a Air University Library, Maxwell Air Force Base, Ala. 36112-5564
+300       $a v. ; $c 27 cm.
+310       $a Annual
+500       $a CSL MARCIVE: NOT AMC, NO 950, HAS 074; OUTPUT 1 852 W/ $b = US (03/03)
+650   0   $a Military art and science $x Abstracts $x Periodicals.
+650   0   $a Military research $x Abstracts $x Periodicals.
+693  20   $a Air University (U.S.) $x Bibliography $x Periodicals.
+710  20   $a Air University (U.S.). $b Library
+852       $a CSLD $b US $j D 301.26/20:28
+901       $a CSLD $b ACZ-4905
+
+Record 11
+LDR  00639nas  2200217 a 45  
+001  ACV-0790    
+005  20030326000000.0
+008  910722c19899999nmufx p       0  0 0eng d
+035       $a RLINCCSG91-S332
+040       $a C $c C
+090       $p 4 $i 07/23/91 CT
+245  04   $a The Ink & Gall newsletter.
+260  00   $a Taos, NM : $b Dexter Ing,
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Two times a year.
+362  1    $a Began with:  No. 1 (autumn 1989)?
+500       $a CSL: NOT AMC, NO 950, NO 074; OUTPUT 1 852 WITH $b = X (03/03)
+650   0   $a Marbling $x Periodicals.
+650   0   $a Marbled papers $x Periodicals.
+852       $a CSLD $b X
+901       $a CSLD $b ACV-0790
+
+Record 12
+LDR  01044nam  2200277 a 45  
+001  ABW-4111    
+005  20030326000000.0
+008  821119s1982    dcuab    b   f00110 eng  
+010       $a    82600184
+035       $a RLINCCSY82-B992
+040       $d PU $d C
+043       $a a-cc---
+050  0    $a NK1068 $b .L35 1982
+082  0    $a 730/.0931/0740153 $2 19
+086  0    $a SI 1.2:C44
+090       $a \SI1.2\ $b C44 $i 12/01/82 CT
+100  10   $a Lawton, Thomas, $d 1931-
+245  10   $a Chinese art of the warring states period : $b change and continuity, 480-222 B.C. / $c Thomas Lawton.
+260  0    $a Washington, D.C. : $b Published for the Freer Gallery of Art by the Smithsonian Institution Press : $b For sale by the Supt. of Docs., U.S. G.P.O., $c 1982.
+300       $a 202 p. : $b ill. (some col.), maps ; $c 28 cm.
+500       $a CSL: NOT AMC; HAS 950 WITH $l; OUTPUT 852 $b FROM 950 $l.
+504       $a Bibliography: p.193-198.
+650   0   $a Art objects, Chinese $y To 221 B.C. $x Exhibitions.
+710  20   $a Freer Gallery of Art.
+852       $a CSLD $b US $h SI1.2 $i C44
+901       $a CSLD $b ABW-4111
+
+Record 13
+LDR  01045cam  22002531a 45  
+001  AAA-0350    
+005  20030326000000.0
+008  830216s1921    enka          00110 eng  
+010       $a    21018431
+035       $a RLINCCSG79254711-B
+090       $a HV6245 $b .K5 $i 11/16/89 T
+100  10   $a Kingston, Charles.
+245  10   $a Remarkable rogues : $b the careers of David Loy and Mark Reyes.
+260  0    $a London : $b John Lane ; $a New York : $b John Lane Co., $c 1921.
+300       $a x, 289 p. : $b ill. ; $c 23 cm.
+500       $a CSL: REC HAS 4 950s; OUTPUT ONLY 2 852s AS FOLLOWS:  (3/03)
+500       $a CSL: 1ST 950 HAS NON-DELETE $l; OUTPUT IN 852 $b.
+500       $a CSL: 2ND 950 HAS DELETE $l, DO NOT CREATE AN 852 FOR THIS LOCATION.
+500       $a CSL: 3RD 950 HAS NO $l & IS NOT A DELETE LOC; OUTPUT 852 $b = 'X'
+500       $a CSL: 4TH 950 HAS NO $l & IS A DELETE LOC; DON'T CREATE AN 852.
+650   0   $a Crime and criminals.
+852       $a CSLD $b ADM $h HV6245 $i .K5
+852       $a CSLD $b X $h HV6245 $i .K5 $z Kept up to date by supplements and new crimes.
+901       $a CSLD $b AAA-0350
+
+Record 14
+LDR  00827nas  2200229 i 45  
+001  ACY-3652    
+003  CStRLIN
+005  20030326000000.0
+008  930318c19649999mnu x    i    0 ü  1eng d
+035       $a RLINCCSL93-S100
+040       $a C $c C
+090       $a PN4701 $b .J69 $f retro $i 03/22/93 CT
+245  00   $a JQ. Journalism quarterly. $p Index.
+247  10   $a Journalism quarterly. $p Index.
+260       $a [Columbia, S.C. : $b Association for Education in Journalism, $c 1964-
+300       $a v. : $c 23 cm.
+362  0    $a Vols. 1-40 (1924-1963)-
+500       $a CSL: 010 $o IS RLINCCSL; 950 $lR BECOMES 852 $b RLAW; 950 $lS BECOMES 852 $b SLAW.(03/03)
+650   0   $a Journalism $x Periodicals $x Indexes.
+852       $a CSLD $b RLAW $h PN4701 $i .J69 $x retro $3 v.1-40 (1924-1963).
+852       $a CSLD $b SLAW $h PN4701 $i .J69 $x retro $3 v.41-50 (1964-73).
+901       $a CSLD $b ACY-3652
+
+Record 15
+LDR  00740nas  2200205 a 45  
+001  ACY-3655    
+003  CStRLIN
+005  20030326000000.0
+008  930318c19869999sw  x    i    0 ü  0eng d
+035       $a RLINCCSG93-S103
+040       $a C $c C
+090       $a QH540 $b .A521 $f retro $p 4 $i 03/22/93 CT
+245  00   $a Ambio. $p 15-year index.
+260       $a [Stockholm] : $b Royal Swedish Academy of Sciences ; $a [Boston : $b Universitetsforlaget] [distributor], $c 1986-
+300       $a v. ; $c 30 cm.
+362  0    $a (1972-1986)-
+500       $a CSL: 010 $o IS RLINCCSG; 950 $lR BECOMES 852 $b RREF; 950 $lS BECOMES 852 $b SUTRO. (03/03)
+852       $a CSLD $b RREF $h QH540 $i .A521 $x retro $3 (1972-1986)
+852       $a CSLD $b SUTRO $h QH540 $i .A521 $x retro $3 (1990-1995)
+901       $a CSLD $b ACY-3655
+
+Record 16
+LDR  00849nam  22002291  45  
+001  AAA-0304    
+005  20030326000000.0
+008  821105s1649    enk           00000 eng  
+010       $a    57053663 $z 57053663
+035       $a RLINCCSD79254663-B
+035       $a (CaOTULAS)36045525
+035       $a (C)ZZB00141853
+040       $c CarP $d CStRLIN
+050  0    $a DA412 1649 $b .C5 (Rare Bk Coll)
+090       $a 942.06 $b K52
+100  00   $a Charles $b I, $c King of England, $d 1600-1649.
+245  10   $a King Charls, his speech made upon the scaffold at Whitehall-Gate, immediately before his execution, on Tuesday the 30 of Ian. 1648.
+260  0    $a London, $b Printed by P. Cole, $c 1649.
+300       $a 14 p. $c 19 cm.
+500       $a CSL: 950 $l = S, 010 $o DOES NOT BEGIN WITH EITHER RLINCCSL OR RLINCCSG; OUTPUT 852 $b = X (03/03).
+852       $a CSLD $b X $h 942.06 $i K52
+901       $a CSLD $b AAA-0304
+
+Record 17
+LDR  00787cac  2200241 a 45  
+001  ACY-3081    
+003  CStRLIN
+005  20030326000000.0
+008  930330i19101930cau                 eng ü
+035       $a RLINCCSG93-A28
+040       $a C $c C
+090       $a F333 $b .G444 $i 04/15/93 T $h 03/30/93 T
+245  00   $a Humboldt Co.:  Q - Z.
+300       $a 1 $f folder of photographs.
+500       $a CSL: HAS 090 $a $b, 950 $a $b, 541 $e; USE 541 $e IN ALL 852 $j's(3/3)
+541       $* Y $3 photo $e Carton 99
+583       $3 photo $* N $a Processed $c 03/30/93
+651   0   $a Humboldt Bay (Calif.)
+690   7   $a Photographs, Original. $2 CSL
+851       $a Calif. State Library, $b Calif. Section, $c 914 Capitol Mall, Sacramento 95814
+852       $a CSLD $b TECH $j Carton 99
+852       $a CSLD $b SPCOL $j Carton 99
+901       $a CSLD $b ACY-3081
+
+Record 18
+LDR  01028cam  22002411a 45  
+001  AAA-0133    
+003  CStRLIN
+005  20030326000000.0
+008  830420r18701850cau      r    00000 eng  
+010       $a    11012622 
+035       $a RLINCCSG79254492-B
+050  0    $a F869.S3 $b K48 1870 (Rare Bk Coll)
+100  1    $a Kimball, Charles P. $q (Charles Proctor), $d 1821-1894.
+245  14   $a The San Francisco city directory / $c Charles P. Kimball.
+260       $a San Francisco : $b Journal of commerce press, $c [1870?]
+300       $a 139 p. ; $c 15 cm.
+500       $a CSL: NO 541 $e; NO 090; 1ST 950 HAS $a $b, OUTPUT IN 852 $h $i; 2ND 950 HAS $a, OUPUT AS 852 $j; 3RD 950 HAS $b, OUTPUT AS 852 $j; 4TH HAS NEITHER, DON'T OUTPUT ANY CALLNUM IN 852; CHANGE BACKSLASH (HEX 5C) TO SPACE, THEN STRIP EXTRA SPACES IN 1ST & 2ND CALL NUMS. (03/03).
+651   0   $a San Francisco (Calif.) $x Directories.
+852       $a CSLD $b CAL $h B969 $i .K121
+852       $a CSLD $b BTBL $j Hollow Rock44
+852       $a CSLD $b MAP $j Floor Safe
+852       $a CSLD $b SHIP
+901       $a CSLD $b AAA-0133
+
+Record 19
+LDR  00452nam  2200145   45  
+001  ABA-0433    
+005  20030326000000.0
+090       $a First 090 - Don't Use
+090       $a A41329
+100  10   $a Wright, William.
+245  10   $a Ancient Canaanite religions
+500       $a CSL: NO 541 $e; HAS 090 $a BUT NOT $b; 950s HAVE NO $a OR $b; USE 2ND 090 $a TO CREATE 852 $j's FOR BOTH 852s. (03/03)
+852       $a CSLD $b GPS $j A41329
+852       $a CSLD $b CAT $j A41329
+901       $a CSLD $b ABA-0433
+
+Record 20
+LDR  00591nam  22001811  45  
+001  AAA-0131    
+005  20030326000000.0
+008  820218s1954    nyua          00000 eng  
+090       $a First 090 - don't use
+090       $b Second 090 - don't use
+090       $a F878 $b .G127
+100  10   $a Kimball, Arthur Lalanne, $d 1856-1922.
+245  10   $a College textbook of physics.
+260  0    $a New York, $b Holt $c [1954]
+300       $a 942 p. $b illus. $c 25 cm.
+500       $a CSL: NO 541 $e, NO 950 $a/$b, HAS 090 $a/$b; OUTPUT 852 $h/$i FROM 3RD 090 $a/$b (03/03)
+852       $a CSLD $b CIRC $h F878 $i .G127
+901       $a CSLD $b AAA-0131
+
+Record 21
+LDR  00403nam  2200133   45  
+001  ABA-0433    
+005  20030326000000.0
+090       $b V52411
+100  10   $a Sinclair, Virginia.
+245  10   $a Paperweight mania
+500       $a CSL: NO 541 $e; HAS 090 $b BUT NOT $a; 950s HAVE NO $a OR $b; USE 090 $b TO CREATE 852 $j's FOR BOTH 852s. (03/03)
+852       $a CSLD $b BIB $j V52411
+852       $a CSLD $b ADM $j V52411
+901       $a CSLD $b ABA-0433
+
+Record 22
+LDR  00781nam  22001931  45  
+001  AAA-0128    
+005  20030326000000.0
+008  821105s1947    nyu           00010aeng  
+090       $a TM\Sailboat $b Collection
+100  10   $a Preston, Monroe.
+245  10   $a Sputty is a good bird.
+260  0    $a New York, $b The Macmillan company, $c 1947.
+300       $a xvi, 407 p. $c 22 cm.
+500       $a CSL: NO $e IN 541; 090 HAS $a/$b; 1ST 950 HAS $a; 2ND 950 HAS NO $a OR OR $b; WHEN USING THE 090 $a/$b OR 950$a AS SOURCE OF CALL NUMBER, REMOVE BACKSLASHES & REPLACE WITH SPACES (03/03).
+500       $a CSL: OUTPUT 2 852's; FOR 1ST TAKE CALL# FROM 950$a; FOR 2ND, FROM 090.
+541       $* Y $3 photo
+852       $a CSLD $b LREV $j Calif C1980 .D91
+852       $a CSLD $b SCH $h TM Sailboat $i Collection
+901       $a CSLD $b AAA-0128
+
+Record 23
+LDR  01079cam  2200229 a 45  
+001  ABA-0386    
+005  20030326000000.0
+008  850824s1915    dcu           00000 eng d
+090       $a 815 $b C153 v.11 $i 11/07/90 T
+100  10   $a Brazel, Mack
+245  14   $a Alien autopsy gone bad.
+260  0    $a Washington : $b Govt. Printing Office, $c 1915.
+300       $a 4 v ; $c .001 cm.
+440   0   $a Area 51 seminars ; $v v.11.
+500       $a CSL: TEST 852 $k AND $m OUTPUT FROM 950 $d OR $e.(03/03)
+500       $a 1st 950: OUTPUT 1ST $d AS $k AFTER REMOVING BACKSLASHES, 2ND as $m RareBook.
+500       $a 2nd 950: 4 $d's; OUTPUT 1ST AS $k AFTER REMOVING BACKSLASHES; 2nd as $k, 3rd as $m Non-circ, 4th as $m.
+500       $a 3rd 950: OUTPUT only $d AS $m; 1st $e AS $m also in Calif; 2nd $e - DON'T OUTPUT; 3rd $e REMOVE BACKSLASHES ETC. & OUTPUT AS $m.
+852       $a CSLD $b ADM $h 614 $i W $k c $m Rare Book $z Extra copy in Whitehouse lounge.
+852       $a CSLD $b BIB $h 815 $i C153 v.11 $k f $k TLM $m Non-circ $m CHART $3 v. 1-3
+852       $a CSLD $b RARE $h 815 $i C153 v.11 $m ****** $m also in Calif $m Also in ASTRO
+901       $a CSLD $b ABA-0386
+
+Record 24
+LDR  00666nbm  22001691  45  
+001  AAA-0702    
+005  20030326000000.0
+008  821020s1952    cauab         00000 eng  
+090       $a 979.402 $b W365 copy 2
+100  10   $a Webb, Edith Buckland, $d 1877-
+245  10   $a Indian life at the old missions.
+260  0    $a Los angeles, $b W. F. Lewis $c [1952]
+300       $a xxix, 326 p. $b illus., maps. $c 28 cm.
+500       $a CSL: AMC WITH 2 950s BOTH WITH $d & $e.  USE ONLY 1ST 950 AS SOURCE OF 852 $k OR $m (03/03).
+852       $a CSLD $b CAL* $h 979.402 $i W365 copy 2 $k q $m Ishi Room
+901       $a CSLD $b AAA-0702
+998       $a CSLD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e AAA-0702
+
+Record 25
+LDR  01162cam  2200277 a 45  
+001  ABT-0900    
+005  20030326000000.0
+008  890601s1975    dcu      b   f00010 eng  
+010       $a    77747245  $z sc 82004498
+035       $a AT141
+074       $a 798-J-6
+086       $a LC 1.2:M18/16 (1ST 086)
+086       $a LC 1.2:M18/16 (2ND 086)
+086       $a LC 1.2:M18/16 (3RD 086)
+086       $a LC 1.2:M18/16 (4TH 086)
+086       $a LC 1.2:M18/16 (5TH 086)
+086       $a LC 1.2:M18/16 (LAST 086/LAST 090)
+090       $a Z699.4.M2 $b A84 $i 08/03/93 T $h 06/01/89 CTZ
+090       $a LC 1.2:M18/16 (LAST 086/LAST 090) $i 08/03/93 T $h 06/01/89 CTZ
+100  1    $a Avram, Henriette D.
+245  10   $a MARC, its history and implications / $c by Henriette D. Avram.
+260       $a Washington : $b Library of Congress, $c 1975.
+300       $a 49 p. ; $c 23 cm.
+500       $a CSL: MARCIVE HAS 6 086 FIELDS, LAST 090 MATCHES LAST 086; OUTPUT 1ST 5 086 FIELDS IN 852 $m (03/03).
+852       $a CSLD $b SCH $j LC 1.2:M18/16 (LAST 086/LAST 090) $m Other Govt Docs numbers: LC 1.2:M18/16 (1ST 086),LC 1.2:M18/16 (2ND 086),LC 1.2:M18/16 (3RD 086),LC 1.2:M18/16 (4TH 086),LC 1.2:M18/16 (5TH 086)
+901       $a CSLD $b ABT-0900
+
+Record 26
+LDR  01125nas  2200301 a 45  
+001  ACZ-4680    
+005  20030326000000.0
+008  820911c19819999dcuar1       f0uuua0eng d
+010       $a    82647246  $z sc 82004498
+035       $a 08767643
+074       $a 834-C-6
+086  0    $a NS 1.40/2: 1ST 086
+086  0    $a NS 1.40/2: 2ND 086
+086  0    $a NS 1.40/2: 3RD 086
+086  0    $a NS 1.40/2: 4TH 086
+086  0    $a NS 1.40/2: 5TH 086
+090       $a NS 1.40/2:
+090       $a NS 1.40/2: LAST 090
+245  04   $a The 5-year outlook on science and technology.
+260  00   $a Washington, D.C. : $b National Science Foundation : $b For saleby the Supt. of Docs., U.S. G.P.O., $c [1982?-
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Annual
+362  0    $a 1981-
+500       $a CSL: MARCIVE HAS 5 086 FIELDS, LAST 086 DOES NOT MATCH LAST 090; OUTPUT ALL 086S IN 852 $m (03/03).
+710  20   $a National Science Foundation (U.S.)
+780  00   $t Five-year outlook
+852       $a CSLD $b US $j NS 1.40/2: LAST 090 $m Other Govt Docs numbers: NS 1.40/2: 1ST 086,NS 1.40/2: 2ND 086,NS 1.40/2: 3RD 086,NS 1.40/2: 4TH 086,NS 1.40/2: 5TH 086
+901       $a CSLD $b ACZ-4680
+
+Record 27
+LDR  01049nas  2200277 a 45  
+001  ACZ-4688    
+005  20030326000000.0
+008  740911c19729999gauar1    s  f0uuua0eng  
+010       $a    74644021 //r82
+035       $a mvi84008600
+050       $a HQ767.5.U5 $b C45a
+074       $a 505-A-15 (microfiche)
+082       $a 301
+086  0    $a HE 20.7011/20 $b  Something else
+090       $a HE 20.7011/20
+245  00   $a Abortion surveillance / $c Center for Disease Control.
+260  00   $a Atlanta, Ga. : $b The Center,
+265       $a U.S. Dept. of Health and Human Services, Public Health Service, Centers for Disease Control, Center for Health Promotion and Education, Division of Reproductive Health, Atlanta, Ga. 30333
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Annual
+362  1    $a Began with 1972.
+490  1    $a <-1976>: DHEW publication ; $v no. (CDC)
+500       $a CSL: MARCIVE HAS 1 086 THAT DOES MATCH LAST 090; DO NOT OUTPUT 852 $m WITH 086 (03/03).
+830   0   $a DHEW publication ; $v no. (CDC)
+852       $a CSLD $b US $j HE 20.7011/20
+901       $a CSLD $b ACZ-4688
+
+Record 28
+LDR  00698nas  2200181 a 45  
+001  ACZ-4688    
+005  20030326000000.0
+008  740911c19729999gauar1    s  f0uuua0eng  
+074       $a 505-A-15 (microfiche)
+086  0    $a HE 20.7011/20: 086 FIELD
+090       $a HE 20.7011/20: 090 FIELD
+245  00   $a Alien surveillance / $c Center for Mind Control.
+260  00   $a Aaanthor, Mars : $b The Center,
+300       $a v. : $b ill. ; $c 28 safads
+500       $a CSL: MARCIVE HAS 1 086 THAT DOESN'T MATCH LAST 090; OUTPUT 852 $m WITH  086 (03/03).
+650   0   $a Surveillance $z Alien $x Statistics $x Periodicals.
+852       $a CSLD $b US $j HE 20.7011/20: 090 FIELD $m Other Govt Docs numbers: HE 20.7011/20: 086 FIELD
+901       $a CSLD $b ACZ-4688
+
+Record 29
+LDR  00752nbs  2200193 a 45  
+001  ACY-3656    
+005  20030326000000.0
+008  930318c19759999nyu x p  i    0 ü  0eng d
+035       $a RLINCCSG93-S104
+090       $a TK1 $b .I172 $f retro $n \Don't output this n note\ $i 03/22/93 CT
+245  00   $a Flora of Barsoom monthly.
+260       $a Ptarth, Barsoom : $b Ptor Publishing.
+300       $a v. ; $c 6000 safad
+362  1    $a Began with 1001
+500       $a CSL: AMC (TYPE=b); Do not output any 852 $x OR $z NOTES FROM 090, 950, OR 590 (03/03).
+500       $a CSL: AMC (TYPE=b); WILL BE WRITTEN TO ERROR FILE FOR INVALID TYPE.
+852       $a CSLD $b CAL* $h TK1 $i .I172
+901       $a CSLD $b ACY-3656
+998       $a CSLD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e ACY-3656
+
+Record 30
+LDR  01033cas  2200205   45  
+001  ACY-3675    
+005  20030326000000.0
+008  930308u19329999cauau         0uuu 0eng d
+035       $a RLINCCSG93-S80
+090       $b Box 12 $f Indigo $n Maroon $n \Aubergine\
+090       $a AY81.M5 $b G5 $f Repl. $n \Banana\
+245  00   $a Gin Chow's annual almanac.
+260       $a Los Angeles, Calif. : $b Wetzel Publishing Co., $c 1932-
+300       $a v. : $b ill. ; $c 23 cm.
+500       $a CSL NON-AMC: TEST OUTPUT OF 852 $x & $z FROM 090, 950, & 590. (03/03)
+500       $a 090 HAS $f, $n; 1ST 950 HAS $f, $u, $w, $n;  2ND 950 has $u, $n, $e, $v; 3RD 950 HAS NO NOTES FIELDS
+852       $a CSLD $b CAL $h AY81.M5 $i G5 $m AquamarineFrom950D $x CrimsonFrom950F $x BittersweetFrom950U $x GoldenrodFrom950W $z PurplePinto From 590 $z LapisFrom950N $z VioletFrom950N $z Banana
+852       $a CSLD $b ADM $h AY81.M5 $i G5 $m EdselFrom950E $x Repl. $x PacerFrom950U $z PurplePinto From 590 $z RamblerFrom950N $z Banana $3 v.1-10, 12-
+852       $a CSLD $b GPS $h AY81.M5 $i G5 $x Repl. $z PurplePinto From 590 $z Banana
+901       $a CSLD $b ACY-3675
+
+Record 31
+LDR  00556nasa 2200193 a 45  
+001  ACY-3656    
+003  CStRLIN
+005  20030326000000.0
+008  930318c19759999nyu x p  i    0 ü  0eng d
+035       $a RLINCCSG93-S104
+040       $a C $c C
+090       $a TK1 $b .I172 $f retro $i 03/22/93 CT
+245  00   $a Saguaro Annual.
+260       $a Phoenix : $b Prickly Pete Publishing.
+300       $a v. ; $c 28 cm.
+362  1    $a Began with 1960-1974.
+500       $a CSL AMC: (LDR(08) = a); DO NOT OUTPUT 852 $3 FROM 950 $v (03/03).
+852       $a CSLD $b CAL* $h TK1 $i .I172
+901       $a CSLD $b ACY-3656
+
+Record 32
+LDR  01345cas  2200181 a 45  
+001  ACZ-0307    
+005  20030326000000.0
+008  940407u19uu9999cauar         0 ü  0eng d
+035       $a RLINCCSP94-S126
+090       $a LD7501.L8 L56 $b L56 $i 04/12/94 CT
+245  00   $a Lincolnian.
+260       $a [Los Angeles, Calif.] : $b Students of Lincoln High School,
+300       $a v. : $b ill., ports. ; $c 28 cm.
+500       $a CSL CCSP: 010 $o BEGINS 'RLINCCSP'; OUTPUT 2nd 590 AS $3 IN BOTH 852s AFTER STRIPPING 'LIBRARY HAS:'; OUTPUT 1st 590 AS $z IN BOTH 852s; DROP BOTH 590s FROM OUTPUT RECORD (03/03).
+500       $a CSL: CHANGE LOCATION 'S' TO 'SUTRO'.
+852       $a CSLD $b CAL* $h LD7501.L8 L56 $i L56 $z Library's copy of 1936 is signed copy of Kenny Washington's; Kenny Washington was first black player in the National Football League, played for Los Angeles Rams from 1946 to 1948; pages 100-112 describe his abduction by aliens who shared with him the secrets of intergalactic soccer. $3 1918, 1927, 1936.
+852       $a CSLD $b SUTRO $h LD7501.L8 L56 $i L56 $z Library's copy of 1936 is signed copy of Kenny Washington's; Kenny Washington was first black player in the National Football League, played for Los Angeles Rams from 1946 to 1948; pages 100-112 describe his abduction by aliens who shared with him the secrets of intergalactic soccer. $3 1918, 1927, 1936.
+901       $a CSLD $b ACZ-0307
+
+Record 33
+LDR  00773nas  2200193 a 45  
+001  ACY-3682    
+005  20030326000000.0
+035       $a RLINCCSG93-S98
+090       $a Z5311 $b .H54 $p 3 $i 03/17/93 CT
+110  2    $a Arctic Adventures, Inc.
+245  14   $a TUNDRA: the snow report.
+260       $a Gnome, Alaska : $b AAI.
+300       $a v. : $b ill. ; $c 28 cm.
+500       $a CSL: REC HAS 4 950S: 1ST HAS $v $y $z - OUTPUT DATA FROM ALL IN 852 $3. 2ND HAS $v $z - OUTPUT DATA FROM BOTH IN 852 $3; 3RD HAS $y OUTPUT DATA FROM $y IN 852$3; 4TH 950 HAS NO $v, $y, OR $z; DON'T OUTPUT $3 IN 852 (3/3)96).
+852       $a CSLD $b SCH $h Z5311 $i .H54 $3 SUBV SUBY SUBZ
+852       $a CSLD $b CIRC $h Z5311 $i .H54 $3 SUBV SUBZ
+852       $a CSLD $b GPS $h Z5311 $i .H54 $3 SUBY
+852       $a CSLD $b ALR $h Z5311 $i .H54
+901       $a CSLD $b ACY-3682
+
+Record 34
+LDR  01060cXR  22002171a 45  
+001  AAA-1097    
+005  20030326000000.0
+008  830721s1821    enkf          00000 eng  
+010       $a    03029893 
+035       $a RLINCCSG79255471-B
+090       $a 914 $b V97 $i 12/17/90 T
+260  0    $a London : $b Jones & co., $c 1821.
+300       $a xii, 755 p. : $b 9 plates ; $c 21 cm.
+500       $a CSL: NO 005, NO 245, UNKNOWN LOC IN 950 $l, BAD TYPE, BAD BIBLEVEL; ASSIGN 005 FROM RUN PARM, CREATE 998s FOR OTHER ERRORS BUT DON'T REJECT (3/3)
+600  00   $a Caroline Amelia Elizabeth, $c Queen, consort of George IV, King of Great Britain, $d 1768-1821.
+852       $a CSLD $b RARITY $h 914 $i V97
+901       $a CSLD $b AAA-1097
+998       $a CSLD $b 1003 $c Record contains the unknown location code RARITY $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1005 $c Record contains the invalid bibliographic level R $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1002 $c Record contains no 245 field $d Release-027-000 $e AAA-1097
+
+Record 35
+LDR  00456dXR  22001211a 45  
+001  VVV-1008    
+005  20030326000000.0
+008  830721s1821    enkf          00000 eng  
+260  0    $a Amenia, N.Y.: $b Wassaic & co., $c 1950.
+300       $a xii, 755 p. : $b 9 plates ; $c 21 cm.
+500       $a CSL DELETE: NO 005, NO 245, UNKNOWN LOC IN 950 $l, BAD TYPE, BAD BIBLEVEL; ASSIGN 005 FROM RUN PARM, DO NOT CREATE 998s FOR OTHER ERRORS  (3/3)
+852       $a CSLD $b BANANA
+901       $a CSLD $b VVV-1008
+
+Record 36
+LDR  01231cam  2200301 a 4500
+001  AFB-9339    
+003  CStRLIN
+005  20030326000000.0
+008  000710s2000    caua     b   s000 0 eng d
+035       $a RLINCCSD00-B267
+035       $a (c)CSP-00-07
+040       $a C $c C
+043       $a n-us-ca
+086       $a T523.E36 $2 cadocs
+090       $a T523 $b .E36 $i 08/04/00 CT $h 07/17/00 CT
+090       $a HC107.C22 $b E53 2000
+245  04   $a The economic future of the San Joaquin Valley.
+260       $a Modesto, CA (911 13th Street, Modesto) : $b Great Valley Center, $c [2000]
+300       $a 58 p. : $b ill. : $c 28 cm.
+500       $a CSL: TEST FOR HANDLING OF NULL, EMPTY, & BLANK SUBFIELDS.
+500       $a CSL: 1ST 950; OUTPUT 852 WITH 1 $z FROM 1st $n; IGNORE OTHER 3 $n's; 2ND IS EMPTY; 3rd HAS BLANK; 4th IS NULL.
+500       $a CSL: 2ND 950 HAS EMPTY $l - DON'T OUTPUT AN 852.
+500       $a CSL: 3RD 950 $l CONTAINS BLANKS - DON'T OUTPUT AN 852.
+500       $a CSL: 4TH 950 $l CONTAINS NULL - DON'T OUTPUT AN 852.
+651   0   $a San Joaquin Valley (Calif.) $x Economic conditions.
+852       $a CSLD $b C $h T523 $i .E36 $z Output this note from the good 950
+856  41   $u http://www.greatvalley.org/nvc/collaborative%5econ%5full%5report.pdf
+901       $a CSLD $b AFB-9339
+
+Record 37
+LDR  01415cam  2200349 a 4500
+001  AFJ-2772    
+003  CStRLIN
+005  20030326000000.0
+008  020304s2001    nyu      b    001 0 eng  
+010       $a    00066206 
+035       $a RLINCCSG02-B2304
+020       $a 038097682X
+040       $a DLC $c DLC $d DLC $d C
+043       $a n-us---
+050  00   $a HV6344.U6 $b L48 2001
+082  00   $a 336.2/06/0973 $2 21
+090       $a HV6344.U6 $b L48 2001 $i 03/05/02 CT
+042       $a pcc
+100  1    $a Lewis, Charles, $d 1953-
+245  14   $a The cheating of America : $b how tax avoidance and evasion by the super rich are costing the country billions, and what you can do about it / $c Charles Lewis, Bill Allison, and the Center for Public Integrity.
+250       $a 1st ed.
+260       $a New York : $b W. Morrow, $c c2001.
+300       $a xviii, 302 p. ; $c 24 cm.
+500       $a CSL: 1ST 950 - ONE $e IS EMPTY, 1 HAS DATA; 2ND 950 - 1 $e HAS BLANKS, 2ND HAS DATA; 3RD 950 - 1 $e HAS NULL CHARACTERS, 2ND HAS DATA. FOR EACH 950, OUTPUT 852 WITH 1 $m FROM THE $e WITH DATA (02/04).
+504       $a Includes bibliographical references and index.
+650   0   $a Tax evasion $z United States.
+700  1    $a Allison, Bill.
+710  2    $a Center for Public Integrity.
+852       $a CSLD $b M $h HV6344.U6 $i L48 2001 $m also in Calif
+852       $a CSLD $b CAP $h HV6344.U6 $i L48 2001 $m also in Sutro
+852       $a CSLD $b CAT $h HV6344.U6 $i L48 2001 $m not in Sutro
+901       $a CSLD $b AFJ-2772
+

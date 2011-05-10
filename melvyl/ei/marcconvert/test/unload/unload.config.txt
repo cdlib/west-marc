@@ -1,0 +1,74 @@
+# Required entries:
+#
+#   infile      - The marc data file to convert
+#   outfile     - The converted marc data file
+#   errorfile   - A file to hold those records converted with errors
+#   rejectfile  - A file to hold reject records
+#   reportfile  - The report file for this run
+#
+#   filedate    - The 005 to use for this run. The format is CCYYMMDDhhmmss.0
+#                 and the century must be either 19 or 20.
+#
+# Optional entries:
+#
+#   forcedate   - If 'Y' the filedate will be used to create all 005 fields,
+#                 overriding the 005 in any input records. If 'N' the filedate
+#                 will only be used to create 005 fields for those input records
+#                 that do not contain a 005. Default is 'N'.
+#
+#   skip        - The number of input records to skip before conversion starts.
+#                 Default's to 0, if the entry is not specified or is not numeric.
+#                 Keyword values 'none' and 'all' may be specified.
+#
+#   maxin       - The maximum number of records to read from the file. This includes
+#                 the number of records to skip, so if skip is greater than or equal
+#                 maxin no records will be processed.
+#                 Default's to 'all', if the entry is not specified or is not numeric.
+#                 Keyword values 'none' and 'all' may be specified.
+#
+#   maxout      - The maximum number of records to convert. Rejected records are not
+#                 included in this count.
+#                 Default's to 'all', if the entry is not specified or is not numeric.
+#                 Keyword values 'none' and 'all' may be specified.
+#
+#   debuglevel  - Controls the level of debug information written to the report file.
+#                 A higher number will get more debug information. The actual meaning
+#                 of this number is varies among conversion programs. The highest
+#                 meaningful value is 3, which will ascii print each input and output
+#                 marc records. To suppress debugging output specify 0.
+#                 Default's to 0, if the entry is not specified or is not numeric.
+#                 Keyword value 'none' may be specified.
+#
+#   validateout - Perform post-conversion validation when this is 'Y', and byapss
+#                 validation of output records when it is 'N'. Default is 'Y'.
+#
+#   benchrun    - Set this to 'Y' when running a benchmark test. This will cause
+#                 the $d subfield of any generated 998 fields to be set to the
+#                 value of the benchdate parameter. Default is 'N'.
+#
+#   benchdate   - String to put in 998 $d subfields when benchrun is set to 'Y'.
+#                 Default is 'BenchMarkDate'. Since the purpose of this field
+#                 is to allow benchmark run to compare cleanly across runs this
+#                 parameter should either be allowed to default. A good value
+#                 to use to create benchmark results for chekcin to cvs is the
+#                 release tag value.
+#
+
+infile      = unload.benchjav.mrc
+outfile     = unload.convert.mrc
+errorfile   = unload.error.mrc
+rejectfile  = unload.reject.mrc
+reportfile  = unload.report.txt
+loctabfile  = tab_locations.txt
+sharedprintfile   = shared_print_table.txt
+
+filedate    = 20020510143000.0
+forcedate   = N
+
+skip        = 0
+maxin       = all
+maxout      = all
+debuglevel  = 0
+validateout = Y
+benchrun    = Y
+benchdate   = Release-027-000

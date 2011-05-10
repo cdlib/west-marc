@@ -1,0 +1,4 @@
+Record Rejected: I-6 R-1 no 852 was generated
+Record Rejected: I-31 R-2 Cataloging source not UCDL
+Record Rejected: I-35 R-3 Input lacks 901 $b
+Record Rejected: I-36 R-4 no 852 was generated

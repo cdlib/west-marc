@@ -1,0 +1,152 @@
+Record 1
+LDR  00920nam  2200241 a 45  
+001      GLAD38447-B
+005  19830314110726.0
+008  830314s1982    enka     b    00110 eng  
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+010       $a    81067904
+020       $a 0126186200
+050  0    $a QD96.N8 $b S26 1982
+082  0    $a 543/.0877 $2 19
+100  10   $a Sandstrèom, J.
+245  10   $a Dynamic NMR spectroscopy / $c J. Sandstrèom.
+260  0    $a London ; $a New York : $b Academic Press, $c 1982.
+300       $a x, 226 p. : $b ill. ; $c 24 cm.
+500       $a GLAD: 950 HAS $d, $e, $f - REMOVE BACKSLASHES, OUTPUT $d TO 852 $k, $e TO 852 $m, $f TO 852 $x (03/02).
+650   0   $a Nuclear magnetic resonance spectroscopy.
+740  01   $a Dynamic N.M.R. spectroscopy.
+852       $a GLAD $b BIOC $h QD96.N8 $i S26 1982 $k From subfld d $m From subfld e $x From subfld f
+901       $a GLAD $b 38447
+998       $a GLAD $b 1003 $c Record contains the unknown location code BIOC $d Release-027-000 $e 38447
+
+Record 2
+LDR  01176nam  2200289   45  
+001      GLAD38448-B
+005  19830314110734.0
+008  830314m19399999ii bcf       f00000 eng  
+010       $a    42030937
+040       $c CU-A $d CU-A
+043       $a a-ii---
+050  0    $a DS485.S65 $b A5
+110  10   $a Sirmur, India.
+245  10   $a Sirmur state gazetteer 1934.
+260  0    $a Lahore, $b Printed by the Superintendent, Government Printing, Punjab, $c 1939-
+300       $a v. $b geneal. tables, ford. maps, plates, ports. $c 26 cm.
+500       $a GLAD: VERIFY CALL NUMBER PROCESSING.
+500       $a GLAD: FOR LOC OPTO, CREATE 852 WITH $h AND $i FROM 950 $a AND $b; OUTPUT $d AS 852 $k AFTER REMOVING 3 BACKSLASHES AND ADDING A SPACE BETWEEN THEM
+500       $a GLAD: FOR LOC MAPS2, REMOVE BACKSLASHES FROM 950 $a & CREATE 852$j
+500       $a GLAD: FOR LOC ED-P, CREATE 852 WITH $j FROM 950 $b.
+651   0   $a Sirmur, India.
+700  10   $a Kapur, Kahn Chand.
+852       $a GLAD $b OPTO $h DS485.S65 $i A5 $k Bennett Coll
+852       $a GLAD $b MAPS2 $j Atlas Case
+852       $a GLAD $b ED-P $j PA4414
+901       $a GLAD $b 38448
+998       $a GLAD $b 1003 $c Record contains the unknown location code MAPS2 $d Release-027-000 $e 38448
+
+Record 3
+LDR  00966nas  2200217b  45  
+001      GLAD90602-S
+005  19900728040512.0
+008  840120         sw m                swe d
+022       $a 0567-8064
+245       $a Acta Radiologica. Therapy, Physics, Biology
+260       $a Stockholm
+362       $a v.1-16; Feb.1963-1977
+500       $a GLAD: DROP SUBFLD $n FRM 780; DROP SUBFLDS $e, $h, $n FRM 785.
+500       $a GLAD: DROP 003 FIELD FROM OUTPUT.
+500       $a GLAD: OUTPUT 590 IN $z OF EACH 852; DROP 590 FROM OUTPUT RECORD.
+780   3   $t Acta Radiologica
+785   0   $t Acta Radiologica. Oncology, Radiation, Physics, Biology
+852       $a GLAD $b BIOS $h RM845 $i .A2 $m Shelved at BIOSCIENCES OFF CAMPUS COLLECTION $z Some copies stored in librarian's car. $3 Bound 4(1966)-16(1977)//
+852       $a GLAD $b FORE $j GX33376 $z Some copies stored in librarian's car. $3 v. 1-16//
+901       $a GLAD $b 90602
+998       $a GLAD $b 1003 $c Record contains the unknown location code FORE $d Release-027-000 $e 90602
+
+Record 4
+LDR  01187nbc  2200265K  45  
+001      GLAD167994759-W
+005  20010811194355.0
+008  920817i18641918cau                 eng d
+035       $a ocm26337088 
+040       $a CUY $c CUY
+100  1    $a Hearst, Phoebe Apperson, $d 1842-1919.
+245  10   $a Phoebe Apperson Hearst papers, $f [ca. 1864-1918]
+300       $3 Originals : $a 64 boxes, 24 cartons, 1 oversize folder.
+500       $a GLAD: TYPE = b; TYPE NOT VALID; CREATE 998 WITH ERROR MESSAGE
+500       $a GLAD: INPUT RECORD CONTAINS 852; DO NOT OUTPUT THE FIELD.
+500       $a GLAD SVM BANCROFT
+555       $a Finding aid available in Library. Electronic version available on the Internet.
+610  20   $a University of California (1868-1952)
+650   0   $a Women $z California.
+700  30   $a Hearst family.
+710  2    $a Online Archive of California Project.
+852       $a GLAD $b BNRLF $g CARTON 2-CARTON 14. $j BNEG MSS 72/204 c $m 1 oversize folder in oversize drawers, unit A. $p W 106 801
+856  42   $3 Finding aid: $u http://www.oac.cdlib.org/cgi-bin/oac/berkeley/bancroft/hearstpa
+901       $a GLAD $b 167994759
+998       $a GLAD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e 167994759
+
+Record 5
+LDR  01114nam  2200277   45  
+001      GLAD163-B
+005  20020407000330.0
+008  830810 1981    cau                 eng u
+010       $a    82138075
+035       $a ocm08475771
+245  00   $a Charles Hopper and the pilgrims of the Pacific : $b a 1841 California pioneer, his narrative and other documents / $c edited by Franklin Beard
+260  0    $a La Grange, Calif. : $b Southern Mines Press, $c 1981
+300       $a xiv, 160, [2]  p. : $b ill. ; $c 29 cm
+500       $a GLAD: UNKNOWN LOC CODE, CREATE 998 FIELD WITH ERROR MSG (05/02).
+500       $a Includes index
+504       $a Bibliography: p. 159-[161]
+600  10   $a Hopper, Charles, $d 1800-1880.
+650   0   $a Pioneers $z California $x Biography.
+650   0   $a Overland journeys to the Pacific.
+650   0   $a Frontier and pioneer life $z California.
+651   0   $a California $v Biography.
+700  10   $a Beard, Franklin.
+752       $a United States $b California $d La Grange $9 (1981)
+852       $a GLAD $b XXXX $h F864.H83 $i .C45
+901       $a GLAD $b 163
+998       $a GLAD $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 163
+
+Record 6
+LDR  00925naX  2200241   45  
+001      GLAD1145-B
+005  20020407000330.0
+008  830810 1980    at                  eng u
+010       $a    81670137
+035       $a ocm08169499
+100  10   $a Boland, D. J. $q (Douglas J.)
+245  10   $a Eucalyptus seed / $c D.J. Boland, M.I.H. Brooker, and J.W. Turnbull ; with scanning electron microscopy by D.A. Kleinig
+260  0    $a [Canberra] : $b CSIRO Australia, $c c1980
+300       $a 191 p. : $b ill. ; $c 26 cm
+500       $a GLAD: INVALID BIBLVL - CREATE 998 FIELD WITH ERROR MSG (05/02).
+504       $a Bibliography: p. [173]-180
+650   0   $a Eucalyptus $x Seeds.
+700  10   $a Brooker, M. I. H. $q (M. Ian H.)
+700  10   $a Kleinig, D. A.
+700  10   $a Turnbull, J. W. $q (John W.)
+852       $a GLAD $b BIOS $h SD397.E8 $i .B63 $3 *c2 copies
+901       $a GLAD $b 1145
+998       $a GLAD $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 1145
+
+Record 7
+LDR  00718nam  2200217   45  
+001      GLAD2073-B
+005  20020407000330.0
+008  830810 1979    mau                 eng u
+010       $a    79084320
+035       $a ocm05228242
+250       $a 2d ed
+260  0    $a Boston : $b Little, Brown, $c c1979
+300       $a xv, 388 p. : $b ill. ; $c 22 cm
+500       $a GLAD: REC HAS NO 245, CREATE 998 FIELD WITH ERROR MSG (05/02).
+650   0   $a Symptoms.
+650   0   $a Diagnosis.
+700  10   $a Briney, Walter G. $q (Walter George), $d 1934-
+700  10   $a Friedman, H. Harold $q (Henry Harold), $d 1917-
+852       $a GLAD $b BIOS $h RC69 $i .P76 1979 $m WITHDRAWN
+901       $a GLAD $b 2073
+998       $a GLAD $b 1002 $c Record contains no 245 field $d Release-027-000 $e 2073
+

@@ -1,0 +1,1039 @@
+Record 1
+LDR  01120cam  2200277 i 45  
+001  10075291-B
+005  19891127000000.0
+008  790320s1978    ilu           00100 eng  
+010       $a 78106232
+043       $a n-us---
+050  0    $a KF3478 $b .C65
+110  20   $a Commerce Clearing House
+245  10   $a New 1978 mandatory retirement and age discrimination rules, with explanation and State survey : $b the Age discrimination in employment act amendments of 1978, approved by the President April 6, 1978, Public Law 95-256
+260  0    $a Chicago : $b Commerce Clearing House, $c c1978
+300       $a 79 p. ; $c 23 cm
+490  0    $a CCH editorial staff publication
+500       $a UCDL: NO 902 FIELD - CREATE 005 FROM PROGRAM RUN PARAMETER (04/02).
+650   0   $a Retirement, Mandatory $x Law and legislation $z United States
+650   0   $a Age discrimination $x Law and legislation $z United States
+901       $a UCDLb100069x $b stx   $c -
+907       $a Deleted: LGEN,LNUC
+920       $b KF3478.C65 $l stx
+950       $l STKS
+955       $l STKS $i 03/20/79 C
+998       $a 03/20/79 $t c $s 9610 $n CU-AL $w DCLC78106232B $d 05/17/81 $c MS $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 2
+LDR  01493cas  2200349 a 45  
+001  83-S419
+005  19891127000000.0
+008  831207c19819999nyumr    v    0 uua0eng d
+010       $a 82641510
+022       $a 0731-8820
+040       $a CSt-Law $c CSt-Law $d CU-AL
+043       $a N-US-CA
+222  00   $a California criminal defense practice reporter
+245  00   $a California criminal defense practice reporter
+260  00   $a [New York, N.Y.] : $b M. Bender, $c [1981?]-
+300       $a v. ; $c 26 cm
+310       $a Monthly
+500       $a UCDL PE: REC HAS 2 920 FLDS, USE 1ST - OUTPUT 3 852'S; OUTPUT 852 $h $i FROM 1ST 920 $a $b IN ALL 852'S (04/02).
+500       $a 1ST 950 DOES NOT HAVE $b, USE $b FROM 2ND 950 - OUTPUT 852 $3 IN 1ST 852 AFTER REMOVING "UCDL:" PLUS BLANKS IF ANY; OUTPUT DEFAULT HOLDINGS STATEMENT IN 852 $3 FOR ALL OTHER 852'S.
+580       $a Updates: California criminal defense practice
+650   0   $a Defense (Criminal procedure) $z California
+730  02   $a California criminal defense practice
+901       $a UCDLb165150x $b multi $c -
+902       $a 930913
+920       $a KFC1115.A6 $b C35 (FIRST 920) $l stx $l ref $l faclb
+920       $a KFC1115.A6 $b C35 (2ND 920) $l tax
+950       $l STKS $i 01/12/84 N  $1 0:sl $h 12/07/83 C
+950       $b UCDL:c. 1: v.1 (1981)-v.12 (1992) and current issues.....
+955       $l STKS $c 1 $q 2215i $r nc $h 12/07/83 C
+955       $l STKS $c 2 $q 2215i $r nc $h 12/07/83 C
+998       $a 01/12/84 $t c $s 9114 $n CU-AL $w CCSL85S84 $d 12/07/83 $c KLO $b MCC $i 840112 $h 831207 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 3
+LDR  00896cas  2200265 ü 45  
+001  1385-S
+005  19891127000000.0
+008  810813c19609999iluuu  üüüüüüüü üüa0engüd
+040       $a CU-AL $c CU-AL
+043       $a n-us-ny
+110  10   $a New York Stock Exchange
+245  10   $a New York Stock Exchange constitution and rules ..
+260  00   $a Chicago, $b Commerce Clearing House, $c 1960-
+300       $a v
+500       $a UCDL: INCOMING RLIN 001 FIELD; ADD "(CStRLIN)" TO BEGINNING AND OUTPUT IN 035 FIELD (04/02).
+610  10   $a New York Stock Exchange
+787  1    $t New York Stock Exchange guide
+901       $a UCDLb1618301 $b stx   $c -
+902       $a 920624
+920       $a HG4573 $b .A335 $l stx
+950       $b UCDL: Current edition only
+950       $l STKS $f nc $i 08/13/81 N
+955       $l STKS $c 1 $q 3415B $i 08/13/81 C
+998       $a 08/13/81 $t c $s 9194 $n CU-AL $w CUDL1385S $d 10/07/81 $c MB $b PM $i 810813 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 4
+LDR  01143nas  2200301 a 45  
+001  85-S139
+005  19891127000000.0
+008  850522c19819999iluuu    vv   0 au 0eng d
+040       $a NNB $c NNB $d UPB-L $d CLL
+245  00   $a Copyright law decisions
+260  01   $a Chicago, Ill. : $b Commerce Clearing House, $c c1981-
+300       $a v. ; $c 25 cm
+362  0    $a 1978/1981-
+490  0    $a CCH editorial staff publication
+500       $a UCDL: THREE LOCS IN 1ST 920, 2 LOCS IN 2ND 920; IGNORE 2ND 920.  STRIP COPY INFO IN PARENS AND OUTPUT 3 852 FIELDS (04/02).
+500       $a "The full text opinions of federal and state courts with case table and topical index."
+650   0   $a Copyright $z United States $x Cases
+710  20   $a Commerce Clearing House
+730  01   $a Copyright law reporter
+901       $a UCDLb165584x $b multi $c -
+902       $a 930526
+920       $a KF2991.5 $b .C63 $l (2)stx $l tax $l (3)mfm
+920       $a KF2991.5 $b .C63 $l (2)ref $l res
+950       $l STKS $i 05/22/85 C
+950       $b UCDL:1978/81-1991/92--
+955       $l STKS $c 1 $q 6671i $r nc $i 05/22/85 C
+998       $a 05/22/85 $t c $s 9116 $n CU-AL $w MASL88S135 $d 05/22/85 $c CK $b RJS $i 850522 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 5
+LDR  01232cam  2200301 i 45  
+001  10051783-B
+005  19891127000000.0
+008  790319s1973    cau          s00010 eng d
+040       $a cual $c cual
+043       $a n-us-ca
+110  10   $a California. $b Legislature. $b Joint Committee for the Revision of the Penal Code
+245  10   $a Staff draft of the corrections code and commentary / $c Joint Committee for the Revision of the Penal Code of the California Legislature
+260  0    $a Los Angeles, Calif. : $b Project Office, $c [1973?]
+300       $a 505 leaves ; $b 29 cm
+500       $a UCDL: FIVE LOCS IN 920, 2ND AND 4TH ARE DUPLICATES.  USE 1ST INSTANCE ONLY AND OUTPUT 4 852 FIELDS (04/02).
+500       $a 920 HAS CALL NUM IN $b ONLY - OUTPUT TO 852 $j FOR ALL 852'S.
+650   0   $a Criminal procedure $z California
+710  11   $a California. $b Legislature. $b Penal Code Revision Project
+901       $a UCDLb1000068 $b multi $c -
+902       $a 900603
+907       $a Deleted: LGEN,LNUC
+920       $b KFC 1155 A25 1973 (920$b) $l stx $l rare $l ref $l rare $l tax
+950       $l STKS
+950       $l DOCS
+955       $l STKS $h 03/19/79 C
+955       $l DOCS $i 04/11/79 C
+998       $a 04/11/79 $t c $s 9114 $n CU-AL $w CUDL10051783B $d 05/06/81 $c JM $l CUDL
+999       $b 2 $c 900603 $d m $e - $g 0
+
+Record 6
+LDR  01260cam  2200325   45  
+001  11315733-B
+005  19891127000000.0
+008  790711m19739999enk           00100 eng  
+010       $a 74166926
+020       $a 0421193506 (v. A1)
+043       $a ew-----
+050  0    $a LAW
+245  00   $a Encyclopedia of European Community law; $c general editor K. R. Simmonds
+260  0    $a London, $b Sweet & Maxwell; $a Edinburgh, $b Green $a [New York] $b Bender $c [1973-
+300       $a v. (loose-leaf) $c 26 cm
+350       $a ¹17.50 (v. A1)
+500       $a UCDL: NO LOC. CODE IN 1ST 920, IGNORE ALL OTHER 920S; REJECT (07/06).
+505  1    $a v. A. United Kingdom sources. 1. Community secondary legislation. -v. B. European Community treaties. 2 v
+650   0   $a Law $z European Economic Community countries
+700  10   $a Simmonds, K. R. $q (Kenneth R.)
+730  01   $a Official journal of the European Communities: special edition
+901       $a UCDLb1027736 $b stx   $c -
+902       $a 930729
+920       $a KJE916 $b .E52 1973
+920       $a KJE916 $b .E52 1973 $l stx
+934       $a UCDL:v. A1-B4, 1952-1992 and supplements.....
+950       $l STKS
+955       $l STKS $c 1 $q 8498e $r nc $h 07/11/79 C
+998       $a 10/26/89 $t c $s 9610 $n CU-AL $w DCLC74166926B $d 05/11/81 $c LC $b RS $i 891026 $l CUDL
+999       $b 1 $c 900603 $d m $e s $g 0
+
+Record 7
+LDR  01188nas  2200361 a 45  
+001  87-S99
+005  19891127000000.0
+008  870915c19389999iluwr p   ir  0uuua0eng d
+010       $a 54013469//r80
+022  0    $a 0162-1203
+040       $a CU-CU $c CU-CU $d DLC $d NSDP $d DLC $d CUL $d CU-AL
+042       $a lc $a nsdp
+043       $a n-us---
+050  0    $a KF49 $b .C6
+210  0    $a Congr. index
+222  00   $a Congressional index
+245  00   $a Congressional index
+260  00   $a Chicago : $b Commerce Clearing House, $c 1938-
+300       $a v.(looseleaf) ; $c 26 cm
+310       $a Biennial, with weekly updates
+362  0    $a 75th Congress (1937/38)-
+500       $a UCDL: CALL NO. IN 920 $a; OUTPUT IN 852 $j (04/02).
+610  10   $a United States. $b Congress $x Registers
+650   0   $a Bills, Legislative $z United States $x Indexes
+710  20   $a Commerce Clearing House
+901       $a UCDLb1659613 $b stx   $c -
+902       $a 930920
+920       $a KF49 .C64 (920$a) $l stx
+950       $l STKS $i 09/15/87 C
+950       $b UCDL:90th-103rd Congresses, 1967/68-19904/02--
+955       $l STKS $c 1 $q 6575A $r nc $i 09/15/87 C
+998       $a 09/15/87 $t c $s 9110 $n CU-AL $w DCLC5413469S $d 09/15/87 $c MCC $b PSL $i 870915 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 8
+LDR  00943nas  2200265 a 45  
+001  90-S125
+005  19901022000000.0
+008  900817c19909999ilumr p       0  u 0eng d
+040       $a CU-AL $c CU-AL
+043       $a n-us
+245  00   $a Employee benefits management directions
+260  0    $a Chicago, Ill. : $b Commerce Clearing House, $c 1990-
+300       $a v. ; $c 28 cm
+362  0    $a Jan. 1990-
+500       $a UCDL: CALL NO. IN 920 $a $a $b; OUTPUT IN SINGLE 852 $j (04/02).
+650   0   $a Employee fringe benefits $z United States $x Periodicals
+730  01   $a Employee benefits management
+901       $a UCDLb1694182 $b stx   $c -
+902       $a 930902
+920       $a KF3509 (920 1ST $a) $a A6 (2ND $a) $b E462 (920$b) $l stx
+950       $l STKS $d \*\ $e \Oversize\ $i 08/17/90 C
+950       $b UCDL:Current year only.....
+955       $l STKS $c 1 $q 1159495 $r nc $i 08/17/90 C
+998       $a 08/17/90 $t c $s 9114 $n CU-AL $w CUDL90S125 $d 08/17/90 $c KL $b SDL $i 900817 $l CUDL
+999       $b 1 $c 901213 $d s $e - $g 0
+
+Record 9
+LDR  01134cam  2200277   45  
+001  12133426-B
+005  19910814142939.0
+008  790918m19719999ilu           00000 eng  
+010       $a 72178794
+043       $a n-us---
+050  0    $a KF3464.A6 $b E46
+245  00   $a Employment practices decisions; $b a full-text reporter of decisions rendered by Federal and State courts throughout the United States on Federal and State employment practices problems
+260  0    $a Chicago, $b Commerce Clearing House $c [1971-
+300       $a v. $c 25 cm
+500       $a UCDL: CALL NO. IN 920 $a $b; OUTPUT IN 852 $h $i (04/02).
+650   0   $a Discrimination in employment $x Law and legislation $z United States
+710  20   $a Commerce Clearing House
+710  20   $a Commerce Clearing House. $t Labor law reports: Employment practices
+901       $a UCDLb1058216 $b stx   $c -
+902       $a 930519
+920       $a KF3464.A6 (920$a) $b C64 (920$b) $l stx
+934       $a UCDL:v.1-60, 1971-1993--
+950       $l STKS $h 01/25/82 N
+955       $l STKS $c 1 $q 979c $r nc $h 09/18/79 C
+998       $a 08/14/91 $t c $s 9120 $l CUDL $n CU-AL $w CHPL83B269 $d 05/12/81 $c CK $b RS $i 910814 $h 820125
+999       $b 1 $c 910814 $d m $e s $g 0
+
+Record 10
+LDR  00945cam  2200277   45  
+001  12901741-B
+005  19891127000000.0
+008  791114c19661967nyua     b    10000 eng  
+010       $a 68001937
+040       $c CU-AL
+050  0    $a HF5686.P3 $b I5 1966
+111  10   $a Institute on Oil and Gas Accounting $n (2d : $d 1966 : $c Dallas)
+260  0    $a Albany, $b M. Bender, $c 1966 [c1967]
+300       $a viii, 247 p. $b illus. $c 24 cm
+500       $a UCDL: NO 245 FIELD - CREATE ERROR FIELD (04/02).
+650   0   $a Petroleum industry and trade $x Accounting
+700  10   $a Ernst, Armine Carol
+710  20   $a Southwestern Legal Foundation
+710  20   $a International Oil and Gas Educational Center (Southwestern Legal Foundation)
+901       $a UCDLb1087605 $b stx   $c -
+902       $a 900603
+920       $b HF5686.P3 I5 1966 $l stx
+950       $l STKS
+955       $l STKS $i 11/14/79 C
+998       $a 11/14/79 $t c $s 9614 $n CU-AL $w COSG86B16235 $d 05/11/81 $c CK $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 11
+LDR  01342cas  2200361   45  
+001  18126-S
+005  19891127000000.0
+008  810818c19409999iluuu         0uu1a0eng  
+010       $a 41004519//r743
+022  0    $a 0093-2108
+040       $a MUL $c MUL $d NIC $d DLC $d NSDP $d DLC $d CU-AL
+042       $a lc $a nsdp
+043       $a n-us---
+050  0    $a KF1091 $b .A513
+110  20   $a Commerce Clearing House
+222  10   $a Federal carriers cases $b (Chicago)
+245  10   $a Federal carriers cases
+260  00   $a Chicago [etc.] $b Commerce Clearing House
+300       $a v. $c 26 cm
+362  0    $a v. 1-   ; 1936/40-
+500       $a UCDL PE: NO 950 FLD CONTAINS $B; OUTPUT DEFAULT HOLDINGS NOTE IN 852 $3 FOR ALL 852'S (04/02).
+515       $a Vols. for 1936/40-1964/65 called v. 1-16
+520       $a "A selective reporter of decisions rendered by the Interstate Commerce Commission and federal and state courts pertaining to federal motor carrier
+650   0   $a Interstate commerce $x Cases
+710  10   $a United States. $b Interstate Commerce Commission
+710  10   $a United States. $b Courts
+901       $a UCDLb1623904 $b stx   $c -
+902       $a 921026
+920       $a KF1091 $b .A513 $l stx $l ref
+950       $l STKS $f nc $i 08/18/81 N
+955       $l STKS $c 1 $q 6355E $i 08/18/81 C
+998       $a 08/18/81 $t c $s 9190 $n CU-AL $w DCLC414519S $d 10/07/81 $c DK $b PM $i 810818 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 12
+LDR  01199cXm  2200337   45  
+001  14919303-B
+005  19891127000000.0
+008  800401s1938    nyua          00010 eng  
+010       $a 38023185
+040       $c CU-AL $d CU-AL
+043       $a n-us---
+050  0    $a HD3636.U6 $b N68
+100  10   $a Norwood, John Wall, $d 1876-
+245  10   $a Trade practice and price law, federal, $c by John W. Norwood ..
+260  0    $a New York, Chicago [etc.] $b Commerce clearing house, inc., Loose leaf service division of the Corporation trust company $c [c1938]
+300       $a 1 p. l., 265 p. $b diagr. $c 24 cm
+500       $a UCDL: UNKNOWN TYPE - CREATE ERROR FIELD (04/02).
+610  10   $a United States. $b Federal Trade Commission
+650   0   $a Competition, Unfair $z United States
+650   0   $a Pricing
+650   0   $a Restraint of trade $z United States
+650   0   $a Interstate commerce
+650   0   $a Antitrust law $z United States
+710  10   $a United States
+901       $a UCDLb1154898 $b stx   $c -
+902       $a 900603
+920       $a KF3195.A6 $b N67 $l stx
+950       $l STKS $i 04/01/80 N
+955       $l STKS $c 1 $q 4746a $i 04/01/80 C
+998       $a 04/01/80 $t c $s 9124 $n CU-AL $w IAUL87B653 $d 05/20/81 $b KL $i 800401 $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 13
+LDR  01357cam  2200337 a 45  
+001  15862232-B
+005  19891127000000.0
+008  800516m19639999cau           00110 eng d
+010       $a 63023679
+040       $c CUL $d CU-AL
+043       $a n-us-ca
+110  10   $a California
+196  3    $a + Supplement 1989.
+245  10   $a Commercial code. $b Approved by Governor, June 8, 1963; effective Jan, 1, 1965.  With comments, cross references, form references, correlation tables and index
+260  0    $a San Francisco, $b M. Bender, Western Division, $c 1963
+300       $a xxx, 539 p. $c 25 cm
+500       $a UCDL: 1 590 FIELD BEGINS "SHARED PURCHASE"; OUTPUT AS 852 $z IN ALL 852 FLDS; OUTPUT OTHER 590'S AS SEPARATE 852 $x'S IN ALL 852'S (04/02).
+500       $a OUTPUT 910 FIELDS AS SEPARATE 852 $x'S IN ALL 852'S.
+590       $a Shared purchase (590 FLD).
+590       $a 2ND 590 FLD.
+590       $a 3RD 590 FLD.
+650   0   $a Commercial law $z California
+901       $a UCDLb117938x $b res   $c -
+902       $a 921013
+910       $a LC does not trace title (910 FLD)
+910       $a LC does trace series (910 FLD)
+920       $a KFC225.A3356 $b B45 $l res $l ref $l stx
+950       $l STKS $i 06/21/85 N  $1 0:sl  $2 0:110
+955       $l STKS $c 1 $q 1124b $r nc $i 06/21/85 C
+998       $a 06/21/85 $t c $s 9114 $n CU-AL $w NYUL12497614B $d 05/10/81 $c DY $b MCC $i 850621 $h 800519 $h 800516 $l CUDL
+999       $b 1 $c 900603 $d m $e s $g 0
+
+Record 14
+LDR  01456caX  2200361   45  
+001  19850727-B
+005  19891127000000.0
+008  801117s1915    nyu      b    00010 eng  
+010       $a 15002396
+040       $c CU-AL $d CU-AL
+043       $a e-uk---
+100  10   $a Ewell, Marshall Davis, $d 1844-1928
+245  10   $a Essentials of the law ..
+250       $a 2d ed. $b By Marshall D. Ewell ..
+260  0    $a Albany, N. Y., $b M. Bender & company, incorporated, $c 1915
+300       $a 2 v. $c 24 cm
+500       $a UCDL: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+505  0    $a v.1. A review of Blackstone's commentaries with explanatory notes for the use of students at law.--v.2. Elementary law ... with notes and references for the use of students at law
+600  10   $a Blackstone, William, $c Sir, $d 1723-1780. $t Commentaries on the laws of England
+610  20   $a Law Institute $z Great Britain $x History.
+610  14   $a Great Britain $x Law $x Commentaries
+650   0   $a Law $z Great Britain $x Outlines, syllabi, etc
+650   1   $a Law Practice $x History $x Juvenile.
+650   0   $a Law $x History.
+650   2   $a Medicine and Law.
+690   4   $a Law $x Commentaries.
+901       $a UCDLb1257973 $b stx   $c -
+902       $a 900604
+920       $a KD661 $b .E93 1915 $l stx
+950       $l STKS $n #28\v. 1.\ $f c $i 04/06/88 N  $1 0:sl $h 11/17/80 N
+955       $l STKS $c 1 $q 3746c $h 11/17/80 C
+998       $a 04/06/88 $t c $s 9124 $n CU-AL $w CUDL19850727B $d 05/12/81 $c DY $b RS $i 880406 $h 801117 $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 15
+LDR  01205cam  2200289 i 45  
+001  10051783-B
+005  19891127000000.0
+008  790319s1973    cau          s00010 eng d
+040       $a cual $c cual
+043       $a n-us-ca
+110  10   $a California. $b Legislature. $b Joint Committee for the Revision of the Penal Code
+245  10   $a Staff draft of the corrections code and commentary / $c Joint Committee for the Revision of the Penal Code of the California Legislature
+260  0    $a Los Angeles, Calif. : $b Project Office, $c [1973?]
+300       $a 505 leaves ; $b 29 cm
+500       $a UCDL: CALL NO. IN INCOMING 920 $A AND $B IS PRECEDED BY "*"  (ASTERISK); STRIP "*" & AND EXTRA BLANKS FROM BOTH $a AND $b BEFORE OUTPUTTING TO 852 $h $i (04/02).
+650   0   $a Criminal procedure $z California
+710  11   $a California. $b Legislature. $b Penal Code Revision Project
+901       $a UCDLb1000068 $b multi $c -
+902       $a 900603
+907       $a Deleted: LGEN,LNUC
+920       $a * KFC 1155 (920$a) $b * A25 1973 (920$b) $l stx $l rare
+950       $l STKS
+950       $l DOCS
+955       $l STKS $h 03/19/79 C
+955       $l DOCS $i 04/11/79 C
+998       $a 04/11/79 $t c $s 9114 $n CU-AL $w CUDL10051783B $d 05/06/81 $c JM $l CUDL
+999       $b 2 $c 900603 $d m $e - $g 0
+
+Record 16
+LDR  01412cam  2200313 i 45  
+001  13877810-B
+005  19891127000000.0
+008  800131m19799999nyuk     b    00100 eng d
+040       $a NNPaul $c NNPaul $d CLL $d CUL $d CU-AL
+043       $a n-us---
+100  10   $a Collier, William Miller, $d 1867-1956
+245  10   $a Collier on bankruptcy
+250       $a 15th ed. / $b Lawrence P. King, editor-in-chief
+260  0    $a New York : $b M. Bender, $c 1979-
+300       $a v. : $b forms ; $c 26 cm. & appendix (3 v.)
+500       $a UCDL MONO: 1ST INCOMING 934 DOES NOT INCLUDE NRLF STATEMENT, 2ND 934 FIELD BEGINS "UCDL:NRLF:". OUTPUT 1ST AS 852 $3 IN 1ST 852 ONLY.  OUTPUT 2ND 934 TO 852 $g, AFTER STRIPPING "UCDL:NLRF:" AND CONCATENATING "AT NRLF: " TO BEGINNING, IN ALL 852'S (04/02).
+650   0   $a Bankruptcy $z United States
+700  11   $a King, Lawrence P., $d 1929-
+710  10   $a United States
+901       $a UCDLb112030x $b stx   $c -
+902       $a 930622
+920       $a KF1524 $b .C65 1979 $l stx $l ref $l faclb
+934       $a UCDL: c.2: v.1-9, Appendix v.1-4, Index, 1979 (OUTPUT AS 852 $3).
+934       $a UCDL:NRLF: c.3: v.1-7, Index, 1979 (NRLF, OUTPUT AS 852 $g).
+950       $l STKS $f nc $i 07/01/85 N  $1 0:sl $h 02/28/80 C $h 01/31/80 C
+955       $l STKS $c 1 $q 3715b $h 01/31/80 C
+955       $l STKS $c 2 $q 13877810-B-1 $r nc $i 07/01/85 C
+998       $a 07/01/85 $t b $s 9114 $n CU-AL $w DCLC79625372B $d 05/10/81 $c KL $b RJS $i 850701 $h 800131 $l CUDL
+999       $b 1 $c 900603 $d m $e s $g 0
+
+Record 17
+LDR  01480cam  2200337   45  
+001  18357512-B
+005  19901022000000.0
+008  800911m19651990ilu           00 00 eng  
+010       $a 66001411
+040       $c CU-AL $d CU-AL
+043       $a n-us---
+050  0    $a KF6306 $b .C62
+110  10   $a United States. $t Treaties, etc
+245  10   $a Tax treaties; $b full text of U. S. treaties with foreign countries covering income and estate taxes, alphabetically arranged, including annotations and regulations, current reports of new developments, finding lists; fully indexed
+260  0    $a Chicago, $b Commerce Clearing House, $c 1965-90
+300       $a 3 v. $c 25 cm
+490  1    $a Topical law reports
+500       $a UCDL MONO: MULTIPLE INCOMING 934'S, NOT NRLF; STRIP BEGINNING "UCDL:"  AND EXTRA BLANKS FROM 1ST 934 AND OUTPUT AS 852 $3 IN 1ST 852 ONLY. DROP OTHER 934 FIELDS (04/02).
+650   0   $a Taxation, Double $z United States $x Treaties
+710  20   $a Commerce Clearing House
+830   0   $a Topical law reports (Commerce Clearing House)
+901       $a UCDLb1230578 $b tax   $c -
+902       $a 930611
+920       $a KF6306 $b .C62 $l tax $l stx $l ref
+934       $a UCDL: c.1: v.1-3 (1990). (1ST 934)
+934       $a UCDL: v.4-6 (1991). (2ND 934)
+934       $a UCDL: v.7 (1992). (3RD 934)
+950       $l TAX $h 12/13/89 N  $1 0:sl  $2 0:110
+955       $l TAX $c 1 $q 1831e $r nc $h 12/13/89 C
+998       $a 07/11/90 $t c $s 9114 $n CU-AL $w CUDL18357512B $d 05/21/81 $c CK $b MCC $i 900711 $h 891213 $h 800911 $l CUDL
+999       $b 1 $c 901213 $d m $e s $g 0
+
+Record 18
+LDR  01166nam  2200289   45  
+001  81-B44
+005  19891127000000.0
+008  810917m19659999nyuk          00010 eng  
+010       $a 57002943//r68
+040       $c CUL $d CU-AL
+043       $a n-us---
+100  10   $a Frumer, Louis R
+245  10   $a Personal injury: $b actions, defenses, damages. $c Editors: Louis R. Frumer, Roy L. Benoit, [and] Melvin I. Friedman, [etc.]
+260  0    $a New York, $b M. Bender, $c 1965-
+300       $a v. (loose-leaf) $c 26 cm
+500       $a UCDL MONO: INCOMING 934 HAS TWO $A'S, THE 1ST CONTAINS ONLY "UCDL:", THE 2ND HAS DATA.  OUTPUT 2ND $A AS 852 $3.  OUTPUT 910 FLD AS 852 $x IN ALL 852'S (04/02).
+650   0   $a Personal injuries $z United States
+650   0   $a Personal injuries $z United States $x Forms
+901       $a UCDLb140233x $b stx   $c -
+902       $a 921125
+910       $a LC does not trace title (910 FLD)
+920       $a KF1256.A8 $b F78 $l stx $l res
+934       $a UCDL: $a 18 v. + Supplements 1965-1971. (934 2ND $a)
+950       $l STKS $i 09/17/81 N
+955       $l STKS $c 1 $q 1315a $r nc $i 09/17/81 C
+998       $a 09/17/81 $t c $s 9124 $n CU-AL $w NJRL24229555B $d 09/17/81 $c LH $b PP $i 810917 $l CUDL
+999       $b 1 $c 900603 $d m $e s $g 0
+
+Record 19
+LDR  01333cam  2200325 a 45  
+001  83-B3880
+005  19891127000000.0
+008  831228m19809999nyuk     b    00110 eng  
+010       $a 80068458
+043       $a n-us---
+050  0    $a KF6334 $b .F56
+100  10   $a Fink, Robert S
+245  10   $a Tax fraud--audits, investigations, prosecutions / $c by Robert S. Fink, with the assistance of Stuart E. Abrams, Elliot Silverman
+260  0    $a New York, N.Y. (235 E. 45th St., New York 10017) : $b M. Bender, $c 1980-
+300       $a 2 v. (loose-leaf) : $b forms ; $c 26 cm
+490  0    $a A Business reports publication
+500       $a UCDL MONO: 1ST INCOMING 934 HAS ONE $A CONTAINING ONLY "UCDL:"; 2ND 934 HAS 2 $A'S, 1ST CONTAINING "UCDL:", 2ND HAS DATA.  OUTPUT 852 $3 FROM 2ND $a OF 2ND 934 AFTER STRIPPING BLANKS (04/02).
+650   0   $a Tax evasion $z United States
+650   0   $a Tax auditing $z United States
+700  10   $a Abrams, Stuart E
+700  10   $a Silverman, Elliot
+901       $a UCDLb1483390 $b stx   $c -
+902       $a 930217
+920       $a KF6334 $b .F56 $l stx
+934       $a UCDL:
+934       $a UCDL: $a c.2:v. 1-2, 1980 and supplements.... (2ND 934, 2ND $a).
+950       $l STKS $i 04/20/84 C
+955       $l STKS $c 1 $q 83-B3880-1 $r nc $i 04/20/84 C
+998       $a 04/20/84 $t b $s 9110 $n CU-AL $w CUDL83B3880 $d 12/28/83 $c MCC $b RD $i 840420 $l CUDL
+999       $b 1 $c 900603 $d m $e s $g 0
+
+Record 20
+LDR  01204cam  2200313   45  
+001  17604842-B
+005  19891127000000.0
+008  800808s1971    nyu      d    00010 eng  
+010       $a 72179666
+043       $a n-us---
+050  0    $a KF1847 $b .5.W54 1971
+100  10   $a Williams, Howard R
+245  10   $a Oil and gas terms; $b annotated manual of legal engineering tax words and phrases, $c by Howard R. Williams and Charles J. Meyers
+250       $a 3d ed
+260  0    $a New York, $b M. Bender, $c 1971
+300       $a 513 p. $c 23 cm
+500       $a UCDL MONO: 2 INCOMING 934S, 1ST HAS $A CONTAINING "UCDL:NRLF:' ONLY, THE 2ND CONTAINS "UCDL:" ONLY, NO DATA.  DO NOT OUTPUT 852 $g OR $3 (04/02).
+650   0   $a Petroleum law and legislation $z United States $x Terms and phrases
+650   0   $a Natural Gas $x Law and legislation $z United States $x Terms and phrases
+700  10   $a Meyers, Charles J
+901       $a UCDLb1215899 $b stx   $c -
+902       $a 930107
+920       $a KF1847 $b .5.W55 1971 $l stx
+934       $a UCDL:NRLF:
+934       $a UCDL: 
+950       $l STKS $f nc $i 08/08/80 N
+955       $l STKS $c 1 $q 1464f $i 08/08/80 C
+998       $a 08/08/80 $t c $s 9120 $n CU-AL $w DCLC72179666B $d 05/17/81 $c LC $b DI $i 800808 $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 21
+LDR  02164cas  2200469   45  
+001  0994-S
+005  19891127000000.0
+008  810609c17549999dcuuu p  w   f0uuua1eng  
+010       $a 01026074
+040       $c MUL $d NAIULS $d DGPO $d NIC $d CU-AL $d CStRLIN
+043       $a n-us---
+086  0    $a Ju 6.8:
+110  10   $a United States. $b Supreme Court
+222  00   $a United States reports. Cases adjudged in the Supreme Court
+245  10   $a United States reports. $b Cases adjudged in the Supreme Court
+246  19   $a United States Supreme Court reports
+247  00   $a Reports of cases ruled and adjudged in the courts of Pennsylvania before and since the revolution $f v. 1
+260  00   $a Washington, $b U.S. Govt. Print. Off.; For sale by the Supt. of Docs., U.S. Govt. Print. Off., $c 1798-19
+300       $c 23 cm
+362  0    $a v. [1]-   [Sept. 1754]-
+500       $a UCDL PE: MULTIPLE 590'S; OUTPUT "SHARED PURCHASE" 590 IN 852 $z IN ALL 852'S; OUTPUT ALL OTHER 590'S AS SEPARATE 852 $x'S IN ALL 852'S . OUTPUT 910 FLDS AS 852 $x'S IN ALL 852'S. (04/02).
+500       $a 1ST 950 $b INCLUDES "NRLF:" BUT 1ST LOC IS NOT "nrlf".  OUTPUT DEFAULT HOLDINGS STATEMENT IN 852 $3 FOR ALL 852'S OUTPUT.
+590       $a Set is made up of various editions (590 FLD)
+590       $a Copy 1 in microfilm (590 FLD)
+590       $a Registers removed & filed in the Ca. code of regs. (590 FLD)
+590       $a STANDING ORDER: MONO. SERIES; ITEMS CATALOGED SEPARATELY.(590 FLD)
+590       $a Shared purchase (590 FLD).
+650   0   $a Law reports, digests, etc. $z United States
+700  10   $a Dallas, Alexander James, $d 1759-1817
+710  10   $a United States. $b Courts
+710  10   $a Pennsylvania. $b Courts
+901       $a UCDLb1612372 $b multi $c -
+902       $a 930805
+910       $a LC does not trace title (910 FLD)
+910       $a LC does trace series (910 FLD)
+920       $a KF101 $b .U55 $l stx $l faclb $l ref $l (5)stx
+950       $l STKS $f nc $h 06/09/81 N
+950       $b UCDL: v.1-487, 1790-1987 (NRLF).
+950       $b UCDL:c.1:  v.1-490, 1830-88--
+955       $l STKS $c 9 $q 6883i $r nc $i 01/24/84 C
+998       $a 01/24/84 $t b $s 9191 $n CU-AL $w PAUB85S1290 $d 10/07/81 $c DK $b MCC $i 840124 $h 810609 $l CUDL
+999       $b 8 $c 900603 $d s $e s $g 0
+
+Record 22
+LDR  01069cas  2200265   45  
+001  21154-S
+005  19891127000000.0
+008  810821c19409999iluuu    w    0uuua0eng d
+010       $a 41005017
+040       $a MUL $c MUL $d CU-CU $d MUL $d CU-AL
+043       $a n-us
+245  00   $a Fire and casualty cases (other than automobile). $b The full text of all higher court decisions, state and federal, pertaining to fire and casualty insurance, other than automobile, with case table and index
+260  01   $a Chicago, $b Commerce Clearing House, Loose Leaf Service Division of the Corporation Trust Company, $c 1940-
+300       $a v
+490  1    $a Insurance case series
+500       $a UCDL: 901 $C IS "d"; CREATE DELETE RECORD (04/02).
+555       $a V. 1-10 in v. 10
+650   0   $a Insurance, Fire $z United States $x Cases
+901       $a UCDLb1628872 $b stx   $c d
+902       $a 921123
+920       $a KF1196 $b .A515 $l stx
+950       $l STKS $f nc $i 08/21/81 N
+955       $l STKS $c 1 $q DA146205 $i 08/21/81 C
+998       $a 08/21/81 $t c $s 9191 $n CU-AL $w OKUG83S77 $d 10/07/81 $c LI $b PM $i 810821 $l CUDL
+999       $b 1 $c 900603 $d s $e s $g 0
+
+Record 23
+LDR  01490cas  2200457   45  
+001  130-S
+002  002 FLD
+003  003 FLD
+004  004 FLD
+005  19891127000000.0
+008  800813c19129999caubr1p  g    0uuua0eng  
+009  009 FLD
+010       $a 19003441
+022  0    $a 0008-1221
+040       $a MUL $c MUL $d FGULS $d MUL $d NSDP $d CU-AL
+042       $a nsdp
+043       $a n-us-ca
+222  00   $a California law review
+245  00   $a California law review
+260  11   $a Berkeley, Calif., $c 1913-
+300       $a v. $b ports. $c 26 cm
+362  0    $a v. 1-   Nov. 1912-
+500       $a UCDL: DROP 001-005, 009, 590, 850, 852, 866-868, 886, 899, INPUT 9XX FLS; OUTPUT 005 FLD WILL BE CREATED FROM 902, DATA FROM OTHER DROPPED FIELDS MAY BE OUTPUT ELSEWHERE (04/02).
+590       $a 590 FLD
+650   0   $a Law $x Periodicals $z California
+710  10   $a University of California, Berkeley. $b School of Law
+850       $a 850 FLD
+852       $a 852 FLD
+866       $a 866 FLD
+867       $a 867 FLD
+868       $a 868 FLD
+886       $a 886 FLD
+899       $a 899 FLD
+901       $a UCDLb1617503 $b multi $c -
+902       $a 930909
+920       $a K3 $b .A53 $l (3)stx $l faclb
+950       $l STKS $f nc $i 01/11/83 N  $1 0:sl $h 10/14/82 N  $1 0:sl $h 08/13/80 C
+950       $b UCDL:c.1: v.1 (1912)-v.79 Pt.1 (1991), v.80 (1992) and current issues.....
+955       $l STKS $c 5 $q 1679c $r nc $i 01/11/83 C
+998       $a 01/11/83 $t c $s 9191 $n CU-AL $w DCLC193441S $d 10/07/81 $c MB $b MCC $i 830111 $h 821014 $h 800813 $l CUDL
+999       $b 4 $c 900603 $d s $e p $g 0
+
+Record 24
+LDR  01567nas  2200373   45  
+001  83-S233
+005  19891127000000.0
+008  830623c17909999nyuuu1        0uuua1eng d
+022  0    $a 0161-8261
+040       $a FMFIU $c FMFIU $d NSDP $d CU-AL
+042       $a nsdp
+043       $a n-us---
+110  10   $a United States. $b Supreme Court
+222  00   $a United States Supreme Court reports. Lawyers' edition
+245  10   $a United States Supreme Court reports
+246  13   $a Lawyers' edition
+247  00   $a Cases argued and decided in the Supreme Court of the United States (varies slightly) $f 1790-Oct. term 1955
+250       $a Lawyers' ed
+260  01   $a Rochester N.Y., $b Lawyers Co-operative Pub. Co
+300       $a v. $c 26 cm
+362  0    $a Book 1-100, 1790-Oct. term 1955; 2d ser., v. 1- Oct. term 1956-
+500       $a UCDL PE: "nrlf" IS THE FIRST LOCATION, AND "UCDL:NRLF:" IS IN THE FIRST 950 $B; USE THAT 950 $B FOR OUTPUT 852 $3 OF 1ST 852, AFTER STRIPPING "UCDL:NRLF:" AND ANY EXTRA BLANKS (04/02).
+500       $a OUTPUT DEFAULT VALUE IN 852 $3 FOR ALL OTHER 852'S.
+650   0   $a Law reports, digests, etc. $z United States
+700  10   $a Rose, Walter Malins, $d 1872-1908
+901       $a UCDLb1650002 $b multi $c -
+902       $a 930914
+920       $a KF101 $b .L38 $l nrlf $l stx $l res $l ref
+950       $b UCDL:NRLF: v.1-107, 1956-1991.
+950       $l FAC $e \STACKS\RESERVE\ $i 06/23/83 C
+950       $b UCDL:c.5-6: v.1-104, 1956-1991.
+955       $l FAC $c 7 $q 2067g $r nc $s STACKS $i 06/23/83 C
+998       $a 06/23/83 $t c $s 9661 $n CU-AL $w MNUL86S2336 $d 06/23/83 $c LM $b MCC $i 830623 $l CUDL
+999       $b 4 $c 900603 $d s $e s $g 0
+
+Record 25
+LDR  01163cas  2200325   45  
+001  81-S132
+005  19891127000000.0
+008  811202c19279999mnu u p  w    0ul1a0engd 
+010       $a 41005629//r623
+040       $c MUL $d NAIULS $d CStRLIN $d CU-AL
+043       $a n-us---
+110  10   $a United States
+222  00   $a United States code annotated
+245  10   $a United States code annotated
+260  00   $a St. Paul, $b West Pub. Co.,c1927-
+300       $a v
+500       $a UCDL PE: "NRLF" IS IN 1ST 950 $B, BUT FIRST LOCATION IS NOT "nrlf"; PROVIDE DEFAULT HOLDINGS VALUE IN OUTPUT 852 $3 FOR ALL 852'S (04/02).
+555       $a General index [1962] 5 v
+650   0   $a Law $z United States
+710  01   $a Edward Thompson Company
+710  21   $a West Publishing Company
+762  1    $t United States code annotated. Constitution of the United States annotated
+901       $a UCDLb1643423 $b multi $c -
+902       $a 930907
+920       $a KF62 $b .U53 $l res $l nrlf
+950       $b UCDL: 1945-1985 (NRLF).
+950       $l STKS $h 12/02/81 N
+955       $l STKS $c 1 $q 1326A $r nc $h 12/02/81 C
+998       $a 12/17/81 $t c $s 9121 $n CU-AL $w NYBY87S1431 $d 12/02/81 $c CK $b PM $i 811217 $h 811202 $l CUDL
+999       $b 2 $c 900603 $d s $e s $g 0
+
+Record 26
+LDR  01030cas  2200325 ü 45  
+001  2651-S
+005  19891127000000.0
+008  810226c19669999cauuu  üüüüüüüü üüa0engüd
+040       $a CUAL $c CUAL
+043       $a n-u-ca
+110  20   $a Association of Municipal Court Clerks of California
+245  10   $a California courts directory and fee schedule
+260  11   $a Fresno, Ca
+300       $a v
+362  0    $a 1966?-
+500       $a UCDL: NO CALL NUM IN 1ST 920, DO NOT OUTPUT ANY CALL NUM (04/02).
+650   0   $a Courts $z California $x Directories
+650   0   $a Costs (Law) $z California
+901       $a UCDLb163513x $b multi $c -
+902       $a 930415
+920       $l rfres $l wrkrm
+920       $a KF192.C3 $b A87 (2ND 920) $l ref
+950       $l RES $f nc $i 02/26/81 N
+950       $l WR
+950       $b UCDL:1966-1972, 1979-1989, 1991--
+955       $l RES $c 1 $q 2515A $i 02/26/81 C
+955       $l RES $c 2 $q 2515A $i 02/26/81 C
+955       $l WR $c 3 $q 2515A $i 02/26/81 C
+998       $a 02/26/81 $t c $s 9194 $n CU-AL $w CUDL2651S $d 10/08/81 $c DK $b PSM $i 810226 $l CUDL
+999       $b 3 $c 900603 $d s $e s $g 0
+
+Record 27
+LDR  00961cas  2200265u  45  
+001  82-S189
+005  19901022000000.0
+008  820809c1uuu9999cauar         0  ua0eng  
+010       $a 72624832
+040       $c CU-AL
+050  0    $a KF190 $b .O7
+245  04   $a The Oregon and Washington legal directory : $b (with Alaska section)
+260  0    $a Los Angeles, $b Legal Directories Pub. Co
+300       $a v. $b illus. $c 24 cm
+500       $a UCDL: CALL NUM IS IN 920 $a $a; OUTPUT AS SINGLE 852 $j (04/02).
+650   0   $a Lawyers $z Oregon $x Directories
+650   0   $a Lawyers $z Washington (State) $x Directories
+650   0   $a Lawyers $z Alaska $x Directories
+901       $a UCDLb1646837 $b multi $c -
+902       $a 930415
+920       $a KF190 (1ST 920$a) $a .O7 (2ND 920 $a) $l stx $l rfres
+950       $b UCDL:1978/79-1990/91--
+955       $l STKS $c 1 $q 5068i $r nc $h 08/09/82 C
+998       $a 07/31/90 $t c $s 9114 $n CU-AL $w CUDL82S189 $d 08/09/82 $c KLO $b MCC $i 900731 $h 821013 $h 820820 $h 820809 $l CUDL
+999       $b 2 $c 901213 $d s $e s $g 4
+
+Record 28
+LDR  00934cXX  2200253   45  
+001  20719442-B
+005  19891127000000.0
+008  801230s1958    nyu           00000 eng  
+010       $a 59000390
+040       $c CU-AL $d CU-AL
+043       $a n-us---
+100  10   $a Rohrlich, Chester
+250       $a 3d ed
+260  0    $a Albany, $b M. Bender, $c 1958
+300       $a 534 p. $c 24 cm
+500       $a UCDL: DELETE REC (901 $c = "d") DOES NOT HAVE 245 OR 902, HAS UNKNOWN TYPE & BIBLVL, HAS UNKNOWN LOC - CREATE DELETE WITH PROGRAM FILEDATE IN OUTPUT 005; DO NOT CREATE 998 ERROR FIELDS (04/02).
+650   0   $a New business enterprises $z United States
+650   0   $a Incorporation $z United States
+901       $a UCDLb1274867 $b stx   $c d
+920       $a KF1355 $b .R64 1958 $l XXX
+950       $l STKS $f nc $h 12/30/80 N
+955       $l STKS $c 1 $q 1267a $h 12/30/80 C
+998       $a 01/05/81 $t c $s 9124 $n CU-AL $w CSCL88B857 $d 05/08/81 $c MB $b DI $i 810105 $h 801230 $l CUDL
+999       $b 1 $c 900603 $d m $e - $g 0
+
+Record 29
+LDR  01363nas  2200373 a 45  
+001  89-S46
+005  19891127000000.0
+008  890406c19889999oncfr p   go  0uuu 0eng d
+010       $a 88659950
+040       $a OML $c OML $d OCoLC $d DLC $d CStRLIN
+042       $a lc
+043       $a n-cn-on
+050  0    $a K27 $b .E855
+245  04   $a The Canadian journal of law and jurisprudence
+246  10   $a CJLJ
+246  18   $a C.J.L.J
+260  00   $a [London, Ont., Canada : $b Faculty of Law, University of Western Ontario, $c 1988-
+300       $a v. ; $c 25 cm
+310       $a Semiannual
+362  0    $a Vol. 1, no. 1 (Jan. 1988)-
+500       $a UCDL: DELETE REC (902 $c = "d") HAS NO LOC CODE IN 1ST 920 - CREATE DELETE; DO NOT CREATE 998 ERROR FIELD (04/02).
+500       $a Title from cover
+650   0   $a Law $x Periodicals $z Ontario
+710  20   $a University of Western Ontario. $b Faculty of Law
+780  00   $a University of Western Ontario.  Faculty of Law. $t University of Western Ontario law review $w (DLC)   79644379 $w (OCoLC)3827726
+901       $a UCDLb1663185 $b stx   $c d
+902       $a 930709
+920       $a K3 $b .A6385
+920       $a K3 $b .A6385 $l stx
+950       $l STKS $i 04/06/89 C
+950       $b UCDL:v.1 (1988)-v.5 (1992) and current issues.....
+955       $l STKS $c 1 $q  $r nc $i 04/06/89 C
+998       $a 04/06/89 $t c $s 9110 $n CU-AL $w DCLC88659950S $d 04/06/89 $c MC $b RS $i 890406 $l CUDL
+999       $b 1 $c 900603 $d s $e p $g 4
+
+Record 30
+LDR  01174nas  2200325 a 45  
+001  92-S28
+005  19920116105504.0
+008  920116c1991999 ohufr     b   0uuu 0eng d
+040       $a PU-L $c PU-L
+043       $a n-us---
+130  0    $a Health matrix (1991)
+245  00   $a Health matrix : $b the journal of law-medicine
+246  10   $a Journal of law-medicine
+260       $a Cleveland, Ohio : $b Case Western Reserve University School of Law, $c 1991-
+300       $a v. ; $c 26 cm
+310       $a Semiannual
+500       $a UCDL: 902 (FORMAT YYMMDD) BEGINS "93" - ADD "19" TO BEGINNING, APPEND "000000.0" TO END AND OUTPUT TO 005 (04/02).
+650   0   $a Medical jurisprudence $z United States $x Periodicals
+650   0   $a Medical ethics $z United States $x Periodicals
+710  20   $a Franklin Thomas Backus School of Law
+780  10   $t Health matrix (1983)
+901       $a UCDLb1840367 $b stx   $c -
+902       $a 930319
+907       $a .o1188021
+920       $a K8 $b .E45 $l stx
+950       $l STKS $i 01/16/92 C
+950       $b UCDL:v.1 (1991) and current issues.....
+955       $l STKS $c 1 $r nc $i 01/16/92 C
+998       $a 01/16/92 $t c $s 9114 $l CUDL $n CU-AL $w PAUL91S897 $d 01/16/92 $c KL $b PSL $i 920116
+999       $b 1 $c 920116 $d s $e p $g 0
+
+Record 31
+LDR  01025cam  2200241   45  
+001  14228629-B
+005  19891127000000.0
+008  800222s1832    pau           üüü1übeng d
+040       $a CU-AL  $c CU-AL
+043       $a n-us---
+100  10   $a Marshall, John, $d 1755-1835
+245  14   $a The life of George Washington, $b commander in chief of the American forces, during the war which established the independence of his country, and first president of the United States. $c Compiled under the inspection of the Honourable Bushrod Washington, from original papers ... By John Marshall
+250       $a 2d ed., rev. and cor. $b by the author ..
+260  0    $a Philadelphia, $b Crissy, $c 1832
+300       $a 2 v
+500       $a UCDL: 901 $a HAS NO VALID SOURCE - REJECT (04/02).
+901       $a UCDXb1133275 $b rare  $c u
+902       $a 950124
+999       $b 1 $c 950124 $d m $e - $g 4
+920       $a E312.M36 1832 $l rare
+950       $l STKS $f c $i 02/22/80 N
+955       $l STKS $c 1 $q 3556c $i 02/22/80 C
+998       $a 02/22/80 $t c $s 9344 $n CU-AL $w NYCX82B60415 $d 05/14/81 $c DY $b DV $i 800222 $l CUDL
+
+Record 32
+LDR  00942cam  2200289 i 45  
+001  14294583-B
+005  19891127000000.0
+008  800227s1976    ilu      b    00110 eng  
+010       $a 75020892
+020       $a 0226319997 :
+050  0    $a HV8665 $b .H39 1976
+100  10   $a Hawkins, G. J. $q (Gordon J.)
+245  14   $a The prison : $b policy and practice / $c Gordon Hawkins
+260  0    $a Chicago : $b University of Chicago, $c 1976
+300       $a xi, 217 p. ; $c 22 cm
+440   0   $a Studies in crime and justice
+500       $a UCDL: UNKNOWN LOC CODE IN 920 $l - CREATE ERROR FIELD (04/020).
+504       $a Bibliography: p. 187-203
+650   0   $a Prisons
+650   0   $a Imprisonment
+901       $a UCDLb113565x $b stx   $c u
+902       $a 950130
+999       $b 1 $c 950130 $d m $e - $g 4
+920       $a HV8665 $b .H39 $l XXX
+950       $l STKS $i 02/27/80 N
+955       $l STKS $c 1 $q 1911F $r c $i 02/27/80 C
+998       $a 02/27/80 $t c $s 9120 $n CU-AL $w NYPG764346081B $d 05/18/81 $c LC $b PSL $i 800227 $l CUDL
+
+Record 33
+LDR  01916nas  2200457 a 45  
+001  93-S142
+003  CStRLIN
+005  19930908133104.0
+008  930908d19681987gw  xz   r    0  |b0eng  
+010       $a 72627058 //r893 $z sn 83012180
+022       $a 0000-0221
+040       $a DLC $c CtY $d MH $d RCS $d DLC $d OCoLC $d NST $d OCoLC $d DLC $d MH $d DNAL $d OCoLC $d MH $d N $d NSDP $d NST $d DLC $d OCoLC $d MH $d DNLM $d MiU $d MH $d NST $d InU $d DLC $d MH $d NST $d CStRLIN $d CU-AL
+041  0    $a engger
+042       $a lc $a nsdp
+050  0    $a Z721 $b .I63
+210  0    $a Int. Bibl.-Handb
+222   0   $a Internationales Bibliotheks-Handbuch
+245  00   $a Internationales Bibliotheks-Handbuch = $b World guide to libraries
+246  11   $a World guide to libraries
+260       $a Mèunchen-Pullach : $b Verlag Dokumentation, $c c1968-1987
+300       $a 7 v. ; $c 30 cm
+310       $a Irregular
+362  0    $a 2. Ausg. (1968)-8. Ausg
+490  1    $a 2nd ed.-   : Handbuch der technischen Dokumentation und Bibliographie ; $v Bd. 8
+490  1    $a 5th ed.-8th ed. : Handbook of international documentation and information ; $v v. 8
+500       $a UCDL: ID PORTION OF INCOMING 901 $a FOLLOWING "UCDLb" IS 7 CHARACTERS, INCLUDING FINAL CHECK DIGIT - DROP FINAL CHARACTER & OUTPUT 6 DIGIT RECORD ID IN 901 $b (04/02).
+500       $a Order of titles varies
+515       $a Issued in parts
+546       $a English and German
+650   0   $a Libraries $x Directories
+780  00   $t Internationales Bibliotheksadressbuch $w (DLC)   67004109
+785  00   $t World guide to libraries $x 0936-0085 $w (DLC)   91643589
+830   0   $a Handbook of international documentation and information ; $v v. 8
+901       $a UCDLb143813x $b stx   $c d
+902       $a 011221
+999       $b 1 $c 011221 $d s $e - $g 0
+920       $a Z721 $b .I63 $l stx
+907       $a .o1226058
+950       $l STKS $d \*\ $e \Oversize\ $i 09/08/93 C
+955       $l STKS $c 1 $r nc $i 09/08/93 C
+998       $a 09/08/93 $t c $s 9110 $l CUDL $n CU-AL $w DCLC72627058S $d 09/08/93 $c MCC $b PSL $i 930908
+
+Record 34
+LDR  01388cas  2200361   45  
+001  0139-S
+005  19891127000000.0
+008  800801c19809999cauzn1p  i    0uuua0eng d
+010       $a 79008040sn
+022  0    $a 0196-1780
+040       $a NSDP $d CU-AL
+042       $a nsdp
+222  00   $a Current law index
+245  00   $a Current law index
+260  00   $a Los Altos, Calif., $b Information Access Corp
+265       $a Information Access Corp., 885 North San Antonio Rd., Los Altos, CA 94022
+300       $a v. $c 28 cm
+310       $a Monthly, with annual cumulation
+362  0    $a v. 1-   ; 1980-
+500       $a UCDL: 902 (FORMAT YYMMDD) BEGINS "01" - ADD "20" TO BEGINNING, APPEND "000000.0" TO END AND OUTPUT TO 005 (04/02).
+650   0   $a Law $x Periodicals $x Indexes
+710  20   $a Information Access Corporation
+901       $a UCDLb1604582 $b ref   $c u
+902       $a 011219
+999       $b 1 $c 011202 $d s $e p $g 0
+920       $a K33 $b .C875 $l ref
+950       $l RES $e \STACKS\REF\FAC LIB\ $i 09/28/82 N  $1 0:sl  $2 0:all  $3 0:all $h 08/18/82 N  $1 0:sl  $2 0:all  $3 0:all
+955       $l RES $c 1 $q 5071h, REFERENCE $r nc $h 09/04/80 C
+955       $l RES $c 2 $q 5071h, RESERVE $r nc $h 08/18/82 C
+955       $l RES $c 3 $q 5071, STACKS $r nc $h 08/18/82 C
+955       $l RES $c 4 $q 5071h, FACULTY LIBRARY $r nc $h 08/18/82 C
+998       $a 09/28/82 $t c $s 9661 $n CU-AL $w DCLC80645396S $d 10/07/81 $c KL $b MCC $i 820928 $h 820818 $h 800904 $h 800801 $l CUDL
+950       $b UCDL:v.1 (1980)--
+
+Record 35
+LDR  00903cas  2200277   45  
+001  0217-S
+005  19891127000000.0
+008  800902c19549999enkmr p       0uuua0eng d
+022       $a 0011-135X
+040       $a MUL $c MUL $d CU-CU $d CStRLIN $d CU-AL
+043       $a e-uk---
+245  04   $a The Criminal law review
+260  01   $a London : $b Sweet and Maxwell Ltd.,
+300       $a v. ; $c 28 cm
+362  0    $a Jan., 1954-
+500       $a UCDL: INPUT 901 HAS $a BEGINNING UCDL, BUT NO RECORD ID NUMBER; REJECT (05/02).
+650   0   $a Criminal law $z Great Britain $x Periodicals
+650   0   $a Criminal procedure $z Great Britain $x Periodicals
+901       $a UCDLb $b stx   $c u
+902       $a 020109
+999       $b 1 $c 011220 $d s $e p $g 4
+920       $a K3 $b .R535 $l stx
+950       $l STKS $i 09/02/80 C
+955       $l STKS $c 1 $q 1145A $r nc $i 09/02/80 C
+998       $a 09/02/80 $t c $s 9191 $n CU-AL $w DCLC867061S $d 10/07/81 $c CK $b PSL $i 800902 $l CUDL
+950       $b UCDL:1954--
+
+Record 36
+LDR  01068nas  2200325 a 45  
+001  98-S117
+003  CStRLIN
+005  19981006113311.0
+008  981006c19989999njufr    gbg  0  |a0eng d
+040       $a WaU-L $c WaU-L $d CU-AL
+043       $a n-us---
+050   4   $a K22 $b .U86
+245  00   $a Rutgers race & the law review
+260       $a Newark, N.J. : $b Rutgers University School of Law--Newark, $c 1998-
+300       $a v. ; $c 24 cm
+310       $a Semiannual
+362  0    $a Vol. 1, no. 1 (1998)-
+500       $a UCDL: NO 920, NO LOC CODE - REJECT (07/06).
+650   0   $a Race discrimination $x Law and legislation $z United States $x Periodicals
+650   0   $a Discrimination $x Law and legislation $z United States $x Periodicals
+710  2    $a Rutgers Law School (Newark, N.J.)
+740  0    $a Rutgers race & law review
+901       $a UCDLb203363x $b stx   $c u
+902       $a 020403
+999       $b 1 $c 020319 $d s $e p $g 0
+907       $a .o1369544
+950       $l STKS
+955       $l STKS $c 1 $r nc $i 10/06/98 C
+998       $a 10/06/98 $t c $s 9114 $l CUDL $n CU-AL $w WALO98S432 $d 10/06/98 $c KL  $b PSL
+950       $b UCDL:v.1 (1998)--
+
+Record 37
+LDR  01714cai  2200421 a 4500
+001  96-S20
+003  CStRLIN
+005  19960314141828.0
+008  960307c19939999vauuu         0 | a0eng d
+040       $a C-L $c C-L $d MiU-L $d CSfU-L $d CU-AL
+043       $a n-us---
+245  00   $a State court caseload statistics
+260       $a [Williamsburg, Va.] : $b National Center for State Courts, $c c1995-
+300       $a v. : $b ill. ; $c 28 cm
+362  0    $a 1993-
+500       $a UCDL PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+530       $a Also available online 1998-
+580       $a Kept up-to-date between editions by : Examining the work of state courts
+580       $a Continues, with its companion title, the earlier publication : State court caseload statistics, annual report
+650   0   $a Judicial statistics $z United States $x States $x Periodicals
+710  2    $a National Center for State Courts
+710  2    $a Court Statistics Project
+710  2    $a State Justice Institute (U.S.)
+710  1    $a United States. $b Bureau of Justice Statistics
+710  2    $a Conference of State Court Administrators
+780  11   $t State court caseload statistics, annual report $w (DLC)   79644737
+787  1    $t Examining the work of state courts
+856  41   $u http://www.ncsconline.org/D_Research/csp/CSP_Main_Page.html
+901       $a UCDLb1939750 $b multi $c u
+902       $a 060607
+999       $b 2 $c 060607 $d s $e s $g 0
+920       $a KF180 $b .S832 $l stx $l onl
+907       $a .o1283443
+950       $l STKS $h 03/07/96 C
+955       $l STKS $c 1 $r nc $h 03/07/96 C
+998       $a 03/14/96 $t c $s 9116 $l CUDL $n CU-AL $w CSULAPX6570S $d 03/07/96 $c KL  $b PSL $i 960314
+950       $b UCDL:1993-1998, 2001-2002.
+950       $b UCDL:1998-
+

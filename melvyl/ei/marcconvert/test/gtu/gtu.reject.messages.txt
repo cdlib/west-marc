@@ -1,0 +1,5 @@
+Record Rejected: I-17 R-1 no 852 was generated
+Record Rejected: I-19 R-2 no 852 was generated
+Record Rejected: I-26 R-3 Cataloging source not GTU
+Record Rejected: I-28 R-4 no 852 was generated
+Record Rejected: I-32 R-5 Input lacks 901 $b

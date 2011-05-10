@@ -1,0 +1,9 @@
+Record Rejected: I-14 R-1 994 $a - Online replacement rec. contains no local data field
+Record Rejected: I-18 R-2 no 852 was generated
+Record Rejected: I-27 R-3 994 $a - Online replacement rec. contains no local data field
+Record Rejected: I-31 R-4 994 $b - Source not recognized
+Record Rejected: I-33 R-5 994 field not found
+Record Rejected: I-34 R-6 994 $a subfield not found
+Record Rejected: I-35 R-7 994 $b subfield not found
+Record Rejected: I-36 R-8 001 field not found
+Record Rejected: I-96 R-9 OCLC 001 field not as expected

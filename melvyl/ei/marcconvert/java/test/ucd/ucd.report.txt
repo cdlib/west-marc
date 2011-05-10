@@ -1,0 +1,46 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2002-8-21 14:49:28
+End:   2002-8-21 14:49:29
+
+------------------------------------------
+Run Statistics:
+          15 - Records Input
+           8 - Records Output
+           7 - Records Rejected
+           1 - Records with non-fatal errors
+
+
+               Reject records
+               4 records: No 852 was generated
+               1 records: UCDConvert.build901: Input lacks 001
+               2 records: UCDConvert.build901: Not UCD Source
+
+
+               Error records
+               1 records: 1002: no 245 field
+               1 records: 1003: unknown location code
+               1 records: 1004: invalid leader type
+               1 records: 1005: invalid bibliographic level
+
+------------------------------------------
+Configuration: 
+  infile:      ucd.benchjav.mrc
+  outfile:     ucd.convert.mrc
+  reportfile:  ucd.report.txt
+  errorfile:   ucd.error.mrc
+  rejectfile:  ucd.reject.mrc
+  loctabfile:  tab_locations.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-004-000
+
+------------------------------------------

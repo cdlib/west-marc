@@ -1,0 +1,47 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:45
+End:   2009-7-10 15:46:45
+
+------------------------------------------
+Run Statistics:
+          14 - Records Input
+          10 - Records Output
+           0 - Records Skipped
+           4 - Records Rejected
+           1 - Records with non-fatal errors
+
+
+               Reject records
+               2 occurrences: Unknown or incorrect cataloging source
+               2 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      rl.blt.benchjav.mrc
+  outfile:     ucbl.convert.mrc
+  reportfile:  ucbl.report.txt
+  errorfile:   ucbl.error.mrc
+  rejectfile:  ucbl.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

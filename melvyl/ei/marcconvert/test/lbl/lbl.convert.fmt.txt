@@ -1,0 +1,252 @@
+Record 1
+LDR  01638cam  22003494a 4500
+001  CLBI05-B10004
+003  CStRLIN
+005  20051107142529.0
+008  051101s2003    njuab    b    001 0 eng  
+010       $a   2002066165
+020       $a 0471214892 (cloth : alk paper)
+040       $a DLC $c DLC $d DLC
+042       $a pcc
+050  00   $a QC861.3 $b .P67 2003
+082  00   $a 551.6 $2 21
+090       $a QC861.3 $b .P67 2003
+245  00   $a Handbook of weather, climate, and water : $b atmospheric chemistry, hydrology, and societal impacts / $c edited by Thomas D. Potter, Bradley R. Colman.
+260       $a Hoboken, N.J. : $b Wiley-Interscience, $c c2003.
+300       $a xxix, 966 p. : $b ill. (some col.), maps (some col.) ; $c 24 cm.
+500       $a CLBI:  OUTPUT 852 AS FOLLOWS: TAKE 4 LETTER LI CODE (CLBI) FROM 001 & OUTPUT IN 852 a, TAKE LOC CODE (MAIN) FROM 852 b & OUTPUT IN b; OUTPUT INCOMING 852 e, h, i AS IS (11/05).
+500       $a OUTPUT 901 AS FOLLOWS: TAKE LI CODE (CLBI) FROM 001 & OUTPUT IN 901 a; OUTPUT REMAINDER OF 001 IN 901 b.
+500       $a DROP INCOMING 852.
+650   0   $a Atmospheric physics.
+650   0   $a Atmospheric chemistry.
+650   0   $a Hydrology.
+700  1    $a Potter, Thomas D., $d 1955-
+700  1    $a Colman, Bradley Roy.
+852       $a CLBI $b MAIN $e 50B-4206, 1 Cyclotron Road, Berkeley, CA 94720 $h QC861.3 $i .P67 2003
+856  42   $3 Contributor biographical information $u http://www.loc.gov/catdir/bios/wiley044/2002066165.html
+856  42   $3 Publisher description $u http://www.loc.gov/catdir/description/wiley036/2002066165.html
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley022/2002066165.html
+901       $a CLBI $b 05-B10004
+
+Record 2
+LDR  01266cas  2200289u  4500
+001  CLBI82-S23
+003  CStRLIN
+005  20050831134030.0
+008  820924d19781986iluqr         0   a0eng d
+010       $a sn 81001691 
+022       $a 0586-5581
+040       $a DNAL $c DNAL $d MUL $d NIC $d CtY $d MiU $d CULbl
+070  1    $a QH212.S3S3
+090       $a QC373.E4 $b S9
+222   0   $a Scanning electron microscopy
+245  00   $a Scanning electron microscopy.
+260       $a AMF O'Hare, IL : $b Scanning Electron Microscopy, inc.
+300       $a v. : $b ill. ; $c 29 cm.
+310       $a Quarterly, $b 1980-86.
+362  0    $a 1978-86.
+500       $a CLBI: 852 HAS 3 SUBFLD z'S, 2 BEGIN WITH "Library has: ", 1 DOES NOT. THE 852 Z NOT BEGINNING "Library has: ' SHOULD BE OUTPUT AS IS IN 852 Z; FOR THE OTHER 2, REMOVE "Library has: " FROM EACH AND CONCATENATE, SEPARATING BY "; " AND OUTPUT IN SINGLE SUBFLD 3 (11/05).
+650   0   $a Scanning electron microscope $x Periodicals.
+710  2    $a Scanning Electron Microscopy, inc.
+780  00   $a Scanning Electron Microscopy Symposium. $t Scanning electron microscopy $g 1968-77
+785  00   $t Scanning microscopy $x 0891-7035
+852       $a CLBI $b MMRD $h QC373.E4 $i S9 $t 2 $x CIN=LS; OID=LJS $z 2nd Z $3 1978-79 (HOLDINGS 1);  1968-1977 in storage (HOLDINGS 2)
+901       $a CLBI $b 82-S23
+
+Record 3
+LDR  01091nam  22002658a 4500
+001  CLBI94-B732
+003  CStRLIN
+005  20040617154100.0
+008  940228s1994    nyu      be   000 0 eng  
+010       $a    93022638 
+020       $a 0471558192 (hard : set : alk. paper) : $c $100.00
+040       $a DLC $c DLC $d COc
+050  00   $a BF31 $b .E52 1994
+082  00   $a 150/.3 $2 20
+090       $a BF31 $b .E52 1994
+245  00   $a Encyclopedia of psychology / $c Raymond J. Corsini, editor ; consulting editors, Anne Anastasi ... [et al.] ; associate editors, Mary Allen ... [et al.] ; foreign editors, Ruben Ardila ... [et al.] ; biography editors, Robert Lundin and Parker Lichtenstein ; foreign editor, Neal Pinckney ; managing editor, Kristine Altweis.
+250       $a 2nd ed.
+260       $a New York : $b J. Wiley & Sons, $c c1994.
+300       $a 4 v. ; $c 29 cm.
+500       $a CLBI:  drop 9XX FIELDS, INCOMING 852 (09/04).
+504       $a Includes bibliographical references.
+650   0   $a Psychology $x Encyclopedias.
+700  1    $a Corsini, Raymond J.
+852       $a CLBI $b ANNEX $h BF31 $i .E52 1994 $x OID=DP
+901       $a CLBI $b 94-B732
+
+Record 4
+LDR  01688cam  2200301 a 4500
+001  CLBI7412-B
+003  CStRLIN
+005  20040617154100.0
+008  981026s1999    njuaf    b    001 0 eng d
+010       $a    98049406 
+020       $a 0691005141 (alk. paper)
+040       $a DLC $c DLC $d DLC $d NhCcYBP $d OrLoB-B
+050  00   $a QA447 $b .G39 1999
+082  00   $a 516.2 $2 21
+090       $a QA447 $b .G39 1999
+100  1    $a Gazalâe, Midhat J., $d 1929-
+245  10   $a Gnomon : $b from pharaohs to fractals / $c Midhat J. Gazalâe.
+260       $a Princeton, N.J. : $b Princeton University Press, $c c1999.
+300       $a xiv, 259 p., [16] p. of plates : $b ill. (some col.) ; $c 24 cm.
+500       $a CLBI:  OUTPUT FOLLOWING 852 SUBFLDS AS IS: 2 c, 2 f, h, 2 i, 2 k, l, 2 m, n, q, 2 s, t, 3 x (09/04).
+500       $a OUTPUT 2 590 a'S AS SEPARATE 852 z'S IN EACH 852; OUTPUT 852 z BEGINNING WITH "LIBRARY HAS: " AS 852 3 AFTER REMOVING "LIBRARY HAS: "; OUTPUT 2 OTHER 852 z'S AS z'S.
+505  0    $a Introduction: Gnomons -- Ch. I. Figurate and m-adic Numbers -- Ch. II. Continued Fractions -- Ch. III. Fibonacci Sequences -- Ch. IV. Ladders: From Fibonacci to Wave Propagation -- Ch. V. Whorled Figures -- Ch. VI. The Golden Number -- Ch. VII. The Silver Number -- Ch. VIII. Spirals -- Ch. IX. Positional Number Systems -- Ch. X. Fractals.
+650   0   $a Similarity (Geometry)
+650   0   $a Spirals.
+650   0   $a Fractals.
+852       $a CLBI $b MAIN $c FIRST C $c 2ND C $f 1ST F $f 2ND F $h ThQA447 $i .G39 1999 $i 2ND I $k 1ST K $k 2ND K $l SUBFLD L $m 1ST M $m 2ND M $n SUBFLD N $q SUBFLD Q $s 1ST S $s 2ND S $t 1 $x 001 (1ST X) $x 2ND X $x 3RD X $z 1ST Z $z 3RD Z $z FIRST 590. $z 2ND 590 $3 v. 1-2 (HOLDINGS)
+852       $a CLBI $b ANNEX $z FIRST 590. $z 2ND 590
+901       $a CLBI $b 7412-B
+
+Record 5
+LDR  01106cam  2200313 a 4500
+001  CLBI9985-B
+003  CStRLIN
+005  20040617154100.0
+008  991029s1999    utua     b    001 0 eng d
+010       $a    99090421 
+020       $a 0967172756
+035       $a (CU-SB)notisALJ9985
+035       $a (OCoLC)42729532
+040       $a OTC $c OTC $d CU-SB
+090       $a MT6.M14 $b F73 1999
+100  1    $a Madden, Charles $q (Charles B.)
+245  10   $a Fractals in music : $b introductory mathematics for musical analysis / $c Charles Madden.
+250       $a 1st ed.
+260       $a Salt Lake City, Utah : $b High Art Press, $c 1999.
+300       $a xiv, 210 p. : $b ill. ; $c 23 cm.
+490  1    $a InMusic ; $v no. 1
+500       $a CLBI:  REMOVE BACKSLASHES (HEX 5C) FROM FIRST INPUT 852 SUBLFD h AND i BEFORE OUTPUT (09/04).
+500       $a SECOND INPUT 852 DOES NOT HAVE b - DO NOT CREATE AN OUTPUT 852.
+650   0   $a Music theory $x History $y 20th century.
+650   0   $a Musical analysis.
+650   0   $a Fractals.
+830   0   $a InMusic (Salt Lake City, Utah) ; $v no. 1.
+852       $a CLBI $b MAIN $h 641.8 $i P8 $x 185284 $x 10.00 $x OID=BLH
+901       $a CLBI $b 9985-B
+
+Record 6
+LDR  01707nxx  2200385ua 4500
+001  CLBI86-S1526
+003  CStRLIN
+005  20040617154100.0
+008  860804c19859999nyubx1p       0   a0eng d
+010       $a sn 86037005 
+022  0    $a 0888-7489 $y 0140-6566
+030       $a MCLLDZ
+040       $a IaAS $c IaAS $d FU $d NST $d NSDP $d NST $d MiU
+042       $a lcd $a nsdp
+082  1    $a 548 $2 11
+090       $a QD901 $b .M7182
+210  0    $a Mol. cryst. liq. cryst., Lett. sect.
+222   0   $a Molecular crystals and liquid crystals. Letters section
+246  13   $a MCLC letters
+246  13   $a Molecular crystals and liquid crystals letters
+260       $a New York : $b published for Gordon and Breach, Science Publishers, Inc. by OPA Ltd., $c c1985-
+300       $a v. : $b ill. ; $c 23 cm.
+362  0    $a Vol. 1, no. 1-2 (Feb. 1985)-
+500       $a CLBI:  REC HAS NO 245, INVALID TYPE & BIB LEVEL, UNKNOWN LOC CODE.  OUTPUT REC WITH 4 998 ERROR FIELDS (09/04).
+580       $a Previously published as an occasional number of: Molecular crystals and liquid crystals.
+650   0   $a Molecular crystals $x Periodicals.
+650   0   $a Liquid crystals $x Periodicals.
+650   0   $a Crystallography $x Periodicals.
+780  00   $t Molecular crystals and liquid crystals. Letters $x 0140-6566
+852       $a CLBI $b XXXX $h QD901 $i .M7182 $x CIN=KB; OID=AMW
+901       $a CLBI $b 86-S1526
+998       $a CLBI $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1004 $c Record contains the invalid leader type x $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1005 $c Record contains the invalid bibliographic level x $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1002 $c Record contains no 245 field $d Release-027-000 $e 86-S1526
+
+Record 7
+LDR  01526nas  2200385ua 4500
+001  CLBI86-S415
+003  CStRLIN
+005  20040617154100.0
+008  860821c19859999nyubx1p       0   a0eng d
+010       $a sn 86037009 
+022  0    $a 0887-748x $y 0140-6566
+030       $a MCLLDT
+037       $b Gordon & Breach, c/o STBS, 1 Bedford St., London, WC2E 9PP, U.K.
+040       $a IaAS $c IaAS $d FU $d NST $d NSDP $d NST
+042       $a lcd $a nsdp
+082  1    $a 548 $2 11
+210  0    $a Mol. cryst. liq. cryst., Trans.
+222   0   $a Molecular crystals and liquid crystals. Transactions.
+245  00   $a Molecular crystals and liquid crystals. $p Transactions.
+246  13   $a MCLC transactions
+246  13   $a Molecular crystals and liquid crystals transactions
+260       $a New York : $b published for Gordon and Breach, Science Publishers, Inc. by OPA Ltd., $c c1985-
+300       $a v. : $b ill. ; $c 23 cm.
+310       $a Bimonthly (irregular)
+362  0    $a Vol. 1, no. 1-2 (Feb. 1985)-
+500       $a CLBI:  852 HAS MULTIPLE b'S; OUTPUT ONLY THE FIRST (09/04).
+500       $a REMOVE BACKSLASHES (HEX 5C) FROM 852 j BEFORE OUTPUT
+510  2    $a Chemical abstracts $x 0009-2258 $b 1986-
+650   0   $a Molecular crystals $x Periodicals.
+650   0   $a Liquid crystals $x Periodicals.
+650   0   $a Crystallography $x Periodicals.
+780  00   $t Molecular crystals and liquid crystals. Transactions $x 0140-6566
+787  1    $t Molecular crystals and liquid crystals $x 0026-8941 $w (OCoLC) 8205601
+852       $a CLBI $b ANNEX $j Periodicals $x CIN=BH; OID=SB
+901       $a CLBI $b 86-S415
+
+Record 8
+LDR  01338cam  22003134a 4500
+001  CLBI05-B10005
+003  CStRLIN
+005  20051107142602.0
+008  051101s2005    njua     b    001 0 eng  
+010       $a   2004058044
+020       $a 0471653179 (cloth)
+040       $a DLC $c DLC $d C#P $d DLC
+042       $a pcc
+050  00   $a QA76.9.A25 $b B79 2005
+082  00   $a 005.8 $2 22
+090       $a QA76.9.A25 $b B79 2005
+100  1    $a Bruen, Aiden A., $d 1941-
+245  10   $a Cryptography, information theory, and error-correction : $b a handbook for the 21st century / $c Aiden A. Bruen, Mario A. Forcinito.
+260       $a Hoboken, N.J. : $b Wiley-Interscience, $c c2005.
+300       $a xxiii, 468 p. : $b ill. ; $c 26 cm.
+500       $a CLBI: 852 HAS 3 590 FLDS - OUTPUT AS SEPARATE 852 z'S IN BOTH 852 FIELDS; DO NOT OUTPUT 590  (11/05).
+650   0   $a Computer security.
+650   0   $a Telecommunication systems $x Security measures.
+650   0   $a Cryptography.
+700  1    $a Forcinito, Mario, $d 1962-
+852       $a CLBI $b MAIN $e 50B-4206, 1 Cyclotron Road, Berkeley, CA 94720 $h QA76.9.A25 $i B79 2005 $z FIRST 590 $z SECOND 590 $z THIRD 590
+852       $a CLBI $b DONN $e 50B-4206, 1 Cyclotron Road, Berkeley, CA 94720 $h QA76.9.A25 $i B791 2005 $z FIRST 590 $z SECOND 590 $z THIRD 590
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley051/2004058044.html
+901       $a CLBI $b 05-B10005
+
+Record 9
+LDR  01207dxx  22003254a 4500
+001  CLBI05-B10006
+003  CStRLIN
+005  20020510143000.0
+008  051101s2004    njua     b    001 0 eng  
+010       $a   2003006943
+020       $a 047141719X (cloth : alk. paper)
+040       $a DNLM/DLC $c DLC $d DLC
+042       $a pcc
+050  00   $a QP514.2 $b .G658 2004
+060  10   $a QT 36 $b G655b 2004
+082  00   $a 660.6 $2 21
+090       $a QP514.2 $b .G658 2004
+100  1    $a Goodsell, David S.
+260       $a Hoboken : $b Wiley-Liss, $c c2004.
+300       $a xii, 337 p. : $b ill. ; $c 24 cm.
+500       $a CLBI:  DELETE REC HAS INVALID TYPE & BIBLVL, NO 005, NO 245, UNKNOWN LOC CODE - OUTPUT DELETE REC WITH NO 998 ERROR FIELDS, USE FORCEDATE TO CREATE OUTPUT 005 (11/05).
+650   0   $a Biomolecules.
+650   0   $a Nanotechnology.
+650   0   $a Biotechnology.
+650  12   $a Biotechnology.
+650  12   $a Nanotechnology.
+852       $a CLBI $b XXXX $e 50B-4206, 1 Cyclotron Road, Berkeley, CA 94720 $h QP514.2 $i .G658 2004
+856  42   $3 Publisher description $u http://www.loc.gov/catdir/description/wiley035/2003006943.html
+856  41   $3 Table of  contents $u http://www.loc.gov/catdir/toc/wiley031/2003006943.html
+901       $a CLBI $b 05-B10006
+

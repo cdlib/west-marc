@@ -1,0 +1,27 @@
+Record 1
+LDR  01263cxx  2200313 a 4500
+001  CUBL05-B14306
+003  CStRLIN
+005  20051107081911.0
+008  051107s2004    enk      b    001|0 eng d
+010       $a   2004301892
+020       $a 0199272271 (hbk : alk. paper)
+020       $a 019927228X (pbk. : alk paper)
+040       $a EQO $c EQO $d DLC
+042       $a lccopycat
+050  00   $a BD450 $b .W297 2004
+082  04   $a 123 $2 22
+090       $a K272 $b .W38 2004
+100  1    $a Watson, Gary, $d 1943-
+260       $a Oxford : $b Clarendon Press ; $a New York : $b Oxford University Press, $c 2004.
+300       $a x, 377 p. ; $c 23 cm.
+500       $a CUBL:  RECORD HAS NO 245, INVALID TYPE & BIBLVL, UNKNOWN LOC CODE - OUTPUT WITH 4 998 ERROR FIELDS (11/05).
+650   0   $a Agent (Philosophy)
+650   0   $a Free will and determinism.
+852       $a CUBL $b sta $h K272 $i .W38 2004 $t 1 $x CIN=aim
+901       $a CUBL $b 05-B14306
+998       $a CUBL $b 1003 $c Record contains the unknown location code sta $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1004 $c Record contains the invalid leader type x $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1005 $c Record contains the invalid bibliographic level x $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 05-B14306
+

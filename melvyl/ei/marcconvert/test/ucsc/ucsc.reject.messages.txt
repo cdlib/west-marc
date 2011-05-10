@@ -1,0 +1,14 @@
+Record Rejected: I-1 R-1 no 852 was generated
+Record Rejected: I-5 R-2 no 852 was generated
+Record Rejected: I-7 R-3 Cataloging source not UCSC
+Record Rejected: I-34 R-4 no 852 was generated
+Record Rejected: I-50 R-5 no 852 was generated
+Record Rejected: I-52 R-6 no 852 was generated
+Record Rejected: I-55 R-7 no 852 was generated
+Record Rejected: I-58 R-8 no 852 was generated
+Record Rejected: I-61 R-9 no 852 was generated
+Record Rejected: I-62 R-10 no 852 was generated
+Record Rejected: I-63 R-11 no 852 was generated
+Record Rejected: I-65 R-12 Input lacks 901 $b
+Record Rejected: I-70 R-13 Cataloging source not UCSC
+Record Rejected: I-71 R-14 no 852 was generated

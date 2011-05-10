@@ -1,0 +1,33 @@
+Record 1
+LDR  02943cXX  2200385 a 4500
+001  CHSV03-F103
+003  CStRLIN
+005  20051011154940.0
+007  kh bob
+008  030407i18uu18uucaunnn            kneng d
+040       $a CHi $c CHi
+043       $a n-us-ca
+100  1    $a Taber, I. West.
+260       $c [18--]
+300       $a ca. 141 photographic prints (including 73 cabinet cards, 13 cartes de visites) : $b b&w, some hand col. ; $c 36 x 31 cm. or smaller.
+351       $a Arranged in 13 folders: 1: railway cut in snow; 2: San Francisco; 3: Los Angeles, missions, and California miscellany; 4: portraits (cartes de visite); 5-9: portraits (cabinet cards); 10-11: portraits (cabinet cards); 12: Raphael Weill; 13: photocopy of 1880 Carnival album.
+500       $a CHSV:  REC HAS NO 245, INVALID TYPE & BIBLVL, UNKNOWN LOC CODE IN 852 b; OUTPUT WITH 4 998 ERROR FLDS (11/05).
+520       $a Many portraits, including three from "Taber's state collection of portraits of representative Californians in memoriam," one bride, one man identified as "Col. Fred. Grant, September 22d, 1879", and one man identified as Raphael Weill (a bas relief photo).  Several photos depict cutting a railway passage through the snow in Cascade and Blue Canon.  Other subjects include: California missions; San Francisco (Mt. Olympus, '49 Mining Camp at the Midwinter Expo, interior of Chinese Grand Restaurant, incense table in Joss Temple of Lung Gong, Taber's studio interior and exterior, residences, beach at Cliff House); Los Angeles (Longstreet's, Wolfskill orange grove, an irrigation canal); H. Casebolt's elevated railroad; the Arlington House in Santa Barbara; the Central Pacific Rail Road Depot in Oakland, Calif.  Includes a photocopy of the 1880 Carnival album.
+600  10   $a Weill, Raphael $v Portraits.
+600  10   $a Grant, Frederick, $c Colonel $v Portraits.
+650   0   $a Railroad engineering $z California $v Photographs.
+650   0   $a Missions $z California $v Photographs.
+651   0   $a San Francisco (Calif.) $v Pictorial works.
+651   0   $a Oakland (Calif.) $v Pictorial works.
+651   0   $a Los Angeles (Calif.) $v Pictorial works.
+650   0   $a Brides $z California $z San Francisco $v Portraits.
+655   7   $a Cabinet photographs $z California $z San Francisco. $2 gmgpc
+655   7   $a Cartes de visite $z California $z San Francisco. $2 gmgpc
+655   7   $a Photographic printszCalifornia $z San Francisco. $2 gmgpc
+852       $a CHSV $b XXX $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 063-064 $x CIN=BCB $z Shelflist location: GS--Photographers--SF--Taber, Isaiah West.
+901       $a CHSV $b 03-F103
+998       $a CHSV $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 03-F103
+998       $a CHSV $b 1002 $c Record contains no 245 field $d Release-027-000 $e 03-F103
+

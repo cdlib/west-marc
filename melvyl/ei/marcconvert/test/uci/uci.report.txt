@@ -1,0 +1,52 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:49
+End:   2009-7-10 15:46:50
+
+------------------------------------------
+Run Statistics:
+          35 - Records Input
+          25 - Records Output
+           0 - Records Skipped
+          10 - Records Rejected
+           5 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  Carriage return (hex 0d) found on tag 008
+               1 occurrence:  Carriage return(hex 0d) found on leader
+               1 occurrence:  Input lacks 001
+               1 occurrence:  Line feed (hex 0a) found on tag 852
+               1 occurrence:  Line feed(hex 0a) found on leader
+               1 occurrence:  Not UCI Source
+               4 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               3 occurrences: 1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      ii.ir.benchjav.mrc
+  outfile:     uci.convert.mrc
+  reportfile:  uci.report.txt
+  errorfile:   uci.error.mrc
+  rejectfile:  uci.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

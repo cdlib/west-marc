@@ -1,0 +1,141 @@
+Record 1
+LDR  00478cam^^22001819^^4500
+005  20020819183309.0
+008  830823c19651964enk           00000 eng  
+010       $a 67118666
+035       $a REMARC67118666
+035  9    $a (UCD)AFB-3893
+049       $a MAIN
+090       $a PT3919.T7 $b W4
+100  1    $a Traven, B.
+245  14   $a The White Rose
+260  0    $a London, $b R. Hale $c [1965, c1964]
+300       $a 206 p. $c 21 cm.
+500       $a DVXL: NO 001 IN RECORD; REJECT.
+852  0    $a CU-A $b SHLDS $c GEN $h PT3919.T7 $i W4
+
+Record 2
+LDR  00543cam^^2200181^i^4500
+001  XPc-001432903
+005  20020819183309.0
+008        s1928    enk           00011 eng d
+035       $a 10985883-B
+035  9    $a (UCD)AFB-3894
+049       $a CUVA
+090       $a PR6045.A55 $b W45 1928
+100  1    $a Walsh, Maurice, $d 1879-1964.
+245  10   $a While rivers run / $c by Maurice Walsh.
+260  0    $a London : $b W. & R. Chambers, $c [1928]
+300       $a 352 p. ; $c 19 cm.
+500       $a DVXL: 001 DOES NOT BEGIN 'UCD'; REJECT.
+852  0    $a CU-A $b SHLDS $c GEN $h PR6045.A55 $i W45 1928
+
+Record 3
+LDR  00822cam^^2200265^a^4500
+001  UCD001432904
+005  20020819183309.0
+008  840423s1983    ctu      b    00110 eng  
+010       $a 83003573
+020       $a 0300030118
+035       $a 84-B11309
+035  9    $a (UCD)AFB-3896
+049       $a MAIN
+082  0    $a 901 $2 19
+090       $a D16 $b .F69 1983
+100  1    $a Fogel, Robert William.
+245  10   $a Which road to the past? : $b two views of history / $c Robert William Fogel and G.R. Elton.
+260  0    $a New Haven : $b Yale University Press, $c c1983.
+300       $a vii, 136 p. ; $c 22 cm.
+500       $a DVXL:001 LACKS HYPHEN AFTER 'UCD'; REJECT.
+650   0   $a History $x Methodology.
+650   0   $a Historiography.
+650   0   $a History $x Philosophy.
+700  1    $a Elton, G. R. $q (Geoffrey Rudolph)
+852  0    $a CU-A $b SHLDS $c GEN $h D16 $i .F69 1983
+
+Record 4
+LDR  00826cam^^2200265^^^4500
+001  UCD-001432906
+005  20020819183309.0
+008  711126s1971    tnu      b    00100 eng  
+010       $a 72157742
+020       $a 0826511716
+035       $a REMARC72157742
+035  9    $a (UCD)AFB-3898
+043       $a n-usu--
+049       $a MAIN
+082       $a 261.8/34/5196073
+090       $a BR535 $b .H37
+100  1    $a Harrell, David Edwin.
+245  10   $a White sects and Black men in the recent South. $c Foreword by Edwin S. Gaustad.
+260  0    $a Nashville, $b Vanderbilt University Press, $c 1971.
+300       $a xix, 161 p. $c 21 cm.
+350       $a $6.50
+500       $a DVXL: INPUT RECORD HAS NO 852; REJECT.
+650   0   $a Christian sects $z Southern States.
+650   0   $a Race relations $x Religious aspects $x Christianity $z Southern States.
+901       $a DVXL $b 001432906
+
+Record 5
+LDR  00647cam^^22002299^^4500
+001  UCD-001432909
+005  20020819183309.0
+008  830714s1947    enkf          00000 eng  
+010       $a 47008159
+035       $a REMARC47008159
+035  9    $a (UCD)AFB-3901
+043       $a f-sa---
+049       $a MAIN
+090       $a DT763 $b .W6
+100  1    $a Wolton, Douglas G.
+245  10   $a Whither, South Africa?
+260  0    $a London, $b Lawrence & Wishart, $c 1947.
+300       $a 155 p. $b plates $c 23 cm.
+500       $a DVXL: SINGLE 852 HAS NO $c ; DON'T OUTPUT 852; REJECT.
+650   0   $a Indigenous peoples $z South Africa.
+651   0   $a South Africa $x History.
+901       $a DVXL $b 001432909
+
+Record 6
+LDR  00871cam^^2200265^i^4500
+001  UCD-001432910
+005  20020819183309.0
+008  750327r1977    pau           00000 eng  
+010       $a 74032519
+020       $a 083861194X : $c $18.00
+035       $a 7187726-B
+035  9    $a (UCD)AFB-3902
+041       $a engmul
+049       $a CUVA
+082       $a 891.8
+090       $a PG551.E1 $b W5
+245  00   $a White stones and fir trees : $b an anthology of contemporary Slavic literature / $c edited by Vasa D. Mihailovich.
+260  0    $a [Lewisburg] : $b Bucknell University Press, $c c1977.
+300       $a 603 p. ; $c 24 cm.
+500       $a DVXL: SINGLE 852 HAS NO $b ; DON'T OUTPUT 852; REJECT.
+650   0   $a Slavic literature $y 20th century $x Translations into English.
+650   0   $a English literature.
+700  1    $a Mihailovich, Vasa D.
+730  0    $a Literary review (Teaneck, N.J.)
+901       $a DVXL $b 001432910
+
+Record 7
+LDR  00647cam^^2200229^a^4500
+001  UCD-001432911
+005  20020819183309.0
+008  840817r1984    nyu           00011 eng  
+010       $a 83022330
+020       $a 082530198X
+035       $a 84-B22811
+035  9    $a (UCD)AFB-3903
+049       $a CUVA
+082  0    $a 823/.914 $2 19
+090       $a PR6057.E72 $b W5 1984
+100  1    $a Gerson, Jack.
+245  14   $a The Whitehall sanction : $b a novel / $c Jack Gerson.
+250       $a 1st American ed.
+260  0    $a New York : $b Beaufort Books, $c c1984.
+300       $a 235 p. ; $c 22 cm.
+500       $a DVXL: SINGLE 852 HAS NO $b OR $c ; DON'T OUTPUT 852; REJECT.
+901       $a DVXL $b 001432911
+

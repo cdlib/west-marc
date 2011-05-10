@@ -1,0 +1,245 @@
+Record 1
+LDR  01152nam  2200277   4500
+001  UCb102650147
+005  20020510143000.0
+008  831129 1965    gt           f      spa d
+010       $a    79105982
+035       $a (OCoLC) 213982195
+035       $a GLADN33555858
+079       $a 5490432
+090       $d pf $a F1462 $b .G29
+100  10   $a Gall, Francis.
+245  10   $a Contribuciâon a los nombres geogrâaficos de Guatemala / $c [Francis Gallè
+260  0    $a [Guatemalaè : $b Ministerio de Comunicaciones y Obras Pâublicas, Instituto Geogrâafico Nacional, $c [1965?è
+300       $a 60 p. : $b 2 maps ; $c 28 cm
+500       $a BER: 2 INPUT 852 FIELDS; 1ST HAS SUBFLD b, 2ND DOES NOT. USE 1ST 852 FIELD ONLY. OUTPUT BER IN SUBFLD a, LOC CODE IN SUBFLD b (07/09).
+500       $a OUTPUT 901 FIELD WITH BER IN SUBFLD a. CREATE LOCAL NUM BY DROPPING INITIAL UCb AND OUTPUTTING REMAINDER IN SUBFLD b.
+500       $a DROP INPUT 9XX FIELDS.
+504       $a Includes bibliographical references
+650   0   $a Names, Geographical $z Guatemala.
+710  20   $a Comisiâon Mixta de Nombres Geogrâaficos
+752       $a Guatemala $d Guatemala
+852       $a BER $b tb94 $h F1462 $i .G29 $k pf
+901       $a BER $b 102650147
+
+Record 2
+LDR  00814nam  2200241   4500
+001  UCb102650160
+005  20020510143000.0
+008  831129 18501980nyu                 eng d
+035       $a (OCoLC) 213982199
+035       $a GLADN33555860
+079       $a 1985878
+090       $d p $a PN6157.K6 $b .B94
+245  00   $a Bunker hill songster. Containing national and patriotic songs. As sung by the principal vocalists
+260  0    $a New-York, $b Murphy $c [185-?]
+300       $a 1 p. l., 5-34 p. $b illus. $c 12 cm
+500       $a BER: DROP INPUT 005; FORCE OUTPUT 005 FROM FILE DATE (07/09).
+500       $a Without music
+500       $a Koundakjian collection
+650   0   $a Ballads, English $z United States.
+740  01   $a Popular songs
+752       $a United States $b New York $d New York
+852       $a BER $b tb9p $h PN6157.K6 $i .B94 $k p
+901       $a BER $b 102650160
+
+Record 3
+LDR  00691dXX  2200205   4500
+001  UCb102650184
+005  20020510143000.0
+008  831129 1874    nyu                 eng d
+035       $a (OCoLC) 213982203
+035       $a GLADN33555862
+079       $a 21702877
+090       $d p $a PN6157.K6 $b .C323l 1874a
+100  10   $a Carter, John Henton.
+260  0    $a [New York? : $b s.n., $c 1874]
+300       $a 65 p. : $b ill. ; $c 22 cm
+500       $a BER: DELETE RECORD HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE; OUTPUT DELETE REC WITH NO 998 ERROR FIELDS (07/09).
+500       $a Disbound copy
+752       $a United States $b New York $d New York
+852       $a BER $b tXXp $h PN6157.K6 $i .C323l 1874a $k p
+901       $a BER $b 102650184
+
+Record 4
+LDR  01172nXX  2200289   4500
+001  UCb102650196
+005  20020510143000.0
+008  831129 1865    enk                 eng d
+035       $a (OCoLC) 213982205
+035       $a GLADN33555863
+079       $a 21702885
+090       $a PN6157.K6 $b .M35
+260  0    $a London : $b F. Warne, $c 1865
+300       $a 256 p. $c 17 cm
+490  0    $a S.O. Beeton's books
+500       $a BER: REC HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE; OUTPUT WITH 4 998 ERROR FIELDS (07/09).
+500       $a Original paper wrappers; in case
+650   0   $a American wit and humor.
+700  10   $a Smith, Seba, $d 1792-1868.
+700  10   $a Davis, Charles Augustus, $d 1795-1867.
+752       $a Great Britain $b England $d London
+852       $a BER $b tbX $h PN6157.K6 $i .M35
+901       $a BER $b 102650196
+998       $a BER $b 1003 $c Record contains the unknown location code tbX $d Release-027-000 $e 102650196
+998       $a BER $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 102650196
+998       $a BER $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 102650196
+998       $a BER $b 1002 $c Record contains no 245 field $d Release-027-000 $e 102650196
+
+Record 5
+LDR  01121nam  2200265   4500
+001  UCb102650202
+005  20020510143000.0
+008  831129 1979    cau                 eng d
+035       $a (OCoLC) 213982207
+035       $a GLADN33555864
+079       $a 21702995
+090       $d p $a PS3507.O73277 $b .Z475
+100  10   $a Dorn, Edward.
+245  10   $a Interviews / $c Edward Dorn ; edited by Donald Allen
+260  0    $a Bolinas, Calif. : $b Four Seasons Foundation, $c c1979
+300       $a 117 p. ; $c 22 cm
+490  1    $a The Writing series ; $v 38
+500       $a BER: OUTPUT 852 SUBFLD a AS BER; OUTPUT 852 SUBFLDS b THROUGH z AS DIRECTED FROM INPUT 852; OUTPUT 852 SUBFLD 3 AS IS (07/09).
+600  10   $a Dorn, Edward $v Interviews
+650   0   $a American literature $x History and criticism.
+700  10   $a Allen, Donald E.
+752       $a United States $b California $d Bolinas
+840  00   $a Writing ; $v 38
+852       $a BER $b tb9p $c 1ST c $c 2ND c $e 1ST e $e 2ND e $f 1ST f $f 2ND f $g 1ST g $g 2ND g $h PS3507.O73277 $i .Z475 $i 2ND i $j 1ST j $k p $k 2ND k $l 1ST l $m 1ST m $m 2ND m $n 1ST n $p 1ST p $q 1ST q $s 1ST s $s 2ND s $t 1ST t $x 1ST x $x 2ND x $z 1ST z $z 2ND z $3 OUTPUT AS IS
+901       $a BER $b 102650202
+
+Record 6
+LDR  01458nam  2200325   4500
+001  UCb102650214
+005  20020510143000.0
+008  831129 1979    au                  nah d
+035       $a (OCoLC) 213982210
+035       $a CUBU18368018-B
+035       $a GLADN33555865
+079       $a 21703007
+090       $d xf $a F1219 $b .C7344 1979
+130  00   $a Codex Râios.
+245  10   $a Codex vaticanus 3738 : $b Cod. Vat. A, Cod. Râios der Biblioteca Apostolica Vaticana : Fabreproduktion des Codex in verkleinertem Format
+260  0    $a Graz, Austria : $b Akademische Druck- u. Verlagsanstalt, $c 1979
+300       $a 96 leaves : $b col. ill., facsims. ; $c 35 cm
+490  1    $a Codices e Vaticanis selecti quam simillime expressi jussu Joannis Pauli PP. II ; $v v. 36
+490  1    $a Codices selecti phototypice impressi ; $v v. 65
+500       $a BER: 1ST 852 HAS CALL NUM IN SUBFLD h SUBFLD i; OUTPUT AS IS. 2ND 852 HAS CALL NUM IN 852 SUBFLD j; OUTPUT AS IS (07/09).
+500       $a "The manuscript itself was composed between 1570 and 1589 on the Plateau of Mexico or already in Italy": Introd. note
+650   0   $a Manuscripts, Mexican $x Facsimiles.
+650   0   $a Indians of Mexico $x Languages $x Writing.
+700  10   $a Râios, Pedro de los.
+752       $a Austria $d Graz
+830   0   $a Codices e Vaticanis selecti ; $v v. 36
+830   0   $a Codices selecti phototypice impressi ; $v v. 65
+852       $a BER $b tb $h F1219 $i .C7344 1979 $k xf
+852       $a BER $b ma $j F1219 .C7344 1979 $k xf
+901       $a BER $b 102650214
+
+Record 7
+LDR  02652nas  2200577 a 4500
+001  UCb102750129
+005  20020510143000.0
+007  cr unu
+008  840120d19521991nyusr1p       0   a0engo 
+010       $a    56038311 $z sn 78000651
+019       $a 2257085 $a 1478782
+022       $a 0568-5230
+030       $a BACCAT
+035       $a (OCoLC) 214654550
+035       $a RLINCUBG10031108-S
+035       $a (SFXObjID)954928581843
+035       $a GLADN33614166
+040       $a NLM $c NLM $d NSD $d HUL $d RCS $d AIP $d NSD $d AIP $d OCL $d NSD $d NST $d CAS $d NST $d FUG $d NSD $d WAU $d EYM $d DLC $d OCLCQ
+041  1    $a eng $h rus
+042       $a nsdp $a lc
+050  00   $a QD1 $b .A38143
+060  00   $a W1 $b BU84S
+079       $a 1375830
+082  10   $a 540 $2 12
+090       $a QD1.A42 $b E6
+090       $a QD1
+130  0    $a Izvestiëiìa Akademii nauk SSSR. Seriëiìa khimicheskaëiìa. $l English
+210  0    $a Bull. Acad. Sci. USSR, Div. Chem. Sci
+222   0   $a Bulletin of the Academy of Sciences of the USSR, Division of Chemical Sciences
+245  00   $a Bulletin of the Academy of Sciences of the USSR, Division of Chemical Science
+260       $a New York : $b Consultants Bureau, $c -c1992
+300       $a 40 v. : $b ill. ; $c 28 cm
+310       $a Semimonthly
+362  0    $a Jan./Feb. 1952-v. 40, no. 12, pt. 2 (Dec. 1991)
+500       $a BER: SERIALS REC HAS 2 852s, EACH FOLLOWED BY 1 856; OUTPUT BOTH 856 FIELDS AFTER THE 2 852 FIELDS (07/09).
+530       $a Some issues, including those published under later titles, also issued online
+580       $a Translated from the Russian: Izvestiëiìa Akademii nauk SSSR. Otdelenie khimicheskikh nauk, 1952-1963; Izvestiëiìa Akademii nauk SSSR. Seriëiìa khimicheskaëiìa, 1963-1991
+599       $a Retrospective SCAT file April 2007.
+650   0   $a Chemistry $v Periodicals.
+655   7   $a Online resources. $2 local
+710  2    $a Akademiëiìa nauk SSSR.
+710  2    $a Consultants Bureau.
+765  1    $t Izvestiëiìa Akademii nauk SSSR. Otdelenie khimicheskikh nauk $w (DLC)   87645668 $w (OCoLC)8514275
+765  1    $t Izvestiëiìa Akademii nauk SSSR. Seriëiìa khimicheskaëiìa $x 0002-3353 $w (DLC)   87645669 $w (OCoLC)9261446
+785  00   $t Bulletin of the Russian Academy of Sciences, Division of Chemical Science $x 1063-5211 $w (DLC)   93645858 $w (OCoLC)26049442
+793  0    $a SpringerLink online journals. $g i
+852       $a BER $b wb $h QD1
+852       $a BER $b ch $h QD1.A42 $i E6 $3 1952, 1955-1966, 1967:2-1983; v.33(1984)-40(1991)//
+856  41   $3 v.1(1952)-v.40(1991). $z SpringerLink. Restricted to UC campuses $x SCP UCSD $u http://uclibs.org/PID/95455
+856  41   $3 v.41(1992)-v.49(2000). $z SpringerLink. Restricted to UC campuses $x SCP UCSD $u http://uclibs.org/PID/95455
+901       $a BER $b 102750129
+
+Record 8
+LDR  02610nas  2200673   4500
+001  UCb102750221
+005  20020510143000.0
+007  cr unu
+008  840120c19259999moumr1p       0   a0eng d
+010       $a a  38001186
+022  0    $a 0002-8703
+030       $a AHJOA2
+035       $a (OCoLC) 214654800
+035       $a (SFXObjID)954925376879
+035       $a GLADN33614219
+040       $a MUL $c MUL $d NSD $d OCL $d NSD $d OCL $d DLC $d NSD $d SER $d AIP $d NSD $d AIP $d HUL $d NLM $d NST $d HUL $d NST $d NSD $d SYS $d OCLCQ $d MUQ $d CUS $d OCL $d CLU
+042       $a nsdp $a lc
+050  00   $a RC681.A1 $b A58
+060  00   $a W1 $b AM423
+079       $a 1479953
+082       $a 616.1/2/005
+090       $a RC681.A1 $b A6
+090       $a RC681.A1
+099       $b UNCL
+210  0    $a Am. heart j
+222   4   $a The American heart journal
+245  04   $a The American heart journal
+246  13   $a AHJ $b <Mar. 2005->
+260       $a St. Louis, $b Elsevier [etc.]
+300       $a v. $b ill., tables, diagrs. $c 27 cm
+310       $a Monthly, $b <Oct. 1977->
+321       $a Bimonthly, $b 1926-
+362  0    $a v. 1- Oct. 1925-
+500       $a BER: 4 INPUT 852 FIELDS FOLLOW 2 856 FIELDS; OUTPUT BOTH 856 FIELDS AFTER THE 4 852 FIELDS (07/09).
+500       $a Editor: Oct. 1925-<Dec. 1935> L.A. Conner
+500       $a Published: Mosby, <1977->
+520       $a Includes "Department of reviews and abstracts."
+525       $a Has occasional supplements
+530       $a Also issued online
+550       $a Vols. for 1925-49 issued by the American Heart Association
+580       $a Indexed by: Combined cumulative index to cardiology
+599       $a Retrospective SCAT file April 2007.
+650   0   $a Heart $x Diseases $x Periodicals.
+655   7   $a Online resources. $2 local
+700  1    $a Conner, Lewis Atterbury, $d 1867-
+710  2    $a American Heart Association.
+776  1    $t American heart journal (Online) $x 1097-6744 $w (DLC)sn 98005930 $w (OCoLC)38232790
+787  1    $t Combined cumulative index to cardiology $w (DLC)sn 84002836
+793  0    $a MD Consult online journals. $g a
+793  0    $a ScienceDirect online journals. $g a
+852       $a BER $b wb $h RC681.A1
+852       $a BER $b pu9u $j UNCL
+852       $a BER $b bi $h RC681.A1 $i A6 $3 BOUND 1:1(Oct. 1925), 3:4-3:5, 5:1-2, 6:1-2, 7-8:3, 9-120(1990)
+852       $a BER $b pu $3 WITHDRAWN
+856  41   $3 v.125(1995)- $z MD Consult. Restricted to UCD, UCI, UCLA, UCR, UCSF, and UCSD $x SCP UCSD $u http://uclibs.org/PID/100664
+856  41   $3 v.1(1925)- $z ScienceDirect. Restricted to UC campuses $x SCP UCSD $u http://uclibs.org/PID/38031
+891  12   $9 853 $8 1 $a v. $b no. $u 06 $v r $i (year) $j (month) $x 01,07
+891  40   $9 863 $8 1 $a <1>- $i <1925>- $x provisional
+901       $a BER $b 102750221
+

@@ -1,0 +1,8 @@
+Record Rejected: I-8 R-1 no 852 was generated
+Record Rejected: I-9 R-2 no 852 was generated
+Record Rejected: I-12 R-3 no 852 was generated
+Record Rejected: I-20 R-4 no 852 was generated
+Record Rejected: I-21 R-5 Cataloging source not UCSD
+Record Rejected: I-25 R-6 Cataloging source not UCSD
+Record Rejected: I-26 R-7 Input lacks 901 $b
+Record Rejected: I-27 R-8 no 852 was generated

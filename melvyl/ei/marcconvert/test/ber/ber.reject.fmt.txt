@@ -1,0 +1,107 @@
+Record 1
+LDR  01113nam  2200289   4500
+005  20090626144055.3
+008  831129 1978    utu                 eng d
+010       $a    79319090
+035       $a (OCoLC) 213982191
+035       $a GLADN33555856
+079       $a 4287248
+090       $d p $a F1219 $b .D51
+090       $a F1219 $b .D53
+100  10   $a Dibble, Charles E.
+245  14   $a The conquest through Aztec eyes / $c delivered at the University of Utah, Wednesday, April 26, 1978, by Charles E. Dibble
+260  0    $a Salt Lake City : $b Published by the University of Utah Press for the Frederick William Reynolds Association, $c 1978
+300       $a 28 p. : $b ill. ; $c 23 cm
+490  1    $a The annual Frederick William Reynolds lecture ; $v 41
+500       $a BER: NO 001 FIELD; REJECT (07/09).
+650   0   $a Aztecs $x Wars.
+650   0   $a Aztecs $x Philosophy.
+651   0   $a Mexico $x History $y Conquest, 1519-1540.
+752       $a United States $b Utah $d Salt Lake City
+840   0   $a Frederick William Reynolds memorial lecture ; $v 41
+852       $a CU $b tb9p $h F1219 $i .D51 $k p
+852       $a CU $b an $h F1219 $i .D53
+998       $a tb $a an $b 831129 $c m $d a $e - $f eng $g utu $h 4 $i 2
+
+Record 2
+LDR  01073nam  2200253   4500
+001  UCXb102650135
+005  20090626144055.3
+008  831129 1979    azu          s      eng d
+010       $a    79623804
+035       $a (OCoLC) 213982193
+035       $a GLADN33555857
+079       $a 5801662
+090       $d pf $a E97.65.A6 $b .I52 1978
+111  20   $a Indian Town Hall, $n 6th, White Mountain Apache Reservation, $d 1978
+245  10   $a Reservation school districts : $b report of the 6th Annual Indian Town Hall held at Sunrise Park Hotel, White Mountain Apache Reservation, December 6-7, 1978
+260  0    $a [Phoenix] : $b Arizona Commission of Indian Affairs, $c 1979]
+300       $a v, 70 p. ; $c 28 cm
+500       $a BER: 001 FIELD DOES NOT BEGIN UCb - REJECT (07/09).
+650   0   $a Indians of North America $x Education $z Arizona $v Congresses.
+650   0   $a Indians of North America $x Education $z Arizona $v Congresses.
+710  10   $a Arizona Commission of Indian Affairs.
+752       $a United States $b Arizona $d Phoenix
+852       $a CU $b tb94 $h E97.65.A6 $i .I52 1978 $k pf
+998       $a tb $b 831129 $c m $d a $e - $f eng $g azu $h 0 $i 1
+
+Record 3
+LDR  00809nam  2200229   4500
+001  UCb10265019
+005  20090626144055.3
+008  831129 1979    xx                  eng d
+010       $a    79116506
+035       $a (OCoLC) 213982197
+035       $a GLADN33555859
+079       $a 5566629
+090       $a F868.V5 $b .P52
+245  02   $a A Pictorial history of Ventura County, California
+260  0    $a [s.l. : $b s.n.], $c c1979  $e (Oxnard, Calif. : $f M & N Print.)
+300       $a 252 p. : $b chiefly ill. ; $c 24 cm
+500       $a BER: 001 FIELD DOES NOT HAVE 9 DIGITS FOLLOWING THE INITIAL UCb - REJECT (07/09).
+651   0   $a Ventura County (Calif.) $x History $x Pictorial works.
+651   0   $a Ventura County (Calif.) $x Pictorial works.
+752       $a Unknown place
+852       $a CU $b tb $h F868.V5 $i .P52
+998       $a tb $b 831129 $c m $d a $e - $f eng $g xx  $h 2 $i 1
+
+Record 4
+LDR  00706nam  2200205   4500
+001  UCb102650172
+005  20020510143000.0
+008  831129 1885    enk                 eng d
+035       $a (OCoLC) 213982201
+035       $a GLADN33555861
+079       $a 8615375
+090       $d p $a PN6157.K6 $b .L5378br
+100  10   $a Leland, Charles Godfrey, $d 1824-1903.
+245  10   $a Brand-new ballads / $c by Charles G. Leland, "Hans Breitman" ; with many ill. by Hal Ludlow, Thomas Dalziel and the author
+260  0    $a London : $b "Fun" Office, $c 1885
+300       $a 149 p. : $b ill. ; $c 18 cm
+500       $a BER: NO INPUT 852 - REJECT (07/09)."
+500       $a Koundakjian collection
+752       $a Great Britain $b England $d London
+901       $a BER $b 102650172
+
+Record 5
+LDR  01120nam  2200253   4500
+001  UCb102650226
+005  20020510143000.0
+008  831129 1927    txu                 eng d
+010       $a    44026830
+035       $a (OCoLC) 213982211
+035       $a GLADN33555866
+079       $a 2438436
+090       $a F1206 $b .C396
+100  10   $a Chastain, James Garvin, $d b. 1853.
+245  10   $a Thirty years in Mexico, $c by missionary James Garvin Chastain, D.D.; with an introduction by A.B. Rudd ... A sketch of Northern Baptist missions in Mexico [by] Rev. C.S. Detweiler ..
+260  0    $a El Paso, $b Tex., Printed for the author by Baptist Publishing House $c [1927?]
+300       $a 191 p. $b incl. port., illus. fold. map. $c 23 cm
+500       $a BER: ONLY 852 DOES NOT HAVE SUBFLD b WITH LOC CODE - REJECT (07/09).
+500       $a Author's signed presentation copy to Mr. and Mrs. Edward Frederick Backus
+650   0   $a Baptists $z Mexico.
+651   0   $a Mexico $x Church history.
+700  10   $a Detweiler, Charles S. $q (Charles Samuel), $d b. 1878. $t Sketch of Northern Baptist missions in Mexico
+752       $a United States $b Texas $d El Paso
+901       $a BER $b 102650226
+

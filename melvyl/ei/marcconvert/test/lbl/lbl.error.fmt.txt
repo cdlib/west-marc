@@ -1,0 +1,33 @@
+Record 1
+LDR  01707nxx  2200385ua 4500
+001  CLBI86-S1526
+003  CStRLIN
+005  20040617154100.0
+008  860804c19859999nyubx1p       0   a0eng d
+010       $a sn 86037005 
+022  0    $a 0888-7489 $y 0140-6566
+030       $a MCLLDZ
+040       $a IaAS $c IaAS $d FU $d NST $d NSDP $d NST $d MiU
+042       $a lcd $a nsdp
+082  1    $a 548 $2 11
+090       $a QD901 $b .M7182
+210  0    $a Mol. cryst. liq. cryst., Lett. sect.
+222   0   $a Molecular crystals and liquid crystals. Letters section
+246  13   $a MCLC letters
+246  13   $a Molecular crystals and liquid crystals letters
+260       $a New York : $b published for Gordon and Breach, Science Publishers, Inc. by OPA Ltd., $c c1985-
+300       $a v. : $b ill. ; $c 23 cm.
+362  0    $a Vol. 1, no. 1-2 (Feb. 1985)-
+500       $a CLBI:  REC HAS NO 245, INVALID TYPE & BIB LEVEL, UNKNOWN LOC CODE.  OUTPUT REC WITH 4 998 ERROR FIELDS (09/04).
+580       $a Previously published as an occasional number of: Molecular crystals and liquid crystals.
+650   0   $a Molecular crystals $x Periodicals.
+650   0   $a Liquid crystals $x Periodicals.
+650   0   $a Crystallography $x Periodicals.
+780  00   $t Molecular crystals and liquid crystals. Letters $x 0140-6566
+852       $a CLBI $b XXXX $h QD901 $i .M7182 $x CIN=KB; OID=AMW
+901       $a CLBI $b 86-S1526
+998       $a CLBI $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1004 $c Record contains the invalid leader type x $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1005 $c Record contains the invalid bibliographic level x $d Release-027-000 $e 86-S1526
+998       $a CLBI $b 1002 $c Record contains no 245 field $d Release-027-000 $e 86-S1526
+

@@ -1,0 +1,28 @@
+# set the environment variables and log onto CVS
+source /exlibris1/cdl_convert/setup
+# go to the release directory
+cd $MB_HOME
+
+# clean up 
+rm -rf marc
+rm -rf scripts
+rm -rf perl
+
+# export from cvs 
+cvs export -r $MARCLIB_RELEASE -d scripts marclib/build/build-marc.xml
+cvs export -r $MARCLIB_RELEASE -d scripts marclib/build/diffwrap.sh
+cvs export -r $MARCLIB_RELEASE -d scripts marclib/build/marc.ant.props
+cvs export -r $MARCUTIL_RELEASE -d perl marcutil/perl/MARC.pm
+cvs export -r $MARCUTIL_RELEASE -d perl marcutil/perl/marcformat.pl
+cvs export -r $MARCUTIL_RELEASE -d perl marcutil/perl/prtrej.pl
+cvs export -r $MARCUTIL_RELEASE -d perl marcutil/perl/qadiffbench.pl
+cvs export -r $MARCUTIL_RELEASE -d perl marcutil/perl/qarunbench.pl
+
+cd scripts 
+chmod +x diffwrap.sh
+
+# build, run the benchmarks and diff the results 
+ant -debug -buildfile build-marc.xml build-and-test >& ant.output
+
+echo ant output is in ant.output
+

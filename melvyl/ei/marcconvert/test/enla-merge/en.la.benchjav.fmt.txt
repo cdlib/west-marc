@@ -1,0 +1,974 @@
+Record 1
+LDR  01309cas a2200349 a 4500
+001  3806866
+003  CLU
+005  20040311130725.0
+008  750514c19609999caumx1p       0   a0eng d
+010       $a    63024254 $z sn 81004649 $z sn 78004676
+035       $a (OCoLC)01332710 $z 08702652 $z 01479580 $z 04065346
+035       $9 07-AOL-4620
+042       $a nsdp $a lc
+050  00   $a H1 $b .A472
+070  0    $a H1 $b A4
+082  10   $a 302 $2 11
+049       $a CLUR
+210  0    $a Am. behav. sci. $b (Beverly Hills)
+222   0   $a American behavioral scientist $b (Beverly Hills)
+245  04   $a Zealous or jealous: you be the judge 
+246  13   $a ABS $f Sept. 1966-<Sept./Oct. 1983->
+260       $a Princeton, N.J. : $b A. De Grazia, $c c1960-
+300       $a v. : $b ill ; $c 23-28 cm.
+310       $a 10 no. a year, $b Sept. 1997-
+321       $a Monthly (except July-Aug.), $b 1960-1967
+362  0    $a Vol. 4, no. 1 (Sept. 1960)-
+500       $a BIB REC HAS TEN HOLDINGS RECORDS: INPUT #'s 2,4,5,6,7,8,24,25,41,56 
+500       $a INPUT: 1 *****  
+650   0   $a Social sciences $v Periodicals.
+655   7   $a Online resources. $2 local
+856  41   $3 v.1(1957)- $z PCI Full Text. Restricted to UC campuses $u http://uclibs.org/PID/10404
+856  41   $3 Selected article text available for 1993- $z Expanded Academic ASAP. Restricted to UC campuses $u http://uclibs.org/PID/12880 $x CDL
+
+Record 2
+LDR  00399ny  a22001333i 4500
+001  5548677
+003  CLU
+004  3806866
+005  20030912101538.0
+008  9907251u    0   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 2 *****  
+852       $a CLU $b sr
+866       $a B5N2-10(1961/2)B6-9(1962/3-65/6) $x ATTN. SRLF PROCESSORS; OK TO ADD ITEMS TO THIS RECORD. ANALYTICS REPORTED TO OUS 09-13-91 JHD
+
+Record 3
+LDR  00394nv  a22001453i 4500
+001  4689268
+003  CLU
+004  3709641
+005  20020729162655.0
+007  c0-cg                  
+008  9808311d    8   0   aueng 980831
+500       $a HOL REC MATCHES BIB REC 27
+500       $a INPUT: 3 *****  
+852  0    $a CLU $b sgrfelec $h G3701.P1 s100 $i .G46 $x v.1-11,13-14 rec'd in PAS; offered to Geology Lib.
+866       $a v.1-14
+
+Record 4
+LDR  00433ny  a22001213i 4500
+001  5649985
+003  CLU
+004  3806866
+005  20030610120629.0
+008  9907255p    7   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 4 *****  
+852       $a CLU $b ar $x All holdings withdrawn per librarian 840110.  Send any further issues which may arrive on cancelled subscription, to Gifts. $z Library does not own this material $z Internal Record
+
+Record 5
+LDR  00319ny  a22001333i 4500
+001  5649987
+003  CLU
+004  3806866
+005  20031023153230.0
+008  9907254p    8   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 5 *****  
+852  0    $a CLU $b clbjnl $h BF199 $i .A51 $x 856 CDL
+866   0   $a B29-46(1985/6-2002/3)
+
+Record 6
+LDR  00480ny  a22001573i 4500
+001  5650034
+003  CLU
+004  3806866
+005  20030813121205.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-4620
+014  0    $9 08-AXJ-2046
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 6 *****  
+852  2    $a CLU $b bi $h W1 $i AM267 $x 856 CDL
+866   0   $a B8-41(1964/5-97/8)B42N1-5(1998).B43-45(2000-01/2)B46N1-8(2002) $x 10 issues for 1998. FQ increased from 8 to 10 with v.41, 8/13/97lcg.
+
+Record 7
+LDR  00544ny  a22001573i 4500
+001  5909032
+003  CLU
+004  3806866
+005  20031120121249.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-4620
+014  0    $9 08-AYM-1725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 7 *****  
+852  0    $a CLU $b clujnl $h BF199 $i .A51 $x 856 CDL
+866   0   $a U47N1-4;DEC.;(2002/3) $x BINDERY PICKUP: no.1-6, 7-End of the volume. Title change see previous American Behavioral Scientist, 07-AOL-4620, with barcodes, transfer barcodes to this bib record.
+
+Record 8
+LDR  00429cy  a22001693i 4500
+001  6884068
+003  CLU
+004  3806866
+005  20040311130935.0
+008  0403111u    0   0   au    990725
+014  1    $a 07-AOL-4620
+014  0    $9 08-AWY-0837
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 8 *****  
+852       $a CLU $b ir
+856  41   $z Restricted to UCLA $u http://www.ingenta.com/journals/browse/sage/j201
+866   0   $a v.42 no.4(1999)-
+
+Record 9
+LDR  00548ny  a22001693i 4500
+001  5650745
+003  CLU
+004  3295
+005  20031120131708.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AXJ-2844
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 9 *****  
+852  2    $a CLU $b bi $h W1 $i AM597 $x 856 CDL (JSTOR)
+866   0   $a B116-156(1980-00)
+867       $a SUPPS: B130(1987)B131(1988)B137(1991)B139(1992)B140(1992)B142(1993)B144(1994)B148(1996)B150(1997)B153(1999)B154(1999)B154NJULY(1999)B154NOCT(1999)B156NOCT(2000)
+
+Record 10
+LDR  01176cas a2200301i  4500
+001  3295
+003  CLU
+005  20040311131937.0
+008  750726c18679999ilumr1p      u0   a0enged
+010       $a    12030247 
+022  0    $a 0003-0147
+035       $a (OCoLC)01480477
+035       $9 07-AOL-6264
+042       $a nsdp
+050  00   $a QH1 $b .A5
+222   4   $a The American unnaturalist
+245  04   $a The American unnaturalist 
+260       $a Chicago, Ill. [etc.] $b Published for the American Society of Unnaturalists by the University of Chicago Press [etc.]
+300       $a v. $b ill. $c 27 cm.
+310       $a Monthly, $b 1979-
+321       $a Bimonthly (except Jan.-Mar. 1946), $b 1919-1978
+362  0    $a v. 1-   Mar. 1867-
+500       $a BIB REC HAS 7 HOLDINGS RECORDS: INPUT #'s 9,11,12,13,14,15,16 
+500       $a INPUT: 10 *****  
+650   0   $a Unatural history $x Periodicals.
+856  41   $3 v.153(1999)- $z Restricted to UCLA $u http://www.journals.uchicago.edu/AN/journal/index.html
+856  41   $3 v.1(1867)-152(1998) $z JSTOR. Restricted to UC campuses $u http://uclibs.org/PID/219 $x CDL
+856  41   $3 Selected article text for 2000- $z Expanded Academic ASAP. Restricted to UC campuses $u http://uclibs.org/PID/12953
+
+Record 11
+LDR  00512ny  a22001693i 4500
+001  5650746
+003  CLU
+004  3295
+005  20031120131745.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AXJ-2845
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 11 *****  
+852  2    $a CLU $b bi $h W1 $i AM597 $x 856 CDL (JSTOR)
+866   0   $a B1-93(1867-1959).B95-115(1961-80)
+867       $a SUPPS: B130(1987)B131(1988)B137(1991)B139(1992)B140(1992)B142(1993)B144(1994)B148(1996)B150(1997)U153(1999)
+
+Record 12
+LDR  00428ny  a22001693i 4500
+001  5650747
+003  CLU
+004  3295
+005  20031126173206.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AXJ-2846
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 12 *****  
+852  2    $a CLU $b biujnl $h W1 $i AM597 $x 856 CDL (JSTOR)
+866   0   $a U161N1-6(2003)U162N1-4(2003) $x RT 1
+867       $a SUPP::U162N4(2003)
+
+Record 13
+LDR  00408ny  a22001453i 4500
+001  5650748
+003  CLU
+004  3295
+005  19990909215252.0
+008  9907251u    0   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AXJ-2847
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 13 *****  
+852       $a CLU $b sr $x SRLF PROCESSORS: ITEMS HAVE BEEN ADDED TO UCR. CHECK SR62931 FOR DUPLICATE DEPOSITS. 6-12-89 cdn
+
+Record 14
+LDR  00431ny  a22001693i 4500
+001  6168788
+003  CLU
+004  3295
+005  20031120131842.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AZN-6083
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 14 *****  
+852  2    $a CLU $b bi $h W1 $i AM597 $x 856 CDL (JSTOR)
+866   0   $a B157-160(2001-02)
+867       $a SUPPS:B158(2001)B159N3(2002)B160N4,6(2002)
+
+Record 15
+LDR  00260nx  a22001214  4500
+001  6837158
+003  CLU
+004  3295
+005  20040213151754.0
+008  0402130p    8   1001uu   0000000
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 15 *****  
+852  0    $a CLU $b sesciacq
+
+Record 16
+LDR  00430ny  a22001693i 4500
+001  6884069
+003  CLU
+004  3295
+005  20040311132125.0
+008  0403111u    0   0   au    990725
+014  1    $a 07-AOL-6264
+014  0    $9 08-AXJ-2847
+500       $a HOL REC MATCHES BIB REC 10
+500       $a INPUT: 16 *****  
+852       $a CLU $b ir
+856  41   $z Restricted to UCLA $u http://www.journals.uchicago.edu/AN/journal/index.html
+866   0   $a v.153(1999)-
+
+Record 17
+LDR  00928nem a2200301I  4500
+001  2357971
+003  CLU
+005  20001201085651.0
+008  820809s1968    fr        a     0   fre  
+010       $a    71653489 /MAP
+035       $a (OCoLC)08673328
+035       $9 07-AID-8975
+040       $a DLC $c SMI $d m/c $d CLU
+041       $a freeng
+050  0    $a G8201.C5 1968 $b .M6
+052       $a 8201
+110  1    $a Morocco. $b Idārat al-Maʻādin wa-al-Jiyūlūjiyah.
+245  10   $a Carte tectonique 
+260       $a [Paris] $b Association of African Geological Surveys, Unesco, $c 1968.
+300       $a col. map $c 182 x 181 cm. on 9 sheets 68 x 101 cm. or smaller.
+500       $a BIB REC HAS 3 HOLDINGS RECS: INPUT 18,19,20
+500       $a INPUT: 17 *****  
+500       $a French and English.
+650   0   $a Geology, Structural $z Africa $x Maps.
+700  1    $a Choubert, Georges.
+830   0   $a Earth sciences, $v 4.
+910       $a 7 Aug 98 sms rev
+935       $a MC5273707
+
+Record 18
+LDR  00350nx  a22001331i 4500
+001  2722389
+003  CLU
+004  2357971
+005  20000912170847.0
+007  a                      
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 17
+500       $a INPUT: 18 *****  
+852  0    $a CLU $b sgput $h G8201.C5 1968 $i .M6 $z Sheets in H1-2. Text in FC28b-c.
+
+Record 19
+LDR  00338nv**a22001333n 4500
+001  5892575
+003  CLU
+004  2357971
+005  20020905092436.0
+007  a                      
+008  0012012d    8   4001abeng0970901        
+500       $a HOL REC MATCHES BIB REC 17
+500       $a INPUT: 19 *****  
+852  0    $a CLU $b yrmgsr $h G8201s.C55 5M $i Unesco/ASGA 1968
+
+Record 20
+LDR  00324nv**a22001453i 4500
+001  6410187
+003  CLU
+004  2357971
+005  20020905092620.0
+007  a                      
+008  0012012d    8   1001abeng0970901        
+500       $a HOL REC MATCHES BIB REC 17
+500       $a INPUT: 20 *****  
+852  0    $a CLU $b sr
+866       $a no.1-9
+
+Record 21
+LDR  00752ncm a2200277Ia 4500
+001  4616593
+003  CLU
+005  20011208120715.0
+008  010601s2001    wiumua         n    eng d
+040       $a ORU $c ORU $d CLU
+020       $a 063403023X
+028  32   $a HL00306411 $b H. Leonard Corp.
+043       $a e-uk-en
+090       $a M1741.18.B36 $b S6 2001
+049       $a CLUV
+110  2    $a Beatles.
+240  10   $a Songs. $k Selections
+245  10   $a 1 : $b piano, vocal,/ $c The Beatles.
+246  3    $a One
+260       $a Milwaukee, WI : $b H. Leonard Corp., $c [2001?].
+300       $a 1 score (109 p.) ; $c 31 cm.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 22
+500       $a INPUT: 21 *****  
+650   0   $a Rock music $y 1961-1970.
+650   0   $a Send Rummy to jail.
+910       $a lah 011207
+
+Record 22
+LDR  00350nx. a22001571i.4500
+001  6196955
+003  CLU
+004  4616593
+005  20020215163127.0
+007  t
+008  0112080u    0   0   uueng 011208
+014  1    $a 07-ASU-4167
+014  0    $9 08-AZQ-6238
+500       $a HOL REC MATCHES BIB REC 21
+500       $a INPUT: 22 *****  
+852  0    $a CLU $b mu $h M1741.18.B36 $i S6 2001
+
+Record 23
+LDR  01094cgm a2200349Ka 4500
+001  4857417
+003  CLU
+005  20030423203046.0
+007  vd cgaizu
+008  000509p20001945cau140            vleng d
+035       $a (OCoLC)44009587
+035       $9 07-ATV-1392
+040       $a GZD $c GZD $d CLU
+020       $a 0790744430
+024  1    $a 012569507029
+028  40   $a 65070 $b Warner Home Video/DVD Video
+092       $a 791.4372
+099       $a DVD 158
+049       $a CLUV $o MUSCLSD [MUSCLSD-MULTIMED] $l L0080930803
+245  00   $a Anchors aweigh  $h [videorecording] / $c a Metro-Goldwyn-Mayer Picture.
+250       $a Standard version.
+260       $a Burbank, Calif. : $b Warner Home Video, $c 2000.
+300       $a 1 videodisc (140 min.) : $b sd., col. ; $c 3 3/4 in.
+500       $a BIB REC HAS 1 HOLDINGS RECS: INPUT 26
+500       $a INPUT: 23 *****  
+538       $a DVD.
+546       $a English and French audio and subitiles.
+546       $a Closed-captioned.
+511  0    $a Frank Sinatra, Kathryn Grayson, Gene Kelly.
+500       $a BIB REC  5 *****HAS ONE HOLDINGS REC
+710  2    $a Metro-Goldwyn-Mayer.
+910       $a bas 030422
+
+Record 24
+LDR  00349ny  a22001333i 4500
+001  5650035
+003  CLU
+004  3806866
+005  20031120152636.0
+008  9907254p    8   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 24 *****  
+852  2    $a CLU $b biujnl $h W1 $i AM267 $x 856 CDL
+866   0   $a U42N6-10(1999)U46N9-12(2002/2003)U47N1-4(2003) $x FQ12
+
+Record 25
+LDR  00679ny  a22001333i 4500
+001  5650036
+003  CLU
+004  3806866
+005  20030911155311.0
+008  9907255p    8   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 25 *****  
+852  0    $a CLU $b yr $h BF199 $i .A51 $x 856 CDL
+866   0   $a B37(1993/4-94/5)B38N1-6(1994/5).B39-41(1995/6-97/8)B42N1-10(1998/9).B43(2000)B44N1-3,5-9,10-12(2000/1)B45-46(2002) $x Pubd Sep-Aug::CANCELLED per Medford with December 2002 as available at other libraries on campus. Route any issues received for 2003+ to A.Takara 020806lb8/07/02ets*********B33-35(1989/0-91/2)B36N1-6(1992/3) OK to send to SR per Stancliffe; prep for deposit 8-19-02jmk
+
+Record 26
+LDR  00350nx. a22001571i.4500
+001  6624045
+003  CLU
+004  4857417
+005  20030521120700.0
+007  vd cgaizu
+008  0304230u    0   0   uueng 030423
+500       $a HOL REC MATCHES BIB REC 23
+500       $a INPUT: 26 *****  
+014  1    $a 07-ATV-1392
+014  0    $9 08-BBJ-9272
+852  4    $a CLU $b muclsdmm $j DVD 158
+
+Record 27
+LDR  00820cem a2200253Ia 4500
+001  3709641
+003  CLU
+005  20020731063131.0
+006  m        m f      
+007  co cg|
+008  920327m19911993vau       z  fs 0   eng d
+086  0    $a I 19.120:D 56/AREA 1-14/OPTION.
+090       $a G3701.P1 $b s100, G46
+110  2    $a Geological Survey (U.S.)
+245  10   $a 1:100,000-scale DLG data 
+260       $a Reston, VA : $b U.S. Dept. of the Interior, U.S. Geological Survey, $c 1991-1993.
+300       $a 14 computer optical discs : $b col. ; $c 4 3/4 in.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 3
+500       $a INPUT: 27 *****  
+650   0   $a Hydrography $z United States $v Maps.
+650   0   $a Transportation $z United States $v Maps.
+710  2    $a Earth Science Information Center (U.S.)
+910       $a 29 Jul 2002 ss
+935       $a IP1239264
+
+Record 28
+LDR  00804nas a2200241 a 4500
+001  4297792
+003  CLU
+005  20030624032550.0
+008  030623u1992uuuuye wr ne      0    0ara c
+010       $a   2003223574
+130  0    $6 880-01 $a Zamān (Aden, Yemen)
+245  03   $6 880-02 $a al-Zamān = $b al-Zaman.
+246  1    $i Issues for <Aghusṭus 1992-> also have title: $a Azzaman
+260       $a [Aden] : $b al-Zamān, $c [1992]-
+300       $a v. : $b ill. ; $c 36-43 cm.
+362  0    $6 880-03 $a al-ʻAdad 0 (7 Māyū 1992)-
+500       $a BIB REC HAS 2 HOLDINGS RECS: INPUT 29,30
+500       $a INPUT: 28 *****  
+651   0   $a Yemen $v Newspapers.
+752       $a Yemen $d Aden.
+880  0    $6 130-01/(3/r $a زمان (Aden, Yemen)
+880  03   $6 245-02/(3/r $a الزمان = $b al-Zaman.
+880  0    $6 362-03/(3/r $a العدد 0 (7 مايو 1992)-
+
+Record 29
+LDR  00603ny**a22001813n 4500
+001  6558351
+003  CLU
+004  4297792
+005  20030625113937.0
+008  0302131z    8   0000au   0970901        
+014  1    $a 07-ARF-0371
+014  0    $9 08-BBC-8933
+008  0304230u    0   0   uueng 030423
+500       $a HOL REC MATCHES BIB REC 28
+500       $a INPUT: 29 *****  
+852       $a CLU $b yrsr $z Internal - Sent to SRLF
+866   0   $a ALL VOLUMES DEPOSITED IN THE SRLF UPON RECEIPT: BN0,2-4,7,10-29(1992).BN30-50(1993).BN61-62(1994) $x ROUTE: SR:MRK::V.3 no.510-518 (1999/2000) to D. Hirsch 2/9/00.
+916       $a jpserhol 030625
+
+Record 30
+LDR  00377ny**a22001453i 4500
+001  6712115
+003  CLU
+004  4297792
+005  20031206082626.0
+008  0302131z    8   0000au   0970901        
+008  0304230u    0   0   uueng 030423
+500       $a HOL REC MATCHES BIB REC 28
+500       $a INPUT: 30 *****  
+852       $a CLU $b sr
+866   0   $a BN0,2-4,7,10-29(1992).BN30-50(14993).BN61-62(1994)
+
+Record 31
+LDR  01997nam a2200409Ia 4500
+001  3280700
+003  CLU
+005  20010918111434.0
+008  980216r19721973su            000 0 ara d
+035       $a (OCoLC)38447408
+035       $9 07-ALK-4891
+040       $a OSU $c OSU $d CLU
+066       $c (3
+090       $a BP135.N23 $b S96 1972
+049       $a CLUL
+100  0    $6 880-01 $a Suyūṭī, $d 1445-1505.
+245  10   $6 880-02 $a Tadrīb al-rāwī fī sharḥ taqrīb al-Nawāwī / $c li-Jalāl al-Dīn ʻAbd al-Raḥmān ibn Abī Bakr al-Suyūṭī ; ḥaqqaqahu wa-rājaʻa usūlahu ʻAbd al-Wahhāb ʻAbd al-Laṭīf.
+246  18   $6 880-03 $a Tadrīb al-rāwī
+250       $6 880-04 $a al-Ṭabʻah 2.
+260       $6 880-05 $a al-Madīnah al-Munawwarah : $b al-Maktabah al-ʻIlmīyah, $c 1972-[73].
+300       $a 2 v. in 1 ; $c 25 cm.
+500       $a BIB REC HAS 2 HOLDINGS RECS: INPUT 32,33
+500       $a INPUT: 31 *****  
+440   0   $6 880-06 $a ʻIlm uṣūl al-ḥadīth
+600  00   $6 880-07 $a Nawawī, $d 1233-1277. $t Taqrīb wa-al-taysīr li-maʻrifat sunan al-bashīr al-nadhīr.
+650   0   $a Hadith $v Early works to 1800.
+700  1    $6 880-08 $a ʻAbd al-Laṭīf, ʻAbd al-Wahhāb.
+880  0    $6 100-01/(3/r $a سيوطي، $d 1445-1505.
+880  10   $6 245-02/(3/r $a تدريب الراوي في شرح تقريب النواوي / $c لجلال الدين عبد الرحمن بن ابي بكر السيوطي ؛ حققه وراجع اسوله عبد الوهاب عبد اللطيف.
+880  18   $6 246-03/(3/r $a تدريب الراوي
+880       $6 250-04/(3/r $a الطبعة 2.
+880       $6 260-05/(3/r $a المدينة المنورة : $b المكتبة العلمية، $c 1972-[73].
+880   0   $6 440-06/(3/r $a عالم اصول الحديث
+880  00   $6 600-07/(3/r $a نووي، $d 1233-1277. $t تقريب والتيسير لمعرفة سنن البشير النذير.
+880  1    $6 700-08/(3/r $a عبد اللطيف، عبد الوهاب.
+910       $a arab techpro 010915
+935       $a MC4248843
+
+Record 32
+LDR  00319nx  a22001451i 4500
+001  3807554
+003  CLU
+004  3280700
+007  t
+008  9808230u    8   4   aueng 980823
+500       $a HOL REC MATCHES BIB REC 31
+500       $a INPUT: 32 *****  
+014  1    $a 07-ALK-4891
+014  0    $9 08-AOV-0402
+852  0    $a CLU $b yr $h BP135.N23 $i S96 1972
+
+Record 33
+LDR  00322nv**a22001453i 4500
+001  6147750
+003  CLU
+004  3280700
+005  20031015115828.0
+007  t
+008  0110102p    8   1000uu   0970901        
+500       $a HOL REC MATCHES BIB REC 31
+500       $a INPUT: 33 *****  
+852  0    $a CLU $b lw $h BP135.N23 $i S96 1972
+866   0   $a v.1-2
+
+Record 34
+LDR  01097nam a2200349ia 4500
+001  1828591
+003  CLU
+005  20020521025112.0
+008  930513s1990    cc a           00 0 chi d
+020       $a 7805462828
+035       $a (OCoLC)28099017
+035       $9 07-AFZ-5573
+040       $a HNK $c HNK $d CLU $d WaOLN
+066       $c $1
+100  1    $6 880-01 $a Ren, Farong.
+245  10   $6 880-02 $a Dao de jing shi yi / $c Ren Farong zhu.
+250       $6 880-03 $a Di 2 ban.
+260       $6 880-04 $a Xi'an : $b Sanqin chu ban she, $c 1990.
+300       $a 7, 189 p. : $b ill. ; $c 21 cm.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 35
+500       $a INPUT: 34 *****  
+600  00   $6 880-05 $a Laozi. $t Dao de jing.
+700  02   $6 880-06 $a Laozi. $t Dao de jing.
+880  1    $6 100-01/$1 $a 任法融.
+880  10   $6 245-02/$1 $a 道德經釋義 / $c 任法融注.
+880       $6 250-03/$1 $a 第2版.
+880       $6 260-04/$1 $a 西安 : $b 三秦出版社, $c 1990.
+880  00   $6 600-05/$1 $a 老子. $t 道德經.
+880  02   $6 700-06/$1 $a 老子. $t 道德經.
+910       $a vl 050594
+935       $a MC5448580
+987       $a PINYIN $b OCoLC $c 20020116 $d c $e 10.15.2001
+
+Record 35
+LDR  00375nx  a22001692i 4500
+001  1995362
+003  CLU
+004  1828591
+005  20030528191033.0
+007  t
+008  9808220u    8   4   aueng 980822
+014  1    $a 07-AFZ-5573
+014  0    $9 08-AHT-8389
+500       $a HOL REC MATCHES BIB REC 34
+500       $a INPUT: 35 *****  
+852  0    $a CLU $b ea $h BL1900.L35 $i J46 1990
+935       $a MC5448580
+
+Record 36
+LDR  01371nam a2200301Ka 4500
+001  4510836
+003  CLU
+005  20000914064453.0
+008  000913s1996    ja a          000 0 jpn d
+066       $c $1
+020       $a 4873784662
+041  1    $a jpn $h eng
+100  1    $a Day, Stacey B.
+240  10   $a Medical student and the mission of medicine in the 21st century. $l Japanese
+245  10   $6 880-01 $a 21-seiki ni okeru igakusei oyobi igaku no shimei = $b the medical student and the mission of medicine in the 21st century / $c Suteishī B. Dei cho ; Inoguchi Kiyoshi, Kobayashi Michio kan yaku.
+246  3    $a Nijūisseiki ni okeru igakusei oyobi igaku no shimei
+250       $6 880-02 $a Shohan.
+260       $6 880-03 $a Fukuoka-shi : $b Kyūshū Daigaku Shuppankai, $c 1996.
+300       $a v, 113 p. : $b ill. ; $c 21 cm.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 37
+500       $a INPUT: 36 *****  
+880  10   $6 245-01/$1 $a 21世紀における医学生および医学の使命 = $b the medical student and the mission of medicine in the 21st century / $c スティシ－ B. デイ著 ; 井口潔, 小林迪夫監訳.
+880       $6 250-02/$1 $a 初版.
+880       $6 260-03/$1 $a 福岡市 : $b 九州大学出版会, $c 1996.
+880       $6 500-04/$1 $a "大分医科大学講義錄"--Cover.
+880  1    $6 700-05/$1 $a 井口潔, $d 1921-
+880  1    $6 700-06/$1 $a 小林迪夫, $d 1930-
+910       $a tb 20000904
+
+Record 37
+LDR  00271nx. a22001332i.4500
+001  5848755
+003  CLU
+004  4510836
+005  20001120120604.0
+007  t
+008  0009140u    0   0   uueng 000914
+500       $a HOL REC MATCHES BIB REC 36
+500       $a INPUT: 37 *****  
+852       $a CLU $b sr
+
+Record 38
+LDR  00978nam a22003018a 4500
+001  1401307
+003  CLU
+005  19901006141941.0
+008  900129s1990    nmu      b   s 01 0 eng  
+010       $a    90031486 
+020       $a 0826312047
+020       $a 0826312136 (pbk.)
+035       $a (OCoLC)21118790
+035       $9 07-AEN-7268
+040       $a DLC $c DLC $d CLU
+043       $a n-us---
+050  00   $a E184.M5 $b G634 1990
+082  00   $a 973/.046872073$220
+100  1    $a Gómez-Quiñones, Juan.
+245  10   $a Chicano politics : $b reality and promise, 1940-1990 / $c Juan Gómez-Quiñones.
+250       $a 1st ed.
+260       $a Albuquerque : $b University of New Mexico Press, $c c1990.
+300       $a 265 p. ; $c 23 cm.
+440   4   $a The Calvin P. Horn lectures in western history and culture
+500       $a BIB REC HAS 3 HOLDINGS REC: INPUT 39,40,42
+500       $a INPUT: 38 *****  
+650   0   $a Mexican Americans $x Politics and government.
+651   0   $a United States $x Politics and government $y 1945-1989.
+
+Record 39
+LDR  00291nx  a22001331i 4500
+001  1510541
+003  CLU
+004  1401307
+005  20010608092813.0
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 38
+500       $a INPUT: 39 *****  
+852  0    $a CLU $b yr $h E184.M5 $i G634 1990
+
+Record 40
+LDR  00291nx  a22001331i 4500
+001  1510542
+003  CLU
+004  1401307
+005  20030926155210.0
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 38
+500       $a INPUT: 40 *****  
+852  0    $a CLU $b cl $h E184.M5 $i G634 1990
+
+Record 41
+LDR  00349ny  a22001213i 4500
+001  5649986
+003  CLU
+004  3806866
+005  20030610120645.0
+008  9907255p    0   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 41 *****  
+852  0    $a CLU $b bisr $h BF199 $i .A51 $z Library does not have current subscription $z Internal - Sent to SRLF $x 856 CDL
+
+Record 42
+LDR  00271nx  a22001332i 4500
+001  6046154
+003  CLU
+004  1401307
+005  20010608092840.0
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 38
+500       $a INPUT: 42 *****  
+852  0    $a CLU $b sr
+
+Record 43
+LDR  00869nam a2200253i  4500
+001  1406285
+003  CLU
+005  19930112072940.0
+008  900516s1895    iaua           00 0 eng c
+010       $a gs 05001142 
+035       $a (OCoLC)21543453
+035       $9 07-AEO-5703
+040       $a Library, U.S. Geological Survey $c IXA $d IXA $d CLU
+100  1    $a Gordon, Charles Henry, $d 1857-
+245  00   $a Buried river channels in southeastern Iowa. $c By C.H. Gordon. From Iowa Geological Survey, vol. III. Second annual report, 1893 ...
+260       $a Des Mones, $c 1895.
+300       $a 1 p. L., p. 239-255. $b illus. $c 26 cm.
+410  20   $a Iowa Geological Survey. $t [Reports and papers] $v v. 3
+500       $a BIB REC HAS 3 HOLDINGS RECS: INPUT 44,58,59
+500       $a INPUT: 43 ***** 
+500       $a HAS DUPLICATE BIB REC #49 REJECT
+650   0   $a Geology $z Iowa.
+910       $a rcpp 2404
+935       $a MC5280702
+
+Record 44
+LDR  00337nx  a22001331i 4500
+001  1521410
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 44 *****  
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b sg $h QE111 $i .I64 v.3
+
+Record 45
+LDR  00703nam a2200253 a 4500
+001  1411263
+003  CLU
+005  19920601115614.0
+008  891227s1992    nyu      b     01 0 eng  
+010       $a    89046531 
+020       $a 0064332764 :$50.00
+035       $a (OCoLC)24011475
+035       $9 07-AEP-4445
+040       $a DLC $c DLC $d PLS $d CLU
+043       $a n------
+050  00   $a NA703 $b .G69 1991
+100  1    $a Gowans, Alan.
+245  10   $a That's a big idea from such a tiny brain.
+250       $a 1st ed.
+260       $a New York : $b Icon Editions, $c 1992.
+300       $a xiv, 396 p. : $b ill. ; $c 26 cm.
+500       $a BIB REC HAS 2 HOLDINGS REC: INPUT 46,60
+500       $a INPUT: 45 *****  
+651   0   $a North America $x Civilization.
+
+Record 46
+LDR  00286nx  a22001331i 4500
+001  1532989
+003  CLU
+004  1411263
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 45
+500       $a INPUT: 46 *****  
+852  0    $a CLU $b ar $h NA703 $i .G69 1992
+935       $a MC5171924
+
+Record 47
+LDR  00677nam a2200241 a 4500
+001  1413752
+003  CLU
+008  810403s1981    maua     b     01 0 eng  
+010       $a    81003448 
+020       $a 088410690X
+035       $a (OCoLC)07460449
+035       $9 07-AEP-8668
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CLU
+050  0    $a HD9030.6 $b .G7
+082  0    $a 382/.4131$219
+245  00   $a Brain export cartels / $c Andrew Schmitz ... [et al.].
+260       $a Cambridge, Mass. : $b Ballinger Pub. Co., $c c1981.
+300       $a xxi, 298 p. : $b ill. ; $c 23 cm.
+500       $a BIB REC HAS 2 HOLDINGS REC: INPUT 48,50
+500       $a INPUT: 47 *****  
+650   0   $a Prices.
+700  1    $a Schmitz, Andrew.
+
+Record 48
+LDR  00257nx  a22001211i 4500
+001  1538507
+003  CLU
+004  1413752
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 47
+500       $a INPUT: 48 *****  
+852  0    $a CLU $b mg $h HD9030.6 $i .G7
+
+Record 49
+LDR  00626nam a2200181i  4500
+001  1406285
+003  CLU
+005  19930112072940.0
+008  900516s1895    iaua           00 0 eng c
+010       $a gs 05001142 
+100  1    $a Gordon, Charles Henry, $d 1857-
+245  00   $a Buried river channels in southeastern Iowa. $c By C.H. Gordon. From Iowa Geological Survey, vol. III. Second annual report, 1893 ...
+260       $a Des Mones, $c 1895.
+300       $a 1 p. L., p. 239-255. $b illus. $c 26 cm.
+500       $a BIB REC HAS 3 HOLDINGS RECS: INPUT 44,57,58
+500       $a INPUT: 49 ***** 
+500       $a HAS DUPLICATE BIB REC #43 REJECT
+650   0   $a Geology $z Iowa.
+
+Record 50
+LDR  00301nx**a22001332i 4500
+001  6456735
+003  CLU
+004  1413752
+005  20021030133301.0
+007  t                      
+008  0210302p    8   4001abeng0970901        
+500       $a HOL REC MATCHES BIB REC 47
+500       $a INPUT: 50 *****  
+852       $a CLU $b sr
+
+Record 51
+LDR  00681das a2200193ia 4500
+001  3810389
+003  CLU
+005  20040311131500.0
+008  751101d19361960at au    c   f0   a0eng u
+035       $a (OCoLC)01771165
+035       $9 07-AOL-9182
+040       $c MUL $d YUS $d IUL $d m.c. $d NYS $d CLU
+245  00   $a Annual catalogue of Australian scandals / $c Commonwealth National Library, Canberra.
+260       $a Canberra : $b Published by authority of the Library Committee, $e (Canberra : $f L.F. Johnston, Commonwealth Government Printer)
+300       $a 25 v. ; $c 24 cm.
+310       $a Annual
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 54
+500       $a INPUT: 51 *****  
+691   0   $a Australia $x Scandals $x Periodicals.
+
+Record 52
+LDR  00466dam a2200145ii 4500
+001  1789253
+003  CLU
+005  20040311131653.0
+008  800103s1979    nyua     b    101 0 eng d
+245  10   $a Lullaby of the rasp fern: pukupuku we hardly knew ye
+260       $a [New York : $b Institute of Botanical Sanity
+300       $a ca. 1150 p. in various pagings : $b ill. ; $c 28 cm.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 55
+500       $a INPUT: 52 *****  
+650   0   $a Fern madness $x Congresses.
+
+Record 53
+LDR  00221dx  a22000974  4500
+003  CLU
+004  4112541
+008  0403154u    8   1001uu   0901128
+500       $a HOL REC HAS NO MATCHING BIB REC: REJECT
+500       $a INPUT: 53 *****  
+852       $a CLU $b aa
+
+Record 54
+LDR  00208dx  a22000974  4500
+003  CLU
+004  3810389
+008  0403154u    8   1001uu   0901128
+500       $a HOL REC MATCHES BIB REC 51
+500       $a INPUT: 54 *****  
+852       $a CLU $b aa
+
+Record 55
+LDR  00208dx  a22000974  4500
+003  CLU
+004  1789253
+008  0403154u    8   1001uu   0901128
+500       $a HOL REC MATCHES BIB REC 52
+500       $a INPUT: 55 *****  
+852       $a CLU $b aa
+
+Record 56
+LDR  00454ny  a22001573i 4500
+001  5548677
+003  CLU
+004  3806866
+005  20030912101538.0
+008  9907251u    0   0   au    990725
+500       $a HOL REC MATCHES BIB REC 1
+500       $a INPUT: 56 *****  
+852       $a CLU $b sr
+866       $a B5N2-10(1961/2)B6-9(1962/3-65/6) $x ATTN. SRLF PROCESSORS; OK TO ADD ITEMS TO THIS RECORD. ANALYTICS REPORTED TO OUS 09-13-91 JHD
+935       $a TC0041844
+905       $c SB Z $e ANL M
+
+Record 57
+LDR  00323das a2200121u  4500
+001  4112540
+003  CLU
+005  20040311131311.0
+008                              0      spa  
+035       $9 07-AQC-7005
+245  00   $a Historiografia y bibliografia americanista. 
+500       $a BIB REC HAS NO MATCHING HOL REC: REJECT
+500       $a INPUT: 57 *****  
+
+Record 58
+LDR  00341nx  a22001331i 4500
+001  1212121
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 58 *****  
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b etbjnl $h QE111 $i .I64 v.4
+
+Record 59
+LDR  00339nx  a22001331i 4500
+001  1313131
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 59 *****  
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b arsc $h QE111 $i .I64 v.5
+
+Record 60
+LDR  00260nx  a22001211i 4500
+001  1532989
+003  CLU
+004  1411263
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 45
+500       $a INPUT: 60 *****  
+852  0    $a CLU $b cars $j Pukupuku Coll.
+
+Record 61
+LDR  00431ncm a2200145Ia 4500
+001  8888888
+003  CLU
+005  20011208120715.0
+008  010601s2001    wiumua         n    eng d
+245  10   $a The Songbook of Mothra's twin fairies.
+260       $a Tokyo : $b H. Infant Island Pub, $c [12 BC].
+300       $a 1 score (109 p.) ; $c 31 cm.
+500       $a BIB REC HAS 1 HOLDINGS REC: INPUT 62
+500       $a INPUT: 61 *****  
+650   0   $a Music to awaken giant moths.
+
+Record 62
+LDR  00291nx. a22001331i.4500
+001  0010012
+003  CLU
+004  8888888
+005  20020215163127.0
+007  t
+008  0112080u    0   0   uueng 011208
+500       $a HOL REC MATCHES BIB REC 61
+500       $a INPUT: 62 *****  
+852  0    $a CLU $b mg $h Rare Monster Coll.
+

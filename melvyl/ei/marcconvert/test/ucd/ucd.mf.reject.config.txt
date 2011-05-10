@@ -1,0 +1,42 @@
+# Config file for marcformat.pl
+#
+#   infile:   An input file of records in usmarc format.
+#                 Defaults to STDIN.
+#
+#   infmt:    The input format, in usmarc or marcmaker.
+#                 Default is ascii.
+#
+#   outfile:  The output file to create.
+#                 Defaults to STDOUT.
+#
+#   outfmt:   The output format, in usmarc or ascii.
+#                 Default is ascii.
+#                 Aliased to 'format' for backward compatiblity
+#
+#   skip:     Ignore the first n records.
+#                 Default is 0.
+#   maxin:    Maximum number of records to process.
+#                 Default is all.
+#   maxout:   Maximum number of records to output.
+#                 Default is all.
+#
+#   field:    Field to look for.
+#                 If no field is specified the record will be selected
+#                 for output without further checking.
+#   subfield: Subfield character to look for.
+#   regex:    Regular expression in Perl syntax to use for selection.
+#   nregex:   Regular expression in Perl syntax to use for bypass.
+#
+
+infile   = ucd.reject.mrc       # UCD conversion reject output
+outfile  = ucd.reject.fmt.txt   # UCD formatted reject output
+
+# infmt    =
+# outfmt   =
+# skip     =
+# maxin    =
+# maxout   =
+# field    =
+# subfield =
+# regex    =
+# nregex   =

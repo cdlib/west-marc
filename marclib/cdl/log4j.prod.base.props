@@ -1,0 +1,123 @@
+#------------------------------------------------------------------------------
+# log4j configuration file
+#
+# author: Shawn McGovern
+# date:   April 25, 2001
+#
+# Note: This file must be in the classpath for log4j to find it.
+#------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------
+# Set the root logger to desired level (DEBUG, INFO, WARN, ERROR, FATAL)
+# using the desired appenders (console, file, rolling file)
+#------------------------------------------------------------------------------
+#log4j.rootLogger=INFO, F1, R1
+log4j.rootLogger=INFO, F1
+#log4j.rootLogger=DEBUG, F1
+#------------------------------------------------------------------------------
+# End of root logger setup
+#------------------------------------------------------------------------------
+
+
+#------------------------------------------------------------------------------
+# Setup overrides for particular classes - optional
+#------------------------------------------------------------------------------
+#log4j.logger.org.cdlib.marcconvert.RLINConvert=DEBUG, F1
+
+#------------------------------------------------------------------------------
+# End of per class logger setup
+#------------------------------------------------------------------------------
+
+
+#------------------------------------------------------------------------------
+# Setup the console appender
+#
+#   log to STDERR
+#   use the PatternLayout
+#   pattern:
+#     date - in ISO8601 format (YYYY-mm-dd HH:mm:ss,SSS)
+#     elapsed time - right justified, minimum length 8
+#     thread name - actual length
+#     priority - left justified, minimum length 5
+#     logger name - this should be the same as the invoking class name
+#                   minimum length 35
+#     message
+#
+#------------------------------------------------------------------------------
+log4j.appender.C1=org.apache.log4j.ConsoleAppender
+log4j.appender.C1.target=System.err
+log4j.appender.C1.layout=org.apache.log4j.PatternLayout
+log4j.appender.C1.layout.ConversionPattern=%d{ISO8601} %8r [%t] %-5p %-35c - %m%n
+#------------------------------------------------------------------------------
+# End of of console appender setup
+#------------------------------------------------------------------------------
+
+
+#------------------------------------------------------------------------------
+# Setup a file appender
+#
+#   file - convert.log
+#   append - false
+#
+# use the same pattern as the console appender
+#------------------------------------------------------------------------------
+log4j.appender.F1=org.apache.log4j.FileAppender
+log4j.appender.F1.File=%source%
+log4j.appender.F1.Append=false
+log4j.appender.F1.layout=org.apache.log4j.PatternLayout
+log4j.appender.F1.layout.ConversionPattern=%d{ISO8601} %8r [%t] %-5p %-35c - %m%n
+#------------------------------------------------------------------------------
+# End of of file appender 1 setup
+#------------------------------------------------------------------------------
+
+#------------------------------------------------------------------------------
+# Setup a rolling file appender
+#
+#   file - rolling.convert.log
+#   append - true
+#   max file size - 5 megabytes
+#   number of logs to keep - 10
+#
+# use the same pattern as the console appender
+#------------------------------------------------------------------------------
+log4j.appender.R1=org.apache.log4j.RollingFileAppender
+log4j.appender.R1.File=%rollingsource%
+log4j.appender.R1.Append=true
+log4j.appender.R1.MaxFileSize=5MB
+log4j.appender.R1.MaxBackupIndex=10
+log4j.appender.R1.layout=org.apache.log4j.PatternLayout
+log4j.appender.R1.layout.ConversionPattern=%d{ISO8601} %8r [%t] %-5p %-35c - %m%n
+#------------------------------------------------------------------------------
+# End of of rolling file appender 1 setup
+#------------------------------------------------------------------------------
+
+
+
+######################################################################
+# For the general syntax of property based configuration files see the
+# documenation of org.apache.log4j.PropertyConfigurator.
+
+# The root category uses the appender called A1. Since no priority is
+# specified, the root category assumes the default priority for root
+# which is DEBUG in log4j. The root category is the only category that
+# has a default priority. All other categories need not be assigned a
+# priority in which case they inherit their priority from the
+# hierarchy.
+
+#log4j.rootCategory=, A1
+
+# A1 is set to be a FileAppender which outputs to the file
+# "factor.log". Start the server NumberCruncherServer and two
+# NumberCruncherClients, and ask to factor two numbers
+# near-simultaneously. Notice that the log output from these two
+# requests are logged in the file factor.log. Nevertheless, the logs
+# of these requests can still be distinguished given their distinct
+# nested diagnostic contexts.
+
+#log4j.appender.A1=org.apache.log4j.FileAppender
+#log4j.appender.A1.File=factor.log
+#log4j.appender.A1.layout=org.apache.log4j.PatternLayout
+
+# Note the %x conversion specifier for NDC printing.
+#log4j.appender.A1.layout.ConversionPattern=%-4r %-5p [%t] (%x) - %m\n
+

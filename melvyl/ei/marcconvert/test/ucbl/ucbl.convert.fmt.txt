@@ -1,0 +1,258 @@
+Record 1
+LDR  01272nam  2200313 a 4500
+001  CUBL05-B560
+003  CStRLIN
+005  20050203160410.0
+008  050203q19731974is            000 0 heb d
+040       $a NNYU $c NNYU $d CUL
+090       $a BM522.42 $b .O33 1973
+100  1    $a Hoffenberg, Cemach.
+240  10   $a Hekhal Tsemaòh
+245  10   $a Sefer Hekhal Tsemaòh.
+260       $a [Yerushalayim? : $b òh. mo. l] ; $a Canada : $b le-haâsig, M. Green, $c [734 i.e. 1973 or 1974]
+300       $a 264 p. ; $c 34 cm.
+500       $a CUBL:  OUTPUT 852 AS FOLLOWS: TAKE 4 LETTER LI CODE (CUBL) FROM 001 & OUTPUT IN 852 a, TAKE LOC CODE (RBSTA) FROM 852 b & OUTPUT IN b; OUTPUT INCOMING 852 h, i, t, m, x AS IS (02/05).
+500       $a OUTPUT 901 AS FOLLOWS: TAKE LI CODE (CUBL) FROM 001 & OUTPUT IN 901 a; OUTPUT REMAINDER OF 001 IN 901 b.
+500       $a DROP INCOMING 852 FIELD.
+650   0   $a Responsa $y 1900-
+650   0   $a Names, Personal $x Jewish.
+600  00   $a Maimonides, Moses, $d 1135-1204. $t Mishneh Torah $x Commentaries.
+650   0   $a Jewish law.
+650   0   $a Talmud $x Commentaries.
+650   0   $a Hadran.
+650   0   $a Jewish sermons, Hebrew.
+700  12   $a Hoffenberg, Cemach. $t Mishneh berurah, u-Peri tsemaòh.
+852       $a CUBL $b RBSTA $h BM522.42 $i .O33 1973 $m Folio $t 1 $x CIN=brb
+901       $a CUBL $b 05-B560
+
+Record 2
+LDR  01024nas  2200277 a 4500
+001  CUBL05-S27
+003  CStRLIN
+005  20050207163401.0
+008  050207c20039999enkfx p       0  | 0eng d
+010       $a   2003257139
+022       $y 1350-1771
+040       $a HkHP-I $c HkHP-I $d IEN $d InU $d CStRLIN $d CUL
+042       $a lcd
+090       $a K2283.A15 $b I58
+245  04   $a The international journal of speech, language and the law : $b forensic linguistics.
+246  10   $a Speech language and the law
+246  10   $a Forensic linguistics
+260       $a Birmingham, UK : $b University of Birmingham Press, $c c2003-
+300       $a v. ; $c 24 cm.
+310       $a Two no. a year
+362  0    $a Vol. 10, no. 1 (2003)-
+500       $a CUBL: HOLDINGS IN 852 z DO NOT BEGIN WITH "Library has: "; OUTPUT HOLDINGS AS IS IN SUBFLD 3 (02/05).
+650   0   $a Forensic linguistics $v Periodicals.
+780  00   $t Forensic linguistics $x 1350-1771 $w (DLC)sn 96034254 $w (OCoLC)32002937
+852       $a CUBL $b STA $h K2283.A15 $i I58 $t 1 $x CIN=brb $3 Vol. 10, no. 1 (2003)-
+901       $a CUBL $b 05-S27
+
+Record 3
+LDR  01049dxx  2200289 a 4500
+001  CUBL05-B386
+003  CStRLIN
+005  20020510143000.0
+008  050126s2002    gw       b    001 0 ger d
+010       $a   2002436882
+020       $a 3428106601 (alk. paper)
+040       $a ZCU $c ZCU $d DLC $d MiU-L
+043       $a e-gx---
+050  00   $a KK4455 $b .H65 2002
+090       $a KK4455 $b .H65 2002
+100  1    $a Holste, Heiko.
+260       $a Berlin : $b Duncker & Humblot, $c c2002.
+300       $a 580 p. ; $c 24 cm.
+440   0   $a Schriften zur Verfassungsgeschichte, $x 0582-0553 ; $v Bd. 65.
+500       $a CUBL:  DELETE REC HAS NO 245, INVALID TYPE & BIBLVL, NO 005, UNKNOWN LOC CODE - OUTPUT DELETE REC WITH NO 998 ERROR FIELDS AND WITH 005 CREATED BY FORCEDATE (11/05).
+504       $a Bibliography: p. [549]-576.
+500       $a Includes index.
+650   0   $a Constitutional history $z Germany.
+651   0   $a Germany $x Politics and government $y 1866-1871.
+651   0   $a Germany $x Politics and government $y 1871-1933.
+852       $a CUBL $b ZZZ $h KK4455 $i .H65 2002 $t 1
+901       $a CUBL $b 05-B386
+
+Record 4
+LDR  01336cas  2200277   4500
+001  CUBL89-S164
+003  CStRLIN
+005  20040617154100.0
+008  890629c19759999dcu x    s   f0   a0eng d
+040       $d MiU $d CStRLIN $d MBU-L $d NN $d CSfU-L
+043       $a n-us---
+074       $a Item 1049-G
+245  00   $a Federal administrative law judge hearings.
+260       $a Washington : $b Office of the Chairman, Administrative Conference of the United States, $c 1977-
+300       $a v. ; $c 27 cm.
+362  0    $a 1975-1985
+500       $a CUBL:  1ST 852 HAS 2 SUBFLD P'S (RLF NUMBER); OUTPUT 1ST ONLY - REMOVE "NRLF: ", OUTPUT REMAINDER IN SUBFLD p (09/04).
+500       $a 2ND 852 HAS SUBFLD P THAT DOES NOT CONTAIN "NRLF" OR "SRLF" - DO NOT OUTPUT.
+500       $a 3RD 852 HAS 3 SUBFLD P'S (RLF NUMBER); 1ST DOES NOT CONTAIN "RLF", DO NOT OUTPUT; 2ND BEGINS "NRLF: ", DROP THE "NRLF: ", OUTPUT REMAINDER IN 852 p; 3RD - DO NOT OUTPUT.
+650   0   $a Examiners (Administrative procedure) $z United States $x Statistics $x Periodicals.
+650   0   $a Administrative procedure $z United States $x Statistics $x Periodicals.
+710  1    $a Administrative Conference of the United States. $b Office of the Chairman.
+852       $a CUBL $b NRLF $p JR 32 801 $x CIN=DPF; OID=RB
+852       $a CUBL $b BARC $x CIN=DPF; OID=RB
+852       $a CUBL $b FAC $p JR 21 81 $x CIN=DPF; OID=RB
+901       $a CUBL $b 89-S164
+
+Record 5
+LDR  01612nas  2200373 a 4500
+001  CUBL05-S32
+003  CStRLIN
+005  20050222163709.0
+008  050222c20049999mnufx1p       0  |a0eng d
+010       $a   2004213323
+022  0    $a 1552-9533
+037       $b University of Minnesota, 354 Mondale Hall, 229 19th Avenue South, Minneapolis, MN 55455
+040       $a UU-L $c UU-L $d NSDP $d CStRLIN $d CUL
+042       $a nsdp $a lcd
+043       $a n-us-mn
+050   0   $a K13 $b .I6745
+082  10   $a 346.04 $2 13
+090       $a KF2972 $b .M562
+222   0   $a Minnesota journal of law, science & technology
+245  00   $a Minnesota journal of law, science & technology.
+246  1    $a Minnesota journal of law, science and technology
+246  1    $a MJLST
+260       $a Minneapolis, Minn. : $b University of Minnesota Law School, $c c2004-
+300       $a v. ; $c 25 cm.
+310       $a Two no. a year
+362  0    $a Vol. 6, no. 1 (Dec. 2004)-
+500       $a CUBL: 852 HAS 3 SUBFLD z'S - 1ST & 3RD DO NOT BEGIN WITH "Library has: ", 2ND DOES - DROP "Library has: " FROM 2ND 852 z, THEN CONCATENATE ALL 3, SEPARATING EACH PART WITH ";  ", AND OUTPUT IN A SINGLE SUBFLD 3 (03/05).
+650   0   $a Intellectual property $z United States $v Periodicals.
+650   0   $a Copyright $z United States $v Periodicals.
+650   0   $a Patents $z United States $v Periodicals.
+710  2    $a University of Minnesota. $b Law School.
+780  00   $t Minnesota intellectual property review $w (DLC)   00222266 $w (OCoLC)45203219
+852       $a CUBL $b STA $h KF2972 $i .M562 $t 1 $x CIN=brb $3 Vol. 1 (1999) (1ST Z);  Vol.3 (2001) (2nd Z); Vol. 6, issue 1 (Dec. 2004)- (3RD Z)
+901       $a CUBL $b 05-S32
+
+Record 6
+LDR  00959cam  2200265 a 4500
+001  CUBL05-B14243
+003  CStRLIN
+005  20051107074052.0
+008  051103s2004    gw       b    000 0 ger  
+016  7    $a 970172656 $2 GyFmDB
+020       $a 3406520820 (pbk.) : $c EUR18.80
+040       $a GyWOH $b eng $c GyWOH $d CUL
+072   7   $a K $2 lcco
+090       $a KK132.J9 $b A15 v.28
+100  1    $a Hassemer, Winfried, $d 1940-
+245  10   $a Religièose Toleranz im Rechtsstaat : $b das Beispiel Islam / $c von Winfried Hassemer.
+260       $a Mèunchen : $b Beck, $c 2004.
+300       $a 56 p. ; $c 23 cm.
+440   0   $a Schriften der Juristischen Studiengesellschaft Regensburg ; $v Heft 28
+500       $a CUBL:  DROP 9XX FIELDS, DROP INCOMING 852 (11/05).
+504       $a Includes bibliographical references (p. 53-56).
+650   0   $a Religious tolerance $z Germany.
+650   0   $a Muslims $x Legal status, laws, etc. $z Germany.
+852       $a CUBL $b STA $h KK132.J9 $i A15 v.28 $t 1 $x CIN=aim
+901       $a CUBL $b 05-B14243
+
+Record 7
+LDR  01451cam  2200313 a 4500
+001  CUBL05-B13995
+003  CStRLIN
+005  20051107074145.0
+008  051026s2004    enk      b    000 0 eng  
+015       $a GBA4-X4814
+016  7    $a 0850927951 $2 Uk
+020       $a 0850927951 (pbk.) : $c ¹8.50
+040       $a StDuBDS $c StDuBDS $d Uk $d CUL
+082  04   $a 338.91091724 $2 22
+090       $a K487.T4 $b S34 2004
+100  1    $a Saggi, Kamal.
+245  10   $a International technology transfer to developing countries / $c Kamal Saggi.
+260       $a London : $b Commonwealth Secretariat, $c c2004.
+300       $a 92 p. ; $c 24 cm.
+440   0   $a Economic paper ; $v 64
+500       $a CUBL:  OUTPUT FOLLOWING 852 SUBFLDS AS IS: 2 c, 2 f, h, 2 i, 2 k, l, 2 m, n, q, 2 s, t, 3 x (11/05).
+500       $a REMOVE BEGINNING "Library has: " FROM 852 z, THEN CONCATENATE ALL 852 z'S AND OUTPUT AS SINGLE 852 3
+500       $a OUTPUT 2 590 a'S AS SEPARATE 852 z'S IN EACH 852..
+504       $a Includes bibliographical references.
+650   0   $a Technology transfer $z Developing countries.
+710  2    $a Commonwealth Secretariat. $b Communications and Public Affairs Division.
+852       $a CUBL $b STA $c FIRST C $c 2ND C $f 1ST F $f 2ND F $h ThQA447 $i .G39 1999 $i 2ND I $k 1ST K $k 2ND K $l SUBFLD L $m 1ST M $m 2ND M $n SUBFLD N $q SUBFLD Q $s 1ST S $s 2ND S $t 1 $x 001 (1ST X) $x 2ND X $x 3RD X $z FIRST 590. $z 2ND 590 $3 1ST Z;  2ND Z; 3RD Z
+852       $a CUBL $b LOA $h K487.T4 $i S34 2004 $t 1 $x CIN=aim $z FIRST 590. $z 2ND 590
+901       $a CUBL $b 05-B13995
+
+Record 8
+LDR  01173cam  2200289 a 4500
+001  CUBL05-B13988
+003  CStRLIN
+005  20051107074243.0
+008  051026s2004    be a     b    100 0 eng d
+020       $a 9050953905
+040       $a MiU-L $c MiU-L $d CUL
+043       $a e------
+050   4   $a KJE6428.A8 $b R46 2004x
+090       $a KJE6569.A8 $b R46 2004x
+245  00   $a Remedies in network industries : $b EC competition law vs. sector-specific regulations / $c D. Geradin, editor.
+260       $a Antwerp : $b Intersentia, $c c2004.
+300       $a x, 265 p. : $b ill. ; $c 24 cm.
+500       $a CUBL:  REMOVE BACKSLASHES (HEX 5C) FROM FIRST INPUT 852 SUBLFD h AND i BEFORE OUTPUT (11/05).
+500       $a SECOND INPUT 852 DOES NOT HAVE b - DO NOT CREATE AN OUTPUT 852.
+504       $a Includes bibliographical references.
+650   0   $a Industrial laws and legislation $z European Union countries $v Congresses.
+650   0   $a Competition $z European Union countries $v Congresses.
+700  1    $a Geradin, Damien.
+710  2    $a Institut d'âetudes juridiques europâeennes "Fernand Dehousse."
+730  0    $a Journal of network industries.
+852       $a CUBL $b STA $h KJE6569 $i G54 2004 $x CIN=aim
+901       $a CUBL $b 05-B13988
+
+Record 9
+LDR  01263cxx  2200313 a 4500
+001  CUBL05-B14306
+003  CStRLIN
+005  20051107081911.0
+008  051107s2004    enk      b    001|0 eng d
+010       $a   2004301892
+020       $a 0199272271 (hbk : alk. paper)
+020       $a 019927228X (pbk. : alk paper)
+040       $a EQO $c EQO $d DLC
+042       $a lccopycat
+050  00   $a BD450 $b .W297 2004
+082  04   $a 123 $2 22
+090       $a K272 $b .W38 2004
+100  1    $a Watson, Gary, $d 1943-
+260       $a Oxford : $b Clarendon Press ; $a New York : $b Oxford University Press, $c 2004.
+300       $a x, 377 p. ; $c 23 cm.
+500       $a CUBL:  RECORD HAS NO 245, INVALID TYPE & BIBLVL, UNKNOWN LOC CODE - OUTPUT WITH 4 998 ERROR FIELDS (11/05).
+650   0   $a Agent (Philosophy)
+650   0   $a Free will and determinism.
+852       $a CUBL $b sta $h K272 $i .W38 2004 $t 1 $x CIN=aim
+901       $a CUBL $b 05-B14306
+998       $a CUBL $b 1003 $c Record contains the unknown location code sta $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1004 $c Record contains the invalid leader type x $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1005 $c Record contains the invalid bibliographic level x $d Release-027-000 $e 05-B14306
+998       $a CUBL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 05-B14306
+
+Record 10
+LDR  00953nam  2200277 a 4500
+001  CUBL05-B14307
+003  CStRLIN
+005  20051107082440.0
+008  051107s2004    mau      b    001 0 eng  
+010       $a   2004006714
+020       $a 1555536336 (alk. paper)
+020       $a 1555536328 (pbk. : alk. paper)
+040       $a DLC $c DLC $d DLC $d MiU-L $d CUL
+043       $a n-us---
+050  00   $a BS680.C3 $b R43 2004
+082  00   $a 261.8/3366/0973 $2 22
+090       $a KF9227.C2 $b R43 2004
+100  1    $a Recinella, Dale S., $d 1951-
+245  14   $a The biblical truth about America's death penalty / $c Dale S. Recinella.
+260       $a Boston : $b Northeastern University Press, $c c2004.
+300       $a xxviii, 433 p. ; $c 24 cm.
+500       $a CUBL:  852 HAS MULTIPLE SUBFLD b'S, OUTPUT 1ST ONLY (11/05).
+650   0   $a Capital punishment $x Biblical teaching.
+650   0   $a Capital punishment $z United States.
+852       $a CUBL $b STA $h KF9227.C2 $i R43 2004 $t 1 $x CIN=aim
+901       $a CUBL $b 05-B14307
+

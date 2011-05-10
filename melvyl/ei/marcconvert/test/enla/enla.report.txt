@@ -1,0 +1,50 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:32
+End:   2009-7-10 15:46:33
+
+------------------------------------------
+Run Statistics:
+          19 - Records Input
+          13 - Records Output
+           0 - Records Skipped
+           6 - Records Rejected
+           1 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  003 field not recognized
+               1 occurrence:  Bib segment not found
+               1 occurrence:  Missing 003 field
+               1 occurrence:  No holding records found (009)
+               2 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      en.la.benchjav.mrc
+  outfile:     enla.convert.mrc
+  reportfile:  enla.report.txt
+  errorfile:   enla.error.mrc
+  rejectfile:  enla.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

@@ -1,0 +1,759 @@
+<?xml version="1.0"?>
+<!--
+Marc utilities and converters build script
+$Revision: 1.17 $
+$Author: mreyes $
+$Date: 2005/06/01 20:50:34 $
+$Id: build-marc.xml,v 1.17 2005/06/01 20:50:34 mreyes Exp $
+-->
+<project name="Build Marc" default="init">
+
+    <target name="usage">
+        <echo message="Marc Converter and Utility Build Script"/>
+        <echo message="Version 1.0"/>
+        <echo message=""/>
+        <echo message="Usage: ant &lt;target&gt;"/>
+        <echo message=""/>
+        <echo message="where &lt;target&gt; is one of the following:"/>
+        <echo message=""/>
+        <echo message="  usage           Displays this message"/>
+        <echo message="  build-and-test  Check out all files from CVS, build marcutil and marcutil"/>
+        <echo message="                  jar files, run the benchmarks, and diff the results"/>
+        <echo message="  javadoc         Generates the JavaDoc documentation"/>
+        <echo message="  clean           Removes the binaries and intermediate files"/>
+        <echo message="  realclean       Removes the source, binaries, and intermediate files"/>
+        <echo message=" "/>
+        <echo message="Not all these targets are implemented"/>
+    </target>
+
+    <!--
+      Initializes the build environment, defines the class paths, and
+      defines the properties used during the build.
+    -->
+    <target name="init">
+
+        <!--
+          Give user a chance to override without editing this file
+          (and without typing -D each time it compiles it)
+        -->
+        <property file="marc.ant.props" />
+        <property file=".ant.properties" />
+        <property file="${user.home}/.ant.properties" />
+
+        <!-- Alias the environment varialbles into our namespace -->
+        <property environment="env"/>
+
+        <!-- Set the time and date stamp properties -->
+        <tstamp/>
+
+        <!-- Setup the java compiler -->
+        <property name="build.sysclasspath" value="ignore"/>
+        <property name="build.compiler" value="jikes"/>
+        <property name="build.compiler.pedantic" value="true"/>
+
+        <!--
+          Set the release tag values - only the first set sticks
+        -->
+
+        <!-- Set the marclib release tag value -->
+        <condition property="marclib.tag" value="${env.MARCLIB_RELEASE}">
+            <isset property="env.MARCLIB_RELEASE"/>
+        </condition>
+
+        <condition property="marclib.tag" value="${props.marclib.tag}">
+            <isset property="props.marclib.tag"/>
+        </condition>
+        <echo>marclib.tag = ${marclib.tag}</echo> <!-- debug -->
+
+
+        <!-- Set the marcconvert release tag value -->
+        <condition property="marcconvert.tag" value="${env.MARCCONV_RELEASE}">
+            <isset property="env.MARCCONV_RELEASE"/>
+        </condition>
+
+        <condition property="marcconvert.tag" value="${props.marcconvert.tag}">
+            <isset property="props.marcconvert.tag"/>
+        </condition>
+        <echo>marcconvert.tag = ${marcconvert.tag}</echo> <!-- debug -->
+
+
+        <!-- Set the marcutil release tag value -->
+        <condition property="marcutil.tag" value="${env.MARCUTIL_RELEASE}">
+            <isset property="env.MARCUTIL_RELEASE"/>
+        </condition>
+
+        <condition property="marcutil.tag" value="${props.marcutil.tag}">
+            <isset property="props.marcutil.tag"/>
+        </condition>
+        <echo>marcutil.tag = ${marcutil.tag}</echo> <!-- debug -->
+
+
+        <!-- Set the marc build home directory -->
+        <condition property="mb.home" value="${env.MB_HOME}">
+            <isset property="env.MB_HOME"/>
+        </condition>
+        <echo>mb.home = ${mb.home}</echo> <!-- debug -->
+
+        <condition property="mb.home" value=".">
+            <not>
+                <isset property="env.MB_HOME"/>
+            </not>
+        </condition>
+        <echo>mb.home = ${mb.home}</echo> <!-- debug -->
+
+        <!-- The working directory names -->
+        <property name="marcdir" value="${mb.home}/marc"/>
+        <property name="rundir" value="${marcdir}/run"/>
+        <property name="cvsdir" value="${marcdir}/cvsroot"/>
+        <property name="convdir" value="${cvsdir}/melvyl/ei/marcconvert"/>
+        <property name="utildir" value="${cvsdir}/marcutil"/>
+        <property name="mlibdir" value="${cvsdir}/marclib"/>
+
+        <!-- The source directory names -->
+        <property name="convsrc" value="${convdir}/java"/>
+        <property name="utilsrc" value="${utildir}/java"/>
+
+        <!-- The jar file names -->
+        <property name="convjar" value="marcconvert.jar"/>
+        <property name="utiljar" value="marcutil.jar"/>
+
+        <!-- The build target base directory -->
+        <property name="builddir" value="${marcdir}/build"/>
+
+        <!-- The build target directory for jar files -->
+        <property name="buildlib" value="${builddir}/lib"/>
+
+        <!-- The build target directory for class files -->
+        <property name="classes" value="${builddir}/classes"/>
+
+        <!-- The build target directory for class files -->
+        <property name="javadoc" value="${builddir}/javadoc"/>
+
+        <!-- Set up some useful patternsets -->
+        <patternset id="all.files">
+            <include name="**/*"/>
+        </patternset>
+
+        <patternset id="all.java.files">
+            <include name="**/*.java"/>
+        </patternset>
+
+        <patternset id="all.class.files">
+            <include name="**/*"/>
+        </patternset>
+
+        <echo>init target completed</echo> <!-- debug -->
+
+        <!--
+          Print all the properties - useful for debugging
+          Maybe this should be conditionalized. -->
+        <antcall target="sayprops"/> <!-- debug -->
+    </target>
+
+
+    <!--
+      Setup the jave libraries. This is moved from init because
+      if we are bootstrapping from cvs we cannot construct the
+      FileSet until the checkout has been done.
+    -->
+    <target name="setjavalibs"
+            depends="init, checkout-mlib">
+        <!--
+          Set the system jar file directory. Use the MARCJARLIB_EXT
+          environment variable, if it exists, otherwise point
+          to the marclib cvs module.
+        -->
+        <condition property="sysjarlib" value="${env.MARCJARLIB_EXT}">
+            <isset property="env.MARCJARLIB_EXT"/>
+        </condition>
+        <echo>sysjarlib = ${sysjarlib}</echo> <!-- debug -->
+
+        <condition property="sysjarlib" value="${mlibdir}/ext">
+            <not>
+                <isset property="env.MARCJARLIB_EXT"/>
+            </not>
+        </condition>
+        <echo>sysjarlib = ${sysjarlib}</echo> <!-- debug -->
+
+        <!--
+          Set the cdl jar file directory. Use the MARCJARLIB_CDL
+          environment variable, if it exists, otherwise point
+          to the marclib cvs module.
+        -->
+        <condition property="cdljarlib" value="${env.MARCJARLIB_CDL}">
+            <isset property="env.MARCJARLIB_CDL"/>
+        </condition>
+        <echo>cdljarlib = ${cdljarlib}</echo> <!-- debug -->
+
+        <condition property="cdljarlib" value="${mlibdir}/cdl">
+            <not>
+                <isset property="env.MARCJARLIB_CDL"/>
+            </not>
+        </condition>
+        <echo>cdljarlib = ${cdljarlib}</echo> <!-- debug -->
+
+        <!-- Set the classpath for the external libraries -->
+        <!-- Note: the version numbers embedded in the names
+             will almost certainly cause problems when these
+             are upgraded, but will have to do for now. -->
+        <filelist
+            id="extlibs.path"
+            dir="${sysjarlib}"
+            files="jakarta-regexp-1.2.jar
+                   log4j-1.2.5.jar
+                   sax.jar"
+        />
+    </target>
+
+
+    <!-- Print all the properties to standard output -->
+    <target name="sayprops">
+        <echo>Current Properties</echo>
+        <echoproperties/>
+    </target>
+
+    <!-- ============================================ -->
+    <!-- End of setup targets                         -->
+    <!-- ============================================ -->
+
+    <!--
+      Targets to delete files produced by the build targets, the cvs source
+      trees, and the run directories used during benchmark validation.
+    -->
+    <target name="clean"
+            depends="init, clean-conv, clean-util">
+        <echo message="Deleting run directory"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${rundir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="clean-conv"
+            depends="init">
+        <echo message="Deleting marcconvert classes and jar file"/>
+        <delete file="${buildlib}/${convjar}"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${classes}/org/cdlib/marcconvert" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="clean-util"
+            depends="init">
+        <echo message="Deleting marc util classes and jar file"/>
+        <delete file="${buildlib}/${utiljar}"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${classes}/org/cdlib/util" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="clean-test"
+            depends="init, clean-run">
+        <echo message="Deleting marcconvert test and run directories"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${convdir}/test" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+
+    <target name="clean-run"
+            depends="init">
+        <echo message="Deleting marcconvert run directories"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${marcdir}/run/test" defaultexcludes="no">
+            </fileset>
+        </delete>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${marcdir}/run/base" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+
+    <target name="realclean"
+            depends="init, clean, realclean-conv, realclean-util">
+        <echo message="Deleting build and cvsroot directories"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${builddir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${cvsdir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+    <target name="realclean-conv"
+            depends="init, clean-conv">
+        <echo message="Deleting source for marcconvert and marclib cvs packages"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${convdir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${mlibdir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+    <target name="realclean-util"
+            depends="init, clean-util">
+        <echo message="Deleting source for marcutil and marclib cvs packages"/>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${utildir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+        <delete includeemptydirs="true" failonerror="false" quiet="true">
+            <fileset dir="${mlibdir}" defaultexcludes="no">
+            </fileset>
+        </delete>
+    </target>
+
+    <!-- ===================== -->
+    <!-- End of delete targets -->
+    <!-- ===================== -->
+
+
+    <!--
+      =================================================================
+      Targets to checkout modules from CVS.
+      There are targets for marclib, which includes this build script,
+      but also contains the system and application jar files that will
+      used in the compilation classpath if they are not found in the
+      current envirinment.
+      These targets come in two flavors: specific release by tag number
+      and get the latest, when no tag number is available.
+      =================================================================
+    -->
+
+    <!-- Checkout the marclib package -->
+    <target name="checkout-mlib"
+            depends="init, checkout-mlib-tag, checkout-mlib-no-tag">
+    </target>
+
+    <!-- Checkout the marclib package by tag number -->
+    <target name="checkout-mlib-tag" depends="init" if="marclib.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marclib"
+            dest="${cvsdir}"
+            tag="${marclib.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marclib package without a tag number -->
+    <target name="checkout-mlib-no-tag" depends="init" unless="marclib.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marclib"
+            dest="${cvsdir}"
+        />
+    </target>
+
+
+    <!-- Checkout the entire marcconvert package -->
+    <target name="checkout-conv"
+            depends="init, checkout-conv-tag, checkout-conv-no-tag">
+    </target>
+
+    <!-- Checkout the marcconvert package by tag number -->
+    <target name="checkout-conv-tag"
+            depends="init"
+            if="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert"
+            dest="${cvsdir}"
+            tag="${marcconvert.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcconvert package without a tag number -->
+    <target name="checkout-conv-no-tag"
+            depends="init"
+            unless="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert"
+            dest="${cvsdir}"
+        />
+    </target>
+
+
+    <!-- Checkout the marcconvert/java package -->
+    <target name="checkout-conv-java"
+            depends="init, checkout-conv-java-tag,
+                     checkout-conv-java-no-tag">
+    </target>
+
+    <!-- Checkout the marcconvert/java package by tag number -->
+    <target name="checkout-conv-java-tag"
+            depends="init"
+            if="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert/java"
+            dest="${cvsdir}"
+            tag="${marcconvert.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcconvert/java package without a tag number -->
+    <target name="checkout-conv-java-no-tag"
+            depends="init"
+            unless="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert/java"
+            dest="${cvsdir}"
+        />
+    </target>
+
+
+    <!-- Checkout the marcconvert/test package -->
+    <target name="checkout-conv-test"
+            depends="init, checkout-conv-test-tag,
+                     checkout-conv-test-no-tag">
+    </target>
+
+    <!-- Checkout the marcconvert/test package by tag number -->
+    <target name="checkout-conv-test-tag"
+            depends="init"
+            if="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert/test"
+            dest="${cvsdir}"
+            tag="${marcconvert.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcconvert/test package without a tag number -->
+    <target name="checkout-conv-test-no-tag"
+            depends="init"
+            unless="marcconvert.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="melvyl/ei/marcconvert/test"
+            dest="${cvsdir}"
+        />
+    </target>
+
+    <!-- End of checkout marcconvert targets -->
+
+
+    <!-- Checkout the marcutil package -->
+    <target name="checkout-util"
+            depends="init, checkout-util-tag,
+                     checkout-util-no-tag">
+    </target>
+
+    <!-- Checkout the marcutil package by tag number -->
+    <target name="checkout-util-tag"
+            depends="init"
+            if="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil"
+            dest="${cvsdir}"
+            tag="${marcutil.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcutil package without a tag number -->
+    <target name="checkout-util-no-tag"
+            depends="init"
+            unless="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil"
+            dest="${cvsdir}"
+        />
+    </target>
+
+
+    <!-- Checkout the marcutil/perl package -->
+    <target name="checkout-util-java"
+            depends="init, checkout-util-java-tag,
+                     checkout-util-java-no-tag">
+    </target>
+
+    <!-- Checkout the marcutil/java package by tag number -->
+    <target name="checkout-util-java-tag"
+            depends="init"
+            if="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil/java"
+            dest="${cvsdir}"
+            tag="${marcutil.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcutil/java package without a tag number -->
+    <target name="checkout-util-java-no-tag"
+            depends="init"
+            unless="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil/java"
+            dest="${cvsdir}"
+        />
+    </target>
+
+    <!-- Checkout the marcutil/perl package -->
+    <target name="checkout-util-perl"
+            depends="init, checkout-util-perl-tag,
+                     checkout-util-perl-no-tag">
+    </target>
+
+    <!-- Checkout the marcutil/perl package by tag number -->
+    <target name="checkout-util-perl-tag"
+            depends="init"
+            if="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil/perl"
+            dest="${cvsdir}"
+            tag="${marcutil.tag}"
+        />
+    </target>
+
+    <!-- Checkout the marcutil/perl package without a tag number -->
+    <target name="checkout-util-perl-no-tag"
+            depends="init"
+            unless="marcutil.tag">
+        <mkdir dir="${marcdir}"/>
+        <mkdir dir="${cvsdir}"/>
+        <cvs
+            package="marcutil/perl"
+            dest="${cvsdir}"
+        />
+    </target>
+
+    <!-- End of checkout marcutil targets -->
+
+
+    <!-- Checkout all three packages: marclib, marcutil and marcconvert -->
+    <target name="checkout-all"
+            depends="init, checkout-mlib,
+                     checkout-util,
+                     checkout-conv">
+    </target>
+
+    <target name="checkout-all-java"
+            depends="init, checkout-mlib,
+                     checkout-util-java,
+                     checkout-conv-java">
+    </target>
+
+    <!-- ======================= -->
+    <!-- End of checkout targets -->
+    <!-- ======================= -->
+
+    <!-- ======================================== -->
+    <!-- Targets to compile the java source files -->
+    <!-- ======================================== -->
+
+    <!--
+      Compile the Java source files for marcutil
+    -->
+    <target name="compile-util"
+            depends="init, checkout-mlib,
+                     checkout-util-java,
+                     setjavalibs">
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${classes}"/>
+        <javac srcdir="${utilsrc}"
+               excludes="**/dummy.java,**/ReportBase.java,**/RunReport.java"
+               destdir="${classes}"
+               verbose="off"
+               depend="on"
+               debug="off">
+            <classpath>
+                <pathelement location="${classes}"/>
+                <filelist refid="extlibs.path"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <!--
+      Compile the Java source files for marcconvert.
+    -->
+    <target name="compile-conv"
+            depends="init, checkout-mlib,
+                     checkout-conv-java,
+                     setjavalibs">
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${classes}"/>
+        <available file="${buildlib}/${utiljar}"
+                   property="utiljar.file"
+                   value="${buildlib}/${utiljar}"/>
+        <condition property="utiljar.file" value="${cdljarlib}/${utiljar}">
+            <not>
+                <isset property="utiljar.file"/>
+            </not>
+        </condition>
+        <echo>utiljar.file = ${utiljar.file}</echo> <!-- debug -->
+
+        <javac srcdir="${convsrc}"
+               destdir="${classes}"
+               verbose="off"
+               depend="on"
+               debug="off">
+            <classpath>
+                <pathelement location="${classes}"/>
+                <pathelement location="${utiljar.file}"/>
+                <filelist refid="extlibs.path"/>
+            </classpath>
+        </javac>
+    </target>
+
+    <!--
+      Compile the Java source files for both marcutil and marcconvert.
+    -->
+    <target name="compile-all"
+            depends="init, compile-util, compile-conv">
+    </target>
+
+    <!-- ====================== -->
+    <!-- End of compile targets -->
+    <!-- ====================== -->
+
+    <!--
+      Targets to build the jar files.
+    -->
+
+    <!--
+      Build the marc utilities jar file.
+    -->
+    <target name="build-util"
+            depends="init, compile-util">
+        <echo message="Building marcutil.jar"/>
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${buildlib}"/>
+        <jar destfile="${buildlib}/${utiljar}"
+             basedir="${classes}"
+             includes="org/cdlib/util/**/*"
+             update="false"
+        />
+    </target>
+
+    <!--
+      Build the marcconvert utilities jar file.
+    -->
+    <target name="build-conv"
+            depends="init, compile-conv">
+        <echo message="Building marcconvert.jar"/>
+        <mkdir dir="${builddir}"/>
+        <mkdir dir="${buildlib}"/>
+        <jar destfile="${buildlib}/${convjar}"
+             basedir="${classes}"
+             includes="org/cdlib/marcconvert/**/*"
+             update="false"
+        />
+    </target>
+
+    <!--
+      Build the both the marc utilities and marcconvert jar files.
+    -->
+    <target name="build-all"
+            depends="init, build-util, build-conv">
+        <echo message="Building marcutil and marcconvert"/>
+    </target>
+
+
+    <!--
+      Additional targets, such as building the javadocs.
+      Not yet implemented.
+    -->
+
+    <target name="package" depends="init">
+            <echo message="Target package not yet implemented"/>
+    </target>
+
+    <target name="javadoc" depends="init">
+            <echo message="Target javadoc not yet implemented"/>
+    </target>
+
+    <target name="test"
+            depends="init, copytest">
+            <echo message="Target test only copies the files so far..."/>
+    </target>
+
+
+    <target name="build-and-test"
+            depends="init, build-all, freshtest">
+        <echo message="Target build-and-test: build all and run benchmarks and diffs"/>
+    </target>
+
+
+    <target name="freshtest"
+            depends="init, clean-test, runbench, rundiff">
+        <echo message="Target freshtest: copies the files and run benchmarks"/>
+    </target>
+
+
+    <target name="copytest"
+            depends="init, checkout-conv-test">
+        <copy todir="${marcdir}/run/base">
+            <fileset dir="${convdir}/test"/>
+        </copy>
+
+        <copy todir="${marcdir}/run/test">
+            <fileset dir="${convdir}/test">
+                <include name="**/*.config.txt"/>
+                <include name="**/*.benchjav.*"/>
+                <include name="tab_locations.txt"/>
+                <include name="shared_print_table.txt"/>
+            </fileset>
+        </copy>
+    </target>
+
+    <target name="runbench"
+            depends="init, copytest">
+        <exec executable="perl"
+              dir="${mb.home}"
+              output="runbench-pl.msgs.txt">
+            <arg value="perl/qarunbench.pl"/>
+            <arg value="all"/>
+        </exec>
+    </target>
+
+
+    <target name="rundiff"
+            depends="init, runbench">
+        <mkdir dir="${marcdir}/run/diff"/>
+        <touch file="${marcdir}/run/diff/empty"/>
+        <exec executable="perl"
+              failonerror="true"
+              dir="${mb.home}"
+              output="rundiff-pl.msgs.txt">
+            <arg value="perl/qadiffbench.pl"/>
+            <arg value="--difflist"/>
+            <arg value="${marcdir}/run/diff/difflist.txt"/>
+            <arg value="${marcdir}/run/base"/>
+            <arg value="${marcdir}/run/test"/>
+            <arg value="${marcdir}/run/diff"/>
+            <arg value="all"/>
+        </exec>
+    </target>
+
+</project>
+
+<!-- End of Marc utilities and converters build script -->

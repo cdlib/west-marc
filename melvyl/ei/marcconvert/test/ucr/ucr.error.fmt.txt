@@ -1,0 +1,23 @@
+Record 1
+LDR  01094cZZ  2200265   45  
+005  20011210000000.0
+008  820524m1949999ne a          000 0 eeng c
+010       $a 50020998 //r855
+035       $a 8532176
+040       $a DLC $c DLC
+050  00   $a NE663 $b .H6
+098       $n ov=.b1433660
+100  1    $a Hollstein, F. W. H.
+260       $a Amsterdam, $b M. Hertzberger, $c 1949-
+300       $a 58 v. $b illus. $c 28 cm.
+500       $a UCR: UNKNOWN TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE; CREATE 4 998 ERR FIELDS (03/06).
+650   0   $a Engraving, Dutch.
+650   0   $a Engraving, Flemish.
+740  01   $a Hollstein's Dutch and Flemish etchings, engravings, and woodcuts, ca. 1450-1700.
+852       $a RVB $b XXZZ $h NE663 $i .H6
+901       $a RVB $b 14541440
+998       $a RVB $b 1003 $c Record contains the unknown location code XXZZ $d Release-027-000 $e 14541440
+998       $a RVB $b 1004 $c Record contains the invalid leader type Z $d Release-027-000 $e 14541440
+998       $a RVB $b 1005 $c Record contains the invalid bibliographic level Z $d Release-027-000 $e 14541440
+998       $a RVB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 14541440
+

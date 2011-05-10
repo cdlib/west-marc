@@ -1,0 +1,51 @@
+Record 1
+LDR  00666nbm  22001691  45  
+001  AAA-0702    
+005  20030326000000.0
+008  821020s1952    cauab         00000 eng  
+090       $a 979.402 $b W365 copy 2
+100  10   $a Webb, Edith Buckland, $d 1877-
+245  10   $a Indian life at the old missions.
+260  0    $a Los angeles, $b W. F. Lewis $c [1952]
+300       $a xxix, 326 p. $b illus., maps. $c 28 cm.
+500       $a CSL: AMC WITH 2 950s BOTH WITH $d & $e.  USE ONLY 1ST 950 AS SOURCE OF 852 $k OR $m (03/03).
+852       $a CSLD $b CAL* $h 979.402 $i W365 copy 2 $k q $m Ishi Room
+901       $a CSLD $b AAA-0702
+998       $a CSLD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e AAA-0702
+
+Record 2
+LDR  00752nbs  2200193 a 45  
+001  ACY-3656    
+005  20030326000000.0
+008  930318c19759999nyu x p  i    0 ü  0eng d
+035       $a RLINCCSG93-S104
+090       $a TK1 $b .I172 $f retro $n \Don't output this n note\ $i 03/22/93 CT
+245  00   $a Flora of Barsoom monthly.
+260       $a Ptarth, Barsoom : $b Ptor Publishing.
+300       $a v. ; $c 6000 safad
+362  1    $a Began with 1001
+500       $a CSL: AMC (TYPE=b); Do not output any 852 $x OR $z NOTES FROM 090, 950, OR 590 (03/03).
+500       $a CSL: AMC (TYPE=b); WILL BE WRITTEN TO ERROR FILE FOR INVALID TYPE.
+852       $a CSLD $b CAL* $h TK1 $i .I172
+901       $a CSLD $b ACY-3656
+998       $a CSLD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e ACY-3656
+
+Record 3
+LDR  01060cXR  22002171a 45  
+001  AAA-1097    
+005  20030326000000.0
+008  830721s1821    enkf          00000 eng  
+010       $a    03029893 
+035       $a RLINCCSG79255471-B
+090       $a 914 $b V97 $i 12/17/90 T
+260  0    $a London : $b Jones & co., $c 1821.
+300       $a xii, 755 p. : $b 9 plates ; $c 21 cm.
+500       $a CSL: NO 005, NO 245, UNKNOWN LOC IN 950 $l, BAD TYPE, BAD BIBLEVEL; ASSIGN 005 FROM RUN PARM, CREATE 998s FOR OTHER ERRORS BUT DON'T REJECT (3/3)
+600  00   $a Caroline Amelia Elizabeth, $c Queen, consort of George IV, King of Great Britain, $d 1768-1821.
+852       $a CSLD $b RARITY $h 914 $i V97
+901       $a CSLD $b AAA-1097
+998       $a CSLD $b 1003 $c Record contains the unknown location code RARITY $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1005 $c Record contains the invalid bibliographic level R $d Release-027-000 $e AAA-1097
+998       $a CSLD $b 1002 $c Record contains no 245 field $d Release-027-000 $e AAA-1097
+

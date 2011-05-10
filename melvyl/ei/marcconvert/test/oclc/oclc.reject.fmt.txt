@@ -1,0 +1,160 @@
+Record 1
+LDR  00616cam  2200193Ia 45  
+001  ocm49336276 
+003  OCoLC
+005  20020318120119.0
+008  020318s1961    lv       b    000 0 rus d
+040       $a CRL $c CRL
+049       $a CRLL
+100  1    $a ëIìAkobson, M. A.
+245  10   $a Bibliografiëiìa dissertaëtìsiæi, zashchishchennykh v Latviæiskoæi SSR /
+260       $a Riga : $b [s.n.], $c 1961.
+300       $a 7 p. ; $c 26 cm.
+500       $a 994 $a = "11" - REJECT RECORD (04/02).
+650   0   $a Dissertations, Academic $z Latvia $v Bibliography.
+730  0    $a Latvijas PSR Zinåat÷nu akadåemijas våestis. $n 1961, no 1 (Supplement)
+994       $a 11 $b CRL
+
+Record 2
+LDR  00767nam  2200241Mi 45  
+001  ocm48723292 
+003  OCoLC
+005  20020318121355.0
+008  011024s2001    ne            000 0 eng d
+040       $a ZXW $b ger $c ZXW $d CRL
+020       $a 9051668597
+099       $a P-00006053
+049       $b CRLL
+100  1    $a Schans, Jan Willem van der.
+245  10   $a Governance of marine resources : $b conceptual clarifications and two case studies / $c Jan Willem van der Schans.
+260       $a Delft : $b Eburon, $c 2001.
+300       $a V, 468 S.
+500       $a NO 049 $a, 852 CAN'T BE CREATED - REJECT (07/06).
+502       $a Thesis (doctoral)--Erasmus Universiteit Rotterdam, 2001.
+653       $a marine resources
+653       $a common natural resources
+653       $a fisheries
+901       $a CRL $b 48723292
+
+Record 3
+LDR  00657naa  2200205Ia 45  
+001  ocm49344353 
+003  OCoLC
+005  20020319171230.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Hirsch, Werner Zvi, $d 1920-
+245  10   $a Making California's state budget more user-friendly and transparent / $c Werner Z. Hirsch, Daniel J. B. Mitchell.
+500       $a CBG (for all): 994 $a IS  '11'; REJECT
+650   0   $a Budget $z California.
+700  1    $a Mitchell, Daniel J. B.
+773  0    $7 nnas $t California policy options. $g 2002, p. 20-46. $w (OCoLC)38594780
+994       $a 11 $b CBG
+
+Record 4
+LDR  00634naa  2200205Ia 45  
+001  ocm49344357 
+003  OCoLC
+005  20020319171234.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Edwards, Alejandra Cox, $d 1954-
+245  10   $a Contingent workers in California / $c Alejandra Cox Edwards, Lisa M. Grobar.
+500       $a UNKNOWN SOURCE 'XYZ' IN 994 $b; REJECT.
+650   0   $a Temporary employment $z California.
+700  1    $a Grobar, Lisa M.
+773  0    $7 nnas $t California policy options. $g 2002, p. 155-175. $w (OCoLC)38594780
+994       $a 01 $b XYZ
+
+Record 5
+LDR  00579caa  2200169Ia 45  
+001  ocm48936915 
+003  OCoLC
+005  20020319172941.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Cox, Gary W.
+245  10   $a Agenda setting in the U.S. House : $b a majority-party monopoly? / $c Gary W. Cox.
+500       $a CBG (for all): RECORD LACKS 994 FIELD; REJECT.
+610  10   $a United States. $b Congress. $b House $x Leadership.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 185-210. $w (OCoLC)2398192
+
+Record 6
+LDR  00731caa  2200205Ia 45  
+001  ocm48936916 
+003  OCoLC
+005  20020319172941.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Abramowitz, Alan.
+245  10   $a It's Monica, stupid : $b the impeachment controversy and the 1998 midterm election / $c by Alan I. Abramowitz.
+500       $a CBG (for all): 994 LACKS $a; REJECT.
+610  10   $a United States. $b Congress $x Elections, 1998.
+651   0   $a United States $x Politics and government $y 1993-2001.
+650   0   $a Impeachments $z United States.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 211-226. $w (OCoLC)2398192
+994       $b CBG
+
+Record 7
+LDR  00612caa  2200181Ia 45  
+001  ocm48936917 
+003  OCoLC
+005  20020319172942.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Arnold, Laura W.
+245  14   $a The distribution of Senate committee positions : $b change or more of the same? / $c Laura W. Arnold.
+500       $a CBG (for all): 994 LACKS $b; REJECT.
+610  10   $a United States. $b Congress. $b Senate $x Committees.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 227-248. $w (OCoLC)2398192
+994       $a 01
+
+Record 8
+LDR  00639caa  2200181Ia 45  
+003  OCoLC
+005  20020319172945.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Bailey, Michael.
+245  10   $a Quiet influence : $b the representation of diffuse interests on trade policy, 1983-1994 / $c Michael Bailey.
+500       $a CBG (for all): RECORD LACKS 001; REJECT.
+650   0   $a Commercial policy $z United States.
+610  10   $a United States. $b Congress $x Voting.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 1 (Feb. 2001), p. 45-80. $w (OCoLC)2398192
+994       $a 01 $b CBG
+
+Record 9
+LDR  00837cam  2200241M  450
+001  ocX65038631 
+003  OCoLC
+005  20061016100311.0
+008  900320s1979    gw       m    000 0 ger d
+040       $a NLGGC $e fobidrtb $b dut $c NLGGC $d CRL
+029  0    $a NLGGC $b 059633638
+099       $a P-00424582
+049       $a CRLL
+100  1    $a Jacob, Achim, $d 1948-
+245  14   $a Der Einfluss der Therapie subklinischer Mastitiden im Trockenstadium auf die Milchleistung in der folgenden Laktation / $c von Achim Jacob.
+260       $a Berlin : $b [s.n.], $c 1979.
+300       $a 70 p. ; $c 21 cm.
+500       $a OCLC: 001 DOES NOT BEGIN WITH ocm OR ocn; REJECT (11/06).
+502       $a Thesis (doctoral)--Freie Universitèat Berlin, 1979.
+710  2    $a Freie Universitèat Berlin.
+949       $a SWW
+949       $a *recs=b;dflt=crlm;bn=diss;i=/loc=diss;ins=ypl;
+994       $a 02 $b CRL
+

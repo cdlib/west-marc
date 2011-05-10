@@ -1,0 +1,49 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2006-3-29 16:10:31
+End:   2006-3-29 16:10:34
+
+------------------------------------------
+Run Statistics:
+          18 - Records Input
+          12 - Records Output
+           0 - Records Skipped
+           6 - Records Rejected
+           1 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  Input lacks 001
+               2 occurrences: Not UCM Source
+               1 occurrence:  The 4th character of 001 field not a 'b'
+               2 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      ii.mer.benchjav.mrc
+  outfile:     mer.convert.mrc
+  reportfile:  mer.report.txt
+  errorfile:   mer.error.mrc
+  rejectfile:  mer.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20040510143000.0
+  forcedate:   Y
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-022-000
+
+------------------------------------------

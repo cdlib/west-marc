@@ -1,0 +1,232 @@
+Record 1
+LDR  00851-am  2200253I  4504
+005  20040218000000.0
+008  720119ü1970üüüüüüü          üüüüüüügerüu
+010       $a 72514780
+035       $a 40000048
+040       $a na $c KSU $d CU-I
+090       $a AC30 $b .A53
+245  14   $a Das Altertum und jedes neue Gute : $b fèur Wolfgang Schadewaldt zum 15. Mèarz 1970 / $c herausgegeben von Konrad Gaiser
+260  0    $a Stuttgart ; $a Berlin ; $a Kèoln ; $a Mainz : $a W. Kohlhammer, $c c1970
+300       $a 560 p., [4] leaves of plates : $b ill. (some col.), map, music ; $c 22 cm
+500       $a UCI:  RECORD HAS NO 001 - REJECT (03/04).
+700  10   $a Schadewaldt, Wolfgang, $d 1900-1974
+700  10   $a Gaiser, Konrad
+852       $a CU-I $b tm
+852       $a CU-I $b spw $3 v.c.2
+899       $a O $b 223815 $c CUI
+901       $a 223815
+993       $a 10000483
+994       $a main $a spcol
+999       $b 2 $c 901221 $d m $e a $g 0
+
+Record 2
+LDR  01181-am  2200301I  4504
+001  b10096899
+005  19921024000000.0
+008  720817ü1963üüüüüüü          üüüüüüüengüu
+035       $a 40009689
+040       $a na $c HEI $d m.c. $d CU-I
+041  0    $a GerEng
+090       $a BC135 $b .W5 1963
+100  10   $a Wittgenstein, Ludwig, $d 1889-1951
+245  10   $a Tractatus logico-philosophicus. $b The German text of Logisch-philosophische Abhandlung, $c with a new translation by D.F. Pears & B.F. McGuinness, and with the introd. by Bertrand Russell
+260  0    $a London, $b Routledge & Kegan Paul; $a New York, $b Humanities Press $c [1963, c1961]
+300       $a xxii, 166 p. diagrs. $c 22 cm
+440   0   $a International library of philosophy and scientific method
+500       $a UCI:  001 DOES NOT HAVE UCI AS FIRST 3 CHARACTERS - REJECT (03/04).
+500       $a "First German edition in Annalen der Naturphilosophie, 1921."
+650   0   $a Logic, Symbolic and mathematical
+650   0   $a Language and languages $x Philosophy
+740  01   $a Logisch-philosophische Abhandlung
+852       $a CU-I $b main
+899       $a O $b 384555 $c CUI
+901       $a 384555
+993       $a 10096899
+994       $a main
+999       $b 1 $c 901221 $d m $e a $g 0
+
+Record 3
+LDR  01218-am  2200349 a 4504
+001  UCIb10132910
+005  19970523000000.0
+008  851024s1986    nyuac    b    00110beng  
+010       $a 85026027 //r87
+020       $a 0393018547
+035       $a 40013291
+040       $a DLC $c DLC $d CU-AM $d CU-I
+041  1    $a engger
+090       $a BF173.F85 $b K7313 1986
+100  10   $a Krèull, Marianne, $d 1936-
+240  10   $a Freud und sein Vater. $l English
+245  10   $a Freud and his father / $c Marianne Krèull ; translated by Arnold J. Pomerans ; preface by Helm Stierlin
+250       $a 1st ed
+260  0    $a New York : $b W.W. Norton, $c c1986
+300       $a xxi, 294 p. : $b ill., ports. ; $c 24 cm
+500       $a UCI:  NO LOC CODE IN ONLY INPUT 852 $B, SO NO OUTPUT 852 - REJECT (04/04).
+500       $a Translation of: Freud und sein Vater
+504       $a Bibliography: p. [273]-286
+600  10   $a Freud, Sigmund, $d 1856-1939 $x Childhood and youth
+600  10   $a Freud, Sigmund, $d 1856-1939 $x Family
+600  10   $a Freud, Sigmund, $d 1856-1939
+600  10   $a Freud, Jacob, $d 1815-1896
+650   0   $a Psychoanalysts $z Austria $x Biography
+650   0   $a Fathers and sons
+650   0   $a Psychoanalysis $x History
+899       $a O $b 12804314 $c CUI
+901       $a IRB $b 10132910
+
+Record 4
+LDR  00810-am  2200253 a 4504
+001  UCIb10139631
+005  19921024000000.0
+008  840921r19841959mau           00010 eng  
+010       $a 84022141
+020       $a 039472996X (Random House : pbk.)
+020       $a 0877733147 (pbk.) : $c $6.95
+035       $a 40013963
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CU-I
+090       $a BF1999 $b .C6778 1984
+100  10   $a Collin, Rodney
+245  14   $a The mirror of light / $c Rodney Collin
+250       $a 1st Shambhala ed
+260  0    $a Boston : $b Shambhala ; $a [New York] : $b Distributed in the U.S. by Random House, $c 1985, c1959
+300       $a 89 p. ; $c 22 cm
+500       $a UCI: NO INPUT 852 FIELD, SO NO OUTPUT 852 - REJECT (04/04).
+650   0   $a Spiritual life $x Miscellanea
+899       $a O $b 11290928 $c CUI
+901       $a IRB $b 10139631
+
+Record 5
+LDR  00964-am  2200289 a 4504
+001  UCIb10143178
+005  19921024000000.0
+008  830727s1981    enka     b    00100 eng  
+010       $a 81066698
+015       $a GB***
+020       $a 0122062205
+035       $a 40014317
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CU-I
+090       $a BF241 $b .P39 1981
+245  00   $a Perceiving and remembering faces / $c edited by Graham Davies, Hadyn Ellis, and John Shepherd
+260  0    $a London ; $a New York : $b Academic Press, $c 1981
+300       $a xv, 329 p. : $b ill. ; $c 24 cm
+440   0   $a Academic Press series in cognition and perception
+500       $a UCI: ONLY INPUT 852 FIELD DOES NOT HAVE A $b WITH LOCATION CODE, SO NO OUTPUT 852 WILL BE CREATED - REJECT (04/04).
+504       $a Bibliography: p. [287]-323
+650   0   $a Face perception
+700  10   $a Davies, Graham
+700  10   $a Ellis, Hadyn
+700  10   $a Shepherd, John
+899       $a O $b 8203549 $c CUI
+901       $a IRB $b 10143178
+
+Record 6
+LDR  00886-am  2200253Ii 4504
+001  UCIb1026243x
+005  19921024000000.0
+008  770810s1976    uk            00000 eng d
+020       $a 0860370046
+035       $a 40026243
+040       $c CU-I
+090       $a BP 173.4 $b .L4
+100  10   $a Lemu, B. Aisha
+245  10   $a Woman in Islam / $c B. Aisha Lemu, Fatima Heeren ; prepared under the auspices of the Islamic Foundation
+260  0    $a [London] : $b Islamic Council of Europe, $c 1976
+300       $a 51 p. ; $c 21 cm
+500       $a UCI:  REC HAS 2 852 FIELDS, 1 HAS $b WITH BLANKS, 2 HAS NO $b; NO OUTPUT 852'S ARE CREATED - REJECT (04/04).
+650   0   $a Women in Islam
+700  10   $a Heeren, Fatima, $e joint author
+710  20   $a Islamic Council of Europe
+710  20   $a Islamic Foundation
+711  20   $a International Islamic Conference $d (1976 : $c London)
+899       $a O $b 3177685 $c CUI
+901       $a IRB $b 1026243x
+
+Record 7
+LDR  01407-as  2200373u  4504
+001  UCIb17976364
+005  20041027000000.0
+008  850930c19859999MAUer1p        uuua0eng d
+009  10-02-85
+010       $a sn 85009109
+022  0    $a 0885-6540
+035       $a 25633
+040       $a SPI $c SPI $d NSD $d HUL $d NST $d IUL $d NST $d OCL $d NST $d CUI
+042       $a nsdp $a lcd
+043       $a n-us---
+090       $a AP 2 N373
+130  00   $a New American (Belmont, Mass.)
+222  04   $a The New American $b (Belmont, Mass.)
+245  14   $a The new American.
+260  00   $a [Belmont, Mass. : $b Review of the News, Inc., $c c1985-
+265       $a Review of the News, Inc., 395 Concord Ave., Belmont, Mass., 02178.
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Biweekly $b Apr. 7, 1986-
+321       $a Weekly $b -Mar. 24, 1986.
+362  0    $a Vol. 1, no. 1 (Sept. 30, 1985)-
+500       $a RECORD HAS LINE FEED (HEX 0A) WITHIN THE 1ST 852- REJECT (12/04).
+500       $a "A weekly review of the news and American opinion."
+515       $a Vol. 1 complete in 14 issues.
+580       $a Merger of: The Review of the news; and: American opinion.
+780  14   $t Review of the news $x 0034-6802 $w (OCoLC)1874098.
+780  14   $t American opinion $x 0003-0236 $a (DLC)   60023483 $w (OCoLC)1480501.
+852       $a CU-I $b mlcpr $j AP 2 N373 $z Latest issues retained unti
+852    
+910    
+
+Record 8
+LDR  01070-as  2200313u  450
+001  UCIb17976534
+005  20041028000000.0
+008  901025c19909999NYUwr pe       uuua0eng d
+009  11-30-90
+035       $a 39608
+040       $a CDS $c CDS $d NSD $d CUI
+043       $a n-us---
+090       $a AP2 $b .P423
+245  00   $a People's weekly world.
+246  10   $a World.
+250       $a California [ed.]
+260  00   $a New York, N.Y. : $b Long View Pub. Co., $c 1990-
+265       $a Peoples Weekly World, 520 Valencia St., San Francisco, CA 94110.
+300       $a v. : $b ill. ; $c 43 cm.
+310       $a Weekly.
+362  0    $a Vol. 5, no. 12 (Oct. 6, 1990)-
+500       $a RECORD HAS CARRIAGE-RETURN (HEX 0D) AT END OF LEADER - REJECT (12/04).
+650   0   $a Communism $z United States $x Periodicals.
+650   0   $a Working class $z United States $x Periodicals.
+650   0   $a Labor movement $z United States $x Periodicals.
+730  00   $a Nuestro mundo.
+780  00   $t People's daily world (New York, N.Y. : 1986) $w (OCoLC)13733648.
+852       $a CU-I $b mlcpr $j AP 2 P423 $z Latest year only.
+910       $a BW901220#22582310
+
+Record 9
+LDR  00000nam  2200000 a 4500
+
+Record 10
+LDR  00852-as  2200265u  4504
+001  UCIb17978555
+005  20041026000000.0
+008  791106c19799999NYUer1pe       uuua0eng d
+009  03-28-83
+010       $a sn 80011761
+022  0    $a 0197-792X
+035       $a 12644
+040       $a VAU $c VAU $d NSD $d CUI
+042       $a nsdp
+090       $a AP4 $b .L54
+222  04   $a The London review of books.
+245  04   $a The London review of books.
+246  17   $a London review.
+260  00   $a [New York, $b NYREV Inc.]
+265       $a The New York Review of Books, 250 West 57 Street, New York, NY 10019.
+300       $a v. $b ill.  42 cm.
+362  0    $a v. 1-   Oct. 25, 1979-
+500       $R ECORD HAS CARRIAGE-RETURN (HEX 0D) INSIDE 008 FIELD - REJECT (12/04).
+690   0   $a Books $x Reviews $x Periodicals.
+852       $a CU-I $b mlcpr $j AP 4 L54 $z Latest issues retained until replaced by microfilm.
+

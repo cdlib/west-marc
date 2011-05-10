@@ -1,0 +1,35 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:38
+End:   2009-7-10 15:46:39
+
+------------------------------------------
+Run Statistics:
+          11 - Records Input
+           9 - Records Output
+           2 - Records Skipped
+           0 - Records Rejected
+           0 - Records with non-fatal errors
+
+------------------------------------------
+Configuration:
+  infile:      lcn.benchjav.mrc
+  outfile:     lcn.convert.mrc
+  reportfile:  lcn.report.txt
+  errorfile:   lcn.error.mrc
+  rejectfile:  lcn.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: N
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

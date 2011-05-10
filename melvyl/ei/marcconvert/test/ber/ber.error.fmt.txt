@@ -1,0 +1,25 @@
+Record 1
+LDR  01172nXX  2200289   4500
+001  UCb102650196
+005  20020510143000.0
+008  831129 1865    enk                 eng d
+035       $a (OCoLC) 213982205
+035       $a GLADN33555863
+079       $a 21702885
+090       $a PN6157.K6 $b .M35
+260  0    $a London : $b F. Warne, $c 1865
+300       $a 256 p. $c 17 cm
+490  0    $a S.O. Beeton's books
+500       $a BER: REC HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE; OUTPUT WITH 4 998 ERROR FIELDS (07/09).
+500       $a Original paper wrappers; in case
+650   0   $a American wit and humor.
+700  10   $a Smith, Seba, $d 1792-1868.
+700  10   $a Davis, Charles Augustus, $d 1795-1867.
+752       $a Great Britain $b England $d London
+852       $a BER $b tbX $h PN6157.K6 $i .M35
+901       $a BER $b 102650196
+998       $a BER $b 1003 $c Record contains the unknown location code tbX $d Release-027-000 $e 102650196
+998       $a BER $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 102650196
+998       $a BER $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 102650196
+998       $a BER $b 1002 $c Record contains no 245 field $d Release-027-000 $e 102650196
+

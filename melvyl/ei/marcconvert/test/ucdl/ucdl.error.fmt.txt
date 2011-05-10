@@ -1,0 +1,93 @@
+Record 1
+LDR  00846cam  2200229   45  
+005  19900603000000.0
+008  791114c19661967nyua     b    10000 eng  
+010       $a 68001937
+035       $a (CStRLIN)12901741-B
+040       $c CU-AL
+050  0    $a HF5686.P3 $b I5 1966
+111  10   $a Institute on Oil and Gas Accounting $n (2d : $d 1966 : $c Dallas)
+260  0    $a Albany, $b M. Bender, $c 1966 [c1967]
+300       $a viii, 247 p. $b illus. $c 24 cm
+500       $a UCDL: NO 245 FIELD - CREATE ERROR FIELD (04/02).
+650   0   $a Petroleum industry and trade $x Accounting
+700  10   $a Ernst, Armine Carol
+710  20   $a Southwestern Legal Foundation
+710  20   $a International Oil and Gas Educational Center (Southwestern Legal Foundation)
+852       $a DLB $b stx $j HF5686.P3 I5 1966
+901       $a DLB $b 108760
+998       $a DLB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 108760
+
+Record 2
+LDR  01085cXm  2200289   45  
+005  19900603000000.0
+008  800401s1938    nyua          00010 eng  
+010       $a 38023185
+035       $a (CStRLIN)14919303-B
+040       $c CU-AL $d CU-AL
+043       $a n-us---
+050  0    $a HD3636.U6 $b N68
+100  10   $a Norwood, John Wall, $d 1876-
+245  10   $a Trade practice and price law, federal, $c by John W. Norwood ..
+260  0    $a New York, Chicago [etc.] $b Commerce clearing house, inc., Loose leaf service division of the Corporation trust company $c [c1938]
+300       $a 1 p. l., 265 p. $b diagr. $c 24 cm
+500       $a UCDL: UNKNOWN TYPE - CREATE ERROR FIELD (04/02).
+610  10   $a United States. $b Federal Trade Commission
+650   0   $a Competition, Unfair $z United States
+650   0   $a Pricing
+650   0   $a Restraint of trade $z United States
+650   0   $a Interstate commerce
+650   0   $a Antitrust law $z United States
+710  10   $a United States
+852       $a DLB $b stx $h KF3195.A6 $i N67
+901       $a DLB $b 115489
+998       $a DLB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 115489
+
+Record 3
+LDR  01301caX  2200313   45  
+005  19900604000000.0
+008  801117s1915    nyu      b    00010 eng  
+010       $a 15002396
+035       $a (CStRLIN)19850727-B
+040       $c CU-AL $d CU-AL
+043       $a e-uk---
+100  10   $a Ewell, Marshall Davis, $d 1844-1928
+245  10   $a Essentials of the law ..
+250       $a 2d ed. $b By Marshall D. Ewell ..
+260  0    $a Albany, N. Y., $b M. Bender & company, incorporated, $c 1915
+300       $a 2 v. $c 24 cm
+500       $a UCDL: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+505  0    $a v.1. A review of Blackstone's commentaries with explanatory notes for the use of students at law.--v.2. Elementary law ... with notes and references for the use of students at law
+600  10   $a Blackstone, William, $c Sir, $d 1723-1780. $t Commentaries on the laws of England
+610  20   $a Law Institute $z Great Britain $x History.
+610  14   $a Great Britain $x Law $x Commentaries
+650   0   $a Law $z Great Britain $x Outlines, syllabi, etc
+650   1   $a Law Practice $x History $x Juvenile.
+650   0   $a Law $x History.
+650   2   $a Medicine and Law.
+690   4   $a Law $x Commentaries.
+852       $a DLB $b stx $h KD661 $i .E93 1915
+901       $a DLB $b 125797
+998       $a DLB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 125797
+
+Record 4
+LDR  00820cam  2200241 i 45  
+005  19950130000000.0
+008  800227s1976    ilu      b    00110 eng  
+010       $a 75020892
+020       $a 0226319997 :
+035       $a (CStRLIN)14294583-B
+050  0    $a HV8665 $b .H39 1976
+100  10   $a Hawkins, G. J. $q (Gordon J.)
+245  14   $a The prison : $b policy and practice / $c Gordon Hawkins
+260  0    $a Chicago : $b University of Chicago, $c 1976
+300       $a xi, 217 p. ; $c 22 cm
+440   0   $a Studies in crime and justice
+500       $a UCDL: UNKNOWN LOC CODE IN 920 $l - CREATE ERROR FIELD (04/020).
+504       $a Bibliography: p. 187-203
+650   0   $a Prisons
+650   0   $a Imprisonment
+852       $a DLB $b XXX $h HV8665 $i .H39
+901       $a DLB $b 113565
+998       $a DLB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 113565
+

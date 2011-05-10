@@ -1,0 +1,124 @@
+Record 1
+LDR  02283nam^a2200469^a^4500
+005  20020823110659.0
+008  951027s1993    cc a          000 1 chi d
+035       $a (CStRLIN)CASO95-B4619
+035  9    $a (SBN)AJZ1021
+040       $a CU-SB $c CU-SB
+090       $a PL2646 $b .M55 1993 v.4 $i 10/27/95 T
+100  0    $a Chʻing-hsi-tao-jen, $d 17th cent.
+245  10   $a Chʻan chen hou shih / $c [Fang Ju-hao chu ; Wang I-min chiao tien]. Chou tsao chi ; Fei chien chi ; Tʻieh shu chi / [Teng Chih-mo chu ; Chung Wei, Hsiang Yung-yang chiao tien]. Hsieh chia li / [Wu ming shih chu ; Yü Tʻu chiao tien].
+250       $a Ti 1 pan.
+260       $a Chʻeng-tu : $b Pa Shu shu she, $c 1993.
+300       $a 971 p. : $b ill. ; $c 21 cm.
+490  1    $a Ming tai hsiao shuo chi kʻan. Ti 1 chi ; $v 7-11
+500       $a SBXL: NO 001 IN RECORD; REJECT.
+500       $a Original title of 1st work: Hsin chüan pʻi pʻing chʻu hsiang tʻung su yen i chʻan chen hou shih.
+500       $a Caption title of 2nd work: Chʻieh Wu tai Sa-chen-jen te tao chou tsao chi.
+500       $a Caption title of 3rd work: Chʻieh Tʻang tai Lü Chʻun-yang te tao fei chien chi.
+500       $a Caption title of 4th work: Hsin chʻieh Chin tai Hsü Ching-yang te tao chʻin chiao tʻieh shu chi.
+500       $a 5th work also named: Feng liu ho shang, with Caption title: Hsien pien feng liu ho shang.
+700  1    $a Wang, I-min.
+700  1    $a Chung, Wei.
+700  1    $a Hsiang, Yung-yang
+700  1    $a Yü, Tʻu.
+700  12   $a Teng, Chih-mo, $d 16th/17th cent. $t Chou tsao chi.
+700  12   $a Teng, Chih-mo, $d 16th/17th cent. $t Fei chien chi.
+700  12   $a Teng, Chih-mo, $d 16th/17th cent. $t Tʻieh shu chi.
+740  0    $a Hsin chüan pʻi pʻing chʻu hsiang tʻung su yen i chʻan chen hou shih.
+740  02   $a Chou tsao chi.
+740  02   $a Chʻieh Wu tai Sa-chen-jen te tao chou tsao chi.
+740  02   $a Fei chien chi.
+740  02   $a Chʻieh Tʻang tai Lü Chʻun-yang te tao fei chien chi.
+740  02   $a Tʻieh shu chi.
+740  02   $a Hsin chʻieh Chin tai Hsü Ching-yang te tao chʻin chiao tʻieh shu chi.
+740  02   $a Hsieh chia li.
+740  02   $a Feng liu ho shang.
+740  02   $a Hsin pien feng liu ho shang.
+830   0   $a Ming tai hsiao shuo chi kʻan. $n Ti 1 chi ; $v 7-11
+852  00   $a CU-SB $b MAIN $c ASIAN $h PL2646 $i .M55 1993 $i v.4 $n us
+
+Record 2
+LDR  01780nas^a2200361^a^4500
+001  SXLB001812014
+005  20020823110659.0
+007  heubmb024bbca
+008  920228c19889999coumr p bb   f0   a0eng d
+010       $a sn 92023953 
+035       $a (OCoLC)ocm25361830
+035  9    $a (SBN)AJZ1022
+040       $a ORU $c ORU $d GPO $d CU-SB
+042       $a lcd
+043       $a n-us---
+074       $a 0629-A-01 (MF)
+086       $a I 53.17/2:
+110  2    $a BLM Library (U.S.)
+245  10   $a Bureau of Land Management monthly alert $h [microform].
+246  13   $a Monthly alert
+260       $a Denver, CO : $b BLM Library, $c [1988-
+300       $a v. ; $c 28 cm.
+310       $a Monthly
+362  0    $a Jan. 1988-
+500       $a SBXL: 001 DOES NOT BEGIN 'SBXL'; REJECT.
+515       $a Feb. and Mar. 1988 issued in combined form.
+533       $a Microfiche. $m 1988- $b [Washington, D.C.] : $c Supt. of Docs., U.S. G.P.O. $d [1992- $e   microfiches : negative.
+610  20   $a BLM Library (U.S.) $x Bibliography $x Periodicals.
+650   0   $a Public lands $z United States $x Bibliography $x Periodicals.
+776  1    $c Original $w (OCoLC)18114300 $w (DLC)sn 88040122
+780  01   $a BLM Library (U.S.). $t Monthly alert $w (OCoLC)17804636
+852  31   $a CU-SB $b MAIN $c GPUSM $h I 53.17/2: $n us $D 4  $O Currently received $3 no.1-12 (1988:Jan./Dec.)***no.1-12 (1989:Jan./Dec.)***no.1-12 (1990:Jan./Dec.)***no.1-4,6-12 (1991:Jan./Apr.,June/Dec.)***no.1-2,4-5 (1992:Jan./Feb.,Apr./May)***no.1-12 (1993:Jan./Dec.)***no.1-12 (1994:Jan-Dec.)***no.1-11 (1995:Jan.-Nov.)***no.2-12 (1996:Feb.-Dec.)***no.2-12 (1997:Feb.-Dec./1998:Jan.)***no.2-4,6/7-12 (1998:Feb.-Apr.,June/July-Dec.)***no.1-12 (1999:Jan.-Dec.)***no.1-2,11 (2000:Jan.-Feb./Nov.)
+265       $a Paper subscription available from: BLM Library, Service Center, SC-653, Denver Federal Center, Denver, CO 80225-0447
+
+Record 3
+LDR  02314nam^a2200361^a^4500
+001  SBXL001812017
+005  20020823110659.0
+008  910402s1995    nyua     b    001 0 eng  
+010       $a    91013789 
+020       $a 0404642519 (acid-free paper)
+035  9    $a (SBN)AJZ1025
+040       $a DLC $c DLC $d DLC $d OrLoB-B
+043       $a e-uk---
+050  00   $a PR149.S47 $b S43 1995
+082  00   $a 820.9 $2 20
+245  00   $a Secret texts : $b the literature of secret societies / $c edited by Marie Mulvey Roberts and Hugh Ormsby-Lennon.
+260       $a New York : $b AMS Press, $c c1995.
+300       $a 349 p. : $b ill. ; $c 24 cm.
+490  1    $a AMS studies in cultural history, $x 1058-2398 ; $v no. 1
+500       $a SBXL: NO 852 IN INPUT RECORD; REJECT.
+505  0    $a Foreword / Michael Foot -- 1. Alchemical Art and the Renaissance Emblem / Stanton J. Linden -- 2. Nature's Mystick Book: Renaissance Arcanum into Restoration Cant / Hugh J. Ormsby-Lennon -- 3. Science, Magic and Masonry: Swift's Secret Texts / Marie Mulvey Roberts -- 4. Yeats and the "Unknown Superiors": Swedenborg, Falk and Cagliostro / Marsha Keith Schuchard -- 5. Joel Barlow, Edmund Burke, and Fears of Masonic Conspiracy in 1792 / Carla J. Mulford -- 6. Peacock and the "Philosophical Gas" of the Illuminati / Gary R. Dyer -- 7. Freemasonry, the Brontes, and the Hidden Text of Jane Eyre / Elizabeth Imlay -- 8. The Mystic Impresario: Josephin Peladan, Founder of Le Salon de la Rose+Croix / Ingeborg M. Kohn -- 9. Orlick's Hammers and Pip's Third Degree / William M. Burgan -- 10. Acts of the Companions: A.E. Waite's Fellowship of the Rosy Cross and the Novels of Charles Williams / Thomas Willard -- 11. "Two Circles to Gain and Two Squares to Lose": The Golden Dawn in Popular fiction / Robert A. Gilbert.
+505  8    $a 12. Kim and the Magic House: Freemasonry and Kipling / Paul Rich -- Afterword / Jonathan Swift.
+650   0   $a English literature $x History and criticism.
+650   0   $a Secret societies in literature.
+650   0   $a Freemasonry in literature.
+650   0   $a Occultism in literature.
+650   0   $a Hermetism in literature.
+650   0   $a Ritual in literature.
+650   0   $a Myth in literature.
+700  1    $a Roberts, Marie Mulvey.
+700  2    $a Ormsby-Lennon, Hugh.
+830   0   $a AMS studies in cultural history ; $v no. 1
+901       $a SBXL $b 001812017
+
+Record 4
+LDR  01322nam^a2200253^a^4500
+001  SBXL001812019
+005  20020823110659.0
+008  950706s1994    nyua     b    000 0 eng d
+020       $a 0874270928
+035  9    $a (SBN)AJZ1027
+040       $a NNWhit $c NNWhit $d NBiSU $d OrLoB-B
+043       $a n-us---
+245  00   $a Tracing cultures : $b art history, criticism, critical fiction.
+260       $a New York, N.Y. : $b Whitney Museum of American Art : $b Distributed   by Distributed Art Publishers, $c c1994.
+300       $a 175 p. : $b ill. ; $c 23 cm.
+490  1    $a ISP papers ; $v no. 5
+500       $a SBXL: SINGLE 852 HAS NO $c ; DON'T OUTPUT 852; REJECT
+504       $a Includes bibliographical references.
+505  0    $a Reductivism in Reverse / Alexander Alberro -- Re-Placing Angels: Extracts and Extractions / Allan deSouza -- Sally Mann's Looking-Glass House / Shannah Ehrhart -- Speaking in Tongues / Kate Thompson Glazer -- The Parody Aesthetic / Melanie Marino -- Fire onto the Square / Constantinos Proimakis -- Jetties and Lagoons / David Raskin -- Beyond Shack Photography: The Humanist Imagery of Roy DeCarava / AJ Verdelle.
+650   0   $a Art, American.
+650   0   $a Art, Modern $y 20th century $z United States.
+710  2    $a Whitney Museum of American Art. $b Independent Study Program.
+830   0   $a ISP papers ; $v no. 5
+901       $a SBXL $b 001812019
+

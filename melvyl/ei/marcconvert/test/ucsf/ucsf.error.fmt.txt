@@ -1,0 +1,24 @@
+Record 1
+LDR  01176cXX  2200277   45  
+005  19900125000000.0
+008  700202s1969    nyuach   b    00110 eng  
+010       $a 69018726
+035       $a (OCoLC)55185
+098  0    $n ov=.b1281719
+100  10   $a Gernsheim, Helmut, $d 1913-
+250       $a [2d ed.]
+260  0    $a New York, $b McGraw-Hill $c [1969]
+300       $a 599 p. $b illus., facsims., ports. $c 31 cm.
+350       $a 22.95.
+500       $a UCSF: RECORD HAS UNKNOWN TYPE, UNKNOWN BIBLVL, NO 245, UNKNOWN LOC CODE - OUTPUT 4 ERROR FIELDS (07/06).
+500       $a Rev. ed. published as: The origins of photography. 1982.
+504       $a Bibliography: p. [580]-581.
+650   0   $a Photography $x History.
+700  10   $a Gernsheim, Alison, $e joint author.
+852       $a SFB $b XXX $x Gift of Harold A. Harper.
+901       $a SFB $b 10002528
+998       $a SFB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 10002528
+998       $a SFB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 10002528
+998       $a SFB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 10002528
+998       $a SFB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 10002528
+

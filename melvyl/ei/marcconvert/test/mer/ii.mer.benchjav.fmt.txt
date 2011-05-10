@@ -1,0 +1,569 @@
+Record 1
+LDR  01024cam  22002894a 4500
+003  OCoLC
+005  20031112091118.0
+008  010322s2001    inua     b    001 0 eng  
+010       $a 2001089107
+019       $a 47028181
+020       $a 0764547712 (pbk.)
+040       $a DLC $c DLC
+042       $a pcc
+049       $a MAIN
+082  00   $a 005.4/32 $2 21
+100  1    $a Barkakati, Nabajyoti, $d 1956-
+245  10   $a Red Hat Linux 7.1 secrets / $c Naba Barkakati.
+260       $a Indianapolis, IN : $b Hungry Minds, $c 2001.
+300       $a xxxiv, 1135 p. : $b ill. ; $c 24 cm. + $e 3 computer optical discs (4 3/4 in.)
+500       $a UCM: NO 001 FIELD - REJECT (04/05).
+630  00   $a Linux.
+650   0   $a Operating systems (Computers)
+852       $a MER $b kmain $h QA76.76.O63 $i B366166 2001
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley021/2001089107.html
+998       $a kmain $b 11-12-03 $c m $d a $e n $f eng $g inu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105940 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i10000276 $z 01-29-04
+
+Record 2
+LDR  02340cgm  2200541Ka 4500
+001  b10000161
+003  OCoLC
+005  20031112091118.0
+007  vd bgaiz-
+008  020614p20011954cau113            vleng d
+020       $a 0792172116
+040       $a TXB $c TXB
+049       $a MAIN
+090       $a PN1997 $b .S22 2001
+130  0    $a Sabrina (Motion picture : 1954)
+245  10   $a Sabrina $h [videorecording] / $c Paramount Pictures ; producer, Billy Wilder ; written for the screen, Billy Wilder, Samuel Taylor and Ernest Lehman ; director, Billy Wilder.
+260       $a Hollywood, Calif. : $b Paramount, $c c2001.
+300       $a 1 videodisc (113 min.) : $b sd., b&w ; $c 4 3/4 in.
+440   0   $a Audrey Hepburn collection
+500       $a UCM:  001 FIELD DOES NOT BEGIN UCM - REJECT (04/05).
+546       $a Closed-captioned.
+511  1    $a Humphrey Bogart, Audrey Hepburn, William Holden, Walter Hampden, John Williams, Martha Hyer, Joan Vohs.
+508       $a Cinematographer, Charles Lang ; editor, Arthur P. Schmidt ; music, Frederick Hollander ; costume designer, Edith Head.
+520       $a The daughter of the chauffeur for an immensely wealthy family returns from Paris and dazzles the family's two sons.
+586  8    $a Academy Awards, 1955, Oscar - Best Costume Design, Black-and-White (Edith Head)
+586  8    $a Golden Globe, 1955, Best Screenplay (Ernest Lehman, Samuel A. Taylor, Billy Wilder)
+586  8    $a NBR Award, 1954, Best Supporting Actor (John Williams)
+650   0   $a Man-woman relationships $v Drama.
+700  1    $a Wilder, Billy, $d 1906-
+700  1    $a Taylor, Samuel Albert, $d 1912-
+700  1    $a Lehman, Ernest, $d 1915-
+700  1    $a Bogart, Humphrey, $d 1899-1957.
+700  1    $a Hepburn, Audrey, $d 1929-
+700  1    $a Holden, William, $d 1918-
+700  1    $a Hampden, Walter, $d 1879-1955.
+700  1    $a Williams, John, $d 1903-
+700  1    $a Hyer, Martha.
+700  1    $a Vohs, Joan.
+700  1    $a Lang, Charles B.
+700  1    $a Schmidt, Arthur.
+700  1    $a Hollaender, Friedrich.
+700  1    $a Head, Edith.
+700  1    $a Taylor, Samuel Albert, $d 1912- $t Sabrina fair.
+710  2    $a Paramount Pictures Corporation.
+852       $a MER $b kmain
+998       $a kmain $b 11-12-03 $c m $d g $e n $f eng $g cau $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105952 $l kmain $o - $p $0.00 $q - $r - $s - $t 4 $u 0 $v 0 $w 0 $x 0 $y .i10000288 $z 01-29-04
+
+Record 3
+LDR  02180ngm  2200481Ia 4500
+001  UCMb10000173
+003  OCoLC
+005  20031112091118.0
+007  vf cbahos
+008  030128p19961995cau127            vleng d
+020       $a 0792140893
+028  42   $a 33043 $b Paramount
+040       $a NJT $c NJT
+049       $a MAIN
+090       $a PN1997 $b .S23 1996
+130  0    $a Sabrina (Motion picture : 1995)
+245  10   $a Sabrina $h [videorecording] / $c Paramount Pictures Corporation ; director, Sidney Pollack ; produced and directed by Scott Rudin and Sydney Pollack ; screenplay by Barbara Benedek and David Rayfiel.
+260       $a Hollywood, Calif. : $b Paramount, $c c1996.
+300       $a 1 videocassette (127 min.) : $b sd., col. ; $c 1/2 in.
+538       $a VHS hi-fi, stereo., Dolby processed.
+546       $a Closed-captioned.
+511  1    $a Harrison Ford, Julia Ormond, Greg Kinnear.
+508       $a Music by John Williams; original songs by John Williams and Alan & Marilyn Bergman; edited by Frederic Steinkamp; director of photography, Giuseppe Rotunno.
+500       $a UCM:  2 INPUT 852 FIELDS, 1ST HAS SUBFLD b, 2ND DOES NOT; USE 1ST 852 FLD ONLY, OUTPUT MER IN SUBFLD a, LOC CODE IN SUBFLD b (04/05).
+500       $a OUTPUT 901 WITH MER IN SUBFLD a, CREATE LOCAL NUM FROM 001 BY DROPPING INITIAL "UCMb' AND OUTPUT REMAINDER IN SUBFLD b.
+500       $a DROP INPUT 9XX FIELDS FROM OUTPUT.
+521       $a Rated PG.
+520       $a Comedy in which the daughter of the chauffeur for an immensely wealthy family returns from Paris and dazzles the family's two sons.
+650   0   $a Feature films.
+650   0   $a Video recordings for the hearing impaired.
+700  1    $a Ford, Harrison, $d 1942- $4 act
+700  1    $a Ormond, Julia. $4 act
+700  1    $a Kinnear, Greg, $d 1963- $4 act
+700  1    $a Pollack, Sydney, $d 1934- $4 drt
+700  1    $a Rudin, Scott, $d 1958-
+700  1    $a Benedek, Barbara.
+700  1    $a Rayfiel, David.
+710  2    $a Paramount Pictures.
+852       $a MER $b kmain
+852       $a MER $j CALL NUM
+998       $a kmain $b 11-12-03 $c m $d g $e n $f eng $g cau $h 0 $i 1 $j 03-03-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105964 $l kmain $o - $p $0.00 $q - $r - $s - $t 4 $u 0 $v 0 $w 0 $x 0 $y .i1000029x $z 01-29-04
+
+Record 4
+LDR  01854cmm  2200337Ia 4500
+001  UCMb10000185
+003  OCoLC
+005  20031112091118.0
+008  981118s1998    cau        m        lat d
+020       $a 1891788124
+040       $a CUV $c CUV $d OCL $d OCLCQ
+041  1    $a englat $h lat $g eng
+049       $a MAIN
+090       $a QB41 $b .G17 1998
+100  1    $a Galilei, Galileo, $d 1564-1642.
+245  10   $a Sidereus nuncius $h [electronic resource] : $b Venice, 1610 / $c Galileo Galilei.
+260       $a Palo Alto, CA : $b Octavo, $c c1998.
+300       $a 1 computer laser optical disc : $b col. ; $c 4 3/4 in. + $e insert.
+538       $a System requirements for Windows: IBM PC Pentium or compatible; Windows 95, 98 or NT 3.5.1 with 3MB available RAM, or Windows NT 4.0 with 16MB available RAM; Adobe Acrobat 3.0 (included); CD-ROM drive; color monitor.
+538       $a System requirements for Macintosh: Power Macintosh with 3.5 to 5.0MB available RAM; Adobe Acrobat 3.0 (included); CD-ROM drive; color monitor.
+500       $a UCM: DROP INPUT 005, CREATE OUTPUT 005 FROM FILE DATE
+546       $a In Latin with English translation.
+520       $a Includes a digitized facsimile of the 1610 Venice edition of Galileo's Sidereus nuncius from the copy in the Warnock Library; the English translation by Albert Van Helden (Chicago : University of Chicago Press, 1989) and a commentary by Van Helden. Text is searchable and displays may be magnified up to 600%.
+650   0   $a Astronomy $v Early works to 1800.
+600  10   $a Galilei, Galileo, $d 1564-1642. $t Sidereus nuncius.
+700  12   $a Galilei, Galileo, $d 1564-1642. $t Sidereus nuncius. $l English
+700  1    $a Van Helden, Albert.
+852       $a MER $b kmain
+998       $a kmain $b 11-12-03 $c m $d m $e n $f lat $g cau $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105976 $l kmain $o - $p $0.00 $q - $r - $s - $t 2 $u 0 $v 0 $w 0 $x 0 $y .i10000306 $z 01-29-04
+
+Record 5
+LDR  02068cgm  2200469Ia 4500
+001  UCMb10000197
+003  OCoLC
+005  20031112091118.0
+007  vf cbaho-
+008  931209s1993    cau105            vleng d
+020       $a 0800126122 : $c $92.95
+024  10   $a 043396524132
+028  42   $a 52413 $b Columbia TriStar Home Video
+040       $a MRQ $c MRQ $d CNB $d JPL $d LML $d JED
+049       $a MAIN
+090       $a PN1997 $b .S54 1993
+130  0    $a Sleepless in Seattle (Motion picture)
+245  10   $a Sleepless in Seattle $h [videorecording] / $c Tri-Star Pictures ; a Gary Foster production ; directed by Nora Ephron ; produced by Gary Foster ; screenplay by Nora Ephron, David S. Ward, Jeff Arch.
+260       $a [Burbank, Calif. : $b Columbia TriStar Home Video], $c 1993.
+300       $a 1 videocassette (105 min.) : $b sd., col. ; $c 1/2 in.
+500       $a UCM: NO INPUT 852 - REJECT (04/05).
+546       $a Closed-captioned.
+511  1    $a Tom Hanks, Meg Ryan, Ross Malinger, Rosie O'Donnell, Bill Pullman, Rob Reiner.
+508       $a Executive producers, Lynda Obst, Patrick Crowley ; story by Jeff Arch ; camera, Sven Nykvist ; editor, Ribert Reitano ; music, Marc Shaiman.
+521  8    $a MPAA: Rated PG.
+520       $a After hearing a man confess his love for his dearly departed wife on a call-in radio show, a woman falls deeply, inexplicably in love with him.  Deciding he is her destiny, she treks across country on a wildly romantic impulse to meet him.
+650   0   $a Comedy films.
+650   0   $a Feature films.
+650   0   $a Video recordings for the hearing impaired.
+700  1    $a Ephron, Nora.
+700  1    $a Hanks, Tom.
+700  1    $a Ryan, Meg.
+700  1    $a Malinger, Ross.
+700  1    $a O'Donnell, Rosie.
+700  1    $a Pullman, Bill.
+700  1    $a Reiner, Rob.
+700  1    $a Shaiman, Marc.
+710  2    $a Tri-Star Pictures.
+710  2    $a Columbia TriStar Home Video (Firm)
+998       $a kmain $b 11-12-03 $c m $d g $e n $f eng $g cau $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105996 $l kmain $o - $p $0.00 $q - $r - $s - $t 4 $u 0 $v 0 $w 0 $x 0 $y .i10000318 $z 01-29-04
+
+Record 6
+LDR  02441nam  2200337Ia 4500
+001  UCMb10000203
+003  OCoLC
+005  20031112091118.0
+008  010417m19999999miua     b    001 0 eng d
+020       $a 0787637262 (v. 1)
+020       $a 0787637270 (v. 2)
+040       $a SVP $c SVP
+049       $a MAIN
+090       $a PN681 $b .M67 1999
+100  1    $a Moss, Joyce, $d 1951-
+245  10   $a World literature and its times : $b profiles of notable literary works and the historical events that influenced them / $c Joyce Moss, Lorraine Valestuk.
+260       $a Detroit : $b Gale Group, $c c1999-
+300       $a v. ; $c 23 cm.
+500       $a UCM: MONO REC HAS 852 FOLLOWED BY 2 866 FLDS - CONCATENATE 866 SUBFLD a'S, SEPARATED BY ";  " (2 SPACES), AND OUTPUT AS SINGLE SUBFLD 3 IN 852 (04/05).
+520  1    $a "... a 12-volume series focusing on major fiction, poetry, and nonfiction from various geographic areas of the world. It uniquely combines literary and historical information, arranged in alphabetical order by the title of the work. Each of the 50 entries includes an introduction that discusses the work by genre, place, and period; a description of its social and political background; a summary of plot or contents; a description of the social, political, or literary events of its author's life and the way they have influenced the plot of contents of the work; and a list of sources and further readings ... the literatures of Africa, Asia, modern england and Ireland, Spain and Portugal, France, the Middle East, Italy, India, and Jewish literature. This series will be a welcome addition to public and academic libraries. It will be most useful to high school students and undergraduates."--"Outstanding reference sources 2000", American Libraries, May 2000. Comp. by the Reference Sources Committee, RUSA, ALA.
+505  1    $a v. 1. Latin American literature and its times -- v. 2. African literature and its times.
+650   0   $a Literature $x History and criticism.
+650   0   $a Literature and history.
+700  1    $a Valestuk, Lorraine, $d 1963-
+852       $a MER $b kmain
+866  30   $a v.1-12 (2001) (1ST 866)
+866  30   $a Complete index in v.12 (2ND 866)
+998       $a kmain $b 11-12-03 $c m $d a $e n $f eng $g miu $h 0 $i 2 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $c v.1 $g 1 $i 31114636106008 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i1000032x $z 01-29-04
+945       $c v.2 $g 1 $i 31114636106020 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i10000331 $z 01-29-04
+
+Record 7
+LDR  01244dXX  22002774a 4500
+001  UCMb10000215
+003  DLC
+005  20030722142804.0
+008  020716s2003    ilua     b    001 0 eng  
+010       $a 2002011038
+020       $a 0252028090 (Cloth : alk. paper)
+040       $a DLC $c DLC $d DLC
+042       $a pcc
+043       $a n-us---
+082  00   $a 380.1/0973 $2 21
+100  1    $a Dawson, Michael, $d 1965-
+260       $a Urbana : $b University of Illinois Press, $c c2003.
+300       $a x, 203 p. : $b ill. ; $c 24 cm.
+440   4   $a The history of communication
+500       $a UCM: DELETE REC HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE - OUTPUT DELETE WITH NO 998 ERROR FIELDS (04/05).
+505  0    $a Thinking the unthinkable -- The marketing race -- The targeting race -- The motivation research race -- The product management race -- The sales communications race -- Macromarketing and public subsidy -- The globalization of marketing -- The consumer trap.
+650   0   $a Marketing $z United States.
+650   0   $a Marketing $z United States $x Costs.
+852       $a MER $b XXXX $h HF5415.1 $i .D33 2003
+998       $a kmain $b 07-22-03 $c m $d a $e n $f eng $g ilu $h 4 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920464 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 1 $v 0 $w 1 $x 0 $y .i10000343 $z 01-29-04
+
+Record 8
+LDR  01456nXX  2200349 a 4500
+001  UCMb10000227
+003  DLC
+005  20030701115258.0
+008  021112s2003    nyua     b    001 0beng  
+010       $a 2002192739
+020       $a 0060084766
+040       $a DLC $c DLC $d NhCcYBP
+043       $a n-us-dc $a n-us---
+082  00   $a 323/.092 $a B $2 21
+100  1    $a Hansen, Drew W.
+250       $a 1st ed.
+260       $a New York : $b Ecco, $c c2003.
+300       $a 293 p. : $b ill. ; $c 22 cm.
+500       $a UCM: REC HAS INVALID TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE - OUTPUT WITH 4 998 ERROR FIELDS (04/05).
+504       $a Includes bibliographical references (p. [231]-277) and index.
+600  10   $a King, Martin Luther, $c Jr., $d 1929-1968.
+600  10   $a King, Martin Luther, $c Jr., $d 1929-1968 $x Oratory.
+650   0   $a March on Washington for Jobs and Freedom, Washington, D.C., 1963
+650   0   $a Speeches, addresses, etc., American $x Washington (D.C.)
+650   0   $a African Americans $v Biography.
+650   0   $a African American civil rights workers $v Biography.
+650   0   $a Baptists $z United States $x Clergy $v Biography.
+650   0   $a African Americans $x Civil rights $x History $y 20th century.
+650   0   $a Civil rights movements $z United States $x History $y 20th century.
+852       $a MER $b XXXX $h E185.97.K5 $i H273 2003
+998       $a kmain $b 07-01-03 $c m $d a $e n $f eng $g nyu $h 4 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920431 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000355 $z 01-29-04
+
+Record 9
+LDR  01447cam  2200301 a 4500
+001  UCMb10000239
+003  DLC
+005  20030818152435.0
+008  030619s2002    enka     b    001 0 eng  
+010       $a 2003271395
+015       $a GBA2-W0140
+020       $a 0198525168
+035       $a (OCoLC)ocm50269941
+040       $a UKM $c UKM $d GZM $d DLC
+042       $a lccopycat
+082  00   $a 531/.6 $2 22
+100  1    $a Laidler, Keith James, $d 1916-
+245  10   $a Energy and the unexpected / $c Keith J. Laidler.
+260       $a Oxford ; $a New York : $b Oxford University Press, $c c2002.
+300       $a xiii, 146 p. : $b ill. ; $c 24 cm.
+500       $a UCM: OUTPUT 852 a = MER; OUTPUT SUBFLDS b THROUGH z AS DIRECTED FROM INPUT 852; DROP INPUT 852 SUBFLD 3, USE INPUT 866 TO CREATE OUTPUT 852 SUBFLD 3 (04/05).
+650   0   $a Force and energy.
+650   0   $a Chance.
+650   0   $a Chaotic behavior in systems.
+852       $a MER1 (DROP) $a MER2 (DROP) $b kmain $b kspc (DROP) $c 1ST c $c 2ND c $e 1ST e $e 2ND e $f 1ST f $f 2ND f $g 1ST g $g 2ND g $h QC72 $h 2ND h (DROP) $i .L35 2002 (1ST i) $i 2ND i $j 1ST j $j 2ND j (DROP) $k 1ST k $k 2ND k $l 1ST l $l 2ND l (DROP) $m 1ST m $m 2ND m $n 1ST n $n 2ND n (DROP) $p 1ST p $p 2ND p (DROP) $q 1ST q $q 2ND q (DROP) $s 1ST s $s 2ND s $t 1ST t $t 2ND t (DROP) $x 1ST x $x 2ND x $z 1ST z $z 2ND z $3 INPUT SUBFLD 3 (DROP)
+866  30   $a v.1, v.2 (866 FLD)
+998       $a kmain $b 08-18-03 $c m $d a $e n $f eng $g enk $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920456 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000367 $z 01-29-04
+
+Record 10
+LDR  00979cas  2200289   4500
+001  UCXb10000276
+003  DLC
+005  19940303154251.0
+008  751101c19599999nyuar1        0   a0eng  
+010       $a 59010849
+022       $a 0073-5477
+035       $a (OCoLC)1752685
+040       $a DLC $c MnMULS $d NIC $d DLC $d NSDP $d OCoLC $d NSDP $d OCoLC $d NST $d OCoLC
+042       $a lc $a nsdp
+043       $a n-us---
+082       $a 741.64058
+222   0   $a Illustrators
+245  00   $a Illustrators.
+260       $a New York, $b Hastings House.
+300       $a v. $b ill. (part col.) $c 31 cm.
+362  0    $a 1st-   1959-
+500       $a UCM: RECORD ID IN 001 BEGINS WITH UNKNOWN VALUE - REJECT (04/05).
+650   0   $a Illustration of books $z United States $x Periodicals.
+710  20   $a Society of Illustrators (New York, N.Y.)
+852       $a MER $b kmain $h NC975.A1 $i I5
+998       $a kmain $b 03-03-94 $c s $d a $e n $f eng $g nyu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920332 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000409 $z 01-29-04
+
+Record 11
+LDR  01407pam  22003614a 4500
+001  UCMb10000288
+003  DLC
+005  20030506132924.0
+008  020821s2003    enka     b    001 0 eng  
+010       $a 2002031778
+020       $a 0415308275 (alk. paper)
+040       $a DLC $c DLC $d NhCcYBP
+042       $a pcc
+043       $a a-ir---
+082  00   $a 955.05/43 $2 21
+245  00   $a Iran encountering globalization : $b problems and prospects / $c edited by Ali Mohammadi ; foreword by Fred Halliday.
+260       $a London ; $a New York : $b RoutledgeCurzon, $c 2003.
+300       $a xv, 264 p. : $b ill. ; $c 24 cm.
+500       $a UCM: 1ST 852 HAS CALL NUM IN SUBFLDS h i; 2ND 852 HAS CALL NUM IN SUBFLD j - OUTPUT EACH AS IS (04/05).
+650   0   $a Islam and politics $z Iran.
+650   0   $a Globalization.
+650   0   $a Democratization $z Iran.
+651   0   $a Iran $x Politics and government $y 1979-1997.
+651   0   $a Iran $x Politics and government $y 1997-
+651   0   $a Iran $x Economic conditions $y 1979-1997.
+651   0   $a Iran $x Economic conditions $y 1997-
+651   0   $a Iran $x Social conditions $y 1979-1997.
+651   0   $a Iran $x Social conditions $y 1997-
+700  1    $a Mohammadi, Ali.
+852       $a MER $b kmain $h DS318.825 $i .I64 2003
+852       $a MER $b kspc $j DS318.825.I64 2004
+998       $a kmain $b 05-06-03 $c m $d a $e n $f eng $g enk $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920399 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 1 $v 0 $w 1 $x 0 $y .i10000410 $z 01-29-04
+
+Record 12
+LDR  01732cas  2200433 a 4500
+001  UCMb10025182
+003  DLC
+005  20031205123325.0
+008  980330c19989999cau x         0   a0eng d
+010       $a 98640122 $z sn 98038096 $z 2001263041
+022  0    $a 1099-4831
+035       $a (OCoLC)38868130
+040       $a CU-Riv $c CU-Riv $d MCM $d DLC $d NSDP $d DLC $d MiU $d DNLM $d OCoLC $d InU $d DNAL $d DLC $d MH $d DNLM $d NNU $d OCoLC $d DLC $d NSDP $d OCoLC
+042       $a lc $a nsdp
+070  0    $a QD421.A1 $b A43
+072   0   $a X500
+072   0   $a X380
+082  00   $a 547.7/2/05 $2 19
+210  0    $a Alkaloids, Chem. biol.
+210  10   $a Alkaloids Chem Biol $2 dnlm
+222   4   $a The Alkaloids. Chemistry and biology
+245  04   $a The alkaloids. $p Chemistry and biology.
+246  30   $a Chemistry and biology
+246  1    $i Vols. 51-<59> have cover title: $a Alkaloids
+260       $a San Diego : $b Academic Press, $c c1998-
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Irregular
+362  0    $a Vol. 50-
+500       $a UCM: SERIALS REC HAS 1 852 FIELD FOLLOWED BY 2 866 FLDS - CONCATENATE 866 FIELDS, SEPARATED BY ";  " (2 SPACES), AND OUTPUT IN SINGLE 852 SUBFLD 3 (04/05).
+515       $a Vol. 56 lacks section title, and bears a distinctive title.
+650   0   $a Alkaloids $v Periodicals.
+650   0   $a Alkaloids $x Physiological effect $v Periodicals.
+700  1    $a Cordell, Geoffrey A., $d 1946-
+780  00   $t Alkaloids. Chemistry and pharmacology $x 0099-9598 $w (DLC)   83648149 $w (OCoLC)10245182
+852       $a MER $b kmain $h QD421.A1 $i A43
+866  30   $a v.55 (1998)-v.58 (2001) (1ST 866)
+866  30   $a v.60 (2ND 866) (2003)  
+998       $a kmain $b 12-05-03 $c s $d a $e - $f eng $g cau $h 4 $i 1 $j 12-03-04 $k 04-13-04
+945       $c vol. 60 $g 1 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10025169 $z 04-13-04
+
+Record 13
+LDR  01493cas  2200397 a 4500
+001  UCMb10025546
+003  DLC
+005  20030310160411.0
+008  990311c19999999nyu x         0    0eng d
+010       $a 99103473
+022       $z 0271-616X
+035       $a (OCoLC)40944456
+040       $a CLSU-M $c CLSU-M $d DLC $d MH $d InU $d DNLM $d InU
+042       $a lc
+070  0    $a QD262.F5
+072   0   $a X500
+082  00   $a 547.2 $2 20
+245  00   $a Fiesers' reagents for organic synthesis.
+246  30   $a Reagents for organic synthesis
+260       $a New York : $b Wiley, $c c1999-
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Irregular
+362  0    $a Vol. 18-
+500       $a UCM: SERIAL HAS 2 852 FLDS, EACH FOLLOWED BY 866'S; 1ST 852 FOLLOWED BY 1 866 - OUTPUT AS SUBFLD 3 IN 1ST 852; 2ND 852 FOLLOWED BY 3 866'S - CONCATENATE 866'S, SEPARATED BY ";  " (2 SPACES), OUTPUT AS SINGLE SUBFLD 3 IN 2ND 852 (04/05).
+650   0   $a Organic compounds $x Synthesis.
+650   0   $a Chemical tests and reagents.
+700  1    $a Fieser, Mary, $d 1909-
+780  00   $t Fieser and Fieser's reagents for organic synthesis $x 0271-616X $w (DLC)   88659800 $w (OCoLC)6674031
+852       $a MER $b kmain $h QD262 $i .R33
+866  30   $a v.22 (2004)  
+852       $a MER $b kspc $h QD262 $i .R33
+866  30   $a v.19 (2001) (1ST)
+866  30   $a v.21 (2003) (2ND)
+866  30   $a Missing v.20 (2002) (3RD)
+998       $a kmain $b 03-10-03 $c s $d a $e - $f eng $g nyu $h 0 $i 1 $j 12-03-04 $k 04-13-04
+945       $c vol. 21 $g 1 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10025522 $z 04-13-04
+
+Record 14
+LDR  01065pam  2200277 a 4500
+001  UCMb10000306
+003  DLC
+005  20030603120007.0
+008  021230s2003    nyua     b    001 0 eng  
+010       $a 2002156439
+020       $a 0393020290
+040       $a DLC $c DLC $d NhCcYBP
+082  00   $a 027/.009 $2 21
+100  1    $a Battles, Matthew.
+245  10   $a Library : $b an unquiet history / $c Matthew Battles.
+250       $a 1st ed.
+260       $a New York. : $b W.W. Norton, $c c2003.
+300       $a x, 245 p. : $b ill. ; $c 22 cm.
+500       $a UCM: ONLY 852 DOES NOT HAVE SUBFLD b WITH LOC CODE - REJECT (04/05).
+505  0    $a Reading the library -- Burning Alexandria -- The house of wisdom -- The battle of the books -- Books for all -- Knowledge on fire -- Lost in the stacks.
+650   0   $a Libraries $x History.
+650   0   $a Libraries and society $x History.
+650   0   $a Books $x History.
+852       $a MER $h Z721 $i .B28 2003
+998       $a kmain $b 06-03-03 $c m $d a $e n $f eng $g nyu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920357 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000434 $z 01-29-04
+
+Record 15
+LDR  01550nas^ 2200397^^ 4500
+001  UCMb10001062
+005  20021123233735.0
+007  heramb---bacu
+008  881006c18679999miumr p       0uuua0eng  
+010       $a 08037002//r44
+022  0    $a 0017-7873
+035       $a RLINCUBG83-S1824 19880930 TAPE RLIN1022: 0027
+040       $a DLC $c MUL $d FUL $d COO $d NSD $d DLC $d NSD $d NST $d AIP $d NSD $d OCL $d NSD $d DLC $d NSD $d NST $d CUY
+042       $a nsdp $a lc
+210  0    $a Harper's bazaar
+222   0   $a Harper's bazaar
+245  00   $a Harper's bazaar.
+260       $a [New York, $b Hearst Corp., etc.]
+300       $a v. $b ill. $c 25-41 cm.
+310       $a Monthly, $b May 1901-
+321       $a Weekly, $b 1867-Apr. 1901
+362  0    $a v. 1- Nov. 2, 1867-
+500       $a UCM: 2 852 FLDS, EACH FOLLOWED BY AN 856 - OUTPUT ALL 856'S AFTER THE OUTPUT 852'S (04/05).
+515       $a Nov. 1919 not published.
+515       $a Nov. 1926- called also no. 2569-
+533       $a Microfiche. $b Ann Arbor, Mich. : $c University Microfilms International. $e microfiches ; 11 x 15 cm.
+650   0   $a Dressmaking $x Periodicals.
+650   0   $a Fashion $x Periodicals.
+650   0   $a Needlework $x Periodicals.
+710  2    $a ProQuest Direct.
+852       $a MER $b kmain $h TT500 $i .H3
+856  41   $3 Selected article text for 1984-1993. $z Expanded Academic ASAP. Restricted to UC campuses $x SCP
+852       $a MER $b kspc $h TT500 $i .H3
+856  41   $3 Some issues available online through ProQuest Direct at: $u http://www.umi.com/pqdauto
+998       $a kmain $b 02-06-04 $c s $d a $e n $f eng $g miu $h 0 $i 1 $j 08-21-04 $k 02-06-04
+901       $a GLAD $b 33647992
+
+Record 16
+LDR  01875cas^ 2200469^^ 4500
+001  UCMb10001037
+005  20031109230804.0
+007  cr mn|||||||||
+008  900808c19629999nyusr1p       0uu a0eng d
+010       $a 64002221//r86
+022  0    $a 0003-6935
+030       $a APOPAI
+035       $a (CStRLIN)CASX90-S824
+035  9    $a (SBN)AAA2277
+040       $a MnMULS $c MnMULS $d FGULS $d OCoLC $d NSD $d NIC $d DLC $d CU-SB $d CU-SB
+090       $a QC1 $b .A64 $i 08/09/90 CT
+210  0    $a Appl. opt.
+222  00   $a Applied optics
+245  00   $a Applied optics.
+260       $a [New York, etc., $b Optical Society of America]
+300       $a v. $b ill., ports., diagrs., tables. $c 29 cm.
+310       $a Semimonthly, $b 1978-
+321       $a Bimonthly, $b 1962
+321       $a Monthly, $b 1963-1977
+362  0    $a v. 1- Jan. 1962-
+500       $a UCM: TWO INPUT 852 FIELDS FOLLOW 3 856 FLDS - OUTPUT 856 FIELDS AFTER BOTH 852 FIELDS (04/05).
+510  2    $a Life sciences collection
+530       $a Also available in an online electronic version.
+555       $a Cumulative index for all OSA journals issued separately with title: Optics index.
+650   0   $a Optics $x Periodicals.
+710  2    $a Optical Society of America.
+710  2    $a American Institute of Physics.
+770  0    $t Applied optics. Supplement $x 0066-5495
+776  1    $t Applied optics (Online) $w (DLC) 00238064 $w (OCoLC)41918587
+787  1    $t Optics index
+856  41   $3 v.34(1995)- $z Applied Optics-OT. Access restricted to UCSB IP addresses. $u http://uclibs.org/PID/4190
+856  41   $3 v.34(1995)- $z Applied Optics-IP. Access restricted to UCSB IP addresses. $u http://uclibs.org/PID/8234
+856  41   $3 v.34(1995)- $z Applied Optics-LP. Access restricted to UCSB IP addresses. $u http://uclibs.org/PID/8233
+852       $a MER $b kmain
+852       $a MER $b kspc
+998       $a zzzzz $b 02-06-04 $c s $d a $e n $f eng $g nyu $h 0 $i 1 $j 02-06-04 $k 02-06-04
+901       $a SBXL $b 000002044
+
+Record 17
+LDR  01079cam  22003014a 4500
+001  UCM1000015x
+003  OCoLC
+005  20031112091118.0
+008  010322s2001    inua     b    001 0 eng  
+010       $a 2001089107
+019       $a 47028181
+020       $a 0764547712 (pbk.)
+040       $a DLC $c DLC
+042       $a pcc
+049       $a MAIN
+082  00   $a 005.4/32 $2 21
+100  1    $a Barkakati, Nabajyoti, $d 1956-
+245  10   $a Red Hat Linux 7.1 secrets / $c Naba Barkakati.
+260       $a Indianapolis, IN : $b Hungry Minds, $c 2001.
+300       $a xxxiv, 1135 p. : $b ill. ; $c 24 cm. + $e 3 computer optical discs (4 3/4 in.)
+500       $a UCM: 001 FLD DOES NOT HAVE "b" FOLLOWING THE UCM - REJECT (04/05).
+630  00   $a Linux.
+650   0   $a Operating systems (Computers)
+852       $a MER $b kmain $h QA76.76.O63 $i B366166 2001
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley021/2001089107.html
+998       $a kmain $b 11-12-03 $c m $d a $e n $f eng $g inu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105940 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i10000276 $z 01-29-04
+
+Record 18
+LDR  01266cam  22003254a 4500
+001  UCMb10000367
+003  DLC
+005  20030818075144.0
+008  020911s2003    nyu      b    001 0 eng  
+010       $a 2002030920
+020       $a 0805072993
+040       $a DLC $c DLC $d DLC $d NhCcYBP
+042       $a pcc
+043       $a a-ir---
+082  00   $a 320.955/09/0511 $2 21
+100  1    $a Abdo, Geneive, $d 1960-
+245  10   $a Answering only to God : $b faith and freedom in twenty-first-century Iran / $c Geneive Abdo and Jonathan Lyons.
+250       $a 1st ed.
+260       $a New York : $b Henry Holt and Co., $c 2003.
+300       $a 306 p. ; $c 25 cm.
+500       $a UCM: INCOMING 852 HAS 2 SUBFLD "b": OUTPUT THE 1ST (kmain), DROP THE 2ND (04/05).
+504       $a Includes bibliographical references (p. [289]-293) and index.
+650   0   $a Islam and politics $z Iran.
+650   0   $a Democratization $z Iran.
+651   0   $a Iran $x Politics and government $y 1997-
+700  1    $a Lyons, Jonathan.
+852       $a MER $b kmain $b kspc $h DS318.9 $i .A23 2003
+856  42   $3 Publisher description $u http://www.loc.gov/catdir/description/hol031/2002030920.html
+998       $a kmain $b 08-18-03 $c m $d a $e n $f eng $g nyu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920563 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000495 $z 01-29-04
+

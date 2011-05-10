@@ -1,0 +1,99 @@
+Record 1
+LDR  00912nam  2200265 a 4500
+001  CHSV05-B10033
+003  CStRLIN
+005  20051011133611.0
+008  051011s1993    enka          000 0 eng  
+015       $a GB94-61877
+020       $a 1871744857 (pbk) : $c ¹3.00 : Formerly CIP
+040       $a *UKM* $c *UKM* $d OCoLC $d NN $d OCoLC $d CStRLIN
+082  04   $a 289.9 $2 20
+100  1    $a Jones, Jim, $d 1931-1978.
+240  10   $a Last supper
+245  14   $a The Jonestown massacre : $b the transcript of the final speech of Reverend Jim Jones, Guyana, 1978 / $c [introduction by Karl Eden].
+250       $a New ed.
+260       $a Brighton, England : $b Temple Press, $c c1993.
+300       $a 28 p. : $b ill. ; $c 22 cm.
+500       $a CHSV:  RLIN RECORD HAS NO 852 - REJECT (11/05).
+610  20   $a Peoples Temple.
+650   0   $a Jonestown Mass Suicide, Jonestown, Guyana, 1978 $v Sources.
+653  0    $a Sects $a History
+653  0    $a Guyana
+901       $a CHSV $b 05-B10033
+
+Record 2
+LDR  02183ckca 2200373 a 4500
+003  CStRLIN
+005  20051011141324.0
+007  kh bob
+008  030703i18731883caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca $a n-usp $a n-us-ut $a n-us-id
+100  1    $a Reilly, John James, $d 1839-1894.
+245  10   $a Stereographs of Yosemite, San Francisco, and other California locations $h [graphic] / $c J.J. Reilly.
+260       $c [ca. 1873-1883]
+300       $a 54 photographic prints (stereographs) : $b b&w ; $c 8.5 x 17.5 cm.
+351       $a Organized by the following series: J.J. Reilly, Yosemite Valley, Cal./Photographic Views of American Scenery; J.J. Reilly, Stockton, Cal./Views of American Scenery; J.J. Reilly, Marysville, Cal.; J.J. Reilly, Photographer/Views of American Scenery.
+500       $a CHSV:  RLIN RECORD HAS NO 001, SOURCE CAN'T BE DETERMINED - REJECT (11/05).
+506       $a RESTRICTED PHOTOGRAPHS: $b Permission of photo archivist required.
+520  8    $a Mostly images of Yosemite and San Francisco. There are also views of the Farallone Islands (i.e., Farallon Islands), Mono Lake, Devil's Tea Kettle at Geyser Springs, and various images of the Central Pacific Railroad. Includes one photo of Wasatch Mountains in Ogden, Utah.
+555  8    $a Descriptive guide available in library.
+590       $a Shelflist location: RM--Stereos--Reilly.
+541  0    $8 1.1\a $a Source unknown. $e Number not found.
+583  0    $8 1.2\a $a Cataloged $b LSTA grant project $c 2003 $k ww
+650   0   $a Streets $z California $z San Francisco $v Photographs.
+651   0   $a Geysers, The (Calif.) $v Pictorial works.
+650   0   $a Railroads $z West (U.S.) $v Photographs.
+651   0   $a Sierra Nevada (Calif. and Nev.) $v Pictorial works.
+651   0   $a Yosemite Valley (Calif.) $v Pictorial works.
+651   0   $a Mono Lake (Calif.) $v Pictorial works.
+651   0   $a San Francisco (Calif.) $z Buildings, structures, etc. $v Pictorial works.
+651   0   $a Farallon Islands (Calif.) $v Pictorial works.
+651   0   $a Wasatch Range (Utah and Idaho) $v Pictorial works.
+655   7   $a Stereographs. $2 gmgpc
+852  4    $a California Historical Society $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $j PC-RM-Stereos: Box 06
+
+Record 3
+LDR  01234ckc  2200265 a 4500
+001  XXXX03-F73
+003  CStRLIN
+005  20051011143958.0
+007  kh bob
+008  030306i18951900caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Waters, R. J. $q (Raper James)
+245  10   $a Photographs of Sutro Baths, Montgomery Street, San Francisco, and Mount Shasta $h [graphic] / $c R.J. Waters.
+260       $c [ca. 1895-1900]
+300       $a 3 photographic prints (2 boudoir cards) : $b b&w ; $c 22 x 30 cm or smaller.
+500       $a CHSV:  001 DOES NOT BEGIN WITH VALID LI CODE, SOURCE CAN'T BE DETERMINED - REJECT (11/05).
+590       $a Shelflist location: GS--Photographers--SF--Waters, Raper James.
+610  20   $a Sutro Baths (San Francisco, Calif.) $v Pictorial works.
+651   0   $a Shasta, Mount (Calif. : Mountain).
+651   0   $a Montgomery Street (San Francisco, Calif.) $v Pictorial works.
+655   7   $a Cabinet photographs $z California $z San Francisco. $2 gmgpc
+655   7   $a Photographic prints $z California $z San Francisco. $2 gmgpc
+655   7   $a Landscape photographs $z California $z San Francisco. $2 gmgpc
+852  4    $a California Historical Society $b MAIN $e 678 Mission Street, San Francisco, CA 94105 $j PC-GS: Box 066 $x CIN=BCB
+
+Record 4
+LDR  01282ckm  2200241 a 4500
+001  CHSV03-F128
+003  CStRLIN
+005  20051011145901.0
+007  kh bob
+008  030416i18571903caunnn            kneng d
+040       $a CHi $c CHi $e gihc
+043       $a n-us-ca
+100  1    $a Johnson, C. W. J. $q (Charles Wallace Jacob)
+245  10   $a Portait of a woman, and a photo of the opening of the graves at Mission San Carlos Borromeo $h [graphic] / $c W.J. Johnson.
+260       $c [between 1857 and 1903]
+300       $a 3 photographic print (cabinet cards) : $b b&w ; $c 17 x 11 cm.
+500       $a CHSV:  852 DOES NOT HAVE SUBFLD b - REJECT (11/05).
+500       $a On mount: Cha's W. J. Johnson, photographer.
+545  0    $a Charles Wallace Jacob Johnson arrived in California in 1857 and probably operated a gallery in San Francisco before leaving for Eureka in 1868.  He moved back to San Francisco in 1870.  By 1874, his operation was based in Watsonville.  He died in 1903.
+520  8    $a Portrait of unidentified woman,and two cabinet cards (one duplicate) of the opening of the graves at Mission San Carlos Borromeo, Carmel, Calif., 1882.
+655   7   $a Cabinet photographs $z California $z San Francisco. $2 gmgpc
+651   0   $a Mission San Carlos Borromeo (Carmel, Calif.) $v Pictorial works.
+901       $a CHSV $b 03-F128
+

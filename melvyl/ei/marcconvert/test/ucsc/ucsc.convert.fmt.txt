@@ -1,0 +1,1433 @@
+Record 1
+LDR  01257paX  2200313 a 45  
+005  19950323000000.0
+008  940511s1994    aru           000 0 eng  
+010       $a 94017161
+020       $a 1557283656 (alk. paper)
+020       $a 1557283729 (pbk. : alk. paper)
+035       $a (OCoLC)30518158
+040       $a DLC $c DLC $d CUZ
+043       $a n-us---
+049       $a CUZA
+050  00   $a E884 $b .B54 1994
+245  00   $a Bill Clinton on stump, state, and stage : $b the rhetorical road to the White House / $c Stephen A. Smith, editor.
+260       $a Fayetteville : $b University of Arkansas Press, $c 1994.
+300       $a 416 p. ; $c 25 cm.
+500       $a UCSC: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+650   0   $a Presidents $z United States $x Election $y 1992.
+600  10   $a Clinton, Bill, $d 1946- $x Oratory.
+650   2   $a Rhetoric $x Political aspects $z United States $x History $y 20th century.
+650   4   $a Communication in politics $z United States $x History $y 20th century.
+651   0   $a United States $x Politics and government $y 1989-1993.
+690   0   $a White House $z United States.
+700  1    $a Smith, Stephen A., $d 1949-
+852       $a SCB $b mstax $h E884 $i .B54 1994
+901       $a SCB $b 18301538
+998       $a SCB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 18301538
+
+Record 2
+LDR  00914cam  22002538a 45  
+005  19950320000000.0
+008  941207s1995    nyu           001 0beng  
+010       $a 94048245
+020       $a 0671871099
+035       $a (OCoLC)31737634
+040       $a DLC $c DLC $d IJC $d CUZ
+043       $a n-us---
+049       $a CUZA
+050  00   $a E886 $b .M29 1995
+100  1    $a Maraniss, David.
+245  10   $a First in his class : $b a biography of Bill Clinton / $c David Maraniss.
+260       $a New York : $b Simon & Schuster, $c 1995.
+263       $a 9503.
+300       $a 512 p. : $b ill. ; $c 24 cm.
+500       $a UCSC: 590 SHARED PURCHASE NOTE - MOVE TO 852 $z IN ALL 852'S (04/02).
+650   0   $a Presidents $z United States $x Biography.
+852       $a SCB $b mstax $h E886 $i .M29 1995 $z Shared purchase with UCSD (MOVE TO 852 $z FOR ALL 852S ).
+852       $a SCB $b mcper $h E886 $i .M29 1995 $z Shared purchase with UCSD (MOVE TO 852 $z FOR ALL 852S ).
+901       $a SCB $b 18333011
+
+Record 3
+LDR  01829cam  22003498a 45  
+005  19950320000000.0
+008  940310s1995    nyuaf    b    001 0 eng  
+010       $a 94010892
+020       $a 0374116202
+035       $a (OCoLC)30074077
+040       $a DLC $c DLC $d JBO $d LDL $d CUZ
+043       $a n-us-ny
+049       $a CUZA
+050  00   $a F128.5 $b .D68 1995
+100  1    $a Douglas, Ann, $d 1942-
+245  10   $a Terrible honesty : $b mongrel Manhattan in the 1920s / $c Ann Douglas.
+250       $a 1st ed.
+260       $a New York : $b Farrar, Straus, and Giroux, $c 1995.
+263       $a 9411.
+300       $a xiii, 605 p., [24] p. of plates : $b ill. ; $c 25 cm.
+500       $a UCSC MONO: REC HAS MULT. 920s, SOME DUP LOCS - OUTPUT 4 852 FLDS FROM NON-DUP 920$l'S (04/02).
+500       $a REC HAS 590 & 934 "LIBRARY HAS" FIELDS - OUTPUT 934 "LIBRARY HAS" AS 852 $3 IN 1ST 852 ONLY; DROP 590 "LIBRARY HAS" FIELD.
+500       $a OUTPUT OTHER 590 NOTES IN SEPARATE 852 $x'S IN ALL 852'S.
+500       $a OUTPUT NON-"LIBRARY HAS" 934 FLDS AS SEPARATE 852 $x'S FOR ALL 852'S.
+650   0   $a Arts, American $z New York (N.Y.)
+650   0   $a Arts, Modern $y 20th century $z New York (N.Y.)
+651   0   $a New York (N.Y.) $x Intellectual life.
+852       $a SCB $b mstax $h F128.5 $i .D68 1995 $x Circulating in branch libs. only. (590 FLD) $x SPN. (590 FLD) $x Each vol. contains supp. vol. (934 FLD) $3 Library has: v. 1 . (934 FLD)
+852       $a SCB $b scpro $h F128.5 $i .D68 1995 $x Circulating in branch libs. only. (590 FLD) $x SPN. (590 FLD) $x Each vol. contains supp. vol. (934 FLD)
+852       $a SCB $b mprot $h F128.5 $i .D68 1995 $x Circulating in branch libs. only. (590 FLD) $x SPN. (590 FLD) $x Each vol. contains supp. vol. (934 FLD)
+852       $a SCB $b mcper $h F128.5 $i .D68 1995 $x Circulating in branch libs. only. (590 FLD) $x SPN. (590 FLD) $x Each vol. contains supp. vol. (934 FLD)
+901       $a SCB $b 18332821
+
+Record 4
+LDR  01199cam  22003258a 45  
+005  19950321000000.0
+008  931201s1994    nyuab    b    001 0 eng  
+010       $a 93046137
+020       $a 0781801729 :
+035       $a (OCoLC)29548154
+040       $a DLC $c DLC $d PIT $d CUZ
+043       $a n-us-ny
+049       $a CUZR
+050  00   $a F128.9.N3 $b B5 1994
+099  00   $a F1226 (1ST 099 $a) $a .C4 1990 (2ND 099 $a)
+100  1    $a Biondi, Joann.
+245  10   $a Hippocrene U.S.A guide to Black New York / $c Joann Biondi & James Haskins.
+260       $a New York : $b Hippocrene Books, $c c1994.
+263       $a 9401.
+300       $a 141 p. : $b ill., map ; $c 22 cm.
+500       $a UCSC MONO: 1ST 920 HAS $a $b - OUTPUT 920 $a b AS 852 $h $i FOR 1ST 852 (04/02).
+500       $a 2ND 920 HAS NO $a OR $b, 099 HAS 2 $a'S - OUTPUT 099 $a'S TO SINGLE 852 $j WITH A SPACE BETWEEN THEM.
+650   0   $a Afro-Americans $z New York (N.Y.) $x History.
+650   0   $a Historic sites $z New York (N.Y.) $x Guidebooks.
+651   0   $a New York (N.Y.) $x Guidebooks.
+700  10   $a Haskins, James, $d 1941-
+740  01   $a Black New York.
+852       $a SCB $b mref $h F1226 $i B3574
+852       $a SCB $b mstax $j F1226 (1ST 099 $a) .C4 1990 (2ND 099 $a)
+901       $a SCB $b 18336061
+
+Record 5
+LDR  00860cam  22002538a 45  
+005  20020510143000.0
+008  940308s1995    nju      b    001 0 eng  
+010       $a 94010143
+020       $a 0813521203 :
+035       $a (OCoLC)30030833
+040       $a DLC $c DLC $d IXA $d NGU $d CUZ
+043       $a n-us-nj
+049       $a CUZA
+050  00   $a F138 $b .G55 1995
+100  1    $a Gillette, William.
+245  10   $a Jersey blue : $b Civil War politics in New Jersey, 1854-1865 / $c William Gillette.
+260       $a New Brunswick, N.J. : $b Rutgers University Press, $c c1995.
+263       $a 9501.
+300       $a xi, 389 p. ; $c 24 cm.
+500       $a UCSC: NO 902 FIELD - CREATE 005 FROM PROGRAM RUN PARAMETER (04/02).
+651   0   $a New Jersey $x Politics and government $y 1861-1865.
+651   0   $a New Jersey $x Politics and government $y 1775-1865.
+852       $a SCB $b mstax $h F138 $i .G55 1995
+901       $a SCB $b 18333072
+
+Record 6
+LDR  01227pam  2200229 a 45  
+005  19950309000000.0
+008  940324s1995    dcua     b   f001 0 eng  
+010       $a 94011050
+020       $a 156098354X
+035       $a (OCoLC)30319091
+040       $a DLC $c DLC $d CUZ
+043       $a n-us-dc
+049       $a CUZA
+050  00   $a F198 $b .J33 1995
+100  1    $a Jacob, Kathryn Allamong.
+245  10   $a Capital elites : $b high society in Washington, D.C., after the Civil War / $c Kathryn Allamong Jacob.
+260       $a Washington [D.C.] : $b Smithsonian Institution Press, $c c1995.
+300       $a x, 318 p. : $b ill. ; $c 24 cm.
+500       $a UCSC MONO: REC HAS 2 934 FIELDS WITHOUT ' HAS ' OR ' HAS:'; MOVE TO 852 $x IN ALL 852'S. REC HAS 2 590S WITHOUT ' HAS ' OR ' HAS:'; MOVE TO 852 $x IN ALL 852'S. (04/02).
+852       $a SCB $b mstax $h F198 $i .J33 1995 $x 1st 590 - MOVE TO 852 $x IN ALL 852'S. $x 2ND 590 - MOVE TO 852 $x IN ALL 852'S. $x v. 1 (1ST 934 - MOVE TO 852 $x IN ALL 852'S). $x v. 2 (2ND 934 - MOVE TO 852 $x IN ALL 852'S).
+852       $a SCB $b mcper $h F198 $i .J33 1995 $x 1st 590 - MOVE TO 852 $x IN ALL 852'S. $x 2ND 590 - MOVE TO 852 $x IN ALL 852'S. $x v. 1 (1ST 934 - MOVE TO 852 $x IN ALL 852'S). $x v. 2 (2ND 934 - MOVE TO 852 $x IN ALL 852'S).
+901       $a SCB $b 18307668
+
+Record 7
+LDR  01295pam  2200301 a 45  
+005  19950303000000.0
+008  940216s1994    ctua     b    001 0 eng  
+010       $a 94006380
+020       $a 0275948358 (alk. paper)
+035       $a (OCoLC)30028257
+040       $a DLC $c DLC $d CUZ
+043       $a n-usa--
+049       $a CUZA
+050  00   $a F217.A65 (050$a - 1ST 852) $b A653 1994 (050$b)
+245  00   $a Appalachia in an international context : $b cross-national comparisons of developing regions / $c edited by Phillip J. Obermiller and William W. Philliber.
+260       $a Westport, Conn. : $b Praeger, $c 1994.
+300       $a xviii, 238 p. : $b ill. ; $c 25 cm.
+500       $a UCSC MONO: REC HAS 2 920 FIELDS; 1ST 920 HAS NO $a $b, 2ND 920 HAS $a; REC HAS NO 099, 090, 086, HAS 050 $a $b (04/02).
+500       $a 1ST 852 - OUTPUT 852 $h $i FROM 050 $a $b.  2ND 852 - OUTPUT 852 $j FROM 920 $a.
+650   0   $a Regionalism $z Appalachian Region, Southern.
+650   0   $a Regionalism.
+651   0   $a Appalachian Region, Southern $x Civilization.
+651   0   $a Appalachian Region, Southern $x Economic conditions.
+700  10   $a Obermiller, Phillip J.
+700  10   $a Philliber, William W., $d 1943-
+852       $a SCB $b mgus $h F217.A65 (050$a - 1ST 852) $i A653 1994 (050$b)
+852       $a SCB $b mstax $j TAPE A (2ND LOCATION)
+901       $a SCB $b 1829781x
+
+Record 8
+LDR  00891nam  2200253Ia 45  
+005  19950316000000.0
+008  950314s1994    cauab    b    000 0 eng d
+020       $a 1880732122 :
+035       $a (OCoLC)32148302
+040       $a CUZ $c CUZ
+049       $a CUZN
+090       $a F868.S3 $b M375 1994
+100  1    $a McCarthy, Nancy F.
+245  10   $a Where grizzlies roamed the canyons / $c by Nancy F. McCarthy.
+250       $a 1st ed.
+260       $a Palo Alto, CA : $b Garden Court Press, $c c1994.
+300       $a 131 p. : $b ill., map ; $c 23 cm.
+500       $a UCSC MONO: HAS 920 $a (NO $b) & 090 - OUTPUT 920$a AS 852 $j (04/02).
+504       $a Includes bibliographical references (p.128-130)
+651   0   $a San Lorenzo River Valley (Calif.) $x History.
+650   0   $a Authors, American $z California $z Santa Cruz County.
+740  01   $a Story of the San Lorenzo Valley.
+852       $a SCB $b spscz $j F868.S3 (920$a)
+901       $a SCB $b 18323698
+
+Record 9
+LDR  00796cam  2200253 a 45  
+005  19950316000000.0
+008  901025s1991    nyub     b    001 0 eng  
+010       $a 90022102 //r922
+020       $a 0517574675 :
+035       $a (OCoLC)22710043
+040       $a DLC $c DLC $d CUZ
+043       $a n-us-nv $a n-us-ca
+049       $a CUZA
+050  00   $a F868.S5 $b O46 1991
+086       $a HEU/F868.
+100  1    $a Olmsted, Gerald W.
+245  14   $a The best of the Sierra Nevada / $c Gerald W. Olmsted.
+250       $a 1st ed.
+260       $a New York : $b Crown, $c c1991.
+300       $a xiii, 370 p. : $b maps ; $c 23 cm.
+500       $a UCSC MONO: REC HAS 920 $b (NO $a), 050, 086.  OUTPUT 920 $b AS 852 $j (04/02).
+651   0   $a Sierra Nevada (Calif. and Nev.) $x Guidebooks.
+852       $a SCB $b mstax $j F868.S5.046 (920$b)
+901       $a SCB $b 18323637
+
+Record 10
+LDR  01127cam  2200301 a 45  
+005  19950316000000.0
+008  940428s1993    hk abc        001 0 eng d
+010       $a 94151742
+020       $a 0395662397 (pbk.) :
+035       $a (OCoLC)29296355
+040       $a TxIr $c DLC $d CUZ
+042       $a lccopycat
+043       $a n-cn---
+049       $a CUZR
+050  00   $a F1009 $b .C175 1993
+245  00   $a Canada / $c created and directed by Hans Hèofer ; edited by Hilary Cunningham ; photography by Joe Viesti ; updated by Prue Hemelrijk.
+250       $a 4th ed., Rev.
+260       $a [Hong Kong] : $b APA Publications ; $a Boston, Mass. : $b Distributed in the United States by Houghton Mifflin, $c c1993.
+300       $a 355 p. : $b ill. (chiefly col.), col. maps, ports. (some col.) ; $c 23 cm.
+440   0   $a Insight guides ; $v 237.
+500       $a UCSC MONO: 920 HAS NO $a $b, REC HAS NO 099, 090, HAS 050 $a $b - OUTPUT TO 852 $h $i (04/02).
+651   0   $a Canada $x Guidebooks.
+700  10   $a Cunningham, Hilary.
+700  10   $a Hoefer, Hans.
+700  10   $a Viesti, Joseph F.
+700  10   $a Hemelrijk, Prue.
+852       $a SCB $b mref $h F1009 $i .C175 1993
+901       $a SCB $b 18324368
+
+Record 11
+LDR  01260aam  2200301 a 45  
+005  19950307000000.0
+008  950112s1994    mx a     b    000 0 spa  
+010       $a 95103460
+020       $a 9684962606 (volumen)
+020       $a 9684962592 (obra completa)
+035       $a (OCoLC)32051895
+040       $a DLC $c DLC $d CUZ
+043       $a n-mx---
+049       $a CUZA
+050  00   $a F1219.1.G93 $b D456 1994
+100  1    $a Dehouve, Daniáele.
+245  10   $a Entre el caimâan y el jaguar : $n los pueblos indios de Guerrero / $c Daniáele Dehouve.
+250       $a 1. ed.
+260       $a Tlalpan, D.F. : $b Centro de Investigaciones y Estudios Superiores en Antropologâia Social, $c c1994.
+300       $a 210 p. : $b ill. (some col.) ; $c 22 cm.
+440   0   $a Historia de los pueblos indâigenas de Mâexico.
+500       $a UCSC MONO: REC HAS 590 ' HAS ' AND 590 ' HAS:' NOTES (NO 934); MOVE 1ST 590 TO 852 $3 IN 1ST 852; DROP 2ND 590 (04/02).
+650   0   $a Indians of Mexico $z Mexico $z Guerrero (State) $x Social life and customs.
+650   0   $a Pueblos $z Mexico $z Guerrero (State) $x History.
+651   0   $a Guerrero (Mexico : State) $x History.
+852       $a SCB $b mstax $h F1219.1.G93 $i D456 1994 $3 Library has v.1. (MOVE TO 852 $3 IN 1ST 852).
+852       $a SCB $b mcper $h F1219.1.G93 $i D456 1994
+901       $a SCB $b 18304874
+
+Record 12
+LDR  01257aam  2200301 a 45  
+005  19950303000000.0
+008  950111s1994    mx ab    b    000 0 spa  
+010       $a 95103193
+020       $a 9684962681
+035       $a (OCoLC)32051842
+040       $a DLC $c DLC $d CUZ
+043       $a n-mx---
+049       $a CUZA
+050  00   $a F1219.1.G93 $b R57 1994
+245  00   $a Rituales agrâicolas y otras costumbres guerrerenses, siglos XVI-XX / $c Marcos Matâias Alonso (comp.)
+250       $a 1. ed.
+260       $a Mâexico, D.F. : $b CIESAS, $c 1994.
+300       $a 181 p. : $b ill., map ; $c 21 cm.
+500       $a UCSC MONO: REC HAS 934 ' HAS:' NOTE AND 934 ' HAS ' NOTE; MOVE 1ST TO 852 $3 IN 1ST 852; DROP 2ND 934. (04/02).
+650   0   $a Indians of Mexico $z Mexico $z Guerrero (State) $x Agriculture.
+650   0   $a Indians of Mexico $z Mexico $z Guerrero (State) $x Rites and ceremonies.
+650   0   $a Indians of Mexico $z Mexico $z Guerrero (State) $x Religion.
+650   0   $a Agriculture $x Social aspects $z Mexico $z Guerrero (State) $x History.
+651   0   $a Guerrero (Mexico : State) $x Social life and cusotms.
+700  2    $a Matâias Alonso, Marcos.
+852       $a SCB $b mstax $h F1219.1.G93 $i R57 1994 $3 Main Library Has: v. 1 (852 $3 IN 1ST 852).
+852       $a SCB $b mcper $h F1219.1.G93 $i R57 1994
+901       $a SCB $b 18298266
+
+Record 13
+LDR  01490cam  2200337 a 45  
+005  19950306000000.0
+008  931203s1993    okuab    b   s001 0 eng  
+010       $a 93048624
+020       $a 0806126493 (alk. paper)
+035       $a (OCoLC)29565779
+040       $a DLC $c DLC $d OCL $d CUZ
+041  1    $a eng $h spa
+043       $a n-mx---
+049       $a CUZA
+050  00   $a F1219.73 $b .D8713 1993
+100  1    $a Durâan, Diego, $d d. 1588?
+240  10   $a Historia de las Indias de Nueva-Espaäna y Islas de Tierra Firme. $l English.
+245  14   $a The history of the Indies of New Spain / $c by Diego Durâan ; translated, annotated, and with an introduction by Doris Heyden.
+260       $a Norman : $b University of Oklahoma Press, $c c1993.
+300       $a xxxvi, 642 p. : $b ill. (some col.), map ; $c 24 cm.
+440   4   $a The Civilization of the American Indian series ; $v v. 210.
+500       $a UCSC MONO: REC HAS 934 WITHOUT ' HAS ' OR ' HAS:'; 590 CONTAINS ' HAS:'; MOVE 590 TO 852 $3 IN 1ST 852; MOVE 934 TO 852 $x IN ALL 852S (04/02).
+650   0   $a Aztecs $x History.
+650   0   $a Aztecs $x Social life and customs.
+651   0   $a Mexico $x History $y To 1519.
+651   0   $a Mexico $x History $y Conquest, 1519-1540.
+700  10   $a Heyden, Doris.
+852       $a SCB $b mstax $h F1219.73 $i .D8713 1993 $x Vol. 103,4,5. (934 FIELD) $3 Library has: vol. 1-5 (590 FIELD).
+852       $a SCB $b mcper $h F1219.73 $i .D8713 1993 $x Vol. 103,4,5. (934 FIELD)
+852       $a SCB $b scpro $h F1219.73 $i .D8713 1993 $x Vol. 103,4,5. (934 FIELD)
+901       $a SCB $b 18301149
+
+Record 14
+LDR  01180aam  2200289 a 45  
+005  19950301000000.0
+008  941216s1994    mx a     b    000 0 spa  
+010       $a 94238930
+020       $a 9688352209
+035       $a (OCoLC)31863689
+040       $a DLC $c DLC $d CUZ
+043       $a n-mx---
+049       $a CUZA
+050  00   $a F1221.O86 $b S26 1994
+086       $a 1ST 086 a $a 2ND a $z 1ST z $z 2ND z $2 086 SUB 2
+100  2    $a Sandoval Forero, Eduardo Andrâes.
+245  10   $a Familia indâigena y unidad domâestica : $b los otomâies del Estado de Mâexico / $c Eduardo Andrâes Sandoval Forero.
+260       $a Toluca, Estado de Mâexico, Mâexico : $b Universidad Autâonoma del Estado de Mâexico, Facultad de Ciencias Polâiticas y Administraciâon Pâublica, $c 1994.
+300       $a 241 p. : $b ill. ; $c 21 cm.
+500       $a UCSC MONO: REC HAS 086, 050; LOC IS 'smaps'; OUTPUT 086 1ST $a AS 852 $j; DROP 2ND $a, BOTH $z's, $2 (04/02).
+650   0   $a Otomi Indians $x Kinship.
+650   0   $a Otomi Indians $x Economic conditions.
+650   0   $a Otomi Indians $x Social conditions.
+650   0   $a Family $z Mexico $z Temoaya (Mexico)
+650   0   $a Family $z Mexico $z Toluca de Lerdo.
+852       $a SCB $b smaps $j 1ST 086 a
+901       $a SCB $b 18293980
+
+Record 15
+LDR  01172cam  22003258a 45  
+005  19950310000000.0
+008  940214s1995    nyu      b    001 0 eng  
+010       $a 94006727
+020       $a 0195089790
+020       $a 0195089804 (pbk.)
+035       $a 035 FLD
+035       $a (OCoLC)29909333
+040       $a DLC $c DLC $d IAI $d CUZ
+043       $a n-mx---
+049       $a CUZA
+050  00   $a F1226 $b .M54 1995
+090       $a E872 $b .M238 1994
+098       $n ov=.b3893753
+099  00   $a F1226
+100  1    $a Meyer, Michael C.
+245  14   $a The course of Mexican history / $c Michael C. Meyer, William L. Sherman.
+250       $a 5th ed.
+260       $a New York : $b Oxford University Press, $c 1995.
+263       $a 9501.
+300       $a xii, 723, xxiii p. : $b ill., maps ; $c 26 cm.
+500       $a UCSC: DROP FROM OUTPUT REC:001-004, INPUT 005, 009, 590, 850, 852, 855, 857, 858, 866, 867, 868, 886, 899.  OUTPUT 005 WILL BE CREATED FROM INCOMING 902; OUTPUT INCOMING 035 AS IS; OUTPUT ANOTHER 035 FROM INPUT 001; DATA FROM SOME DROPPED FIELDS WILL BE OUTPUT ELSEWHERE (02/06).
+651   0   $a Mexico $x History.
+700  10   $a Sherman, William L.
+852       $a SCB $b mstax $j F1226 $x 590 FLD.
+901       $a SCB $b 18311611
+
+Record 16
+LDR  01011pam  2200301 a 45  
+005  19950316000000.0
+008  930721s1994    njuab    b    001 0 eng  
+010       $a 93030737
+020       $a 0131460102
+035       $a (OCoLC)28585578
+040       $a DLC $c DLC $d CUZ
+043       $a n-mx--- $a n-us---
+049       $a CUZA
+050       $a F1231.5 $b .M3
+086       $a HEA $b F1231
+090       $a F1231.5 $b .M32 1994
+099       $a ABC $a 123 $a 1ST 099
+099       $a LCD $a 926 $a 2ND 099
+100  1    $a MacLachlan, Colin M.
+245  13   $a El Gran Pueblo : $b a history of greater Mexico / $c Colin M. MacLachlan, William H. Beezley.
+260       $a Englewood Cliffs, N.J. : $b Prentice Hall, $c c1994.
+300       $a xvi, 496 p. : $b ill., maps ; $c 23 cm.
+500       $a UCSC: REC HAS 2 099s, 090, 086, 050; OUTPUT ALL $a'S FROM 1ST 099 IN A SINGLE 852 $j (04/02).
+651   0   $a Mexico $x History $y 1810-
+651   0   $a Mexican-American Border Region $x History.
+700  10   $a Beezley, William H.
+852       $a SCB $b mstax $j ABC 123 1ST 099
+901       $a SCB $b 18325907
+
+Record 17
+LDR  01355cam  2200361 a 45  
+005  19950316000000.0
+008  921211s1993    nmuab    b    000 0aeng  
+010       $a 92044670
+020       $a 0826314252
+020       $a 185043560X :
+035       $a (OCoLC)27187494
+040       $a DLC $c DLC $d UKM $d TAI $d CUZ
+041  1    $a eng $h ger
+043       $a n-mx--- $a e-au---
+049       $a CUZA
+050  00   $a F1233 $b .P65 1993
+086       $a HEA $b P65
+090       $a F1233 $b .P65 1993 (090 FIELD)
+100  1    $a Pitner, Ernst, $d 1838-1895 or 6.
+245  10   $a Maximilian's lieutenant : $b a personal history of the Mexican campaign, 1864-7 / $c Ernst Pitner ; translated and edited by Gordon Etherington-Smith ; note on the Mexican background by Don M. Coerver.
+250       $a 1st ed.
+260       $a Albuquerque : $b University of New Mexico Press, $c c1993.
+300       $a x, 201 p. : $b ill., maps ; $c 23 cm.
+500       $a UCSC MONO: HAS 090, 086, 050; OUTPUT 090 $a $b AS 852 $h $i (04/02).
+651   0   $a Mexico $x History $y European intervention, 1861-1867 $x Personal narratives, Austrian.
+651   0   $a Mexico $x Social conditions.
+600  10   $a Pitner, Ernst, $d 1838- $x Diaries.
+600  10   $a Pitner, Ernst, $d 1838- $x Correspondence.
+653  0    $a Wars.
+653  0    $a Mexico.
+700  20   $a Etherington-Smith, Gordon.
+852       $a SCB $b mstax $h F1233 $i .P65 1993 (090 FIELD)
+901       $a SCB $b 18325531
+
+Record 18
+LDR  01184pam  2200313 a 45  
+005  19950323000000.0
+008  930512s1994    nyu      b    001 0 eng  
+010       $a 93023903
+020       $a 0791418995
+020       $a 0791419002 (pbk.)
+035       $a (OCoLC)28221980
+040       $a DLC $c DLC $d CUZ
+049       $a CUZA
+050  00   $a B162 $b .050 FIELD
+086       $a HEU/D12 086 FIELD
+098       $n ov=.b3886050
+100  1    $a Cabezâon, Josâe Ignacio, $d 1956-
+245  10   $a Buddhism and language: $b a study of Indo-Tibetan scholasticism / $c Josâe Ignacio Cabezâon.
+260       $a Albany, N.Y. : $b State University of New York Press, $c c1994.
+300       $a xiii, 299 p. ; $c 23 cm.
+440   0   $a SUNY series, toward a comparative philosophy of religions.
+500       $a UCSC MONO: REC HAS 3 LOCS: 'smaps' & 'mgus' - OUTPUT 086 $a TO 852 $j;  OTHER LOC - OUTPUT 050 $a $b AS 852 $h $i (04/02).
+650   0   $a Philosophy, Buddhist.
+650   0   $a Language and languages $x Religious aspects $x Dge-lugs-pa (Sect)
+650   0   $a Dge-lugs-pa (Sect) $x Doctrines.
+852       $a SCB $b mstax $h B162 $i .050 FIELD
+852       $a SCB $b smaps $j HEU/D12 086 FIELD
+852       $a SCB $b mgus $j HEU/D12 086 FIELD
+901       $a SCB $b 18302877
+
+Record 19
+LDR  00902nam  2200265Ia 45  
+005  19950306000000.0
+008  950224s1994    cau           000 0 eng d
+035       $a 009959583
+035       $a (OCoLC)32047401
+040       $a JNA $c JNA $d CUZ
+043       $a e------ $a n-us---
+049       $a CUZA
+090       $a AS36 $b .R28 no.7891
+100  1    $a Van Heuven, Marten.
+245  10   $a Transatlantic relations : $b the implications for security / $c Marten Van Heuven.
+260       $a Santa Monica, CA : $b RAND, $c 1994.
+300       $a 7 p. ; $c 28 cm.
+500       $a UCSC: OUTPUT 001 AS 035, ADDING '(OCoLC)' TO BEGINNING OF NUMBER; OUTPUT 035 AS IS (02/06).
+500       $a "P-7891."
+650   0   $a National security $z Europe.
+651   0   $a Europe $x Military relations $z United States.
+651   0   $a United States $x Military relations $z Europe.
+710  2    $a Rand Corporation.
+852       $a SCB $b mstax $h AS36 $i .R28 no.7891
+901       $a SCB $b 18300625
+
+Record 20
+LDR  01250 as  2200361 a 45  
+005  19950719000000.0
+008  930701c19939999nyusr1p       0   a0eng d
+010       $a sn 93005029
+022  0    $a 1070-4280
+030       $a RJOCEQ
+035       $a (OCoLC)28365085
+040       $a NSD $c NSD $d EYM $d CUZ
+041  1    $a eng $h rus
+042       $a nsdp $a lcd
+049       $a CUZA
+090       $a QD241.Z513
+098       $n ov=.b3582188
+130  0    $a Zhurnal organicheskoi khimii. $l English.
+245  10   $a Russian journal of organic chemistry.
+260       $a New York : $b Consultants Bureau, $c c1993-
+210  0    $a Russ. j. organ. chem.
+222   0   $a Russian journal of organic chemistry.
+300       $a v. ; $c 28 cm.
+310       $a Semimonthly.
+362  0    $a Vol. 29, no. 1, pt. 1-
+500       $a UCSC PE: 2 LOCS IN 920 $l WITH 1ST LOC BEING 'nrlf'.  DROP 'nrlf' LOCATION AND OUTPUT ONLY 1 852 (04/02).
+510  0    $a Chemical abstracts $x 0009-2258.
+650   0   $a Chemistry, Organic $x Periodicals.
+780  00   $t Continues: Zhurnal organicheskoæi khimii. English. Journal of organic chemistry of the USSR $x 0022-3271.
+710  20   $a Consultants Bureau.
+765  0    $t Zhurnal organicheskoæi khimii $x 0514-7492.
+852       $a SCB $b sstax $j QD241.Z513 $3 29(1993)+ $O -
+901       $a SCB $b 15315526
+
+Record 21
+LDR  01927cas  2200373 a 45  
+005  19950828000000.0
+008  780811c19539999dcuar1    b  f0   a0eng d
+010       $a sn 85000949
+022  0    $a 0882-4037
+035       $a (OCoLC)4128255
+040       $a GPO $c GPO $d GPO $d NSD $d GPO $d NST $d GPO $d DLC $d NST $d GPO $d HUL $d GPO $d CLU
+042       $a nsdp $a lcd
+043       $a n-us---
+049       $a CUZE
+074       $a 0556-C
+086  0    $a GP 3.24/2:
+086  0    $a GP 3.24/2:
+098       $n ov=.b3801603
+245  00   $a Inactive or discontinued items from the 1950 revision of the classified list.
+260       $a Washington, D.C. : $b Office of the Assistant Public Printer (Superintendent of Documents), U.S. G.P.O.,
+210  0    $a Inact. discontin. Hems 1950 rev. classif. list.
+222   0   $a Inactive or discontinued items from the 1950 revision of the classified list.
+265       $a Supt. of Docs., U.S. Govt. Print. Off., Washington, D.C. 20402.
+300       $a v. ; $c 28 cm.
+310       $a Annual, $b 1977-
+321       $a Irregular, $b 1953-76.
+362  1    $a Began with 1953.
+500       $a UCSC PE: RECORD HAS 3 INCOMING 850S WITH LOC. IN $b; 1ST AND 3RD LOCS ARE THE SAME - OUTPUT 2 852'S, 1ST 852 HAS $m TAKEN FROM INCOMING 850 $e; 2ND LOCATION IS 'nrlf', 852 $g NRLF NOTE TAKEN FROM 850 $g, WITH "NRLF: " APPENDED TO BEGINNING. OUTPUT 852 $D (Currently received) & 852 $O FROM 901 $c IN 1ST LOC SEG ONLY (04/02).
+650   0   $a Government publications $z United States $x Bibliography $x Periodicals.
+710  1    $a United States. $b Superintendent of Documents. $b Depository Administration Branch.
+772  0    $t List of classes of United States government publications available for selection by depository libraries $x 0882-4045 $w (DLC)  90649584 $w (OCoLC)5529709.
+852       $a SCB $b mgref $j GP 3.24/2: $m Located in Government Publications Office $3 1981+ $D Currently received $O 1
+852       $a SCB $b nrlf $g NRLF: All issues $j GP 3.24/2: $3 1953-1976
+901       $a SCB $b 17470249
+
+Record 22
+LDR  00955 as  2200181 a 45  
+005  19950515000000.0
+008  690928s1895       ab         0   0 fre  
+090       $a E51.S68
+098       $n ov=.b2397961
+110  2    $a Sociâetâe des amâericanistes de Paris.
+245  10   $a Journal.
+260       $a Paris $c 1895.
+300       $a v     illus., maps.
+500       $a UCSC PE: OUTPUT 1 852, TAKEN FROM 1ST 920, DROP 2ND LOC (nrlf).  OUTPUT 852 $3 FROM 850 $a, INDEX INFO FROM 855.  APPEND '; Index: ' TO END OF 852 $3 BEFORE APPENDING 855. TAKE 852 $m FROM INCOMING 858.  DROP 855, 858 FLDS (04/02).
+650       $a America $x Antiquities $x Societies, etc.
+852       $a SCB $b mstax $j E51.S68 $m Latest: GovPubs Office. Other: GovPubs US Docs. $3 1-4(1895-1903),  Ser.2: 1-49(1904-1960),  51-52(1962-1963),  54:1(1965),  55-78(1966-1992); Index: 63-72(1977-1986) $D On order $O 3
+856       $a Volumes listed by author/title in the fiche/online catalog. Please consult Reference.
+901       $a SCB $b 15177580
+
+Record 23
+LDR  01411cas  22003977a 45  
+005  19950831000000.0
+008  751101c19449999fr dnzne      0   b0fre d
+010       $a sn 85020897
+022       $a 0395-2037
+035       $a (OCoLC)1758539
+040       $a MUL $c MUL $d PIT $d AIP $d HUL $d AIP $d IUL $d AIP $d NSD $d NST $d DLC $d ONP $d CRL $d NSD
+042       $a nsdp $a msc
+043       $a e-fr---
+049       $a CUZA
+098       $n ov=.b2367828
+050       $a T050
+086       $a T086
+130  0    $a Monde (Paris, France)
+245  03   $a Le Monde.
+260       $a Paris : $b Le Monde, $c 1944-
+210  0    $a Monde.
+222   3   $a Le Monde.
+265       $a Le Monde, 5, rue des Italiens, 75427 Paris.
+300       $a v.
+310       $a Daily (except combined Sun.-Mon. issue), $b <1985->
+321       $a Daily, $b 1944-
+362  0    $a 1áere annâee, no 1 (19 dâec. 1944)-
+500       $a UCSC PE: LOC IS IN 850 $b. OUTPUT CALL NUM FROM 850 $c TO 852 $j; OUTPUT 852 $3 FROM 850 $h (04/02).
+530       $a Available on microfilm from Research Publications.
+650   0   $a France $x Newspapers.
+780  00   $t Temps (Paris, France : 1861) $w (DLC)sn 91069075.
+775  0    $t Monde.  Sâelection hebdomadaire $x 0026-9360 $w (OCoLC)3945430.
+776  1    $t Monde $w (OCoLC)6683204.
+752       $a France $d Paris.
+852       $a SCB $b mnews $j 850$c $3 (850 $h) Latest issue in Newspaper area; back issues retained until replaced by microfilm $D No longer published $O 4
+901       $a SCB $b 1850923x
+
+Record 24
+LDR  01762 as  2200397 a 45  
+005  19950411000000.0
+008  831006d1979198ucauar    s   s0   a1eng d
+010       $a 85643959
+040       $a CUN $c CUN $d DLC $d NST $d DLC $d m/c $d NST $d OCL $d DLC $d CUZ
+042       $a lc
+043       $a n-us-ca
+049       $a CUZA
+050       $a 050 SUBFLD A $a SUBFLD A
+086       $a 086 SUBFLD A $z SUBFLD Z $2 SUBFLD 2 $6 SUBFLD 6
+090       $a 090 SUBFLD A $a SUBFLD A $b SUBFLD B
+098       $n ov=.b3347722
+099       $a 099 SUBFLD A $b SUBFLD B
+245  00   $a Individual long-term care facility data for California / $c California Health Facilities Commission.
+260       $a [Sacramento] : $b The Commission, $c 1981-
+300       $a v. ; $c 28 cm.
+310       $a Annual.
+362  0    $a Fiscal years ending Dec. 31, 1978-Dec. 31, 1979-
+490  1    $a 1978-1979: Report / California Health Facilities Commission.
+500       $a UCSC PE: 2 LOCS IN 850 FLDS; HAS 099, 090, 086, 050 CALL NUM FLDS. 1ST LOC - OUTPUT CALL NUM FROM 099 $a $b TO 852 $h $i. 2ND LOC - OUPUT 852 $j FROM 850 $c (04/02).
+650   0   $a Long-term care facilities $z California $x Statistics $x Periodicals.
+650   0   $a Long-term care facilities $z California $x Finance $x Statistics $x Periodicals.
+780  00   $t Continues: California long-term care data for health systems agencies.
+785  00   $t Continued by: Individual long-term care facility financial data.
+710  20   $a California Health Facilities Commission.
+760  0    $t Report (California Health Facilities Commission)
+760  0    $t CHFC report.
+830   0   $a Report (California Health Facilities Commission)
+830   0   $a CHFC report.
+852       $a SCB $b mgcal $h 099 SUBFLD A $i SUBFLD B $3 1965- $D Subscription cancelled $O 5
+852       $a SCB $b mstax $j 850$c $3 1965-
+901       $a SCB $b 15304425
+
+Record 25
+LDR  01184 as  2200301 a 45  
+005  19950630000000.0
+008  920528c19929999dcuar    r    0    0eng d
+010       $a sn 92037377
+040       $a PIT $c PIT $d IUL $d CUZ
+042       $a lcd
+043       $a n-us--- $a n-cn---
+049       $a CUZA
+050       $a 050 SUBFLD A $b SUBFLD B
+086       $a 086 SUBFLD A $z SUBFLD Z $2 SUBFLD 2
+090       $a 090 SUBFLD A $a SUBFLD A $b SUBFLD B
+098       $n ov=.b3372212
+130  0    $a Graduate study in psychology. $f 1992.
+245  10   $a Graduate study in psychology.
+260       $a Washington, D.C. : $b American Psychological Association, $c c1992-
+300       $a v. ; $c 28 cm.
+310       $a Annual.
+362  0    $a 1992-
+500       $a UCSC PE: LOC IN 850 FIELD, REC HAS 090, 086, 050 CALL NUM FIELDS; TAKE CALL NUM FROM FIRST 090 $a $b AND OUTPUT IN 852 $h $i. (04/02).
+650   0   $a Psychology $x Study and teaching (Graduate) $z Canada $x Directories.
+780  00   $t Continues: Graduate study in psychology and associated fields $x 0742-7220.
+710  20   $a American Psychological Association.
+852       $a SCB $b mrtab $h 090 SUBFLD A $i SUBFLD B $m Latest: Ref Table. Other: stacks. $3 1992+ $D Currently received $O a
+901       $a SCB $b 15305958
+
+Record 26
+LDR  01241 as  2200265 a 45  
+005  19950831000000.0
+008  921204c19929999dcuar     s  f0    0eng d
+010       $a sn 93020027
+035       $a (OCoLC)27063834
+040       $a HBS $c HBS $d NST $d GPO $d HUL $d CUZ
+042       $a lcd
+043       $a n-us-mn
+049       $a CUZS
+086       $a 086 SUBFLD A $a SUBFLD A $z SUBFLD Z
+050       $a 050 SUBFLD A $a 2ND SUBFLD A
+098       $n ov=.b3499200
+245  00   $a Occupational compensation survey--pay and benefits. $p St. Cloud, Minnesota, metropolitan area / $c U.S. Department of Labor, Bureau of Labor Statistics.
+260       $a Washington, DC : $b The Bureau : $b U.S. G.P.O., Supt. of Docs. [distributor] ; $a Chicago, IL : $b Bureau of Labor Statistics, Publications Sales Center [distributor], $c 1992-
+310       $a Annual.
+362  0    $a Apr. 1992-
+490  1    $a Bulletin / U.S. Department of Labor, Bureau of Labor Statistics.
+500       $a UCSC PE: REC HAS 2 LOCATIONS, 086 AND 050 CALL NUM FIELDS.  1ST LOC IS 'mgus', OUTPUT 852 $j FROM 1ST $a IN 086 FIELD.  2ND LOC IS NOT 'mgus', 'mmaps' OR 'smaps', OUTPUT 852 $j FROM 1ST $a IN 050 FIELD (04/02).
+852       $a SCB $b mgus $j 086 SUBFLD A $3 1982-1992+ $O c
+852       $a SCB $b mstax $j 050 SUBFLD A $3 1992+
+901       $a SCB $b 15309174
+
+Record 27
+LDR  01297 as  2200349 a 45  
+005  19950411000000.0
+008  820906d1979198ucauar    s   s0   a1fre d
+010       $a 73111223
+040       $a CUN $c CUN $c CUZ
+042       $a lc
+043       $a n-us-ca
+049       $a CUZA
+050       $a 050 SUBFLD A $b SUBFLD B
+086       $a 086 SUBFLD A $z SUBFLD Z
+090       $a 090 SUBFLD A $b SUBFLD B
+098       $n ov=.b3347722
+099       $a 099 SUBFLD A $a 2ND SUBFLD A $b SUBFLD B $b 2ND SUBFLD B
+245  00   $a California Hospice Care Commission Report.
+260       $a [Sacramento] : $b The Commission, $c 1981-
+300       $a v. ; $c 28 cm.
+310       $a Annual.
+362  0    $a Fiscal years ending Dec. 31, 1978-Dec. 31, 1979-
+500       $a UCSC PE: LOC IS IN 920, REC HAS 099, 090, 086, 050 CALL NUM FIELDS; TAKE 852 $h $i FROM FIRST $a AND FIRST $b IN 099 (04/02).
+650   0   $a Long-term care facilities $z California $x Statistics $x Periodicals.
+780  00   $t Continues: Report of the Commission on Hospice Care.
+710  20   $a California Hospice Care Commission.
+760  0    $t Report (California Hospice Care Commission)
+760  0    $t CHCC report.
+830   0   $a Report (California Hospice Care Commission)
+830   0   $a CHCC report.
+852       $a SCB $b mgcal $h 099 SUBFLD A $i SUBFLD B $D Currently received $O 1
+901       $a SCB $b 13546525
+
+Record 28
+LDR  00996nas  2200277 a 45  
+005  19950630000000.0
+008  650121c19929999dcuar    r    0    0eng d
+010       $a    65037377
+040       $a PIT $c PIT $d IUL $d CUZ
+042       $a lcd
+043       $a n-us--- $a n-cn---
+049       $a CUZA
+050       $a 050 SUBFLD A $a SUBFLD A $b SUBFLD B
+086       $a 086 SUBFLD A $z SUBFLD Z $2 SUBFLD 2 $6 SUBFLD 6
+090       $a 090 SUBFLD A $a 2ND SUBFLD A
+098       $n ov=.b3372212
+130  0    $a Studies in graduate education in sorcery. $f 1965.
+245  10   $a Studies in graduate education in sorcery.
+260       $a Washington, D.C. : $b American Sorcerers Guild, $c c1992-
+300       $a v. ; $c 28 cm.
+310       $a Annual.
+362  0    $a 1992-
+500       $a UCSC PE: LOC IN 920 FIELD; REC HAS 090, 086, 050 CALL NUM FIELDS. TAKE 852 $j FROM FIRST $a IN 090 FIELD. (04/02).
+650   0   $a Sorcery $x Study and teaching (Graduate) $z USA $x Directories.
+852       $a SCB $b mrtab $j 090 SUBFLD A $D Not currently received $O 2
+901       $a SCB $b 13509558
+
+Record 29
+LDR  00797 as  2200241 a 45  
+005  19950831000000.0
+008  911105c19929999dcuar     s  f0    0eng d
+010       $a    91320027
+035       $a (OCoLC)64123834
+040       $a HBS $c HBS $d NST $d GPO $d HUL $d CUZ
+042       $a lcd
+043       $a n-us-mn
+049       $a CUZS
+086       $a 086 SUBFLD A $a 2ND SUBFLD A $2 SUBFLD 2 $6 SUBFLD 6
+050       $a 050 SUBFLD A $a SUBFLD A
+098       $n ov=.b3499200
+245       $a Dragonslayers' Annual.
+260       $a Bald Mountain, Transylvania : $b Dragonslayers Guild, $c 1756-
+310       $a Annual.
+362  0    $a 1757-
+500       $a UCSC PE: LOC 'smaps' IS IN 920 FIELD, RECORD HAS 086 AND 050 CALL NUM FIELDS.  TAKE 852 $j FROM FIRST $a IN 086 FIELD. (04/02).
+852       $a SCB $b smaps $j 086 SUBFLD A $D On order $O 3
+901       $a SCB $b 12518174
+
+Record 30
+LDR  00851 as  2200241 a 45  
+005  19950831000000.0
+008  930105c19929999dcuar     s  f0    0eng d
+010       $a    93456027
+035       $a (OCoLC)93123834
+040       $a HBS $c HBS $d NST $d GPO $d HUL $d CUZ
+042       $a lcd
+043       $a n-us-mn
+049       $a CUZS
+086       $a 086 SUBFLD A $a SUBFLD A $2 SUBFLD 2
+050       $a 050 SUBFLD A $b SUBFLD B
+098       $n ov=.b3499200
+245       $a Journal of the Guild of sorcerers, magicians, and warlocks.
+260       $a London : $b Guild of sorcerers, magicians, and warlocks, $c 1213-
+310       $a Annual.
+362  0    $a 1757-
+500       $a UCSC PE: LOC IN 920 FIELD IS NOT 'smaps' or 'mgus', RECORD HAS 086 AND 050 CALL NUM FIELDS.  TAKE 852 $h $i FROM 050 $a $b (04/02).
+852       $a SCB $b mstax $h 050 SUBFLD A $i SUBFLD B $D Not currently received $O z
+901       $a SCB $b 12314564
+
+Record 31
+LDR  00692dXX  2200181 a 45  
+005  20020510143000.0
+008  920408u19uu9999caumx p       0   a0eng d
+040       $a CUZ $c CUZ
+049       $a CUZN[Serial][Archives]
+098       $n ov=.b3315587
+260       $a Santa Cruz, Calif. : $b University of California, Santa Cruz, $c [1972-
+300       $a v. ; $c 28 cm.
+310       $a Monthly (irregular)
+362  0    $a Jan. 1972-
+500       $a UCSC: DELETE REC (901 $c = "d"); NO 245, UNKNOWN LOC, NO 902, INVALID TYPE & BIBLVL - CREATE DELETE REC, DO NOT CREATE 998 ERR FLDS, USE FILEDATE FOR 005 (06/02).
+610  20   $a University of California, Santa Cruz. $b Arboretum $x Periodicals.
+852       $a SCB $b XXXXX
+901       $a SCB $b 15301783
+
+Record 32
+LDR  01046 as  2200253 a 45  
+005  19950731000000.0
+008  931213c19939999enkuu         0    0eng d
+035       $a (OCoLC)29482627
+040       $a JBL $c JBL $d CUZ
+049       $a CUZA
+090       $a PS324.I5
+098       $n ov=.b3700768
+245  00   $a International who's who in poetry and Poets' encyclopaedia.
+260       $a Cambridge, England : $b International Biographical Centre, $c c1993-
+300       $a v. ; $c 25 cm.
+362  0    $a 7th ed. (1993/94)-
+500       $a UCSC PE: 2 LOCS FROM 850 $b. 1ST LOC - CREATE SEPARATE 852 $m'S FROM MULTIPLE 850 $e'S.  2ND LOC - OUTPUT 852 $g NRLF NOTE FROM 850 $g (04/02).
+580       $a Separated from: International authors' and writers' who's who.
+650   0   $a Poetry $y 20th century $x Bio-bibliography.
+700  10   $a Shields, M. J.
+730  00   $a Poets' encyclopaedia.
+852       $a SCB $b mrtab $j PS324.I5 $m 1ST $e $m 2ND $e $m 3RD $e $3 1993/94(7th ed.)+ $D Not currently received $O 2
+852       $a SCB $b nrlf $g NRLF: All issues (850$g) $j PS324.I5 $3 2-65(1901-1965)
+901       $a SCB $b 15316002
+
+Record 33
+LDR  01416cas  2200349 a 45  
+005  19950726000000.0
+008  930125d19911994nyu x1p       0   a0eng d
+010       $a 93643109 //r94 $z sn 92030938
+022  0    $a 1068-8919
+035       $a (OCoLC)27313684
+040       $a IXA $c IXA $d HUL $d DLC $d NSD $d WAU $d GUA $d DLC $d GUA $d NSD $d DLC $d HUL
+042       $a lc $a nsdp
+043       $a cl-----
+049       $a CUZR
+090       $a JC599.L3 $b N49
+098       $n ov=.b3261505
+130  0    $a Americas Watch (Newsletter)
+245  00   $a Americas Watch : $b [newsletter]
+260       $a New York, N.Y. : $b Americas Watch, $c [   -1994]
+210  0    $a Am. Watch.
+246  10   $a News from Americas Watch.
+222   0   $a Americas Watch.
+300       $a 4 v. ; $c 28 cm.
+310       $a Irregular.
+362  0    $a Feb. 25, 1991-v. 6, no. 1 (Feb. 24, 1994)
+500       $a UCSC PE: LOC IS IN 920 - OUTPUT 852 $m'S FROM INPUT 858 FLDS; CREATE 852 $3 FROM 850 $a (04/02).
+650   0   $a Civil rights $z Latin America $x Periodicals.
+780  00   $t News from Americas Watch $x 1061-9909 $w (DLC)   90661198 $w (OCoLC)20252786.
+785  00   $t Human Rights Watch/Americas (Newsletter) $x 1077-6710 $w (DLC)   94643688 $w (OCoLC)30486545.
+710  2    $a Americas Watch Committee (U.S.)
+852       $a SCB $b mrtab $h JC599.L3 $i N49 $m Latest 2 yrs: Ref Table. Other: Stacks (858 FLD). $m LATEST ISSUE IN LIBRARY LOUNGE (858 FLD). $3 4:3-6:1(Apr. 1992-Feb. 24, 1994) (850$a) $D On order $O 3
+901       $a SCB $b 18546924
+
+Record 34
+LDR  00974 as  2200229 a 45  
+005  19950317000000.0
+008  760620d19041951gw uu p       0    0ger d
+010       $a sf 83001184
+035       $a (OCoLC)2269844
+040       $a PIT $d NST $d NYG $d CUZ
+042       $a lc
+049       $a CUZA
+090       $a TP250.D45
+098       $n ov=.b3458258
+245  00   $a Zeitschrift fèur Elektrochemie und angewandte physikalische Chemie : $b herausgegeben von der Deutsche Bunsen-Gesellschaft fèur Angewandte.
+260       $a Halle : $b Wilhelm Knapp, $c 1904-1951.
+300       $a 47 v. : $b ill., ports. ; $c 28-30 cm.
+362  0    $a [Bd.] 10, Nr. 1 (Jan. 1, 1904)-Bd. 55, Nr. 8 (Dez. 1951).
+500       $a UCSC PE: LOC IN 920 - OUTPUT 852 $g NOTE FROM INCOMING 857 FIELD AFTER APPENDING 'NRLF: ' TO BEGINNING.  DO NOT OUTPUT 857. (04/02).
+650   0   $a Electrochemistry, Industrial $x Periodicals.
+852       $a SCB $b nrlf $g NRLF: All issues (857 FLD). $j TP250.D45 $3 10-55(1904-1951) $D No longer published $O 4
+901       $a SCB $b 15308066
+
+Record 35
+LDR  00663 as  2200169 a 45  
+005  19950710000000.0
+008  731024s1972                  0   0 eng  
+090       $a SH11.A3
+098       $n ov=.b2319561
+245  00   $a Commercial fisheries review.
+260       $a [Washington, $b Govt. Print. Off.]
+300       $a v. illus., maps, diagrs. bimonthly.
+362  0    $a v. 1-34, no. 5/6; Jan. 1939-May/June 1972.
+500       $a UCSC PE: LOC IN 920 FIELD; RECORD HAS 855 (INDEX INFO), BUT NO 850 $a (HOLDINGS) - DO NOT OUTPUT 852 $3; DISREGARD 855 (04/02).
+650       $a Fish trade.
+852       $a SCB $b sstax $g NRLF: All issues except index. $j SH11.A3 $D Not currently received $O 2
+901       $a SCB $b 15102580
+
+Record 36
+LDR  00722 as  2200169 a 45  
+005  19950710000000.0
+008  720811s0000                  0   0 ger00
+090       $a Z2221.R4
+098       $n ov=.b2388911
+245  00   $a Referatedienst zur Literaturwissenschaft.
+260       $a Berlin.
+300       $a v.
+362       $a Jahrg. 1- 1969-
+500       $a UCSC PE: LOC IN 920 FIELD; HOLDINGS IN 850 $a; 855 CONTAINS STRING 'INDEX: ' FOLLOWED BY INDEX INFO.  APPEND '; ' TO END OF HOLDINGS, FOLLOWED BY 855 FIELD AS IS AND OUTPUT AS 852 $3. (04/02).
+650   0   $a German literature $x Book reviews $x Periodicals.
+852       $a SCB $b mref $g NRLF: All issues except Index. $j Z2221.R4 $3 1969-1990.; Index: 1986-1989. $D Not currently received $O 2
+901       $a SCB $b 15168955
+
+Record 37
+LDR  00542dam  2200145   45  
+005  19950831000000.0
+008                                     eng  
+098       $n ov=.b2598759
+245  00   $a Studies in the fine arts: the Avant-garde.
+260  0    $a Ann Arbor : $b UMI Research Press.
+300       $a 260 p., illus.
+500       $a UCSC MONO: 901 $c CONTAINS VALID VALUE 'h'; SET STATUS TO 'd' IN LEADER (DELETE). (04/02).
+852       $a SCB $b sstax
+856       $a Volumes listed by author/title in the fiche/online catalog. Please consult Reference.
+901       $a SCB $b 1735772x
+
+Record 38
+LDR  00791 as  2200181 a 45  
+005  19951107000000.0
+008  690927s1928                  0   0 ger  
+022       $a 0001-6241
+090       $a ML5.A24
+098       $n ov=.b2287535
+245  00   $a Acta musicologica. $b (International Musicological Society)
+362       $a 1928.
+500       $a UCSC PE: HOLDINGS IN 850 $h; 850 $j HAS INDEX INFO, BEGINNING WITH STRING 'Index: '.  APPEND '; ' TO HOLDINGS, FOLLOWED BY 850 $j AND OUTPUT IN 852 $3 (04/02).
+710  20   $a International Musicological Society.
+710  20   $a International Musicological Society. $t Mitteilungen.
+710  20   $a International Musicological Society. $t Bulletin.
+852       $a SCB $b mcper $j ML5.A24 $3 1-7(1928-1935),  35(1963)+; Index: 1-39:2(1928-May 1967) $D Currently received $O 1
+901       $a SCB $b 15072125
+
+Record 39
+LDR  00805 as  2200193 a 45  
+005  19951206000000.0
+008  690927s1929                  0   0 eng  
+022       $a 0001-4966
+090       $a QC221.A4
+098       $n ov=.b2287262
+110  2    $a Acoustical Society of America.
+245  10   $a Journal of the Acoustical Society of America.
+260       $a New York, $b American Institute of Physics $c 1929-
+300       $a v. monthly.
+500       $a UCSC PE: HOLDINGS IN 850 $h; 850 $j CONTAINS INDEX INFO, BUT DOES NOT CONTAIN STRING 'INDEX: '; APPEND '; Index: ' TO HOLDINGS FOLLOWED BY 850 $j, AND OUTPUT IN 852 $3 (04/02).
+500       $a Vol. 1-16 (1929-1945) issued in CD-ROM format.
+650   0   $a Sound $x Periodicals.
+852       $a SCB $b scper $j QC221.A4 $3 1(1929)+; Index: 1-64(1929-1978) $D Currently received $O 1
+901       $a SCB $b 15071868
+
+Record 40
+LDR  00996nas  2200133   45  
+005  19950613000000.0
+008                                     eng  
+098       $n ov=.b3676559
+245       $a Community Cable Letter.
+260  1    $a Santa Cruz, CA.
+300       $a v. ; 23 cm.
+500       $a UCSC PE: RECORD HAS 4 590 FIELDS: 'SHARED PURCHASE' 590 OUTPUT IN 852 $z; 'LIBRARY HAS' 590 DROPPED; OTHER 2 590S OUTPUT AS 852 $x FLDS (04/02).
+852       $a SCB $b mcper $x TOSS ANY ISSUES RECEIVED--Per Publ's notice of 1/15/94, title changed from CALIFORNIA CABLE LETTER to COMMUNITY CABLE LETTER effective with Jan94. Why are they telling us? We cancelled our P.O.1011674 back in May of 1991. The title was withdrawn and all issues have been discarded. Per phone, reminded publ. of cancell. They say the Jan.94 iss. already sent, but will not send any more. jr 1/25/94  (Output 852 $x). $x Continues: CALIFORNIA CABLE LETTER (Output 852 $x). $z Shared purchase with UCSD (output 852 $z). $D Subscription cancelled $O 5
+901       $a SCB $b 17689715
+
+Record 41
+LDR  00831das  2200241 a 45  
+005  19950426000000.0
+008  900516c19889999sp tr p       0    0spa d
+010       $a sn 90016235
+040       $a COO $c NST $d ELM $d CUZ
+042       $a msc
+049       $a CUZA
+090       $a QA1.R443
+098       $n ov=.b3349548
+245  00   $a Revista matemâatica de la Universidad Complutense de Madrid / $c Facultad de Ciencias Matemâaticas, Universidad Complutense de Madrid.
+260       $a Madrid : $b La Universidad,
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Three no. a year.
+362  0    $a Vol. 1, no. 1-2 y 3 (1988)-
+500       $a UCSC PE: 901 $c = 'd', SET STATUS TO 'd' (DELETE) IN LEADER. (04/02).
+650   0   $a Mathematics $x Periodicals.
+710  20   $a Universidad Complutense de Madrid.
+852       $a SCB $b scper $j QA1.R443 $3 4(1991)+ $O d
+901       $a SCB $b 15304978
+
+Record 42
+LDR  01211das  2200313 a 45  
+005  19950829000000.0
+008  800301c19uu9999caumr1p       0   a0eng d
+010       $a sc 83006096
+022  0    $a 0741-1138
+040       $a IXA $c IXA $d UCU $d MUL $d HUL $d OCL $d DLC $d NSD $d DLC $d OCL $d m/c $d NST $d CUZ
+042       $a lc $a nsdp
+049       $a CUZA
+090       $a F1401.I64
+098       $n ov=.b3258890
+130  0    $a ISLA (Oakland, Calif.)
+245  10   $a ISLA / $c Information Services on Latin America.
+260       $a Oakland, CA : $b I.S.L.A.,
+210  0    $a ISLA - Inf. Serv. Latin Am.
+222   0   $a ISLA - Information Services on Latin America.
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Monthly.
+500       $a UCSC PE: 901 $c = 'n'; SET STATUS TO 'd' (DELETE) IN LEADER. (04/02).
+520       $a Clippings of Latin American political, social and economic news from various English language newspapers.
+651   0   $a Latin America $x Periodicals.
+710  20   $a Information Services on Latin America (Oakland, Calif.)
+730  00   $a I.S.L.A.
+730  00   $a Information services on Latin America.
+852       $a SCB $b mrtab $j F1401.I64 $m Current 2 years on Reference Tables. Previous years in stacks. $3 44:4(Apr. 1992)+ $O n
+901       $a SCB $b 1530498x
+
+Record 43
+LDR  00871 as  2200217Ia 45  
+005  19950306000000.0
+008  900612                             eng  
+010       $a 03-25387
+035       $a (OCoLC)8534491
+040       $a DLC $c VIC $d VIC $d OCL
+049       $a CUZK
+090       $a Z2012.B91
+245  10   $a Censura literaria. $b Containing titles, abstracts, and opinions of old English books, with original disquisitions, articles of biography, and other literary antiquities.
+260       $a London, $b Longman, Hurst, Rees, and Orme, $c 1805-09.
+300       $a 10 v. $c 22 cm.
+310       $a Published semiannually 1805-1809.
+500       $a UCSC PE: RECORD HAS 'nrlf' AS ONLY LOC CODE IN 920 $l; OUTPUT 852 FOR "nrlf". (04/02).
+650   0   $a English literature $y Early modern, 1500-1700.
+650   0   $a English literature.
+852       $a SCB $b nrlf $j Z2012.B91 $3 Library has: v. 1-10. $O -
+901       $a SCB $b 11594639
+
+Record 44
+LDR  00961 as  2200277 a 45  
+005  19950426000000.0
+008  920505c19uu9999cauqr        s0    0eng d
+010       $a sn 92017373
+040       $a CLU $c CLU $d CUZ
+042       $a lcd
+043       $a n-us-ca
+049       $a CUZA
+098       $n ov=.b3350721
+099       $a B825.N4 (1ST 099)
+099       $a B825.N4 (2ND 099)
+245  00   $a Title 24 newsletter / $c California Building Standards Commission.
+260       $a Sacramento, CA : $b The Commission,
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Quarterly.
+500       $a UCSC PE: LOC IN 920 $l, CALL NUM IN 099 WITH SINGLE $a; OUTPUT 852 $j FROM 1ST 099 (04/02).
+610  20   $a California Building Standards Commission $x Periodicals.
+650   0   $a Building laws $z California $x Periodicals.
+710  20   $a California Building Standards Commission.
+730  00   $a Title twenty four newsletter.
+852       $a SCB $b mgcal $j B825.N4 (1ST 099) $D Currently received $O 1
+901       $a SCB $b 15305090
+
+Record 45
+LDR  01205Qam  22002659a 45  
+005  19960129000000.0
+008  820714s1931    ksu           000 0 eng  
+010       $a gs 31000215
+040       $a DLC $c CarP $d CU-SC
+043       $a n-us-ks $a n-us-mo
+090       $a QE113.A2 no.17
+100  1    $a Sayre, Albert Nelson, $d 1901-
+245  14   $a The fauna of the Drum limestone of Kansas and western Missouri,
+260       $a Lawrence, Kan., $b State geological survey $c [1931]
+300       $a 2 p.l., 75-203 p. incl. xxi pl. $c 23 cm.
+490       $a Kansas. State geological survey. Bulletin 17.
+500       $a Thesis (PH.D.)-University of Chicago, 1928. On cover: Bulletin of the University of Kansas, v. 31, no. 12, June 15, 1930. Reprinted from the University of Kansas.  Science bulletin, v. 19, no. 8, July 1930. Bibliographical foot-notes.
+500       $a UCSC MONO: 4 920 LOCS; 1 BEGIN WITH 'x', 2 IDENTICAL; DROP 'x' LOC AND OUTPUT TWO 852'S (04/02).
+650   0   $a Paleontology $z Kansas.
+650   0   $a Paleontology $z Missouri.
+650   0   $a Paleontology $y Pennsylvanian.
+740  01   $a Drum limestone of Kansas and western Missouri.
+852       $a SCB $b spc $j QE113.A2 no.17
+852       $a SCB $b mform $j QE113.A2 no.17
+901       $a SCB $b 17002163
+
+Record 46
+LDR  00704 as  2200193 a 45  
+005  19960304000000.0
+008  690927s1958                  0   0 eng  
+090       $a PR1.A2
+098       $n ov=.b2286798
+245  00   $a Abstracts of English studies.
+260       $a Boulder, Colo., $b National Council of Teachers of English.
+310       $a 10 no. a year.
+362  0    $a 1-   1958-
+500       $a UCSC PE: 5 850 LOCS; 1 BEGIN WITH 'x', 2 IDENTICAL; DROP 'x' LOC AND OUTPUT THREE 852 FIELDS (04/02).
+710  20   $a National Council of Teachers of English.
+852       $a SCB $b scper $j PR1.A2 $3 1(1968)+ $D Not currently received $O 2
+852       $a SCB $b sstax $j PR1.A2 $3 1(1968)+
+852       $a SCB $b nrlf $j PR1.A2 $3 1(1968)+
+901       $a SCB $b 15071443
+
+Record 47
+LDR  00698 as  2200193 a 45  
+005  19960309000000.0
+008  700729s1969       a          0   0 eng  
+090       $a RM315.A1A4
+098       $n ov=.b2287997
+245  00   $a Advances in biochemical psychopharmacology.
+260       $a New York, $b Raven Press. $c 1969.
+300       $a v. illus.
+500       $a Editors: v.1- E. Costa and P. Greengard.
+500       $a UCSC PE: 3 920 LOCS; TWO BEGIN 'x'; 1 'nrlf'; DROP 'x' LOCS AND OUTPUT 852 FOR  'nrlf' (04/02).
+650   0   $a Neuropsychopharmacology.
+700  10   $a Costa, Erminio, $d 1924-
+700  10   $a Greengard, Paul, $d 1925-
+852       $a SCB $b nrlf $j RM315.A1A4 $3 1-46(1969-1990) $D Not currently received $O 2
+901       $a SCB $b 15072575
+
+Record 48
+LDR  00656 as  2200193 a 45  
+005  19960304000000.0
+008  111771s0000                  0   0 eng00
+090       $a Z674.A4
+098       $n ov=.b2288734
+245  00   $a Advances in librarianship.
+260       $a New York, Academic Press.
+300       $a v. 24cm.
+362       $a v.1- 1970-
+500       $a Editor: v.1- M.J. Voigt.
+500       $a UCSC PE: 3 920 LOCS; 1 BEGIN 'x', 1 'nrlf', OTHER IS 'sref'; OUTPUT 852 FOR 'sref', but not 'nrlf' (04/02)
+650   0   $a Library science $x Periodicals.
+700  10   $a Voigt, Melvin John, $d 1911-
+852       $a SCB $b sref $j Z674.A4 $3 1-30(1959-1986) $D Currently received $O 1
+901       $a SCB $b 15073294
+
+Record 49
+LDR  01053 as  2200253 a 45  
+005  19960301000000.0
+008  780209s1945                  0   0 eng  
+022       $a 0727-8926
+090       $a Z7165.A8A8
+098       $n ov=.b2286476
+245  00   $a APAIS; Australian public affairs information service.
+260       $a Canberra, $b National Library of Australia.
+300       $a v.
+362       $a no.1-    1945-    .
+500       $a UCSC PE: LOCS IN 850S, NO 850 $3, USE 901 $c FOR ORDER/RECEIPT DATA - TRANSLATE 901 $c = "3" TO "On order" & OUTPUT IN 852 $D IN 1ST 852 ONLY; OUTPUT "c" IN 852 $O FOR 1ST 852 ONLY (04/02).
+500       $a "A subject index to current literature."
+650       $a Australia $x Bibliography $x Periodicals.
+650       $a Australia $x Social conditions $x Bibliography.
+650       $a Australia $x Politics and government $x Bibliography.
+710  20   $a National Library of Australia.
+740  0    $a Australian public affairs information service.
+852       $a SCB $b mref $j Z7165.A8A8 $D On order $O 3
+852       $a SCB $b mstax $j Z7165.A8A8 $3 1955+
+901       $a SCB $b 15071212
+
+Record 50
+LDR  01952cms  2200433 a 45  
+005  19970313000000.0
+006  sqx p       0    0
+007  crucnu
+008  951212c19969999mdu        d        eng d
+010       $a sn 95006651
+022  0    $a 1086-3230
+035       $a (OCoLC)33892801
+037       $b Johns Hopkins University Press, P.O. Box 19966, Baltimore, MD 21211 $c $27.00
+040       $a NSD $c NSD $d OCL $d NSD $d GUA $d WAU $d IUL $d CUZ
+042       $a lcd
+049       $a CUZA
+130  0    $a Imagine (Baltimore, Md. : Online)
+222   0   $a Imagine $b (Online)
+245  10   $a Imagine $h [computer file]
+260       $a Baltimore, Md. : $b Johns Hopkins University Press, $c c1996-
+310       $a Five no. a year.
+362  0    $a Vol. 4, no. 1 (Sept./Oct. 1996)-
+500       $a UCSC MRDF: TYPE = "m", BIBLEV = "s", HAS 850 & 920; TREAT AS SERIAL, TAKE LOC FROM 850 (04/02).
+516       $a Text and graphics (electronic journal)
+520       $a "Opportunities and resources for academically talented youth."
+530       $a Also available in a print ed.
+538       $a Mode of access: Internet.  Address for full text: http://muse.jhu.edu/journals/imagine.
+538       $a System requirements: PDF file reader.
+550       $a Published for the Study of Exceptional Talent (SET) at the Johns Hopkins Institute for the Academic Advancement of Youth (IAAY)
+550       $a Digitized and made available by: Project Muse.
+650   0   $a Gifted teenagers $x Education $x Periodicals.
+710  2    $a Johns Hopkins University. $b Study for Exceptional Talent.
+710  2    $a Johns Hopkins University. $b Institute for the Academic Advancement of Youth.
+710  2    $a Project Muse.
+776  1    $t Imagine (Baltimore, Md.) $x 1071-605X $w (DLC)sn 93002086 $w (OCoLC)28689601.
+852       $a SCB $b nnet $3 4(1996)+ via Internet. $D Currently received $O 1
+856  7    $u http://muse.jhu.edu/journals/imagine $2 http $z View full text.
+856  7    $u http://muse.jhu.edu $2 http $z View Project Muse.
+901       $a SCB $b 19239002
+
+Record 51
+LDR  00802 as  2200193 a 45  
+005  19971209000000.0
+008  700902s1958       a          0   0 fre  
+022       $a 0007-9731
+090       $a CB3.C3
+098       $n ov=.b230921x
+245  00   $a Cahiers de civilisation medievale.
+260       $a Poitiers $c 1958.
+300       $a v. illus., facsims. quarterly.
+500       $a UCSC PE: TWO 850S WITH LOC CODES IN $b, ONE 850 HAS $f = '1', THE OTHER $f = '0'; OUTPUT ONE 852 FOR 850 WITH $f = '1' (04/02).
+500       $a 1969-    "Bibliographie" section issued separately.
+650   0   $a Civilization, Medieval $x Periodicals.
+710  20   $a Universitâe de Poitiers. $b Centre d'âetudes supâerieures de civilisation mâediâevale.
+852       $a SCB $b mcper $j CB3.C3 $m Back issues: Stacks. $3 1(1958)+ $D Currently received $O 1
+901       $a SCB $b 15092847
+
+Record 52
+LDR  01250 as  2200265 a 45  
+005  19971208000000.0
+008  830127s1974                  0   0 eng  
+040       $a CUZ $c CUZ
+049       $a CUZA
+090       $a Q183.3.C33U5a
+098       $n ov=.b2431506
+110  2    $a University of California, Santa Cruz.
+245  10   $a Science notes from the University of California, Santa Cruz.
+260       $a Santa Cruz, Calif. : $b Division of Natural Sciences of the University of California, $c [1974-
+300       $a v. : $b ill. ; $c 28-43 cm.
+362  0    $a Vol. 1, no. 1 (June 1974)-
+500       $a UCSC PE: 4 LOCS IN 850 $b; ALL 850 $f'S = '1'; ONE LOC BEGINS WITH 'x'.  OUTPUT 852S FOR ALL EXCEPT 'x' LOC. (04/02).
+500       $a Caption title.
+610  20   $a University of California, Santa Cruz $x Periodicals.
+650   0   $a Science $x Study and teaching (Higher) $z California $z Santa Cruz.
+710  20   $a University of California, Santa Cruz. $b Division of Natural Sciences.
+852       $a SCB $b sparc $j Q183.3.C33U5a $3 1-21(1974-1995) $D Currently received $O 1
+852       $a SCB $b meast $j Q183.3.C33U5a $3 1-22(1974-1996)
+852       $a SCB $b sstax $j Q183.3.C33U5a $3 1-12(1974-1986),  13:1(Summer 1987),  14-18(1988-1992),  19:1(Winter 1993),  20:2(Winter 1994),  21(1995)
+901       $a SCB $b 15208886
+
+Record 53
+LDR  01269 as  2200265 a 45  
+005  19980806000000.0
+008  760817s1941                  0   0 eng  
+022       $a 0002-9246
+090       $a H1.A48
+098       $n ov=.b229333x
+245  00   $a American journal of economics and sociology.
+260       $a New York.
+300       $a v. ill. quarterly.
+362       $a v.1-    Oct. 1941-    .
+500       $a UCSC PE: OUTPUT 852 $D AND $O OF 1ST LOC BASED ON VALUE IN 901 $c; OUTPUT 852 $D'S AND $O'S OF OTHER LOCS BASED ON VALUE IN 850 $3. OUTPUT $O BUT NOT $D FOR 852 WHERE 850 $3 HAS AN UNKNOWN VALUE ("X"). (04/02).
+650       $a Social sciences $x Periodicals.
+852       $a SCB $b mcper $j H1.A48 $m Back issues: Stacks. $3 1(1941)+ $D Currently received $O a
+852       $a SCB $b mgpub $j H1.A48 $3 Oct. 1995- $D Currently received $O 1
+852       $a SCB $b mhres $j H1.A48 $3 Apr. 1993- $D Not currently received $O z
+852       $a SCB $b sstax $j H1.A48 $m Back issues: Stacks. $3 1(1941)+ $D On order $O 3
+852       $a SCB $b merc $j H1.A48 $3 Oct. 1995- $D No longer published $O 4
+852       $a SCB $b cosmo $j H1.A48 $3 Apr. 1993- $D Subscription cancelled $O 5
+852       $a SCB $b scper $j H1.A48 $m Back issues: Stacks. $3 1(1941)+ $D Currently received $O a
+852       $a SCB $b mgcal $j H1.A48 $m Back issues: Stacks. $3 1(1941)+ $O X
+901       $a SCB $b 15077640
+
+Record 54
+LDR  00980pam  2200277 a 45  
+005  19950307000000.0
+008  940419s1994    oncb     b    001 0 eng d
+010       $a cn 94931290
+020       $a 0802029728 (bound) :
+020       $a 0802077420 (pbk.) :
+035       $a (OCoLC)30668015
+040       $a CaOTU $b eng $c NLC $d NGU $d CUZ
+043       $a n-cn-on
+049       $a CUZA
+100  1    $a Henry, Frances, $d 1931-
+260       $a Toronto : $b University of Toronto Press, $c c1994.
+300       $a xv, 297 p. : $b map ; $c 24 cm.
+500       $a UCSC: RECORD HAS NO 245 FIELD, CREATE ERROR FIELD (04/02).
+650   0   $a Blacks $z Ontario $z Toronto Metropolitan Area.
+650   0   $a Blacks $z Caribbean Area.
+650   0   $a Immigrants $z Ontario $z Toronto Metropolitan Area.
+650   0   $a Racism $z Ontario $z Toronto Metropolitan Area.
+651   0   $a Toronto Metropolitan Area (Ont.) $x Race relations.
+852       $a SCB $b mstax
+901       $a SCB $b 18304746
+998       $a SCB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 18304746
+
+Record 55
+LDR  01198nam  2200313Ia 45  
+005  19950314000000.0
+008  950221m19949999mx a     b    000 0 spa d
+020       $a 9688423939 (obra completa)
+020       $a 9688423947 (t. 1)
+035       $a (OCoLC)32026134
+040       $a AZU $c AZU $d CUZ
+043       $a n-mx---
+049       $a CUZA
+090       $a F1219 $b .H658 1994
+245  00   $a Historia antigua de Mâexico / $c coordinadores, Linda Manzanilla y Leonardo Lâopez Lujâan.
+250       $a 1. ed.
+260       $a Mâexico, D.F. : $b Consejo Nacional para la Cultura y las Artes : $b Universidad Nacional Autâonoma de Mâexico : $b M.A. Porrâua, Grupo Editorial, $c 1994-
+300       $a v. : $b ill. ; $c 23 cm.
+500       $a UCSC: UNKNOWN LOCATION CODE - CREATE ERROR FIELD (04/02).
+650   0   $a Indians of Mexico $x History.
+651   0   $a Mexico $x History $y To 1519.
+650   0   $a Indians of Mexico $x Antiquities.
+651   0   $a Mexico $x Antiquities.
+700  10   $a Manzanilla, Linda.
+700  20   $a Lâopez Lujâan, Leonardo.
+852       $a SCB $b mstax $h F1219 $i .H658 1994
+852       $a SCB $b XXXX $h F1219 $i .H658 1994
+901       $a SCB $b 18319385
+998       $a SCB $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 18319385
+
+Record 56
+LDR  01011dam  22002658a 45  
+005  19941204000000.0
+008  890331s1990    nyu      b    001 0 eng  
+010       $a 89032818
+020       $a 0195058518
+035       $a 009959575
+035       $a (OCoLC)19627069
+040       $a DLC $c DLC $d CU-SC
+090       $a HD9502.A2K375 1990
+100  1    $a Kapstein, Ethan B.
+245  14   $a The insecure alliance : $b energy crises and western politics since 1944 / $c Ethan B. Kapstein.
+260       $a New York : $b Oxford University Press, $c 1990.
+263       $a 9001.
+300       $a xi, 257 p. ; $c 22 cm.
+500       $a "Written under the auspices of the Center for International Affairs, Harvard University."
+500       $a UCSC: DELETE REC (901 $c = 'd') HAS NO LOCS - DO NOT OUTPUT ERROR FIELD (02/06).
+504       $a Bibliography: p. [235]-246.
+650   0   $a Energy industries $x Political aspects $x History $y 20th century.
+650   0   $a World politics $y 1945-
+710  20   $a Harvard University. $b Center for International Affairs.
+901       $a SCB $b 11500153
+
+Record 57
+LDR  00902nmb  2200217   45  
+005  19950320000000.0
+008  690928s192        ab         00000 eng  
+086       $a I 28.27:
+090       $g FICHE $a TN295.U4
+098       $n ov=.b2435019
+110       $a United States. Bureau of Mines.
+245  00   $a Information circular.
+260  0    $a Washington, U.S. Dept. of the Interior, $b Bureau of Mines.
+300       $a v     illus., maps.
+362       $a 1-; 192 -
+500       $a UCSC MRDF: TYPE = "m", BIBLEV = "b", HAS 850 & 920; OUTPUT AS SERIAL, TAKE LOC FROM 850 (04/02).
+650   0   $a Mines and mineral resources $x Collected works.
+650       $a Mines and mineral resources $z United States $x Collected works.
+852       $a SCB $b sstax $j TN295.U4 $m Some earlier issues in printed format. $3 6111+ (scattered holdings) $D Currently received $O 1
+856  7    $u http://muse.jhu.edu/journals/imagine $2 http $z View full text.
+901       $a SCB $b 17528331
+
+Record 58
+LDR  01902nai  2200433 a 4500
+005  20060510000000.0
+007  cr unu--------
+008  750806c19609999ilumr1p       0   a0eng d
+010       $a 61066291  $z sc 77000242
+022  0    $a 0003-9942
+030       $a ARNEAS
+032       $a 029680 $b USPS
+035       $a (OCoLC)1513880
+040       $a MUL $c MUL $d NSD $d DLC $d NSD $d DLC $d SER $d AIP $d HUL $d NSD $d NST $d MYG $d CAS $d NST $d EBZ $d NST $d IUL $d MYG $d EYM $d SYS $d OCL $d NSD $d NLM $d OCLCQ
+042       $a nsdp $a lc
+050  00   $a RC321 $b .A67
+060  00   $a W1 $b AR455E
+082  10   $a 616 $2 11
+091       $a RC321 $b .A67
+210  0    $a Arch. neurol. $b (Chic.)
+222   0   $a Archives of neurology $b (Chicago)
+245  00   $a Archives of neurology
+260       $a [Chicago, $b American Medical Association]
+300       $a v. $b ill. $c 26 cm
+310       $a Monthly
+362  0    $a v. 3- July 1960-
+500       $a UCSC PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+650   0   $a Neurology $v Periodicals
+650   2   $a Neurology $v Periodicals
+793  0    $a Open access resource; selected by the UC Libraries. $p AMA archives online journals. $g m
+852       $a SCB $b nnet $h RC321 $i .A67 $O -
+852       $a SCB $b scper $h RC321 $i .A67 $m Back issues: Stacks. $3 1-15(1959-1966),  16:4-6(Apr.-June 1967),  17(July 1967)- $D Currently received $O 1
+856  41   $3 v.55(1998)- $z AMA via HighWire. Current 12 months restricted to subscribers; all other issues freely available by registration $u http://uclibs.org/PID/4146
+856  48   $3 v.55(1998)- $z Access restrictions may apply $n AMERICAN_MEDICAL_ASSOCIATION $u http://library.ucsc.edu/science/protect/archneur.html $x via print sub
+891  12   $9 853 $8 1 $a v. $b no. $u 06 $v r $i (year) $j (month) $w m $x 01,07
+891  40   $9 863 $8 1 $a <3>- $i <1960>- $x provisional
+891  12   $9 853 $8 2 $a v. $b no. $u 12 $v r $i (year) $j (month) $w x $x 01
+891  40   $9 863 $8 2 $a <32>- $i <1975>- $x provisional
+901       $a SCB $b 15082970
+
+Record 59
+LDR  01617cmi  2200421 a 4500
+005  20060510000000.0
+007  cr unu--------
+008  821129c19839999dcubr1p       0   a0eng d
+010       $a 83644089  $z sn 82007815
+022  0    $a 0735-7044
+030       $a BENEDJ
+032       $a 279160 $b USPS
+035       $a (SFXObjID)954925536094
+035       $a (OCoLC)8998034
+037       $b Subscription Section, APA, 1400 N. Uhle St., Arlington, Va. 22201
+040       $a NSD $c NSD $d IUL $d IXA $d SMC $d NST $d RCS $d DLC $d NST $d DLC $d AIP $d DLC $d AIP $d NST $d AIP $d NSD $d AIP $d NST $d AIP $d NST $d AIP $d NST $d CAS $d NST $d NSD $d OCL $d SYS $d NLM $d OCLCQ
+041  0    $a eng $b eng
+042       $a lc $a nsdp
+060  00   $a W1 $b BE13M
+082  0    $a 152 $2 19
+090       $a QL750.B55
+091       $a BF1 $b .B39
+210  0    $a Behav. neurosci
+222   0   $a Behavioral neuroscience
+245  00   $a Behavioral neuroscience
+260       $a Washington, D.C. : $b American Psychological Association, $c [c1983-
+300       $a v. : $b ill. ; $c 26 cm
+310       $a Bimonthly
+362  0    $a Vol. 97, no. 1 (Feb. 1983)-
+500       $a UCSC PE: INTEGRATING RESOURCE - TYPE = 'm', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+650   0   $a Psychology, Comparative $v Periodicals
+793  0    $a PsycARTICLES online journals. $g a
+852       $a SCB $b nnet $j QL750.B55 $O -
+852       $a SCB $b scper $j QL750.B55 $m Back issues: Stacks. $3 97(1983)- $D Currently received $O 1
+856  41   $3 v.99(1985)- $z PsycARTICLES. Restricted to UC campuses $u http://uclibs.org/PID/36876
+891  12   $9 853 $8 1 $a v. $b no. $u 06 $v r $i (year) $j (month) $w b $x 02
+891  40   $9 863 $8 1 $a <97>- $i <1983>- $x provisional
+901       $a SCB $b 15086823
+
+Record 60
+LDR  01140nam  2200301Ia 4500
+005  20050831000000.0
+006  m        u        
+007  cr cn|||||||||
+008  980817s2001    cau     s     001 0 eng d
+010       $z 98041359
+035       $a ebr10014752
+040       $a CaPaEBR $c CaPaEBR
+091       $a HF5415 $b .E677 2001eb
+100  1    $a Lesonsky, Rieva
+245  10   $a Entrepreneur magazine's 103 start-up marketing tips $h [electronic resource] / $c by Rieva Lesonsky
+260       $a Irvine, CA : $b Entreprenuer Media, $c 2001
+300       $a xxii, 126 p
+500       $a UCSC: OUTPUT 035 AS IS (02/06).
+533       $a Electronic reproduction. $b Palo Alto, Calif. : $c ebrary, $d 2005. $n Available via World Wide Web. $n Access may be limited to ebrary affiliated libraries
+650   0   $a Marketing
+650   0   $a Marketing $x Management
+650   0   $a Consumer behavior
+655   7   $a Electronic books. $2 local
+710  2    $a ebrary, Inc
+730  0    $a Entrepreneur (Santa Monica, Calif.)
+852       $a SCB $b nnet
+856  40   $u http://site.ebrary.com/lib/ucsc/Doc?id=10014752 $z An electronic book accessible through the World Wide Web; click to view
+901       $a SCB $b 24344643
+

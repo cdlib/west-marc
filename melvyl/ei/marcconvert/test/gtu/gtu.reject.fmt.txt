@@ -1,0 +1,102 @@
+Record 1
+LDR  00761cam  2200229 i 45  
+005  19920401000000.0
+008  800310s1979    nyua     b    00100 eng  
+010       $a 78027224
+020       $a 0306401029
+035       $a 14500795-B
+040       $d CBGTU
+245  00   $a Mind/body integration : $b essential readings in biofeedback / $c edited by Erik Peper, Sonia Ancoli, and Michele Quinn.
+260  0    $a New York : $b Plenum Press, $c c1979.
+300       $a xx, 586 p. : $b ill. ; $c 26 cm.
+500       $a GTU: NO LOCATION IN 1ST 920, IGNORE 2ND 920. NO 852 OUTPUT - REJECT (07/06).
+650   0   $a Biofeedback training.
+650   0   $a Psychotherapy.
+650   0   $a Medicine, Psychosomatic.
+700  10   $a Peper, Erik.
+700  10   $a Ancoli, Sonia.
+700  10   $a Quinn, Michele.
+901       $a GTB $b 1150025
+
+Record 2
+LDR  00822cas  2200205   45  
+005  19930104000000.0
+008  800703c19659999caumx p       0  0a0eng d
+035       $a 037-S
+040       $a CBGTU $c CBGTU
+245  00   $a Evangelion.
+260  01   $a Berkeley, Calif. : $b Community Association, Pacific School of Religion, $c 1965-
+265       $a Community Association, Pacific School of Religion, 1798 Scenic Ave., Berkeley, Calif. 94709.
+300       $a v. in   : $b ill. ; $c 29 cm.
+310       $a Irregular monthly, except July-Sept.
+362  0    $a Vol. 1, no. 1 (Nov. 1965)-
+500       $a GTU: NO 920 IN RECORD, NO 852 OUTPUT, REJECT (07/06).
+610  20   $a Pacific School of Religion (Berkeley, Calif.) $x Periodicals.
+710  20   $a Pacific School of Religion (Berkeley, Calif.). $b Community Association.
+780  02   $t i.e. (Berkeley)
+901       $a GTB $b 1155308
+
+Record 3
+LDR  00839cas  2200277 a 45  
+001  086-S
+005  19910823000000.0
+008  800808d19uu1973enkar p       0 uua0engüd
+040       $a CBGTU $c CBGTU
+110  2    $a Alcuin Club.
+245  10   $a Report.
+260  00   $a [London : $b The Club, $c 19--]-1973.
+300       $a v. ; $c 22 cm.
+362  0    $a [19--]-1972/73.
+500       $a GTU: NO 901 FLD, CAN'T DETERMINE SOURCE - REJECT (04/02).
+650   0   $a Liturgics $x Church of England $x Periodicals.
+700  11   $a Wand, J. W. C. $q (John William Charles), $d 1885- . $t Anglican eucharistic theology in the twentieth century.
+785  00   $a Alcuin Club. $t Alcuin.
+902       $a 921125
+920       $a BX5141.A1 $b A55 $l gtu
+920       $u 1972/73
+920       $u 1971/72
+920       $u 1970/71
+950       $b GTU has 1970/71-1972/73
+998       $s 9116
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 4
+LDR  00579nam  2200181 i 45  
+005  19920326000000.0
+008  890609s1975    gw       b    00000 ger  
+010       $a 75516418
+020       $a 3791704222 :
+035       $a 89-B3302
+040       $d CBGTU
+245  00   $a Aktualitèat der Scholastik? / $c mit Beitr. von H. M. Barth ... [et al.] ; hrsg. von Joseph Ratzinger.
+260  0    $a Regensburg : $b Pustet, $c 1975.
+300       $a 127 p. ; $c 21 cm.
+500       $a GTU: RECORD HAS LOC "gts" ONLY - NO 852 CREATED, REJECT (07/06.
+650   0   $a Scholasticism.
+700  10   $a Ratzinger, Joseph.
+901       $a GTB $b 1000003
+
+Record 5
+LDR  01148nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU: NO RECORD ID NUMBER IN 901 $a - REJECT (07/02).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb $b gtu   $c -
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+

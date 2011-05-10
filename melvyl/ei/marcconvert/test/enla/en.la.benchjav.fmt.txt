@@ -1,0 +1,1211 @@
+Record 1
+LDR  00690cas a2200229 a 4500
+001  3806866
+003  CLU
+005  20040311130725.0
+008  750514c19609999caumx1p       0   a0eng d
+245  04   $a The Alien behavioral scientist.
+260       $a Princeton, N.J. : $b A. De Grazia, $c c1960-
+300       $a v. : $b ill ; $c 23-28 cm.
+500       $a UCLA GEN PE: RECORD HAS NO 009 FIELD. REJECT FOR NO 009 FIELD.
+500       $a TEST REC 1 *****
+655   7   $a Online resources. $2 local
+780  00   $t Political research, organization and design $w (DLC)   86655223 $w (OCoLC)10002746
+001  5548677
+003  CLU
+004  3806866
+005  20030912101538.0
+008  9907251u    0   0   au    990725
+852       $a CLU $b sr
+
+Record 2
+LDR  00952cas a2200253i  4500
+001  3295
+003  CLU
+005  20040311131937.0
+008  750726c18679999ilumr1p      u0   a0enged
+245  04   $a The American un-naturalist.
+260       $a Chicago, Ill. [etc.] $b Published for the American Society of UnNaturalists by the University of Chicago Press [etc.]
+300       $a v. $b ill. $c 27 cm.
+500       $a UCLA GEN PE: RECORD HAS NO 852 IN HOLDING SEGMENT. REJECT FOR NO OUTPUT 852.
+500       $a TEST REC 2 *****
+650   0   $a Un-natural history $x Periodicals.
+710  2    $a American Society of Un-naturalists.
+009  00606ny  a22001933i 4500
+001  5650745
+003  CLU
+004  3295
+005  20031120131708.0
+008  9907254p    8   0   au    990725
+866   0   $a B116-156(1980-00)
+867       $a SUPPS: B130(1987)B131(1988)B137(1991)B139(1992)B140(1992)B142(1993)B144(1994)B148(1996)B150(1997)B153(1999)B154(1999)B154NJULY(1999)B154NOCT(1999)B156NOCT(2000)
+
+Record 3
+LDR  00866nem a2200277I  4500
+001  2357971
+003  CLU
+005  20001201085651.0
+008  820809s1968    fr        a     0   fre  
+245  10   $a Treasure map
+260       $a [Paris] $b Association of African Geological Surveys, Unesco, $c 1968.
+300       $a col. map $c 182 x 181 cm. on 9 sheets 68 x 101 cm. or smaller.
+500       $a UCLA GEN MAP: RECORD HAS 2 HOL SEGS. EACH HAS 1 852 WITH NO  $b . REJECT FOR NO OUTPUT 852 FIELDS.
+500       $a TEST REC 3 *****
+507       $a Scale 1:5,000,000.
+650   0   $a Geology $z Africa $x Maps.
+009  00379nx  a22001571i 4500
+001  2722389
+003  CLU
+004  2357971
+852  0    $a CLU $h G8201.C5 1968 $i .M6 $z Sheets in H1-2. Text in FC28b-c.
+009  00317nv**a22001333n 4500
+001  5892575
+003  CLU
+004  2357971
+852  0    $a CLU $h G8201s.C55 5M $i Unesco/ASGA 1968
+
+Record 4
+LDR  00765ncm a2200277Ia 4500
+001  4616593
+005  20011208120715.0
+008  010601s2001    wiumua         n    eng d
+020       $a 063403023X
+110  2    $a Beatles.
+240  10   $a Songs. $k Selections
+245  10   $a 1 : $b piano, vocal, guitar / $c The Beatles.
+246  3    $a One
+260       $a Milwaukee, WI : $b H. Leonard Corp., $c [2001?].
+300       $a 1 score (109 p.) ; $c 31 cm.
+500       $a UCLA GEN MUSIC: BIB SEGMENT LACKS 003 FIELD: REJECT
+500       $a TEST REC 4 *****
+650   0   $a Rock music $y 1961-1970.
+009  00273nx. a22001331i.4500
+001  6196955
+003  CLU
+004  4616593
+005  20020215163127.0
+007  t
+008  0112080u    0   0   uueng 011208
+852  0    $a CLU $b mu $h M1741.18.B36 $i S6 2001
+
+Record 5
+LDR  00718nim a2200229i  4500
+001  463252
+003  CLU-BLOTZ
+005  19950807153920.0
+007  sd|bsmenn|||ue      
+008  800709s1961    pau  n         l    eng d
+245  00   $a Actual speeches of Franklin D. Roosevelt and John F. Kennedy. $h Sound recording $c Franklin D. Roosevelt, John F. Kennedy.
+262       $a Media, PA, $b Miller International, $c P-16100. $d 1961?
+305       $a 1 disc. $b 33-1/3 rpm. stereo. $c 12 in.
+500       $a UCLA:  003 IN BIB SEGMENT IS INVALID: REJECT
+500       $a TEST REC 5 *****
+009  00257nx  a22001331i 4500
+001  24523
+003  CLU
+004  463252
+007  sd-bsmenn---ue
+008  9808210u    8   4   aueng 980821
+852       $a CLU $b sr
+
+Record 6
+LDR  00901cjm a2200265Ia 4500
+003  CLU
+005  20020913203033.0
+007  sd fungnn|||ee
+008  910517p19901941dcusgn   abdfi      eng d
+010       $a    91741910
+099       $a CDA 13496
+100  1    $a Hill, Joe, $d 1879-1915.
+245  10   $a Don't mourn--organize! $h [sound recording] : $b songs of labor songwriter Joe Hill.
+260       $a Washington, DC : $b Smithsonian/Folkways ; $a Cambridge, Mass. : $b Nationally distributed by Rounder, $c p1990.
+300       $a 1 sound disc : $b digital ; $c 4 3/4 in.
+500       $a UCLA: BIB SEGMENT LACKS 001. REJECT.
+500       $a TEST REC 6 *****
+650   0   $a Working class $z United States $v Songs and music.
+600  10   $a Hill, Joe, $d 1879-1915 $v Songs and music.
+650   0   $a Protest songs $z United States.
+009  00281nx. a22001331i.4500
+001  6416319
+003  CLU
+004  4672694
+852  4    $a CLU $b muclsdsdr $j CDA 13496
+
+Record 7
+LDR  00974ngm a2200313Ka 4500
+001  4512224
+003  CLU
+005  17760704000000.0
+007  vf cbaho               
+008  000923s1992                      v fre u
+035       $9 07-ASA-7291
+245  00   $a Afrique, je te plumerai $h [videorecording] : $b (Africa, I will fleece you) / $c Jean-Marie Teno.
+260       $b California Newsreel [distributor], $c 1992.
+300       $a 1 videocassette (VHS) (88 min.) : $b sd., col. ; $c 1/2 in.
+500       $a UCLA GEN: DROP INCOMING 005 AND SUBSTITUTE CONFIG VALUE.
+500       $a OUT 856 FIELDS AFTER ALL 852s.
+500       $a TEST REC 7 *****
+650   0   $a Imperialism.
+651   0   $a Cameroon.
+856   0   $a First 856
+935       $a IM0007404
+856   0   $a Second 856
+009  00526nx**a22001691n 4500
+001  5853345
+003  CLU
+004  4512224
+008  0009232p    8   1000abfre0970901
+852  0    $a CLU $b mg $j VC14784
+866       $a 1 videocassette (VHS) (88 min) : sd., col. ; 1/2 in.
+
+Record 8
+LDR  01479cgm a2200529Ka 4500
+001  4857417
+003  CLU
+005  20030423203046.0
+007  vd cgaizu
+008  000509p20001945cau140            vleng d
+035       $a (OCoLC)44009587
+035       $9 07-ATV-1392
+040       $a GZD $c GZD $d CLU
+020       $a 0790744430
+024  1    $a 012569507029
+028  40   $a 65070 $b Warner Home Video/DVD Video
+092       $a 791.4372
+099       $a DVD 158
+049       $a CLUV $o MUSCLSD [MUSCLSD-MULTIMED] $l L0080930803
+245  00   $a Anchors aweigh $h [videorecording] / $c a Metro-Goldwyn-Mayer Picture.
+250       $a Standard version.
+260       $a Burbank, Calif. : $b Warner Home Video, $c 2000.
+300       $a 1 videodisc (140 min.) : $b sd., col. ; $c 3 3/4 in.
+500       $a UCLA GEN: DROP 9XX FROM BIB SEGMENT
+500       $a DROP ALL FIELDS FROM HOL SEGMENT (OUTPUT SOME TO NEW 852)
+500       $a TEST REC 8 *****
+650   0   $a Video recordings for the hearing impaired.
+700  1    $a Sidney, George, $d 1911-
+710  2    $a Metro-Goldwyn-Mayer.
+910       $a Drop 1
+922       $a Drop 2
+935       $a Drop 3
+999       $a Drop 4
+009  00273nx. a22001331i.4500
+001  6624045
+003  CLU
+004  4857417
+005  20030521120700.0
+007  vd cgaizu
+008  0304230u    0   0   uueng 030423
+014  1    $a 07-ATV-1392
+014  0    $9 08-BBJ-9272
+852  4    $a CLU $b muclsdmm $j DVD 158
+910       $a Drop 5
+922       $a Drop 6
+935       $a Drop 7
+999       $a Drop 8
+
+Record 9
+LDR  01423cem a2200469Ia 4500
+001  3709641
+003  CLU
+005  20020731063131.0
+006  m        m f      
+007  co cg|
+008  920327m19911993vau       z  fs 0   eng d
+035       $a (OCoLC)25541363
+035       $9 07-ANK-0562
+040       $a GPO $c GPO $d MNM $d OCL $d OCLCQ $d CLU
+034  1    $a a $b 100000
+052       $a 3701
+074       $a 0621-J
+086  0    $a I 19.120:D 56/AREA 1-14/OPTION.
+090       $a G3701.P1 $b s100, G46
+049       $a CLUG
+110  2    $a Geological Survey (U.S.)
+245  10   $a Map leading to Godzilla's undersea home
+250       $a US GeoData optional format.
+255       $a Scale: 1:100,000
+260       $a Reston, VA : $b U.S. Dept. of the Interior, U.S. Geological Survey, $c 1991-1993.
+300       $a 14 computer optical discs : $b col. ; $c 4 3/4 in.
+500       $a UCLA GEN: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAGE;  901 sub/b=3709641
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAGE; 
+500       $a TEST REC 9 *****
+650   0   $a Monster hideouts $v Maps.
+655   7   $a CD-ROMs. $2 lcsh
+710  2    $a Geological Survey (U.S.). $b National Mapping Division.
+910       $a 29 Jul 2002 ss
+935       $a IP1239264
+009  00273nx. a22001331i.4500
+001  6624045
+003  CLU
+004  4857417
+005  20030521120700.0
+007  vd cgaizu
+008  0304230u    0   0   uueng 030423
+852  4    $a CLU $b biper $j Box 99
+
+Record 10
+LDR  00954nam a22003255  4500
+001  8
+003  CLU-ETH
+008                 us                  eng  
+028  02   $a 308A $b Indian Records, Inc.
+035       $9 01-AAA-0007
+245  00   $a 16 Northern Cheyenne Pow Wow Songs $h sound recording
+260       $a Fay, Oklahoma : $b Indian Records, $c 19--?
+500       $a UCLA EMA: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAEM;  901 sub/b=8
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAEM; 
+500       $a TEST REC 10 *****
+690   0   $a Indians of North America.
+690   0   $a Cheyenne Indians.
+935       $a ET4266430
+009  00344nx  a22001571n 4500
+001  7
+003  CLU-ETH
+004  8
+007  s
+008  9809070u    0   4   uueng 980907
+014  1    $a 01-AAA-0007
+014  0    $9 02-AAA-0006
+852  0    $a CLU-ETH $b etstx $h ARC172 $i .vol. 1-2 $x In process $z Two copies.
+935       $a ET4266430
+905       $c SB 9
+920       $a ARC 172 vol. 1-2
+
+Record 11
+LDR  01040ngm a22002651i 4500
+001  9999
+003  CLU-FT
+005  20030910151407.0
+008        s1955    xxu                 eng d
+245  00   $a Mothra rules / $c RKO Radio
+260       $c 1955.
+500       $a UCLA FTV: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAFT;  901 sub/b=6597
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAFT; 
+500       $a TEST REC 11 *****
+650   0   $a Monsters $v Drama.
+655   7   $a Features. $2 mim
+009  01471nx  a22002532i 4500
+001  10643
+003  CLU-FT
+004  9999
+005  20001103111910.0
+007  vf|cbahom
+008  9907252f    8   1   bb   0990725
+852  4    $a CLU-FT $b ftarsc $j VA1834 M
+866   0   $a 1 videocassette of 1 (VHS) (87 min.) : sd., col. ; 1/2 in. $z AVAILABILITY: Study copy. Available for onsite viewing only. $z PRESERVATION: Stage 3 preservation. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+
+Record 12
+LDR  02702nmm a2200625ia 4500
+001  4306875
+003  CLU
+005  20030412182130.0
+008  990624s1998    fr         u        fre d
+245  00   $a Mothra learns PL/I in France.
+250       $a [Nouvelle version] CD-ROM PC/Mac.
+260       $a [Paris] : $b Havas Interactive, $c c1998.
+300       $a 1 computer optical disc : $b sd., col. ; $c 4 3/4 in. + $e 1 guide (inserted in jewel case).
+500       $a UCLA GEN: CHECK THAT 852 SUBFIELD OUTPUT FROM 852 INPUT MATCHES SPEC
+500       $a TEST REC 12 *****
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU-drop $a CLMP-drop $b arsc $b roo-drop $c Collie $c Calf $e Ermine $e EEK $e Elf  $3 v.111 $z Zhol1**
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $z Zhol2**: Don't output this 852; has no sub/b $3 v.222
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b biper $f Frog $f Fawn $g Godzilla $g Goat $j Jellyfish Coll $j Jetsam-drop $j Jellybean-drop  $z Zhol3** $3 v.333
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b cars $h Halogen $h Hydrogen-drop $i Icythyosaur $i Inchworm $3 v.444 $z Zhol4**
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b eanews $j Juggernaut Coll $k Kangaroo Rat $k Kidney $k Kingfisher $l Luna Moth  $l Luna Tic-drop $z Zhol5** $3 v.555 $x Xray-drop
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b idcoll $j JuneBug $m Mosquito $m Mermaid $3 v.666 $z Zhol6** $m Mulligatawny  $z Zanza $x Xtra-drop
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b lwsc $n Nutshell $q Quacker $n Nomad-drop $p PrarieDog $q Quail-drop $p Pumpkin-drop  $3 v.777 $z Zhol7**
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b mg $h DC39 $i .A2 1998 $s Scarlet $t Taffeta $s Silk $t Twill-drop $s Satin $4 v.888  $z Zhol888**
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b scav $x Xenon-drop $z Zorro $x Xhosa-drop $z Zhol9 $3 v.999
+009  00294nx  a22001451n 4500
+003  CLU
+004  4306875
+852  0    $a CLU $b ueefolk $a Aquamarine-drop $b Bloodstone-drop $e Emerald $c Citrine $e Earthfire  $d Diamond-drop $c Coral $f Fire Agate $g Garnet $f Fools Gold $g Grenadine $h Heliotrope  $h Hematite-drop $i Iolite $j Jade $k Kyanite $i Indian Star Ruby $k Keraline $j Jade-drop  $l Lapis Lazuli $l Lemon Jade-drop $n Nephrite $m Moonstone $n Neon-drop $m Malachite $o Opal-drop  $p Peridot $p Pearl-drop $f Feldspar $q Quartz $q Quarrelstone-drop $s Sardonyx $r Ruby-drop  $s Sea Jasper $t Topaz $u Unikite-drop $t Turquoise-drop $w WildHorse Jasper-drop $x Xahna-drop  $y Yellow Quartz-drop $z Zircon $z Zoisite $z Zhol10 $3 v.101010
+
+Record 13
+LDR  02315nas a2200493 a 4500
+001  4978
+003  CLU
+005  19990821194834.0
+008  980402c19uu9999azuuu         0    0eng d
+010       $a sn 98017887 
+130  0    $a Art life (Central and Northern Arizona ed.)
+245  00   $a Art life.
+246  13   $a Art life Arizona
+250       $a Central and Northern Arizona ed.
+260       $a Tucson, AZ : $b The Stanbery Corp.,
+300       $a v. : $b ill. ; $c 23 x 10 cm.
+500       $a UCLA GEN: DO NOT OUTPUT sub/x SUBFIELDS FROM 852,866,867,868, BUT DO OUTPUT sub/z and sub/3 from those fields.
+500       $a PUT LABEL SUPPLEMENTS IN FRONT OF sub/a FROM 867s; PUT LABEL INDEXES IN FRONT OF sub/a FROM 868s.
+500       $a TEST REC 13 *****
+650   0   $a Art museums $z Arizona $x Directories.
+009  0327ny  a22001573i 4500
+001  4495967
+003  CLU
+004  4978
+005  20010430162351.0
+008  9808131u    0   0   aueng 980813
+852  0    $a CLU $b arsc $h N511.A7 $i A78 $x Drop this note from the 852. $z Output this note from 852.  $x Drop this second note from the 852 $3 v.90-95 $3 Drop this 2nd sub/3 from the 852.
+866       $a v.99-102 $x Apple:Drop this note from the 866 $z Banana:Output this note from the 866
+867       $a v.95A,97A $x Apricot:Drop this note from the 867 $z Kiwi:Output this note from the 867
+867       $a v.99B $x Orange:Drop this note from the 2nd 867 $z Plum:Output this note from the 2nd 867
+868       $a v.1-100 $x Grape:Drop this note from the 868 $z Fig:Output this note from the 868
+009  00183nx  a22000974  4500
+001  6869983
+003  CLU
+004  4978
+005  20040213172458.0
+008  0402130p    8   1001uu   0000000
+852  0    $a CLU $b yrpe $k Oversize $m Latest in secret alcove $x Drop1 from 852 $x Drop2 from 852
+866       $a v.2-17 $x Cuke:Drop from first 866 $z Radish:Output from first 866
+866       $a v.18-80 $x Parsnip:Drop from 2nd 866 $z Turnip:Output from 2nd 866
+866       $a v.81-88 $x Beet:Drop from 3rd 866 $z Carrot:Output from 3rd 866  $z Bean:Output2 from 3rd 866
+867       $a v.77A $x Lentil:Drop from the 867 $z Pea:Output from the 867 $z Broccoli:Output2 from 867
+868       $a v.1-100 $x Cabbage:Drop from 868 $z Rutabaga:Outputfrom 868
+868       $a v.101-200 $x Zucchini:Drop from 2nd 868 $z Yam:Outputfrom 2nd 868  $x Kale:Drop2 from 2nd 868 $z Endive:Output2 from 2nd 868
+
+Record 14
+LDR  02507nas a2200649   4500
+001  17423
+003  CLU
+008  750824c19619999ne mrzp       0   a0eng d
+010       $a sf 80000094 $z sn 80008490
+022  0    $a 0014-3138
+035       $a (OCoLC)01568475
+035       $9 07-AOS-3114
+042       $a lc $a nsdp
+043       $a e------
+049       $a CLUL
+050  00   $a LAW
+050  14   $a KJC7101.3 $b .E97
+210  0    $a Euro. tax.
+222   0   $a European taxation
+245  00   $a European taxation.
+246  10   $a ET : European taxation. $f <1997>-
+260       $a [Amsterdam, $b International Bureau of Fiscal Documentation]
+300       $a v. $c 28 cm.
+310       $a Monthly $b <, May 1973->
+321       $a Biweekly, $b Jan. 1961-
+362  0    $a v. 1-   Jan. 15th, 1961-
+500       $a UCLA GEN: BIB RECORD LACKS 005; CREATE ONE FROM CONFIG FILE DATE
+500       $a TEST REC 14 *****
+510  2    $a Public Affairs Information Service bulletin $x 0033-3409
+525       $a Kept up to date by loose-leaf entitled: Supplementary service to European taxation.
+650   0   $a Taxation $x Law and legislation $z Europe $v Periodicals.
+710  2    $a International Bureau of Fiscal Documentation.
+730  0    $a Supplementary service to European taxation.
+935       $a TC0024008 $b TC0024183 $c ABZ-1300
+910       $a bes 20000810
+936       $a Unknown $a May 1973 (surrogate)
+009  00980ny  a22001813i 4500
+001  5536424
+003  CLU
+004  17423
+005  18881114152902.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOS-3114
+014  0    $9 08-AWW-7748
+852  0    $a CLU $b lw $h KJC7101.3 $i .E97
+866       $a B1-42(1961-2002)U43N1-10(2003) $x Record annual index in 868x & give to bindery assistant ** $z Cumulative indexes are bound with the last volume covered.  Annual indexes are bound with volumes after volume 11. ** Do not retain binders for issues.
+867   0   $a SUPPLEMENTARY SERVICE:U(1963-2002)UN1-10(2003) $x Collapse holdings, keeping current year separate ** L-L - send to filers.
+867   0   $a SECTION E (SUPPLEMENTARY SERVICE):B(1963-66).B(1968-71).B(1976-81).B(1986-92) $z 1967 out of print.  Loose-leaf with older supplementary material bound.
+868       $a CUMULATIVE INDEXES:B1-2(1961-62)B3-4(1963-64)B5-6(1965-66)B7-8(1967-68)B9-10(1969-70) $x BINDERY INDEXES:U(2002)
+935       $a TC0024008 $b TC0024183
+009  00181nx  a22000974  4500
+001  6832877
+003  CLU
+004  17423
+005  18880213150819.0
+008  0402130p    8   1001uu   0000000
+852  0    $a CLU $b lwsc
+
+Record 15
+LDR  01709nXZ a2200565 a 4500
+001  52269
+003  CLU
+005  19840922125336.0
+008  830803s1983    nyu      b     01 0 eng  
+010       $a    83072214 
+020       $a 0872623750 (pbk.)
+035       $a (OCoLC)09829991
+035       $9 07-AAI-4646
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CLU
+050  0    $a TH4581 $b .A427 1983
+082  0    $a 621.48/35$219
+110  2    $a American Society of Civil Engineers.
+260       $a New York, N.Y. : $b American Society of Civil Engineers, $c c1983.
+300       $a xi, 23 p. ; $c 23 cm.
+500       $a UCLA GEN: NONDELETE REC HAS NO 245, UNKNOWN LOC, INVALID TYPE, & INVALID BIBLEVEL; CREATE 4 998 FIELDS; WRITE TO ERROR FILE; WRITE TO OUTPUT FILE
+500       $a TEST REC 15 *****
+500       $a On cover: ASCE standard.
+504       $a Includes bibliographical references and index.
+650   0   $a Nuclear power plants $x Design and construction.
+650   0   $a Civil engineering.
+650   0   $a Earthwork.
+740  01   $a N725 guideline for design and analysis of nuclear safety related earth structures.
+740  01   $a ASCE standard.
+910       $a 21 Sept 84 jk
+935       $a MC2445209 $b SR0381366
+009  00264nx  a22001331i 4500
+001  108718
+003  CLU
+004  52269
+007  t
+008  9808210u    8   4   aueng 980821
+014  1    $a 07-AAI-4646
+014  0    $9 08-AAK-9980
+852  0    $a CLU $b badbadLocation $h TH4581 $i .A426 1983
+935       $a MC2445209
+009  00231nx  a22001211i 4500
+001  4954714
+003  CLU
+004  52269
+008  9809020u    8   4   aueng 980902
+014  1    $a 07-AAI-4646
+014  0    $9 08-AUO-3573
+852       $a CLU $b sr
+935       $a SR0381366
+
+Record 16
+LDR  01647dQP a2200613   4500
+001  54758
+003  CLU
+005  19870725081402.0
+008  730131s1972    inu      b     00 0 eng  
+010       $a    72090559 
+035       $a (OCoLC)00578230
+035       $9 07-AAV-2307
+040       $a DLC $c DLC $d m.c. $d CLU
+050  0    $a LB2806 $b .B33
+100  1    $a Barnes, Ronald E.
+260       $a Bloomington, Ind., $b Phi Delta Kappa Educational Foundation $c [1972]
+300       $a 38 p. $c 18 cm.
+440   0   $a PDK fastbacks, $v 9
+500       $a UCLA GEN: DELETE REC HAS NO 245, UNKNOWN LOC, INVALID TYPE, & INVALID BIBLEVEL; CREATE NO 998 FIELDS; DON'T WRITE TO ERROR FILE; WRITE TO OUTPUT FILE
+500       $a TEST REC 16 *****
+504       $a Bibliography: p. 35-38.
+650   0   $a Educational planning.
+650   0   $a School management and organization.
+910       $a rcp 4/2
+935       $a MC4055415 $b SR0375088
+009  00244nx  a22001331i 4500
+001  271042
+003  CLU
+004  54758
+007  t
+008  9808210u    8   4   aueng 980821
+014  1    $a 07-AAV-2307
+014  0    $9 08-ABB-4136
+852       $a CLU $b horribleloc
+935       $a MC4055415
+009  00262nx  a22001331i 4500
+001  271043
+003  CLU
+004  54758
+007  t
+008  9808210u    8   4   aueng 980821
+014  1    $a 07-AAV-2307
+014  0    $9 08-ABB-4137
+852  0    $a CLU $b yrsr $h LB2806 $i .B263l
+935       $a MC4055415
+009  00231nx  a22001211i 4500
+001  4971079
+003  CLU
+004  54758
+008  9809020u    8   4   aueng 980902
+014  1    $a 07-AAV-2307
+014  0    $9 08-AUQ-0187
+852       $a CLU $b sr
+935       $a SR0375088
+
+Record 17
+LDR  49134ngm a22070451i 4500
+001  6597
+003  CLU-FT
+005  20030910151407.0
+008        s1935    xxu                 eng d
+035       $9 04-AAA-6617
+040       $a CLU $c CLU
+245  00   $a Becky Sharp / $c RKO Radio ; producer, Kenneth Macgowan ; director, Rouben Mamoulian ; screen play, Francis Edward Faragoh.
+260       $c 1935.
+500       $a UCLA FTV: RECORD HAS 28 HOL SEGMENTS; CHECK THAT ALL ARE HANDLED PROPERLY; MOVE 007s FROM HOL SEGS TO BIB SEG OF OUTPUT RECORD
+500       $a TEST REC 17 *****
+562       $c Restored version.
+500       $a Based on Vanity fair by W.M. Thackeray.
+511  1    $a Miriam Hopkins, Frances Dee, Cedric Hardwicke, Billie Burke, Alison Skipworth, Nigel Bruce, Colin Tapley, G.P. Huntley, Jr., William Stack, George Hassell, William Faversham, Charles Richman, Doris Lloyd, Leonard Mudie, Bunny Beatty, Charles Coleman, May Beatty, Finis Barton, Alan Mowbray.
+508       $a Designed by Robert Edmond Jones; photographed by Ray Rennahan; editor, Archie Marshek.
+500       $a Credits were supplied from Maltin, 1992, and Film daily yearbook, 1936.
+500       $a Playing time on release was 83 min., according to: Maltin, 1993.
+599  1    $a PRESERVATION HISTORY: Preserved at UCLA in a number of stages. Stage 1 was completed in 1984. Around 1988 (stage 2), Italian print material was obtained, which allowed the picture on the last reel to be upgraded, while the somewhat splicey English sound track was edited to fit the Italian print material. For stage 3, a print was obtained from the Netherlands that allowed improvement in both picture and sound quality.
+650   0   $a Fortune hunters $z England $v Drama.
+655   7   $a Features. $2 mim
+655   7   $a UCLA preservation. $2 local
+700  1    $a Mamoulian, Rouben. $e direction
+700  1    $a Thackeray, William Makepeace, $d 1811-1863. $t Vanity fair.
+901       $a MP $b Motion Picture Collection
+910       $a Rev. August 23, 2000, my; rev. September 10, 2003, my.
+935       $a FA0113147
+009  01471nx  a22002532i 4500
+001  10643
+003  CLU-FT
+004  6597
+005  20001103111910.0
+007  vf|cbahom
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0883
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1989. $n Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Study copy. Available for onsite viewing only.
+852  4    $a CLU-FT $b ftarsc $j VA1834 M
+866   0   $a 1 videocassette of 1 (VHS) (87 min.) : sd., col. ; 1/2 in. $z AVAILABILITY: Study copy. Available for onsite viewing only. $z PRESERVATION: Stage 3 preservation. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 1 videocassette of 1 (VHS) (87 min.) : $b sd., col. ; $c 1/2 in.
+905       $b 890609 $c 0990 $d 001 $f P
+910       $a Rev. July 20, 2000, my. $c 001
+989       $a ECX $b 890609
+998       $a AVAILABILITY: Study Copy. Available for on site viewing only. $d PRESERVATION: Stage 3 preservation. $r REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  02248nv  a22002533i 4500
+001  10644
+003  CLU-FT
+004  6597
+005  20020928091426.0
+007  mr|caaafm|artacac198503
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0884
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Research copy. Usually available for onsite viewing; some restrictions may apply. Projection only; no individual viewing.
+852  4    $a CLU-FT $b ftcoms $j M32244 $q Select print. Excellent condition (Melnitz cond. report, 2/21/91).
+866   0   $a 5 reels of 5 (85 min.) (ca. 10000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print. $z CONDITION: Select print. Excellent condition (Melnitz cond. report, 2/21/91). $z AVAILABILITY: Research copy. Usually available for onsite viewing; some restrictions may apply. Projection only; no individual viewing. $z PRESERVATION: Stage 2 preservation. $z NOTES: New computer-generated UCLA Film and Television Archive logo (gold version) added to head, r1. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $x Clearance: Films Around the World, Inc. $x Booked 5/18/1999, LC (ret.).
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 5 reels of 5 (85 min.) (ca. 10000 ft.) : $b opt sd., EC (col.), low-fade ; $c 35 mm. safety print.
+905       $b uuuuuu $c 0990 $d 010 $e 010 $f R
+910       $a Rev. July 20, 2000, my. $c 002
+989       $a JTX $b 860312
+998       $a AVAILABILITY: Projection only; no individual viewing.Research Copy. Usually available for on site viewing, some restrictions may apply. $b NOTES: New computer-generated UCLA Film and Television Archive logo (gold version) added to head, r1. $d PRESERVATION: Stage 2 preservation. $q CONDITION: Select print. Excellent condition (Melnitz cond. report, 2/21/91). $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01878nv  a22002533i 4500
+001  10645
+003  CLU-FT
+004  6597
+005  20000720103933.0
+007  mr|caaafm|artacac198701
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0885
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Research copy. Usually available for onsite viewing; some restrictions may apply. Individual use only; no projection.
+852  4    $a CLU-FT $b ftcoms $j M34211 $q No intro. titles.
+866   0   $a 5 reels of 5 (ca. 9000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print. $z CONDITION: No intro. titles. $z AVAILABILITY: Research copy. Usually available for onsite viewing; some restrictions may apply. Individual use only; no projection. $z PRESERVATION: Stage 2 preservation. $z NOTES: Second best print. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $x Vault viewing, 7/19/1995 (ARSC).
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 5 reels of 5 (ca. 9000 ft.) : $b opt sd., EC (col.), low-fade ; $c 35 mm. safety print.
+905       $b uuuuuu $c 0990 $d 005 $e 009 $f R
+910       $a Rev. July 20, 2000, my. $c 003
+989       $a JTX $b 870109
+998       $a AVAILABILITY: Individual use only; no projection.Research Copy. Usually available for on site viewing, some restrictions may apply. $b NOTES: Second best print. $d PRESERVATION: Stage 2 preservation. $q CONDITION: No intro. titles. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01898nx  a22002652i 4500
+001  10646
+003  CLU-FT
+004  6597
+005  20001018134802.0
+007  mr|caaafm|artacai198701
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0886
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film, Television and Radio Archives from 16 mm. blow-up materials. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftcoms $j M34228 $q Incomplete.
+866   0   $a 1 reel of 5 (r5) (ca. 1000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z PRESERVATION: Early version of restoration (stage 1?). $z REPRODUCTION: Reproduced by the UCLA Film, Television and Radio Archives from 16 mm. blow-up materials. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: r5AB.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 1 reel of 5 (r5) (ca. 1000 ft.) : $b opt sd., EC (col.), low-fade ; $c 35 mm. safety print.
+905       $b uuuuuu $c 0990 $d 001 $e 001 $f N
+910       $a Rev. July 20, 2000, my. $c 004
+916       $a A1-282B-26.
+989       $a JTX $b 870115
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $d PRESERVATION: Early version of restoration (stage 1?). $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film, Television and Radio Archives from 16 mm. blow-up materials. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01956nv  a22002653i 4500
+001  10647
+003  CLU-FT
+004  6597
+005  20000720104127.0
+007  vf|ccahrm
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0887
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from 35 mm. safety print (M32244). Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. Missing from assigned location prior to SRLF move.
+852  4    $a CLU-FT $b ftcoms $j M41545
+866   0   $a 2 videocassettes of 2 : sd., col. ; 3/4 in. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. Missing from assigned location prior to SRLF move. $z PRESERVATION: Earlier stage of preservation, possibly stage 2? $z NOTES: "Second best tape." $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from 35 mm. safety print (M32244). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 2 videocassettes of 2 : $b sd., col. ; $c 3/4 in.
+905       $b 890607 $c 0990 $d 002 $f N
+910       $a Rev. July 20, 2000, my. $c 005
+916       $a MFS.
+989       $a CHX $b 890607
+998       $a AVAILABILITY: Conservation copy. Missing from assigned location prior to SRLF move.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: "Second best tape." $d PRESERVATION: Earlier stage of preservation, possibly stage 2? $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from 35 mm. safety print (M32244). $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  02400nv  a22002533i 4500
+001  10648
+003  CLU-FT
+004  6597
+005  20000720104154.0
+007  vf|ccahrm
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0888
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1993. $n Pic reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 1993 by Archive Preservation unit; recorded at the Post Group, Feb. 9, 1993, by UCLA Film and Television Archive. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy.
+852  4    $a CLU-FT $b ftcoms $j M53897
+866   0   $a 2 videocassettes of 2 (87 min.) : sd., col. ; 3/4 in. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. $z PRESERVATION: Stage 3 preservation. $z NOTES: "CS2918." "Select tape." $z REPRODUCTION: Pic reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 1993 by Archive Preservation unit; recorded at the Post Group, Feb. 9, 1993, by UCLA Film and Television Archive. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 2 videocassettes of 2 (87 min.) : $b sd., col. ; $c 3/4 in.
+905       $b 930430 $c 0990 $d 002 $f N
+910       $a Rev. July 20, 2000, my. $c 006
+989       $a CHX $b 930430
+998       $a AVAILABILITY: Conservation copy.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: "CS2918." "Select tape." $d PRESERVATION: Stage 3 preservation. $r REPRODUCTION: Pic reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 1993 by Archive Preservation unit; recorded at the Post Group, Feb. 9, 1993, by UCLA Film and Television Archive. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  02429nv  a22002533i 4500
+001  10649
+003  CLU-FT
+004  6597
+005  20000720104223.0
+007  vf|ccahrm
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0889
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 199-? $n Reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 199-? by Archive preservation unit; recorded at the Post Group by UCLA Film and Television Archive. Reproduction for preservation purposes permitted by NTA (Republic), Feb. 1993.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy.
+852  4    $a CLU-FT $b ftcoms $j M57718 $q Print source in excellent condition.
+866   0   $a 2 videocassettes of 2 (85 min.) : sd., col. ; 3/4 in. $z CONDITION: Print source in excellent condition. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. $z PRESERVATION: Stage 3 preservation? $z REPRODUCTION: Reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 199? by Archive preservation unit; recorded at the Post Group by UCLA Film and Television Archive. $z Reproduction for preservation purposes permitted by NTA (Republic), Feb. 1993.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 2 videocassettes of 2 (85 min.) : $b sd., col. ; $c 3/4 in.
+905       $b 930209 $c 0990 $d 002 $f N
+910       $a Rev. July 20, 2000, my. $c 007
+989       $a DMR $b 941011
+998       $a AVAILABILITY: Conservation copy.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $d PRESERVATION: Stage 3 preservation? $q CONDITION: Print source in excellent condition. $r REPRODUCTION: Reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 199? by Archive preservation unit; recorded at the Post Group by UCLA Film and Television Archive. $s Reproduction for preservation purposes permitted by NTA (Republic), Feb. 1993.
+009  02221nv  a22002653i 4500
+001  10650
+003  CLU-FT
+004  6597
+005  20000720104258.0
+007  vr|c ahpm
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0890
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1988? $n Reproduced by UCLA Film and Television Archive at the Post Group from 35 mm. safety print (M34211) at stage 1 of preservation, before upgrading of last reel, 1988. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move.
+852  4    $a CLU-FT $b ftpres $j XVE728 -729 M $q 1 min. overlap between r1 and r2.
+866   0   $a 2 videoreels of 2 : sd., col. ; 1 in. $z CONDITION: 1 min. overlap between r1 and r2. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z PRESERVATION: DV NVTC Ch3 (12/13/88). Has campus no. 5a,bo. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive at the Post Group from 35 mm. safety print (M34211) at stage 1 of preservation, before upgrading of last reel, 1988. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: XVE728 -729 M.
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 2 videoreels of 2 : $b sd., col. ; $c 1 in.
+905       $b 930823 $c 0990 $d 002 $f N
+910       $a Rev. July 20, 2000, my. $c 008
+916       $a MFS.
+989       $a EAX $b 930823
+998       $a AVAILABILITY: Missing from assigned location prior to SRLF move.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $d PRESERVATION: DV NVTC Ch3 (12/13/88). Has campus no. 5a,bo. $q CONDITION: 1 min. overlap between r1 and r2. $r REPRODUCTION: Reproduced by UCLA Film and Television Archive at the Post Group from 35 mm. safety print (M34211) at stage 1 of preservation, before upgrading of last reel, 1988. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01427nv  a22002651i 4500
+001  10651
+003  CLU-FT
+004  6597
+005  20000720094253.0
+007  mr|caaafm|artacac198602
+008  9907252R    8   4   bb    990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0891
+843       $a Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Withdrawn, 1987.
+852  4    $a CLU-FT $b ftcoms $j M32235
+866   0   $a 5 reels of 5 (ca. 10000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print. $z AVAILABILITY: Withdrawn, 1987. $z NOTES: Second best print; preview print. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: A1-468-3
+935       $a FA0113147
+901       $a MP $b Motion Picture Collection
+903       $a 5 reels of 5 (ca. 10000 ft.) : $b opt sd., EC (col.), low-fade ; $c 35 mm. safety print.
+905       $a NTRN M $b uuuuuu $c 0990 $d 005 $e 010 $f W
+910       $c 009
+916       $a A1-468-3
+989       $a JTX $b 860219
+998       $a AVAILABILITY: Withdrawn, 1987. $b NOTES: Holdings continue on ORION record no. 79019.Second best print; preview print. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01823nv  a22002653i 4500
+001  10652
+003  CLU-FT
+004  6597
+005  20000720104731.0
+007  mr|bab fn|aetknai198410
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0893
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j M28359 $q Incomplete.
+866   0   $a 5 reels of 10 (r1-3, 6, 8) (ca. 5000 ft.) : yellow ; 35 mm. safety prsv pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r1AB, 2A, 3B, 4B. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-13.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 5 reels of 10 (r1-3, 6, 8) (ca. 5000 ft.) : $b yellow ; $c 35 mm. safety prsv pic masterpos.
+905       $b uuuuuu $c 0990 $d 005 $e 005 $f N
+910       $a Rev. July 20, 2000, my. $c 001
+916       $a P1-13.
+989       $a JTX $b 841017
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA, 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage.
+009  01788nx  a22002652i 4500
+001  10653
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  mr|bab fn|aetinai198410
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0894
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j M28360 $q Incomplete.
+866   0   $a 1 reel of 10 (r2) (ca. 1000 ft.) : cyan ; 35 mm. safety prsv pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r1B. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-19.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 1 reel of 10 (r2) (ca. 1000 ft.) : $b cyan ; $c 35 mm. safety prsv pic masterpos.
+905       $b uuuuuu $c 0990 $d 001 $e 001 $f N
+910       $a Rev. July 20, 2000, my. $c 002
+916       $a P1-19.
+989       $a JTX $b 841017
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA, 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage.
+009  01792nx  a22002652i 4500
+001  10654
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  mr|bab fn|aetjnai198410
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0895
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j M28361 $q Incomplete.
+866   0   $a 1 reel of 10 (r9) (ca. 1000 ft.) : magenta ; 35 mm. safety prsv pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r5A. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-9.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 1 reel of 10 (r9) (ca. 1000 ft.) : $b magenta ; $c 35 mm. safety prsv pic masterpos.
+905       $b uuuuuu $c 0990 $d 001 $e 001 $f N
+910       $a Rev. July 20, 2000, my. $c 003
+916       $a P1-9.
+989       $a JTX $b 841017
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA, 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage.
+009  01982nv  a22002533i 4500
+001  10655
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  mr|naaafm|betnnai198504
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0896
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from original sound trk neg cut to short version. Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move.
+852  4    $a CLU-FT $b ftpres $j M16779 $q Incomplete.
+866   0   $a 3 reels of 5 : opt sd. ; 35 mm. safety prsv dbl edge trk masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z PRESERVATION: Stage 2?. $z NOTES: r1=r4+6;r2=r5+8;r3=r7+9. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from original sound trk neg cut to short version. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: XFE4335-4337 M.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 3 reels of 5 : $b opt sd. ; $c 35 mm. safety prsv dbl edge trk masterpos.
+905       $b uuuuuu $c 0990 $d 003 $f N
+910       $a Rev. July 20, 2000, my. $c 004
+916       $a MFS. XFE4335-4337 M
+998       $a AVAILABILITY: Missing from assigned location prior to SRLF move.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: r1=r4+6;r2=r5+8;r3=r7+9. $d PRESERVATION: Stage 2?. $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from original sound trk neg cut to short version. $s Reproduction for preservation purposes permitted by NTA, 1985.
+009  1974nv  a22002533i 4500
+001  10656
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  mr|n a dm|  tnnai198504
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0897
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from separate 35 and 16 mm. trk elements (UCLA/NTA). Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move.
+852  4    $a CLU-FT $b ftcoms $j M16790 $q Incomplete.
+866   0   $a 2 reels of 3 ; 16 mm. safety prsv trk. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z ADDITIONAL PHYSICAL DESCRIPTION: Mixed, restored sd. trk. $z NOTES: r1=r1-4; r2=r5-9. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from separate 35 and 16 mm. trk elements (UCLA/NTA). $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: A6-68-2.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 2 reels of 3 ; $c 16 mm. safety prsv trk.
+905       $b uuuuuu $c 0990 $d 005 $e 050 $f N
+910       $a Rev. July 20, 2000, my. $c 005
+916       $a MFS. A6-68-2
+998       $a AVAILABILITY: Missing from assigned location prior to SRLF move.Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: r1=r1-4;r2=r5-9. $q CONDITION: Incomplete. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from separate 35 and 16 mm. trk elements (UCLA/NTA). $s Reproduction for preservation purposes permitted by NTA, 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: Mixed, restored sd. trk.
+009  01845nv  a22002533i 4500
+001  10657
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  mr|n abdm|n tnnac
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0898
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by the UCLA Film and Television Archive from various sources. Reproduction for preservation purposes permitted by NTA, 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j M16780
+866   0   $a 9 reels of ? : sd., 24 fps, edge trk, 1-trk, mono. ; 16 mm. prsv mag trk. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Raw trks; must be mixed. $z NOTES: Each can, 2 rolls, except r4=1 roll, r7=1 roll, r9=1 roll; 1=16 dub; 1=35 dub. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-26.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 9 reels of ? : $b sd., 24 fps, edge trk, 1-trk, mono. ; $c 16 mm. prsv mag trk.
+905       $b uuuuuu $c 0990 $d 009 $f N
+910       $a Rev. July 20, 2000, my. $c 006
+916       $a P1-26.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: Each can, 2 rolls, except r4=1 roll, r7=1 roll, r9=1 roll; 1=16 dub; 1=35 dub. $r REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA, 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: Raw trks; must be mixed.
+009  01591nv  a22002413n 4500
+001  10658
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  st|omncmb|nn e
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0899
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by UCLA Film and Television Archive from various sources.  Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftcoms $j M21349
+866   0   $a 9 sound tape reels of 9 : analog, 7 1/2 ips, 2-trk., mono. ; 7 in. prsv mag trk master. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z NOTES: "Box 7." $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 9 sound tape reels of 9 : $b analog, 7 1/2 ips, 2-trk., mono. ; $c 7 in. prsv mag trk master.
+905       $b uuuuuu $c 0990 $d 009 $f N
+910       $a Rev. July 20, 2000, my. $c 007
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $b NOTES: "Box 7." $r REPRODUCTION: Reproduced by UCLA Film and Television Archive from various sources. $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01818nv  a22002533i 4500
+001  10659
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  st|pmnzmb|nn e
+008  9907252f    8   1   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0900
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1993. $n Reproduced by UCLA Film and Television Archive from Dutch-subtitled 35 mm. nitrate print (M53415). Reproduction for preservation purposes permitted by ,̲̲̲̲̲̲ Dec. 1993.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j XAG304 -306 M
+866   0   $a 3 sound tape reels of 3 : analog, 15 ips, 2-trk, mono. ; 10 1/2 in. prsv mag trk master. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: 2500 ft. reel. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from Dutch-subtitled 35 mm. nitrate print (M53415). $z Reproduction for preservation purposes permitted by ,̲̲̲̲̲̲ Dec. 1993. $z LOCATION: XAG304 -306 M.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 3 sound tape reels of 3 : $b analog, 15 ips, 2-trk, mono. ; $c 10 1/2 in. prsv mag trk master.
+905       $b 931227 $c 0990 $d 003 $f N
+910       $a Rev. July 20, 2000, my. $c 008
+989       $a RCX $b 931227
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $r REPRODUCTION: Reproduced by UCLA Film and Television Archive from Dutch-subtitled 35 mm. nitrate print (M53415). $s Reproduction for preservation purposes permitted by ,̲̲̲̲̲̲ Dec. 1993. $z ADDITIONAL PHYSICAL DESCRIPTION: 2500 ft. reel.
+009  01896nv  a22002533i 4500
+001  10660
+003  CLU-FT
+004  6597
+005  20000720104732.0
+007  st|pmnzmb|nn e
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0901
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1993. $n Reproduced by UCLA Film and Television Archive from 35 mm. nitrate trk neg (M26965). Reproduction for preservation purposes permitted by NTA (Republic), Dec. 1993.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j XAG307 -308 M $q Print source was incomplete.
+866   0   $a 2 sound tape reels of 2 : analog, 15 ips, 2-trk., mono. ; 10 1/2 in. prsv mag trk master. $z CONDITION: Print source was incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: 1200 ft. reel. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. nitrate trk neg (M26965). $z Reproduction for preservation purposes permitted by NTA (Republic), Dec. 1993. $z LOCATION: XAG307 -308 M.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 2 sound tape reels of 2 : $b analog, 15 ips, 2-trk., mono. ; $c 10 1/2 in. prsv mag trk master.
+905       $b 931227 $c 0990 $d 002 $f N
+910       $a Rev. July 20, 2000, my. $c 009
+989       $a RCX $b 931227
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Print source was incomplete. $r REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. nitrate trk neg (M26965). $s Reproduction for preservation purposes permitted by NTA (Republic), Dec. 1993. $z ADDITIONAL PHYSICAL DESCRIPTION: 1200 ft. reel.
+009  01124nv  a22002413i 4500
+001  10661
+003  CLU-FT
+004  6597
+005  20030101100013.0
+007  mr|cabafn|boih ni
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0902
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M34279 $q Incomplete.
+866   0   $a 2 reels of ? (r2,9) (ca. 2000 ft.) : blue ; 35 mm. nitrate pic neg. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-R10-16.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 2 reels of ? (r2,9) (ca. 2000 ft.) : $b blue ; $c 35 mm. nitrate pic neg.
+905       $b uuuuuu $c 0606 $d 002 $e 002 $f N
+910       $a Rev. July 20, 2000, my. Rev. January 1, 2003, jj. $c 010
+916       $a F104-R10-16.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01152nx  a22002532i 4500
+001  10662
+003  CLU-FT
+004  6597
+005  20030102143320.0
+007  mr|cabafn|boii ai198712
+008  9907252u    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0903
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M53959 $q Incomplete.
+866   0   $a 1 reel of ? (r8) (ca. 1000 ft.) : cyan ; 35 mm. nitrate pic neg. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-L12-13.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 1 reel of ? (r8) (ca. 1000 ft.) : $b cyan ; $c 35 mm. nitrate pic neg.
+905       $b uuuuuu $c 0998 $d 001 $e 001 $f N
+910       $a Rev. July 20, 2000, my; rev. January 2, 2003, jj. $c 011
+916       $a F104-L12-13.
+989       $a BBX $b 871221
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01158nx  a22002532i 4500
+001  10663
+003  CLU-FT
+004  6597
+005  20030102143419.0
+007  mr|cabafn|boij ai198712
+008  9907252u    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0904
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M53960 $q Incomplete.
+866   0   $a 1 reel of ? (r2) (ca. 1000 ft.) : magenta ; 35 mm. nitrate pic neg. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-L12-14.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 1 reel of ? (r2) (ca. 1000 ft.) : $b magenta ; $c 35 mm. nitrate pic neg.
+905       $b uuuuuu $c 0998 $d 001 $e 001 $f N
+910       $a Rev. July 20, 2000, my; rev. January 2, 2003, jj. $c 012
+916       $a F104-L12-14.
+989       $a BBX $b 871221
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01135nv  a22002533i 4500
+001  10664
+003  CLU-FT
+004  6597
+005  20000720104524.0
+007  mr|naaafm|bdinnni198311
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0905
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M26965 $q Incomplete.
+866   0   $a 6 reels of 9 (r4-9) (ca. 6000 ft.) : opt sd. ; 35 mm. nitrate trk neg. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F109-R30-2.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 6 reels of 9 (r4-9) (ca. 6000 ft.) : $b opt sd. ; $c 35 mm. nitrate trk neg.
+905       $b uuuuuu $c 0730 $d 006 $e 006 $f N
+910       $a Rev. July 20, 2000, my. $c 013
+916       $a F109-R30-2
+989       $a BBX $b 831109
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01147nv  a22002413i 4500
+001  10665
+003  CLU-FT
+004  6597
+005  20030102102110.0
+007  mr|cabafn|aeig ni
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0906
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M34281 $q Incomplete.
+866   0   $a 6 reels of ? (r1,3-4,6-8) (ca. 6000 ft.) : red ; 35 mm. nitrate pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-R10-20.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 6 reels of ? (r1,3-4,6-8) (ca. 6000 ft.) : $b red ; $c 35 mm. nitrate pic masterpos.
+905       $b uuuuuu $c 0606 $d 006 $e 006 $f N
+910       $a Rev. July 20, 2000, my. $a Rev. January 2, 2003, jj. $c 014
+916       $a F104-R10-20.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01150nv  a22002413i 4500
+001  10666
+003  CLU-FT
+004  6597
+005  20030102102835.0
+007  mr|cabafn|aeih ni
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0907
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M34282 $q Incomplete.
+866   0   $a 8 reels of ? (r1-7,9) (ca. 8000 ft.) : blue ; 35 mm. nitrate pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: LOCATION: F104-R13-24.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 8 reels of ? (r1-7,9) (ca. 8000 ft.) : $b blue ; $c 35 mm. nitrate pic masterpos.
+905       $b uuuuuu $c 0606 $d 008 $e 008 $f N
+910       $a Rev. July 20, 2000, my. Rev. January 2, 2003, jj. $c 015
+916       $a F104-R13-24.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01150nv  a22002413i 4500
+001  10667
+003  CLU-FT
+004  6597
+005  20030102102940.0
+007  mr|cabafn|aeik ni
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0908
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M34283 $q Incomplete.
+866   0   $a 2 reels of ? (r5,7) (ca. 2000 ft.) : yellow ; 35 mm. nitrate pic masterpos. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: LOCATION: F104-R10-26.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 2 reels of ? (r5,7) (ca. 2000 ft.) : $b yellow ; $c 35 mm. nitrate pic masterpos.
+905       $b uuuuuu $c 0606 $d 002 $e 002 $f N
+910       $a Rev. July 20, 2000, my. Rev. January 2, 2003, jj. $c 016
+916       $a F104-R10-26.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $q CONDITION: Incomplete.
+009  01290nv  a22002413i 4500
+001  10668
+003  CLU-FT
+004  6597
+005  20030102102006.0
+007  mr|cabafn|  ik ni
+008  9907252d    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0909
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j M34280 $q Incomplete.
+866   0   $a 2 reels of ? (r2,5) (ca. 2000 ft.) : yellow ; 35 mm. nitrate preprint. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z PRESERVATION: Used in early stage of restoration; not printing materials. $z LOCATION: LOCATION: F104-R10-18.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 2 reels of ? (r2,5) (ca. 2000 ft.) : $b yellow ; $c 35 mm. nitrate preprint.
+905       $b uuuuuu $c 0606 $d 002 $e 002 $f N
+910       $a Rev. July 20, 2000, my. Rev. January 2, 2003, jj. $c 017
+916       $a F104-R10-18.
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $d PRESERVATION: Used in early stage of restoration; not printing materials. $q CONDITION: Incomplete.
+009  01680nx  a22002532i 4500
+001  10669
+003  CLU-FT
+004  6597
+005  20000720104524.0
+007  st|omncmb|nn e
+008  9907252f    8   2   bb   0990725
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAB-0910
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1985. $n Reproduced by UCLA Film and Television Archive from ?.̲̲̲̲̲̲̲̲̲̲̲ Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftnitr $j XAF399 M
+866   0   $a 1 sound tape reel of ? : analog, 7 1/2 ips, 2-trk., mono. ; 7 in.? prsv mag trk master. $z PART/ELEMENT: Intro music. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from ?.̲̲̲̲̲̲̲̲̲̲̲ $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: XAF399 M.
+935       $a FA0079019
+901       $a MP $b Motion Picture Collection
+903       $a 1 sound tape reel of ? : $b analog, 7 1/2 ips, 2-trk., mono. ; $c 7 in.? prsv mag trk master.
+905       $c 0990 $d 009 $f N
+910       $a Rev. July 20, 2000, my. $c 018
+989       $a ECX $b 890223
+998       $a AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $c PART/ELEMENT: Intro music. $r REPRODUCTION: Reproduced by UCLA Film and Television Archive from .̲̲̲̲̲̲̲̲̲̲̲ $s Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+009  01363nv  a22002413i 4500
+001  241238
+003  CLU-FT
+004  6597
+005  20001212133733.0
+007  mr|naabfm|n|tnnac199810
+008  0011032f    8   1   bb   099____
+014  1    $a 04-AAA-6617
+014  0    $9 05-AAY-8648
+843       $b Los Angeles, Calif. : $c UCLA Film and Television Archive, $d 1998. $n Reproduced from prsv sound tape reels (XAG304 -308 M). Reproduction for preservation purposes permitted by NTA (Republic), 1985.
+845       $a Archival copy. Not available for viewing. Contact the Research and Study Center for further information.
+852  4    $a CLU-FT $b ftpres $j M67642
+866   0   $a 9 reels of 9 (ca. 9000 ft.) ; 35 mm. safety prsv re-recorded mag trk. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from prsv sound tape reels (XAG304 -308 M). Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z PRESERVATION: Final prsv mag. $z LOCATION: PRES. VAULT.
+901       $a MP $b Motion Picture Collection
+903       $a 9 reels of  9 (ca. 9000 ft.) ; $c 35 mm. safety prsv re-recorded mag trk.
+905       $b uuuuuu $c 0990 $d 009 $e 009 $f N
+910       $a Input Nov. 3, 2000, al; rev. December 12, 2000, my.
+916       $a PRES. VAULT.
+989       $a MSX $b 981014
+
+Record 18
+LDR  01076nam a22003735  4500
+001  8
+003  CLU-ETH
+008                 us                  eng  
+028  02   $a 308A $b Indian Records, Inc.
+035       $9 01-AAA-0007
+100       $a Arden, Dale
+245  00   $a The history of the planet Mongo
+260       $a Mingo City, Mongo : $b Astral Publishing $c 19--?
+500       $a UCLA EMA: DROP 852s FROM BIB SEGMENT
+500       $a TEST REC 18 *****
+600   0   $a Merciless, Ming the
+600   0   $a Gordon, Flash.
+650   0   $a Clay People
+935       $a ET4266430
+852  0    $a MH $b Harvard Depository $z 852 from BIB segment: don't output
+935       $a ET777
+852  0    $a MH-R $z Another852 from BIB segment: don't output
+009  00344nx  a22001571n 4500
+001  7
+003  CLU-ETH
+004  8
+007  s
+008  9809070u    0   4   uueng 980907
+014  1    $a 01-AAA-0007
+014  0    $9 02-AAA-0006
+852  0    $a CLU-ETH $b etdiss $j Box 9 in secret passage $x In process $z Two secret words required to open.
+935       $a ET4266430
+905       $c SB 9
+920       $a ARC 172 vol. 1-2
+
+Record 19
+LDR  01505nas a2200529   4500
+001  199966
+003  CLU
+005  20040807153920.0
+008  750824c19619999ne mrzp       0   a0eng d
+010       $a 80000094
+022  0    $a 0014-3138
+035       $a (OCoLC)01568475
+035       $9 07-AOS-3114
+042       $a lc $a nsdp
+043       $a e------
+049       $a CLUL
+245  00   $a Dragon collectors' magazine.
+260       $a [Amsterdam, $b IBFD
+300       $a v. $c 35 cm.
+310       $a Monthly $b <, May 1973->
+321       $a Biweekly, $b Jan. 1961-
+362  0    $a v. 1-   Jan. 15th, 1961-
+500       $a UCLA: RECORD CONTAINS SHARED PRINT JSTOR LOCATION "srucl2". OUTPUT 793 NOTE WITH SUBFLD a = "UCL Shared Print" AND SUBFLD p = "JSTOR serials" (05/05).
+500       $a TEST REC 19 *****
+650   0   $a Dragons $x Collectors and collecting $v Periodicals.
+935       $a TC0024008 $b TC0024183 $c ABZ-1300
+910       $a bes 20000810
+936       $a Unknown $a May 1973 (surrogate)
+009  00980ny  a22001813i 4500
+001  5536429
+003  CLU
+004  199966
+005  18881114152902.0
+008  9907254p    8   0   au    990725
+014  1    $a 07-AOS-3114
+014  0    $9 08-AWW-7748
+852  0    $a CLU $b srucl2 $h NK5173 $i .A46
+866       $a B1-42(1961-2002)U43N1-10(2003)
+935       $a TC0024008 $b TC0024183
+009  00181nx  a22000974  4500
+001  6832879
+003  CLU
+004  199966
+005  18880213150819.0
+008  0402130p    8   1001uu   0000000
+852  0    $a CLU $b ar*
+866       $a v.44- (2004-)
+

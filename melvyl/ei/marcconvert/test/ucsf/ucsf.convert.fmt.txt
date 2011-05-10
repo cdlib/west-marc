@@ -1,0 +1,964 @@
+Record 1
+LDR  01471cam  2200325   45  
+005  19900131000000.0
+008  690421s1969    nyuc     b    00110 engm 
+010       $a 69014983 //r84
+019       $a 1841538
+035       $a (OCoLC)5228
+090       $a x
+098  0    $n ov=
+100  10   $a Maier, Henry W. $q (Henry William)
+245  10   $a Three theories of child development: $b the contributions of Erik H. Erikson, Jean Piaget, and Robert R. Sears, and their applications $c [by] Henry W. Maier.
+250       $a Rev. ed.
+260  0    $a New York, $b Harper & Row $c [1969]
+300       $a ix, 342 p. $b ports. $c 22 cm.
+500       $a UCSF MONO: CALL NUM IN 090 $a = "x", DO NOT OUTPUT CALL NUM (02/08).
+500       $a OUTPUT 590 BEGINNING "LIBRARY HAS: " AS 852 $3 FOR ALL 852'S.
+500       $a OUTPUT 590 BEGINNING "SHARED PURCHASE" AS $z IN 1ST 852 ONLY.
+500       $a DO NOT OUTPUT 590 BEGINNING "COPIES".  OUTPUT OTHER 590'S AS 852 $x IN ALL 852'S.
+600  14   $a Erikson, Erik H. $q (Erik Homburger), $d 1902-
+600  10   $a Piaget, Jean, $d 1896-1980.
+600  10   $a Sears, Robert Richardson, $d 1908-
+690   0   $a Child psychology.
+852       $a SFB $b books $x 247716 (dr)(590 FIELD) $x 247718 (dr)(590 FIELD) $z SHARED PURCHASE 590 $3 Library has: v.1-99
+852       $a SFB $b 1stfl $x 247716 (dr)(590 FIELD) $x 247718 (dr)(590 FIELD) $3 Library has: v.1-99
+852       $a SFB $b hmed $x 247716 (dr)(590 FIELD) $x 247718 (dr)(590 FIELD) $3 Library has: v.1-99
+870  19   $j 100/1 $a Maier, Henry William.
+901       $a SFB $b 10000278
+
+Record 2
+LDR  01553cam  2200337   45  
+005  19900125000000.0
+008  690818s1969    cau      b    00100 eng  
+010       $a 69013179 //r83
+020       $a 0804706891 (pbk.)
+035       $a (OCoLC)11967
+041  1    $a engfre
+049       $a CUNR
+050       $a ff Browsing BL1930 (050$A) $a 2ND subfldA $b .K313 (050$B)
+098  0    $n ov=.b1222107
+100  10   $a Kaltenmark, Max.
+240  00   $a Lao tseu et le taoèisme. $l English.
+245  10   $a Lao Tzu and Taoism. $c Translated from the French by Roger Greaves.
+260  0    $a Stanford, Calif., $b Stanford University Press, $c 1969.
+300       $a vi, 158 p. $c 23 cm.
+350       $a 5.95.
+500       $a UCSF MONO: 050 HAS 2 $a, $b - OUTPUT 1ST $a ONLY & $b TO 852 $h $i; OUTPUT CALL NUM PREFIX "ff" AS 852 $k; DO NOT OUTPUT PREFIX "Browsing" (02/08).
+500       $a OUTPUT 590 "LIBRARY KEEPS" AS 852 $3 FOR ALL LOCS; 590 "COPIES" - DROP; OUTPUT OTHER 590S AS 852 $x FOR ALL LOCS.
+500       $a REMOVE COPY INFO IN PARENTHESES BEFORE OUTPUTTING MULTIPLE LOCS.
+504       $a Bibliography: p. [151]-152.
+600  00   $a Lao-tzu.
+650   0   $a Taoism.
+730  02   $a Lao tseu et le taoèisme. $l English.
+852       $a SFB $b desk $k ff $h BL1930 (050$A) $i .K313 (050$B) $x Some worming throughout (590) $3 Library keeps: bound volumes
+852       $a SFB $b books $k ff $h BL1930 (050$A) $i .K313 (050$B) $x Some worming throughout (590) $3 Library keeps: bound volumes
+852       $a SFB $b rbr $k ff $h BL1930 (050$A) $i .K313 (050$B) $x Some worming throughout (590) $3 Library keeps: bound volumes
+901       $a SFB $b 10000528
+
+Record 3
+LDR  00942cam  2200241   45  
+005  19900130000000.0
+008  690723s1969    njua     b    00110 eng  
+010       $a 69017478
+049       $a CUNA,CUNB
+050       $a H61 $b .B484 1969
+099       $a t Case 38 J99 $a 2nd subfldA $b .B500
+090       $a A50 $b .C400 1990
+098  0    $n ov=
+100  10   $a Blalock, Hubert M.
+245  1    $a Theory construction; $b from verbal to mathematical formulations $c [by] Hubert M. Blalock, Jr.
+260  0    $a Englewood Cliffs, N.J., $b Prentice-Hall $c [1969]
+300       $a xi, 180 p. $b illus. $c 23 cm.
+490  0    $a Prentice-Hall methods of social science series.
+500       $a UCSF: CALL NUM IN 099 $a $a $b - OUTPUT PREFIX 't' AS 852 $k; OUTPUT SUFFIX 'Case 38' AS 852 $m; OUTPUT CALL NUM AS SINGLE 852 $j (04/02).
+504       $a Bibliographical footnotes.
+650   0   $a Social sciences $x Methodology.
+852       $a SFB $b books $k t $m Case 38 $j J99 2nd subfldA .B500
+901       $a SFB $b 10000568
+
+Record 4
+LDR  00861cam  2200241   45  
+005  19900125000000.0
+008  691008s1969    nyuac         00100beng  
+010       $a 69011805 //r87
+020       $a 0030810221
+096       $b SUBFLD b
+098  0    $n ov=.b1286250
+100  10   $a King, Coretta Scott, $d 1927-
+245  10   $a My life with Martin Luther King, Jr.
+250       $a [1st ed.]
+260  0    $a New York, $b Holt, Rinehart and Winston $c c1969.
+300       $a ix, 372 p. $b ill., [16] p. of plates, $c 24 cm.
+350       $a 6.95.
+500       $a UCSF MONO: TYPE ="h", CHG TO "a". HAS 3 LOCS, 2 UNIQUE; OUTPUT 2 852S WITH UNIQUE LOCS. CALL NUM IN 096 $b, OUTPUT TO 852 $j (02/08).
+500       $a IGNORE 2ND 920 FIELD.
+600  10   $a King, Martin Luther, $c Jr., $d 1929-1968.
+852       $a SFB $b brow $j SUBFLD b $3 Library has:
+852       $a SFB $b desk $j SUBFLD b $3 Library has:
+901       $a SFB $b 10001098
+
+Record 5
+LDR  01207cam  2200289   45  
+005  19900125000000.0
+008  690904s1969    mdua     b    00110 eng  
+010       $a 69013694
+035       $a (OCoLC)22832
+099       $a ff Browsing REF. 1st subfldA $a 2nd subfldA $c 1st subfldC $c 2nd subfldC
+098  0    $n ov=.b1028613
+100  10   $a Kraus, Bertram S.
+245  10   $a Dental anatomy and occlusion; $b a study of the masticatory system $c [by] Bertram S. Kraus, Ronald E. Jordan [and] Leonard Abrams.
+260  0    $a Baltimore, $b Williams and Wilkins, $c 1969.
+300       $a xvi, 317 p. $b illus. $c 29 cm.
+500       $a UCSF MONO: 099 HAS 2 $a & 2 $c - OUTPUT AS 852 $j; OUTPUT "ff" AS 852 $k; DROP "Browsing";  OUTPUT "REF" AS 852 $m (02/08).
+650   0   $a Teeth.
+650   0   $a Occlusion (Dentistry)
+650   2   $a Dental Occlusion.
+650   2   $a Mastication.
+650   2   $a Masticatory Muscles.
+650   2   $a Tooth $x Anatomy and histology.
+700  10   $a Jordan, Ronald E., $e joint author.
+700  10   $a Abrams, Leonard, $d 1930- $e joint author.
+852       $a SFB $b books $k ff $m REF. $j 1st subfldA 2nd subfldA 1st subfldC 2nd subfldC
+852       $a SFB $b hnon $k ff $m REF. $j 1st subfldA 2nd subfldA 1st subfldC 2nd subfldC
+901       $a SFB $b 10001128
+
+Record 6
+LDR  01204cam  2200277   45  
+005  19900214000000.0
+008  691117s1969    sz       b    00110 engm 
+010       $a 72425881 //r84
+015       $a Sw69-1850
+035       $a (OCoLC)27834
+096       $a f SUBFLD a (096) $a 2ND $A $b SUBFLD b $b 2ND $B $c SUBFLD c $c 2ND $c
+098  0    $n ov=
+100  10   $a Roemer, Milton Irwin, $d 1916-
+245  14   $a The organisation of medical care under social security. $b A study based on the experience of eight countries. $c [By] Milton I. Roemer.
+260  0    $a Geneva, $b International Labour Office, $c 1969.
+300       $a viii, 241 p. $c 24 cm.
+350       $a 11.00.
+490  1    $a Studies and reports. New series, $v no. 73.
+500       $a UCSF MONO: CALL NUM IN 096 HAS 2 $a'S, 2 $b'S, 2 $c'S - OUTPUT 2 $a'S, 1ST $b, 2 $c'S AS SINGLE 852 $j; OUTPUT PREFIX TO 852 $k  (02/08).
+650   0   $a Medical care.
+650   0   $a Insurance, Health.
+650   0   $a Social security.
+810  2    $a International Labour Office. $t Studies and reports, $v new ser., no. 73.
+852       $a SFB $b books $k f $j SUBFLD a (096) 2ND $A SUBFLD b SUBFLD c 2ND $c
+871  29   $j 810/1 $a International Labor Office. $t Studies and reports. New series, $v no. 73.
+901       $a SFB $b 10001498
+
+Record 7
+LDR  00961cam  2200253I  45  
+005  19900125000000.0
+008  700330s1966    onca          00110 eng  
+010       $a 70358625
+020       $a 0802020380
+035       $a (OCoLC)36980
+090       $a ff REF. x
+098  0    $n ov=.b1028790
+100  10   $a Craigie, E. Horne $q (Edward Horne), $d 1894-
+245  12   $a A laboratory guide to the anatomy of the rabbit / $c by E. Horne Craigie.
+250       $a 2nd ed.
+260  0    $a Toronto : $b University of Toronto Press, $c c1966, 1973 printing.
+300       $a viii, 115 p. : $b illus. ; $c 23 cm.
+500       $a UCSF MONO: CALL NUM IN 090 HAS $a ONLY; HAS PREFIX, STAMP, CALL NUM = 'x' -  OUTPUT "ff" TO 852 $k; OUTPUT STAMP TO 852 $m; DO NOT OUTPUT CALL NUM ("x") (02/08).
+650   0   $a Rabbits $x Anatomy.
+650   0   $a Anatomy, Comparative $x Laboratory manuals.
+650   2   $a Dissection Manuals.
+650   2   $a Rabbits $x anatomy & histology.
+852       $a SFB $b books $k ff $m REF.
+901       $a SFB $b 10001918
+
+Record 8
+LDR  00835nam  2200253   45  
+005  19900212000000.0
+008  700130s1969    caueg    b    00100 engm 
+010       $a 79078567 /MN
+035       $a (OCoLC)52916
+099       $b 099 subfldB $c subfldC
+098  0    $n ov=
+100  10   $a Dean, Winton.
+245  1    $a Handel and the opera seria.
+260  0    $a Berkeley, $b University of California Press, $c 1969.
+300       $a xi, 220 p. $b music, plan. $c 26 cm.
+350       $a 8.50.
+490  1    $a The Ernest Bloch lectures, $v 1.
+500       $a UCSF MONO: 099 WITH $b & $c - OUTPUT AS SINGLE 852 $j (02/08).
+600  10   $a Handel, George Frideric, $d 1685-1759. $t Operas.
+650   0   $a Opera.
+830   0   $a Ernest Bloch lectures, $v 1.
+852       $a SFB $b brow $j 099 subfldB subfldC
+870  19   $j 600/1 $a Hèandel, Georg Friedrich, $d 1685-1759. $t Operas.
+901       $a SFB $b 10002418
+
+Record 9
+LDR  01176cXX  2200277   45  
+005  19900125000000.0
+008  700202s1969    nyuach   b    00110 eng  
+010       $a 69018726
+035       $a (OCoLC)55185
+098  0    $n ov=.b1281719
+100  10   $a Gernsheim, Helmut, $d 1913-
+250       $a [2d ed.]
+260  0    $a New York, $b McGraw-Hill $c [1969]
+300       $a 599 p. $b illus., facsims., ports. $c 31 cm.
+350       $a 22.95.
+500       $a UCSF: RECORD HAS UNKNOWN TYPE, UNKNOWN BIBLVL, NO 245, UNKNOWN LOC CODE - OUTPUT 4 ERROR FIELDS (07/06).
+500       $a Rev. ed. published as: The origins of photography. 1982.
+504       $a Bibliography: p. [580]-581.
+650   0   $a Photography $x History.
+700  10   $a Gernsheim, Alison, $e joint author.
+852       $a SFB $b XXX $x Gift of Harold A. Harper.
+901       $a SFB $b 10002528
+998       $a SFB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 10002528
+998       $a SFB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 10002528
+998       $a SFB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 10002528
+998       $a SFB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 10002528
+
+Record 10
+LDR  00880nam  2200229   45  
+005  19900212000000.0
+008  700212c19701969njuach        00000 eng  
+010       $a 74079615
+020       $a 498069621
+035       $a (OCoLC)55558
+050       $a ff SF426.2 (050$a) $b  REF. N366c 1969 (050$b)
+098  0    $n ov=
+100  10   $a Necker, Claire.
+245  10   $a Cats and dogs: woofs and purrs, spits and grrrs.
+260  0    $a South Brunswick, [N.J.] $b A. S. Barnes $c [1970, c1969]
+300       $a 306 p. $b illus., facsims., ports. $c 25 cm.
+500       $a UCSF MONO: 050 CALL NUM HAS $a $b, PREFIX IN $a, STAMP IN $b - OUTPUT 'ff' TO 852 $k, 'REF.' TO $m, CALL NUM TO 852 $h $i (02/08).
+650   0   $a Dogs $x Folklore.
+650   0   $a Cats $x Folklore.
+852       $a SFB $b brow $k ff $m REF. $h SF426.2 (050$a) $i N366c 1969 (050$b)
+852       $a SFB $b books $k ff $m REF. $h SF426.2 (050$a) $i N366c 1969 (050$b)
+901       $a SFB $b 10002558
+
+Record 11
+LDR  00754cam  2200229   45  
+005  19900125000000.0
+008  700226s1970    nyu      b    00100 eng  
+010       $a 73092909 //r863
+020       $a 0231033028
+035       $a (OCoLC)56546
+050       $a HB199 $a 2ND subfldA $b .B84 $b 2ND subfldB $c subfldC
+098  0    $n ov=.b1282177
+100  10   $a Linder, Staffan Burenstam, $d 1931-
+245  14   $a The harried leisure class.
+260  0    $a New York, $b Columbia University Press, $c 1970.
+300       $a viii, 182 p. $c 23 cm.
+350       $a 7.00.
+500       $a UCSF MONO: 050 WITH 2 SUBFLD As, 2 Bs, 1 C - OUTPUT 1ST $a TO 852 $h, 1ST $b TO 852 $i, IGNORE REST (02/08).
+650   0   $a Time management.
+650   0   $a Leisure.
+852       $a SFB $b books $h HB199 $i .B84
+901       $a SFB $b 10002608
+
+Record 12
+LDR  00755nas  22001817  45  
+005  19900516000000.0
+008  870922c    9999xx mu p      u uuuu1engod
+096       $a W1 $b AA 114
+098  0    $n ov=.b1110044
+245  00   $a AAOHN Journal.
+500       $a UCSF PE: NO 852 OR 850, USE 920, HAS 590 & 950$b - OUTPUT HOLDINGS FROM 590 TO 852 $3 FOR ALL 852'S; USE $z FROM 1ST 950 & OUTPUT TO 1ST $m OF THE 1ST 852 (02/08).
+710  20   $a American Association of Occupational Health Nurses.
+710  20   $a Nurses and Nursing.
+780  00   $a Occupational Health Nursing.
+852       $a SFB $b arch $m latest issue stolen (950$z) $h W1 $i AA 114 $3 v.1-100 (590 FLD)
+852       $a SFB $b hmed $h W1 $i AA 114 $3 v.1-100 (590 FLD)
+852       $a SFB $b 1stfl $h W1 $i AA 114 $3 v.1-100 (590 FLD)
+901       $a SFB $b 11925608
+
+Record 13
+LDR  00535nas  22001337  45  
+005  19900509000000.0
+008  870922c    9999xx wu p      u uuuu1engod
+096       $a W1 $b AB 101D
+098  0    $n ov=.b1110056
+245  00   $a AB Bookman's Weekly; $b for the Specialist Book World.
+500       $a UCSF PE: NO 852 OR 850, USE 920. NO 590 WITH "LIBRARY HAS", HAS 950$b & $d; OUTPUT 950 $b TO 852 $3 FOR ALL LOCS (02.08).
+852       $a SFB $b hnon $h W1 $i AB 101D $x Weekly. $3 28, 1960- (950$b)
+852       $a SFB $b ref $h W1 $i AB 101D $x Weekly. $3 28, 1960- (950$b)
+901       $a SFB $b 11908458
+
+Record 14
+LDR  01410nas  22002897  45  
+005  19900309000000.0
+008  870923c19869999hk qrzp  a   0uuua0eengdc
+010       $a sn88-26251
+022       $a 1010-0091
+035       $a (OCoLC)16733579
+041  1    $a eng $h chi
+096       $a HOMEOP. W1 $b AB 881M
+098  0    $n ov=.b1269860
+245  00   $a Abstracts of Chinese medicines : $b (ACME)
+246  10   $a ACME.
+260  00   $a Hong Kong : $b Chinese Medicinal Material Research Centre, Chinese University of Hong Kong, $c c1986-
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Quarterly.
+362  0    $a Vol. 1, no. 1 (Oct. 1986)-
+500       $a UCSF PE: NO 852 OR 850, USE 920. NO 590 NOLDINGS, 1ST 950 HAS $d, 2ND 950 HAS $b - CREATE 852 $3 FROM 950 $d; OUTPUT $z OF 1ST 950 TO 1ST $m OF 1ST 852; OUTPUT STAMP FROM 096 & 590 "LIBRARY KEEPS" TO 2ND, 3RD $m'S OF 1ST 852, 1ST & 2ND $m OF OTHER 852'S (02/08).
+546       $a English with some Chinese.
+650   2   $a Medicine, Oriental Traditional $x abstracts.
+650   2   $a Medicine, Oriental Traditional.
+710  20   $a Chinese University of Hong Kong. $b Chinese Medicinal Material Research Centre.
+852       $a SFB $b hnon $m latest issue in alcove (950$z) $m HOMEOP. $h W1 $i AB 881M $m Library keeps one copy in reference (590) $3 Keep latest year only(950$d)
+852       $a SFB $b arch $m HOMEOP. $h W1 $i AB 881M $m Library keeps one copy in reference (590) $3 Keep latest year only(950$d)
+901       $a SFB $b 12059528
+
+Record 15
+LDR  00754nas  22001697  45  
+005  19900516000000.0
+008  870922d19721989xx mu p  a   u uuuu1engod
+096       $a W1 $b AB 93
+098  0    $n ov=.b1110536
+245  00   $a Abstracts on Health Effects of Environmental Pollutants.
+500       $a UCSF PE: NO 852 OR 850, USE 920. NO HOLDINGS, OUTPUT DEFAULT VALUE IN 852 $3 FOR ALL LOCS (04/02).
+690       $a Environmental Health--Indexes and Abstracts.
+690       $a Pesticides--Indexes and Abstracts.
+749       $a Health Effects of Environmental Pollutants.
+852       $a SFB $b hnon $h W1 $i AB 93 $x Ceased publication. $3 For holdings, consult UCSF local catalog.
+852       $a SFB $b ref $h W1 $i AB 93 $x Ceased publication. $3 For holdings, consult UCSF local catalog.
+901       $a SFB $b 11926028
+
+Record 16
+LDR  00963cam  2200277   45  
+005  19900927000000.0
+008  740610c18689999nyuar1    ys  0uuua1engd 
+010       $a 04003781 //r41
+019       $a 386815 $a 780317 $a 1348756 $a 15159857
+022       $a 0084-1382
+035       $a (OCoLC)912534
+043       $a n-us---
+050       $a AY67.N5 $b W7
+098  0    $n ov=.b1025806
+222  04   $a The World as it should be.
+245  04   $a The World as it should be.
+247  00   $a World almanac $f 1868-1893.
+247  00   $a World almanac and encyclopedia $f 1894-1922.
+260  00   $a New York, $b Newspaper Enterprise Association [etc. $c 1888]
+300       $a v. $b ill. (maps) tables. $c 19-22 cm.
+500       $a UCSF: DON'T OUTPUT FIELDS 001-005, 009, 590, 595, 850, 852, 866, 867, 868, 886, 899 (04/02)
+650   0   $a Almanacs, American.
+650   0   $a Statistics.
+852       $a SFB $b books $h AY67.N5 $i W7 $m 595 FIELD. $x 590 FIELD
+852       $a SFB $b ref $h AY67.N5 $i W7 $m 595 FIELD. $x 590 FIELD
+901       $a SFB $b 10053669
+
+Record 17
+LDR  00906cam  2200241   45  
+005  19920122000000.0
+008  740920s1973    mdua         f00000 eng  
+010       $a 74600663
+043       $a n-us-ca
+049       $a CUNR
+090       $a RA448.S37 $b U54 1973
+098  0    $n ov=
+110  10   $a United States. $b Health Services Administration. $b Bureau of Community Health Services.
+245  10   $a Home health in Chinatown.
+260  0    $a Rockville, Md.; $b [For sale by the Supt. of Docs., U.S. Govt. Print. Off., $c 1973]
+300       $a iii, 32 p. $b illus. $c 23 cm.
+350       $a $0.50.
+500       $a UCSF: CREATE 005 FROM 902 - 902 BEGINS "92", ADD "19" TO BEGINNING (04/02).
+650   0   $a Home care services $z California $z San Francisco.
+650   0   $a Chinese Americans $x Health and hygiene $z California $z San Francisco.
+830   0   $a DHEW publication $v no. (HSA) 73-6408.
+852       $a SFB $b oc $h RA448.S37 $i U54 1973
+901       $a SFB $b 10965373
+
+Record 18
+LDR  00665nas  22001697  45  
+005  20010923000000.0
+008  870922c    9999   mu p      u uuuu1engod
+022       $a 0091-1658
+049       $a cun&
+096       $a W1 $b AM 812B
+098       $n ov=.b1119680
+245  00   $a American Statistics Index. $b Monthly Supplement. Abstracts.
+500       $a UCSF: CREATE 005 FROM 902 - 902 BEGINS "01", ADD "20" TO BEGINNING (04/02).
+690       $a Congressional Information Service.
+690       $a Statistics.
+852       $a SFB $b coref $h W1 $i AM 812B $z Shared Purchase. Acquired through the UC Shared Collections and Access Program. Basic set located at UC Berkeley. $3 Keep until cumulated
+901       $a SFB $b 11934529
+
+Record 19
+LDR  00836nas  2200229   45  
+005  19921106000000.0
+008  750225s1979    njua     b    00110 eng  
+010       $a 81190111
+020       $a 123456789
+035       $a (OCoLC)82184
+049       $a CUNA[dr] [45066]
+090       $a SD207.M5 $b S292l dr 45066 1981-
+245  14   $a The experimental rat, selection and management $b Annual conference on the laboratory rat
+260  0    $a Englewood Cliffs, N.J., $b Prentice-Hall $c [1981-]
+300       $a v. $b ill., ports. $c 22 cm.
+310       $a Quarterly $b 1984-
+321       $a Bimonthly $b -1983.
+362  0    $a v. 1-   1981-
+500       $a UCSF: CREATE 035 FROM 001 - ADD "(OCoLC)" TO BEGINNING OF 001 (04/02).
+650   0   $a Rats as laboratory animals.
+852       $a SFB $b rbr3 $h SD207.M5 $i S292l dr 45066 1981- $3 For holdings, consult UCSF local catalog.
+901       $a SFB $b 10003320
+
+Record 20
+LDR  00828dXX  2200229I  45  
+005  20020510143000.0
+008  750907c19209999dcuuu    r    0uuua1eng d
+019       $a 1128288 $a 1840354
+035       $a (OCoLC)1606003
+049       $a CUNA $a CUNW
+090       $a Q11 $b .N294
+098       $n ov=.b1262452
+110  20   $a National Academy of Sciences (U.S.)
+260  10   $a Washington, D.C.
+300       $a v. $c 22 cm.
+362  0    $a 1919/20-
+500       $a UCSF: 901 $c = "d", DELETE REC; REC HAS NO 245, NO LOC CODE, NO 902 FLD, INVALID TYPE & BIBLVL - CHANGE STATUS TO "d", CREATE 005 FROM FILEDATE, DO NOT OUTPUT ERROR FIELDS (05/02).
+610  20   $a National Academy of Sciences (U.S.) $x Directories.
+710  20   $a National Research Council (U.S.)
+710  20   $a National Academy of Engineering.
+710  20   $a Institute of Medicine (U.S.)
+901       $a SFB $b 10089913
+
+Record 21
+LDR  01353nam  2200241Ia 45  
+005  19930331000000.0
+008  910524c19919999ilu           000 0 eng d
+035       $a (OCoLC)23830360
+040       $a IHD $c IHD
+090       $a RA971 $b .A76
+098       $n ov=.b1216764
+110  2    $a American Hospital Association.
+245  10   $a Management advisories of the American Hospital Association.
+260       $a [Chicago] : $b the Association, $c [1991-]
+300       $a v. (various pagings) ; $c 30 cm.
+500       $a UCSF MONO: RECORD WITH 3 595 FIELDS HAS MULTIPLE LOCS, OUTPUT ALL LOCS; OUTPUT 595'S AS SEPARATE 852 $m'S (02/08).
+504       $a Includes bibliographical references.
+650   2   $a Governing Board.
+740  01   $a Policies ; Policy and statements ; Guidelines ; Technical advisory bulletins.
+852       $a SFB $b ref $h RA971 $i .A76 $m * Current issue Reference Books * (595 FLD) $m * Library keeps latest issue only * (595 FLD) $m Shelved on the 4th floor. (595 FLD) $3 Library has: 1991.
+852       $a SFB $b books $h RA971 $i .A76 $m * Current issue Reference Books * (595 FLD) $m * Library keeps latest issue only * (595 FLD) $m Shelved on the 4th floor. (595 FLD) $3 Library has: 1991.
+852       $a SFB $b 1stfl $h RA971 $i .A76 $m * Current issue Reference Books * (595 FLD) $m * Library keeps latest issue only * (595 FLD) $m Shelved on the 4th floor. (595 FLD) $3 Library has: 1991.
+901       $a SFB $b 12515322
+
+Record 22
+LDR  01206nas  22002057  45  
+005  19900117000000.0
+008  870922c    9999xx bu p      u uuuu1engod
+096       $a ff Browsing W1 $b AA 113 ANESTH.
+098  0    $n ov=.b1110020
+245  00   $a AANA Journal.
+500       $a UCSF PE: NO 852 OR 850, HAS 3 LOCS IN 920 FLD, HAS 2 595 FLDS, 096 HAS PREFIX & STAMP, 1ST 950 HAS $z - OUTPUT 852'S FOR EACH LOC, WITH $k FROM PREFIX AND $m'S FROM 950 $z, 096, 595 FLDS (02/08).
+500       $a OUTPUT 096 $a $b AS 852 $h $i; OUTPUT PREFIX TO 852 $k.
+690       $a Nurses and Nursing.
+690       $a Anesthesia.
+710  20   $a American Association of Nurse Anesthetists.
+780  00   $a American Association of Nurse Anesthetists. Journal.
+852       $a SFB $b 1stfl $m 1ST 950z note $k ff $m ANESTH. $h W1 $i AA 113 $m Latest issue in Librarian's car $m Next to latest issue in Librarian's LL Bean bag $x Bimonthly. $3 42, 1974-
+852       $a SFB $b mbccj $k ff $m ANESTH. $h W1 $i AA 113 $m Latest issue in Librarian's car $m Next to latest issue in Librarian's LL Bean bag $x Bimonthly. $3 42, 1974-
+852       $a SFB $b jour $k ff $m ANESTH. $h W1 $i AA 113 $m Latest issue in Librarian's car $m Next to latest issue in Librarian's LL Bean bag $x Bimonthly. $3 42, 1974-
+901       $a SFB $b 11925588
+
+Record 23
+LDR  01323cas  2200289I  45  
+005  19930223000000.0
+008  850714c19229999dcuuu    r    0uuua1eng d
+019       $a 2239399 $a 2951465
+035       $a (OCoLC)2010222
+049       $a CUNA $a CUNW
+090       $a T21 $b .N294 REF.
+098       $n ov=.b2373563
+110  20   $a National Academy of Sciences (U.S.)
+245  00   $a Affiliated organizations.
+260  10   $a Washington, D.C.
+300       $a v. $c 22 cm.
+362  0    $a 1922/23-
+500       $a UCSF PE: NO 852 OR 850, USE 920. NO 595 FLD, HAS MULT LOCS, 950$z, SHARED PURCHASE 590 FLD, & CALL NO. POST STAMP (02/08).
+500       $a OUTPUT 950 $z AS 1ST 852 $m IN 1ST 852 ONLY; OUTPUT 590 SHARED PURCHASE AS 852 $z IN 1ST 852 ONLY; OUTPUT STAMP IN 852 $m IN ALL 852'S; OUTPUT 950 $b AS 852 $3 IN ALL SEGMENTS.
+610  20   $a National Academy of Sciences (U.S.) $x Directories.
+710  20   $a National Research Council (U.S.)
+710  20   $a National Academy of Engineering.
+710  20   $a Institute of Medicine (U.S.)
+852       $a SFB $b ref $m 950z NOTE - Kept in Reference. $m REF. $h T21 $i .N294 $z Shared purchase: output 852 $Z in 1st holdings segment $3 1987, 1989-1990, 1992 (950$b)
+852       $a SFB $b books $m REF. $h T21 $i .N294 $3 1987, 1989-1990, 1992 (950$b)
+852       $a SFB $b desk $m REF. $h T21 $i .N294 $3 1987, 1989-1990, 1992 (950$b)
+901       $a SFB $b 10089913
+
+Record 24
+LDR  01625cas  2200301I  45  
+005  19930223000000.0
+008  910714c19238888dcuuu    r    0uuua1eng d
+019       $a 1625399 $a 2951465
+035       $a (OCoLC)1723451
+049       $a CUNA $a CUNW
+090       $a S14 $b .N294 REF.
+098       $n ov=.b2373563
+110  20   $a National Academy of Sciences (U.S.)
+245  00   $a Academic list.
+260  10   $a Washington, D.C.
+300       $a v. $c 22 cm.
+362  0    $a 1989/90-
+500       $a UCSF PE: NO 852 OR 850, USE 920. HAS 595 FLD, 4 LOCS, 950$z, SHARED PURCHASE 590, & CALL NUM STAMP; HAS NO HOLDINGS INFO (02/08).
+500       $a OUTPUT 4 852'S.  OUTPUT UCSF DEFAULT HOLDINGS NOTE IN ALL 852 $3'S.  OUTPUT 950 $z TO 1ST 852 $m IN 1ST 852 ONLY.  OUTPUT 590 SHARED PURCHASE TO 852 $z IN 1ST 852 ONLY.  OUTPUT 595s TO SEPARATE 852 $m.  OUTPUT STAMP TO 852 $m FOR ALL LOCS.
+610  20   $a National Academy of Sciences (U.S.) $x Directories.
+710  20   $a National Research Council (U.S.)
+710  20   $a National Academy of Engineering.
+710  20   $a Institute of Medicine (U.S.)
+852       $a SFB $b ref $m 950z NOTE: OUTPUT AS 852 $m. $m REF. $h S14 $i .N294 $m 595 NOTE - HELD BY SECURITY GUARD. $z Shared purchase: output 852 $z. $3 For holdings, consult UCSF local catalog.
+852       $a SFB $b hjour $m REF. $h S14 $i .N294 $m 595 NOTE - HELD BY SECURITY GUARD. $3 For holdings, consult UCSF local catalog.
+852       $a SFB $b desk $m REF. $h S14 $i .N294 $m 595 NOTE - HELD BY SECURITY GUARD. $3 For holdings, consult UCSF local catalog.
+852       $a SFB $b books $m REF. $h S14 $i .N294 $m 595 NOTE - HELD BY SECURITY GUARD. $3 For holdings, consult UCSF local catalog.
+901       $a SFB $b 16711121
+
+Record 25
+LDR  01192cas  2200301   45  
+005  19931221000000.0
+008  760217c19759999ctugr1   r    0uuua0eng  
+010       $a 74004811 //r76
+019       $a 2489272
+022       $a 0362-0999
+035       $a (OCoLC)1998426
+049       $a CUN@
+050  0    $a Z286.M5 $b M53 
+098       $n ov=.b1275653
+222  10   $a Microform market place.
+245  00   $a Microform market place.
+246  14   $a MMP, microform market place $f <1976/77->
+260  00   $a Weston, Conn. [etc.], Microform Review Inc. [etc.]
+300       $a v. $c 23 cm.
+310       $a Biennial.
+362  0    $a 1974/75-
+500       $a UCSF PE: NO 852 OR 850, USE 920. OUTPUT 590 "LIBRARY KEEPS" AS IS IN 852 $m, ALL LOCS.  OUTPUT 590 "LIBRARY HAS" IN 852 $3, ALL LOCS, AFTER STRIPPING THE BEGINNING/ENDING ASTERISKS AND EXTRA BLANKS (02/08).
+550  0    $a Published in Weston, Conn. by Microform Review Inc., 1975-1989; by K.G. Saur Verlag, 1991-
+650   0   $a Micropublishing $x Directories.
+650   0   $a Microfilm services $x Directories.
+852       $a SFB $b ref $h Z286.M5 $i M53 $m * Library keeps * $3 1988/89, 1990/91.
+852       $a SFB $b books $h Z286.M5 $i M53 $m * Library keeps * $3 1988/89, 1990/91.
+901       $a SFB $b 12131520
+
+Record 26
+LDR  01254cam  2200265   45  
+005  19900125000000.0
+008  700202s1969    nyuach   b    00110 eng  
+010       $a 69018726
+035       $a (OCoLC)55185
+050       $a SF407.M5 $b S5947
+098  0    $n ov=.b1281719
+100  10   $a Gernsheim, Helmut, $d 1913-
+245  14   $a The history of photography $b from the camera obscura to the beginning of the modern era $c [by] Helmut Gernsheim, in collaboration with Alison Gernsheim.
+250       $a [2d ed.]
+260  0    $a New York, $b McGraw-Hill $c [1969]
+300       $a 599 p. $b illus., facsims., ports. $c 31 cm.
+350       $a 22.95.
+500       $a UCSF: MONO W/ MULTIPLE LOCS - OUTPUT 595 FLDS AS 852 $m'S FOR ALL LOCS.  (02/08)
+500       $a Rev. ed. published as: The origins of photography. 1982.
+504       $a Bibliography: p. [580]-581.
+650   0   $a Photography $x History.
+700  10   $a Gernsheim, Alison, $e joint author.
+852       $a SFB $b coref $h SF407.M5 $i S5947 $m SEE INFO DESK FOR ASSISTANCE. (595 FLD) $m Access restricted to UCSF faculty, staff, etc. (595 FLD) $x Gift of Harold A. Harper.
+852       $a SFB $b ref $h SF407.M5 $i S5947 $m SEE INFO DESK FOR ASSISTANCE. (595 FLD) $m Access restricted to UCSF faculty, staff, etc. (595 FLD) $x Gift of Harold A. Harper.
+901       $a SFB $b 10002528
+
+Record 27
+LDR  02598cas  2200505 a 45  
+005  19940523000000.0
+008  750824c19679999gw mrzp       0   a0eng d
+010       $a 94648081
+022       $a 0014-2956
+035       $a (OCoLC)1568454
+040       $a MUL $c MUL $d COO $d OCL $d NSD $d OCL $d NSD $d HUL $d SER $d RCS $d AIP $d DLC $d NST $d MYG $d HUL $d NST $d AGL $d DLC $d CUN
+041  0    $a engfreger
+069  1    $a E15940000
+096       $a ff W1 $b EU 68 Case 38
+098       $n ov=.b114764x
+210       $a Eur. j. biochem.
+222   0   $a European journal of biochemistry.
+245  00   $a European journal of biochemistry / $c FEBS.
+260       $a Berlin ; $a New York : $b Published by Springer-Verlag on behalf of the Federation of European Biochemical Societies, $c 1967-
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Monthly.
+362  0    $a Vol. 1, no. 1 (Mar. 1967)-
+500       $a UCSF PE: NO 852 OR 850, 3 LOCS IN 920: FOR ALL LOCS OUTPUT 852 $m'S FROM STAMP "Case 38" (096).  OUTPUT 'SHARED PURCHASE' 590 TO 852 $z AND 950 $z TO 852 $m IN 1ST LOC ONLY; OUTPUT 595'S AS 852 $m'S (02/08).
+500       $a OUTPUT ff (096) TO 852 $k AND OUTPUT 950 $b TO 852 $3 IN ALL LOCS.
+510  1    $a Index medicus $x 0019-3879.
+510  2    $a Bibliography of agriculture $x 0006-1530.
+510  2    $a Biological abstracts $x 0006-3169.
+510  2    $a Chemical abstracts $x 0009-2258.
+510  2    $a Energy information abstracts $x 0147-6521.
+510  2    $a Energy research abstracts $x 0160-3604.
+510  2    $a Environment abstracts $x 0093-3287.
+510  2    $a Excerpta medica.
+510  2    $a Life sciences collection.
+510  2    $a PESTDOC.
+510  2    $a RINGDOC.
+510  2    $a VETDOC.
+510  0    $a Nuclear science abstracts $x 0029-5612.
+650   0   $a Biochemistry.
+650   2   $a Biochemistry $x periodicals.
+710  20   $a Federation of European Biochemical Societies.
+780  00   $t Biochemische Zeitschrift $w (DLC)sn 90022308 $w (OCoLC)1536395.
+852       $a SFB $b jour $m All issues shelved with bound journals (950 $z). $k ff $m Case 38 $h W1 $i EU 68 $m SEE INFO DESK FOR ASSISTANCE. (595 FLD) $m Access restricted to UCSF faculty, staff, etc. (595 FLD) $x Library's copy imperfect. (590 FLD) $z Shared Purchase with UCD. $3 1, 1967 (950 $b)
+852       $a SFB $b 1stfl $k ff $m Case 38 $h W1 $i EU 68 $m SEE INFO DESK FOR ASSISTANCE. (595 FLD) $m Access restricted to UCSF faculty, staff, etc. (595 FLD) $x Library's copy imperfect. (590 FLD) $3 1, 1967 (950 $b)
+852       $a SFB $b coref $k ff $m Case 38 $h W1 $i EU 68 $m SEE INFO DESK FOR ASSISTANCE. (595 FLD) $m Access restricted to UCSF faculty, staff, etc. (595 FLD) $x Library's copy imperfect. (590 FLD) $3 1, 1967 (950 $b)
+901       $a SFB $b 12567450
+
+Record 28
+LDR  01165cas  2200301   45  
+005  19960604000000.0
+008  750726c18989999mdumr1p       0   a0eng d
+010       $a a  43003158 //r833
+022  0    $a 0002-9513
+035       $a (OCoLC)1480180
+040       $a MUL $d AIP $d NSD $d NST $d CAS $d NST $d AGL $d OCL $d NSD $d NST $d IUL
+069  1    $a A24720000
+096       $a W1 $b AM 507
+098       $n ov=.b1117981
+245  00   $a American journal of physiology.
+260       $a [Bethesda, Md., etc.] $b American Physiological Society [etc.]
+210  0    $a Am. j. physiol.
+222   4   $a The American journal of physiology.
+300       $a v. $b ill., ports. $c 25-27 cm.
+310       $a Monthly, $b <1898-
+362  0    $a v. 1-   Jan. 1898-
+500       $a UCSF: PE WITH 850 FIELDS: 850 $F IN LOCS 1 & 2 HAS CALL NUM PREFIX; REMOVE PREFIX & OUTPUT IN 852 $k IN THAT SEGMENT; OUTPUT CALL NUM IN 852 $j (04/02).
+650   0   $a Physiology.
+600  10   $a Porter, William Townsend, $d 1862-1949.
+852       $a SFB $b jour $k ff $j W1 AM 507 (1ST) $3 1, 1898- $m (Copy 1)
+852       $a SFB $b jrnl $k t $j W1 AM 507 (2ND) $3 1990-91 $m All issues shelved with bound journals. $m (Copy 2)
+852       $a SFB $b sfgh $3 228, 1975-
+901       $a SFB $b 11861794
+
+Record 29
+LDR  01897cas  2200385   45  
+005  19960604000000.0
+008  750727c19279999paumr1p       0   a0eng d
+010       $a 43032966 //r912
+022  0    $a 0003-4819
+035       $a (OCoLC)1481385
+040       $a MUL $c MUL $d NSD $d DLC $d NSD $d SER $d AIP $d DLC $d AIP $d IUL $d AIP $d NST $d HUL $d NST $d EBZ $d OCL $d NSD $d OCL $d NST $d DLC
+069  0    $a 0372351
+069  1    $a A34995000
+096       $a W1 $b AN 605
+098       $n ov=.b1121820
+245  00   $a Annals of internal medicine.
+260       $a [Philadelphia, etc., $b American College of Physicians]
+210       $a Ann. intern. med.
+222   0   $a Annals of internal medicine.
+300       $a v. $b ill., diagrs. $c 26 cm.
+310       $a Semimonthly.
+362  0    $a v. 1-   July 1927-
+500       $a UCSF: PE REC WITH 3 LOCS IN 850 FLDS: 1ST LOC - 850 $H, $J, $K: OUTPUT 852 $3 FROM $H, 852 $m FROM $J AND $K.  2ND LOC - NO $H, HAS $J, $K, $Z: OUTPUT 852 $3 FROM $J; OUTPUT 1ST $m FROM $Z, 2ND $m FROM $K.  3RD LOC - NO $H OR $J, HAS $K: OUTPUT DEFAULT HOLDINGS, OUTPUT $m FROM $K.
+510  1    $a Index medicus $x 0019-3879.
+530       $a Available on microfilm from University Microfilms.
+555       $a Vols. 1-40, July 1927-June 1954.  1 v.; Vols. 41-50, June 1954-June 1959.  1 v.
+580       $a Has suppl., 1991-    : ACP journal club.
+650   0   $a Medicine.
+770  0    $t Annals of internal medicine. Supplement $x 0570-183X $w (OCoLC)1778587.
+770  1    $t ACP journal club $g 1991- $x 1056-8751 $w (DLC)   93642454 $w (OCoLC)23085040.
+780  02   $t Annals of clinical medicine $x 0095-9944 $w (OCoLC)1481377.
+852       $a SFB $b jour $j W1 AN 605 $3 1, 1927- (850$H) $m Current + 2 years in Ref (850$J) $m (Copy1) (850$K)
+852       $a SFB $b jrnl $j W1 AN 605 $3 Keep current +7 previous yrs (850$J) $m All issues shelved with bound journals (850 $z). $m (Copy 2)
+852       $a SFB $b sfgh $3 For holdings, consult UCSF local catalog. $m (Copy 3)
+901       $a SFB $b 11861952
+
+Record 30
+LDR  01455nas  22002297  45  
+005  19960604000000.0
+008  870922c19599999   mu p      u uuuu1engod
+022       $a 0003-990x
+049       $a cunc
+096       $a W1 $b AR 455AD
+098       $n ov=.b1124080
+245  00   $a Archives of General Medicine.
+260       $a [Chicago, $b American Medical Association]
+265  00   $a American Medical Association, 535 N. Dearborn St., Chicago, IL 60610.
+212  0    $a Arch. Gen. Med.
+500       $a UCSF: PE WITH 850 FIELDS: 590 SHARED PURCHASE OUTPUT IN 1ST 852 ONLY; 1 590 OUTPUT AS 852 $x IN ALL 852'S; LIBRARY KEEPS 590 AND LIBRARY HAS 590 DROPPED; 595'S OUTPUT AS $m'S (02/08).
+650   0   $a Medicine.
+710  20   $a American Medical Association.
+852       $a SFB $b jour $j W1 AR 455AD $3 1, 1795- $m (Copy 1) $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FLD) $m Access restricted to UCSF faculty, staff and students. (595 FLD) $x Monthly (590 OUTPUT AS 852 $x). $z Shared purchase - vols 1-25, 1795-1820.
+852       $a SFB $b jrnl $j W1 AR 455AD $3 1990-91 $m All issues shelved with bound journals. $m (Copy 2) $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FLD) $m Access restricted to UCSF faculty, staff and students. (595 FLD) $x Monthly (590 OUTPUT AS 852 $x).
+852       $a SFB $b 2ndfl $3 199, 1994- $m (Copy 3) (ELECTRONIC JOURNAL) $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FLD) $m Access restricted to UCSF faculty, staff and students. (595 FLD) $x Monthly (590 OUTPUT AS 852 $x).
+901       $a SFB $b 11862099
+
+Record 31
+LDR  01185cas  2200337   45  
+005  19960604000000.0
+008  750812c19629999pauwr1p       0   a0eng d
+010       $a a  63000602 //r882
+022  0    $a 0006-2960
+035       $a (OCoLC)1536396
+040       $a MUL $c MUL $d NSD $d OCL $d DLC $d NSD $d SER $d RCS $d AIP $d NSD $d AIP $d NSD $d AIP $d NST $d DLC $d IUL $d NST $d AGL $d IUL $d NST
+069  1    $a B15160000
+096       $a W1 $b BI 635
+098       $n ov=.b1128139
+245  00   $a Biochemistry.
+260       $a [Easton, Pa.] $b American Chemical Society.
+210  0    $a Biochemistry $b (Easton)
+222   0   $a Biochemistry $b (Easton)
+300       $a v. $b ill. $c 27-29 cm.
+310       $a Weekly, $b <1991->
+362  0    $a v. 1-   Jan. 1962-
+500       $a UCSF: PE WITH 850 FIELDS: 8 850 FIELDS WITH 5 UNIQUE LOC CODES. OUTPUT THE 5 UNIQUE LOCS IN 852 FIELDS (02/08).
+650   0   $a Biochemistry.
+650   2   $a Biochemistry.
+710  20   $a American Chemical Society.
+852       $a SFB $b jour $j W1 BI 635 $3 1, 1962- $m (Copy 1)
+852       $a SFB $b jrnl $3 32, 1993- $m (Copy 2)
+852       $a SFB $b sfgh $3 14, 1975- $m (Copy 3)
+852       $a SFB $b hjour $3 32, 1993- $m (Copy 5)
+852       $a SFB $b mbccj $j W1 BI 635 $3 1, 1962- $m (Copy 6)
+901       $a SFB $b 11860546
+
+Record 32
+LDR  02004cas  2200373 a 45  
+005  19960605000000.0
+008  741230c19609999iluwx1p  ¯    0uuua0eng d
+010       $a 82-643544//r842
+022  0    $a 0098-7484
+035       $a (OCoLC)1124917
+069  1    $a J03340000
+096       $a W1 $b JO 22F
+098       $n ov=.b1118535
+245  00   $a JAMA : $b the journal of the American Medical Association.
+260  01   $a Chicago : $b American Medical Association, $c 1960-
+222  00   $a JAMA, the journal of the American Medical Association.
+246  10   $a Journal of the American Medical Association.
+246  17   $a J.A.M.A.
+300       $a v. : $b ill., ports. ; $c 28 cm.
+310       $a Four issues per month $b <, Mar. 21, 1980->
+362  0    $a Vol. 173, no. 9 (July 2, 1960)-
+500       $a UCSF: PE WITH 850 FIELDS: RECORD HAS MULTIPLE LOCS; OUTPUT 595 AS 852 $m'S IN ALL LOC SEGMENTS (02/08).
+510  1    $a General science index $x 0162-1963.
+610  20   $a American Medical Association.
+650   0   $a Medicine.
+650   2   $a Medicine.
+710  20   $a American Medical Association.
+730  02   $a Continuing education courses for physicians.
+730  02   $a Continuing education opportunities for physicians for the period ..
+780  00   $t Journal of the American Medical Association $x 0002-9955 $w (DLC)   07037314 $w (OCoLC)1480379.
+852       $a SFB $b jour $j W1 JO 22F $3 173(9), 1960- $m Current in desk (850 $j) $m Shelved in office (850 $z) $m (Copy 1) (850 $k) $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FIELD) $m Access restricted to UCSF faculty, staff & students (595 FIELD) $z Shared purchase 590
+852       $a SFB $b jrnl $j W1 JO 22F $3 Keep current yr +7 previous yrs (850 $j) $m All issues shelved with bound journals(850 $z). $m (Copy 3) (850 $k) $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FIELD) $m Access restricted to UCSF faculty, staff & students (595 FIELD)
+852       $a SFB $b sfgh $3 231, 1975- $m * SEE INFORMATION DESK FOR ASSISTANCE * (595 FIELD) $m Access restricted to UCSF faculty, staff & students (595 FIELD)
+901       $a SFB $b 11861861
+
+Record 33
+LDR  00880cas  2200241   45  
+005  20020510143000.0
+008  750726c18989999mdumr1p       0   a0eng d
+010       $a a  43003158 //r833
+022  0    $a 0002-9513
+035       $a (OCoLC)1480180
+040       $I MUL $d HUL $d NSD $d NST $d CAS $d NST $d AGL $d OCL $d NSD $d NST $d IUL
+069  1    $a A24720000
+096       $a W1 $b AM 507
+098       $n ov=.b1117981
+245  00   $a Abstracts in the study of the paranormal.
+260       $a Bern, Switzerland $b Association of Parapsychology
+300       $a v. $b ill., ports. $c 25-27 cm.
+310       $a Monthly, $b <1898-
+362  0    $a v. 1-   Jan. 1898-
+500       $a UCSF: NO 902 FIELD - CREATE 005 FROM PROGRAM RUN PARAMETER (04/02).
+650   0   $a Parapsychology -- Research.
+852       $a SFB $b ref $3 282, 1970- $m * SEE INFORMATION DESK FOR ASSISTANCE * $m Access restricted to UCSF faculty, staaff and students.
+901       $a SFB $b 12631694
+
+Record 34
+LDR  01522cai  2200301Ia 4500
+005  20060711000000.0
+008  830815c19779999dcuuu     s  f0uuua0eng d
+035       $a (OCoLC)9809091
+043       $a n-us---
+049       $a CUNA [] [] [] [Current] [volume] [Ref.] $a CUNW
+086  0    $a NS 1.30/2:
+090       $a LB2342 $b .N37
+098       $n ov=.b1088154
+240  00   $a Federal support to universities, colleges, and nonprofit institutions $f <1988/89->
+245  00   $a Federal support to universities, colleges, and selected nonprofit institutions. $p Technical notes and detailed statistical tables
+246  13   $a Federal support to universities, colleges, and selected nonprofit institutions. $p Detailed statistical tables $f <1984/85->
+260  00   $a Washington, D.C. : $b National Science Foundation, $c [1979?-
+300       $a v. ; $c 23 x 30-28 cm
+362  0    $a Fiscal year 1977-
+440   0   $a Surveys of science resources series
+500       $a UCSF PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+650   0   $a Federal aid to higher education $z United States $x Statistics
+710  20   $a National Science Foundation (U.S.)
+760  0    $t Surveys of science resources series
+780  00   $t Federal support to universities, colleges, and selected nonprofit institutions $w (OCoLC)1249482
+852       $a SFB $b net $j LB2342 .N37 $3 1970/71, 1972/73-1975/76, 1977/78-1980/81, 1982/83, 1984/85-1987/88, 1988/89, 1990/91, 1992, 1993-
+856  41   $u http://www.nsf.gov/statistics/fedsupport/
+901       $a SFB $b 11310248
+
+Record 35
+LDR  02141cas  22004697  4500
+005  20070718000000.0
+007  cr cnu
+008  751101c19709999oncmn4p       0   a0eng  
+010       $a 70613461  $z cn 97390018
+022  0    $a 0011-9059
+035       $a (OCoLC)1753567
+040       $a DLC $b eng $c MUL $d NSD $d DLC $d NSD $d DLC $d SER $d RCS $d AIP $d CAS $d NST $d FXC $d MXC $d NSD $d NLC $d NSD $d OCL $d NLC $d OCL $d NSD $d OCL
+041  0    $a engfrespa
+069  1    $a I26740000
+096       $a W1 $b IN 766G
+098       $n ov=.b115882x
+210  0    $a Int. j. dermatol
+222   0   $a International journal of dermatology
+245  00   $a International journal of dermatology
+260       $a Hamilton, ON [etc.], $b Decker Periodicals [etc.]
+300       $a v. $b ill., ports. $c 26 cm
+310       $a Monthly (bimonthly Jan./Feb. and July/Aug.) $b <1976->
+362  0    $a v. 9-   Jan./Mar. 1970-
+500       $a UCSF PE: HAS 852, 850 AND 920; USE 852. OUTPUT SFB IN 852 SUBFLD a; LOC FROM 852b TO OUTPUT 852b; CALL NUM FROM 852j TO OUTPUT 852j; HOLDINGS FROM 852 SUBFLD 3 TO OUTPUT SUBFLD 3; PUBLIC NOTE 852z TO OUTPUT 852z (02/08).
+510  1    $a Excerpta medica
+546       $a English, French, and Spanish, with summaries in the three languages
+550       $a "Official organ of the International Society of Tropical Dermatology."
+650   0   $a Dermatology $v Periodicals
+650   0   $a Tropical medicine $v Periodicals
+650   2   $a Skin Diseases $v periodicals
+650   2   $a Dermatology $v periodicals
+655   7   $a Online resources. $2 local
+690       $a Electronic journals $x Dermatology
+690       $a Electronic journals $x Medical sciences
+690       $a Electronic journals $x Biology and medicine
+710  2    $a International Society of Tropical Dermatology
+776  1    $t International journal of dermatology (Online) $x 1365-4632 $w (OCoLC)37104811
+780  00   $t Dermatologia internationalis $x 0096-1108
+793  0    $a Blackwell-Synergy online journals. $g a
+852       $a SFB $b jrnl $j W1 IN 766G (SUBFLD j) $z Current issue Reference Books (SUBFLD z) $3 v.9(1970)-v.43(2004) (SUBFLD 3)
+856  41   $3 v.36(1997)- $z Blackwell-Synergy. Restricted to UC campuses $u http://uclibs.org/PID/3489
+901       $a SFB $b 11860911
+
+Record 36
+LDR  02168cas  2200481 a 4500
+005  20070719000000.0
+007  cr unu        
+008  750812d19291998enkmrzp       0   a0eng d
+010       $a sc 85001050  $z sn 80001758
+022  0    $a 0007-1331
+035       $a (OCoLC)1537316
+040       $a MUL $c MUL $d UCU $d NSD $d HUL $d NSD $d SER $d RCS $d AIP $d DLC $d AIP $d NST $d NSD $d OCL $d WAU $d OCL $d MYG
+069  1    $a B35720000
+096       $a W1 $b BR 646
+098       $n ov=.b1130869
+210  0    $a Br. j. urol
+222   0   $a British journal of urology
+245  00   $a British journal of urology : $b official journal of the British Association of Urological Surgeons
+246  13   $a BJU $f -1998
+260       $a London : $b E & S Livingstone, $c -c1998
+300       $a 82 v. : $b ill. ; $c 28 cm
+310       $a Monthly, $b <Aug. 1990>-Dec. 1998
+362  1    $a Began with: Vol. 1 (Mar. 1929)
+362  0    $a -v. 82, no. 6 (Dec. 1998)
+500       $a UCSF PE: HAS 4 852 FIELDS, 2 UNIQUE LOCS. OUTPUT FIRST OCCURRENCE OF EACH UNIQUE LOC (02/08).
+510  0    $a Nuclear science abstracts $x 0029-5612
+525       $a Some issues are accompanied by unnumbered supplements; some vols. accompanied by numbered supplements
+530       $a Some issues, including those published under a later title, also issued online
+555       $a Vols. 1 (1929)-20 (1948), 1 v.; Vols. 21 (1949)-30 (1958), in v. 30
+599       $a UPD $b added SFX >035 $c 060630
+650   0   $a Urology $v Periodicals
+690       $a Electronic journals $x Medical sciences
+690       $a Electronic journals $x Biology and medicine
+730  02   $a Abstracts from current urological literature
+730  02   $a Index to current urological literature
+776  1    $t British journal of urology (Online) $w (OCoLC)37104177
+776  1    $t BJU international (Online) $x 1464-410X $w (DLC)   00242373 $w (OCoLC)45381444
+785  00   $t BJU international $x 1464-4096 $w (DLC)sn 99047120 $w (OCoLC)40842824
+793  0    $a Blackwell-Synergy online journals. $g i
+852       $a SFB $b jrnl $j W1 BR 646 $3 v.1(1929)-v.70(1992)
+852       $a SFB $b sfgh $3 v.56(1984)-v.71(1993)
+856  41   $3 v.77(1996)-v.82(1998). $z Blackwell-Synergy. Restricted to UC campuses $u http://uclibs.org/PID/3411
+901       $a SFB $b 11860479
+
+Record 37
+LDR  02706cas  2200553 a 4500
+005  20070718000000.0
+007  cr unu||||||||
+008  821101c19839999nyusx p       0   a0eng d
+010       $a sc 83008189  $z sn 82007562
+022  0    $a 0735-1097
+035       $a (OCoLC)8909559
+037       $b Elsevier, Periodicals Order Fulfillment Dept., 6277 Sea Harbor Dr., Orlando, FL 32887-4800
+040       $a NSD $c NSD $d NLM $d DLC $d NST $d RCS $d NST $d NSD $d HUL $d AIP $d NST $d AIP $d NST $d AIP $d NST $d HUL $d NST $d NSD $d HUL $d CUS $d SYS $d GUA $d OCLCQ $d MUQ $d GUA $d CLU $d NSD $d NLGGC
+041  0    $a eng $b eng
+096       $a W1 $b JO 21B
+098       $n ov=.b1168678
+210  0    $a J. Am. Coll. Cardiol. $b (Print)
+222   0   $a Journal of the American College of Cardiology $b (Print)
+245  00   $a Journal of the American College of Cardiology
+246  13   $a JACC
+246  30   $a J.A.C.C
+260       $a [New York, N.Y.] : $b Elsevier Biomedical, $c [c1983]-
+300       $a v. : $b ill. ; $c 28 cm
+310       $a Semimonthly, $b 2002-
+362  0    $a [Vol. 1, no. 1] (Jan. 1983)-
+500       $a UCSF PE: USE 2 852s - 1ST 852, OUTPUT HOLDINGS FROM SUBFLD 3 TO OUTPUT SUBFLD 3; 2ND 852 HAS NO HOLDINGS, OUTPUT DEFAULT HOLDINGS MESSAGE (02/08).
+500       $a Published: Elsevier, <2004->
+500       $a Latest issue consulted: Vol. 44, no. 8 (Oct. 19, 2004)
+510  2    $a Chemical abstracts $x 0009-2258 $b 1983-
+510  2    $a Index medicus $x 0019-3879
+510  2    $a Life sciences collection
+510  1    $a Excerpta medica
+515       $a Two volumes a year
+530       $a Also issued online
+599       $a UPD $b added access for HighWire; replaced with current CONSER record and PID with SFX OpenURL $c 070410
+650   0   $a Cardiology $v Periodicals
+650   2   $a Cardiology $v Periodicals
+690       $a Electronic journals $x Cardiology
+690       $a Electronic journals $x Medical sciences
+690       $a Electronic journals $x Biology and medicine
+710  2    $a American College of Cardiology
+776  1    $t Journal of the American College of Cardiology (Online) $x 1558-3597 $w (DLC)  2004233151 $w (OCoLC)39190360
+793  0    $a Open access resource; selected by the UC Libraries. $p HighWire Press online journals. $g m
+793  0    $a ScienceDirect online journals. $g a
+852       $a SFB $b jrnl $j W1 JO 21B $3 v.1(1983)-v.42(2003)
+852       $a SFB $b sfgh $3 For holdings, consult UCSF local catalog.
+856  41   $3 v.25(1995)- $z ScienceDirect. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0735-1097
+856  41   $3 v.31(1998)- $z HighWire. Current 12 months may not be available at your campus; all other issues freely available $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0735-1097
+901       $a SFB $b 11861101
+
+Record 38
+LDR  02374cas  2200505 a 4500
+005  20070710000000.0
+007  cr unu--------
+008  750812c19139999enkmr1p       0   a0eng d
+010       $a sc 85001043  $z sn 80013751
+022  0    $a 0007-1323
+035       $a (OCoLC)1537315
+040       $a MUL $c MUL $d UCU $d OCL $d NSD $d HUL $d NSD $d RCS $d AIP $d DLC $d AIP $d NSD $d OCL $d NSD $d OCL $d IUL $d OCL $d MYG $d SYS $d OCL $d NLM $d NSD $d OCLCQ $d SBH $d OCLCQ $d GUA
+096       $a W1 $b BR 638X
+098       $n ov=.b1130833
+210  0    $a Br. j. surg. $b (Print)
+222   0   $a British journal of surgery $b (Print)
+245  00   $a British journal of surgery : $b BJS
+246  30   $a BJS
+260       $a [Bristol, England : $b John Wright & Sons ; $a Baltimore : $b Williams & Wilkins Co
+300       $a v. : $b ill. ; $c 26 cm
+310       $a Monthly
+362  1    $a Began with: 1, published in 1913
+500       $a Imprint varies: Guildford, UK : Butterworth Scientific <, Apr. 1986->; Chichester, UK : John Wiley & Sons Ltd. <Jan. 2003->
+500       $a UCSF PE: HAS 852.  1ST 852 HAS CALL NUM PREFIX AND SUFFIX, REMOVE PREFIX AND SUFFIX BEFORE OUTPUTTING CALL NUM IN 852j (02/08).
+500       $a Latest issue consulted: surrogate of v. 90, no. 1 (Jan. 2003)
+500       $a Latest issue consulted: Vol. 90, no. 1 (Jan. 2003)
+510  1    $a Excerpta medica
+510  1    $a Index medicus $x 0019-3879
+510  2    $a Biological abstracts $x 0006-3169 $b -1978
+650   0   $a Surgery $v Periodicals
+650   2   $a Surgery $v Periodicals
+655   7   $a Online resources. $2 local
+690       $a Electronic journals $x Surgery
+690       $a Electronic journals $x Medical sciences
+690       $a Electronic journals $x Biology and medicine
+776  1    $t British journal of surgery (Online) $w (DLC)   00242379 $w (OCoLC)45409615
+780  05   $t European journal of surgery $g 2003 $x 1102-4151 $w (DLC)sn 91033201 $w (OCoLC)23657406
+793  0    $a Blackwell-Synergy online journals. $g i
+793  0    $a Wiley InterScience online journals. $g a
+852       $a SFB $b jrnl $j W1 BR 638X $3 v.1(1913)-
+852       $a SFB $b sfgh $3 v.70(1983)-
+856  41   $3 v.85(1998)- $z Wiley. Restricted to UC campuses $u http://uclibs.org/PID/3410
+856  09   $3 v.1(1913)-v.84(1997) $z Wiley. Restricted to UCSF $u http://www3.interscience.wiley.com/cgi-bin/jtoc/112167270/all
+856  41   $3 v.87(2000)-v.89(2002). $z Blackwell-Synergy. Restricted to UC campuses $u http://uclibs.org/PID/77233
+901       $a SFB $b 11862300
+

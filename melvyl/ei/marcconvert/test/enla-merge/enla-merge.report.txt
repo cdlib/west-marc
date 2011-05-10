@@ -1,0 +1,42 @@
+
+
+ENLA SORT REPORT
+
+Start: 2009-7-10 15:46:34
+End:   2009-7-10 15:46:34
+
+------------------------------------------
+Run Statistics:
+          62 - Records Input
+          62 - Records written to sort
+          16 - Records Output
+           0 - Records Skipped
+           3 - Records Rejected
+           0 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  Record Rejected - more than one bib record
+               1 occurrence:  Record Rejected - no bib record
+               1 occurrence:  Record Rejected - no holding record
+
+------------------------------------------
+Configuration:
+  infile:      en.la.benchjav.mrc
+  outfile:     enla-merge.convert.mrc
+  reportfile:  enla-merge.report.txt
+  errorfile:   enla-merge.error.mrc
+  rejectfile:  enla-merge.reject.mrc
+  loctabfile:  tab_locations.txt
+  outdir:      enla-merge-temp
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

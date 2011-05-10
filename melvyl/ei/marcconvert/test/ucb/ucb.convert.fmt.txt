@@ -1,0 +1,656 @@
+Record 1
+LDR  00445nam  2200145pa 45  
+001      GLAD2064-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+010       $a micA24-123456
+245  00   $a LSO test record #3 : $b STO and Star ess, $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD SVM: STO NOTE (#096), 1 RLF# (955$s), NO SUM NOTE.
+852       $a GLAD $b NRLF $g Y47474 $j FB3.H3 $p $E12345
+901       $a GLAD $b 2064
+
+Record 2
+LDR  00432nam  2200133ba 45  
+001      GLAD2069-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+245  00   $a LSO test record #8 : $b BANC-STO and Star ess / $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD SVM BANCROFT: STO NOTE (#096), 1 RFL# (955$s), NO SUM NOTE.
+852       $a GLAD $b BNRLF $g Y858855 $j FB8.H8 $p $J12345
+901       $a GLAD $b 2069
+
+Record 3
+LDR  00597nam  2200181pa 45  
+001      GLAD2063-B
+005  19860618100450.0
+008  860618         cau                 eng  
+010       $a 24-123456
+245  00   $a LSO test record #2 : $b Star ess only, / $c F.B.H.
+260  0    $a Berkeley, Ca. : $b Lib. Sys. Off., $c 1986.
+300       $c 27 cm.
+500       $a GLAD SVM: 1ST LOC HAS: NO STO NOTE, NO SUM NOTE, 1 RLF#(955$s).
+500       $a GLAD: 2ND AND 3RD LOCS ARE NEITHER SVM NOR MVM.
+852       $a GLAD $b NRLF $j FB2.H2 $p $D123456
+852       $a GLAD $b AASL $h JKi44 $i .B99
+852       $a GLAD $b JOUR $j TL101.C16
+901       $a GLAD $b 2063
+
+Record 4
+LDR  00415nam  2200133ba 45  
+001      GLAD2068-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+245  00   $a LSO test record #7 : $b BANC-Star ess only / $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD SVM BANCROFT: NO STO NOTE, NO SUM NOTE, 1 RLF#(955$s).
+852       $a GLAD $b BNRLF $j FB7.H7 $p $H12345
+901       $a GLAD $b 2068
+
+Record 5
+LDR  00977nam  2200265K  45  
+001      GLAD17064824-B
+005  19901218004537.0
+005  19901218004537.0u             
+008  850309s1943    xx af    b    00000 eng d
+035       $a ocm22781309 
+040       $c CUY
+100  10   $a Russell, John Albert, $d 1913-
+245  03   $a An investigation of selective absorption and of the density function in the Scutum region of the Milky way.
+260  1    $c [1943]
+300       $a 1 p. l., 60 numb. l. incl. tables, diagrs., pl.
+500       $a GLAD SVM ALL 3 LOCS: EACH LOC HAS 1 RLF#; 3RD LOC IS A BANCROFT LOC.
+502       $a Thesis (Ph. D.)--Univ. of California, Berkeley, Oct. 1943.
+504       $a Bibliographical footnotes.
+650   0   $a Absorption of light.
+650   0   $a Stars $x Distribution.
+651   0   $a Milky Way.
+852       $a GLAD $b NRLF $h QB3.6 $i .R9642 $p $C 24 255
+852       $a GLAD $b NRLF $h QB819 $i .R85 $p $C 24 360
+852       $a GLAD $b BNRLF $h QB81 $i .R8 $p $C 25 240
+901       $a GLAD $b 17064824
+
+Record 6
+LDR  00414nam  2200133pa 45  
+001      GLAD2062-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+010       $a 4-123
+245  00   $a LSO test record #1 : $b STO note only / $c F.B.H.
+260  0    $a Berkeley,Ca.: $b Library Systems Office, $c 1986.
+500  0    $a GLAD SVM: STO NOTE #096, NO SUM NOTE, NO RLF #.
+852       $a GLAD $b NRLF $g Y9876 $j FB1.H1
+901       $a GLAD $b 2062
+
+Record 7
+LDR  00408nam  2200133ba 45  
+001      GLAD2067-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+245  00   $a LSO test record #6 : $b BANC-STO only / $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD SVM BANCROFT: STO NOTE #096, NO SUM NOTE, NO RLF#.
+852       $a GLAD $b BNRLF $g Y98243432 $j FB6.H6
+901       $a GLAD $b 2067
+
+Record 8
+LDR  00495nam  2200157pa 45  
+001      GLAD2065-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+010       $a 24-123456 
+245  00   $a LSO test record #4 : $b STO-SUM-Star ess, $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD MVM: STO NOTE #096, SUM NOTE #8, 1 RLF#.
+852       $a GLAD $b MAIN $g At NRLF: Y2349807 $j FB4.H4 $3 v.1-5
+852       $a GLAD $b NRLF $g Y2349807 $j FB4.H4 $p $F12345
+901       $a GLAD $b 2065
+
+Record 9
+LDR  00485nam  2200145ba 45  
+001      GLAD2070-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+245  00   $a LSO test record #9 : $b BANC-SUM-STO-Star ess / $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD MVM BANCROFT: STO NOTE #096, SUM NOTE #8, 1 RLF#.
+852       $a GLAD $b BANC $g At NRLF: YT3968119 $j FB9.H9 $3 v.12
+852       $a GLAD $b BNRLF $g YT3968119 $j FB9.H9 $p $K12345
+901       $a GLAD $b 2070
+
+Record 10
+LDR  00502nas  2200157pa 45  
+001      GLAD2063-B
+005  19860618100450.0
+008  860618         cau                 eng  
+010       $a 24-123456
+245  00   $a Modified LSO test record #11 : $c F.B.H.
+260  0    $a Berkeley, Ca. : $b Lib. Sys. Off., $c 1986.
+300       $c 27 cm.
+500       $a GLAD MVM SERIAL: STO NOTE #507, SUM IN 950$v; 1 RLF#.
+852       $a GLAD $b MAIN $g At NRLF: 12345 $j FB2.H2 $3 v.1-8
+852       $a GLAD $b NRLF $g 12345 $j FB2.H2 $p $Z394959
+901       $a GLAD $b 2063
+
+Record 11
+LDR  01256nas  2200265   45  
+001      GLAD91480-S
+005  20010811194355.0
+008  840123c19419999cauar p       0  1 0eng u
+010       $a    75646185 
+022       $a 0574-3680
+035       $a CUBU1615-S
+222  04   $a The Covered wagon
+245  04   $a The Covered wagon.
+260       $a Redding, Calif. [etc.] $b Shasta Historical Society.
+300       $a v. $b ill.,ports. $c 23 cm.
+310       $a Annual, 1954-
+362  0    $a Sept. 1941-
+500       $a GLAD MVM BANCROFT SERIAL: HAS SUM (950 $v) & STO NOTE (#096): CREATE 2 LOCS. 1)BNEG - 950 $n #506 -> 852$m; $n #096 -> 852$g; $n #513 -> 852$z; $v -> 852$3.
+500       $a 2ND LOC: "BNRLF" - 950 $n #506 -> 852$m; $n #096 -> 852$g; $n #513 -> 852$z.
+650   0   $a American literature $z California $x Periodicals.
+710  20   $a Shasta Historical Society
+780  05   $a Shasta Historical Society. $t Year book $g May/June 1945
+852       $a GLAD $b BNEG $g At NRLF: 1941-1943 $h F850 $i .C79 $m Later issues in Unbound $z Index for 1951 cataloged separately with call no.: F850.C79 Index 1950. $3 1941-1992; Indexes  1950-1960
+852       $a GLAD $b BNRLF $g 1941-1943 $h F850 $i .C79 $m Later issues in Unbound $z Index for 1951 cataloged separately with call no.: F850.C79 Index 1950.
+901       $a GLAD $b 91480
+
+Record 12
+LDR  00511nam  2200145ba 45  
+001      GLAD2071-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+245  00   $a Modified LSO test record #10 : $b BANC-SUM($v)-STO- / $c FBH.
+260  0    $a Berkeley, Ca.: $b LSO, $c 1986.
+300       $c 27 cm.
+500       $a GLAD MVM BANCROFT: STO NOTE (#096), SUM NOTE (950$v), RLF# (955$s).
+852       $a GLAD $b BANC $g At NRLF: Y2322296 $j FB10.H10 $3 v.55-57
+852       $a GLAD $b BNRLF $g Y2322296 $j FB10.H10 $p $Z1112228
+901       $a GLAD $b 2071
+
+Record 13
+LDR  00920nam  2200241 a 45  
+001      GLAD38447-B
+005  19830314110726.0
+008  830314s1982    enka     b    00110 eng  
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+010       $a    81067904
+020       $a 0126186200
+050  0    $a QD96.N8 $b S26 1982
+082  0    $a 543/.0877 $2 19
+100  10   $a Sandstrèom, J.
+245  10   $a Dynamic NMR spectroscopy / $c J. Sandstrèom.
+260  0    $a London ; $a New York : $b Academic Press, $c 1982.
+300       $a x, 226 p. : $b ill. ; $c 24 cm.
+500       $a GLAD: 950 HAS $d, $e, $f - REMOVE BACKSLASHES, OUTPUT $d TO 852 $k, $e TO 852 $m, $f TO 852 $x (03/02).
+650   0   $a Nuclear magnetic resonance spectroscopy.
+740  01   $a Dynamic N.M.R. spectroscopy.
+852       $a GLAD $b BIOC $h QD96.N8 $i S26 1982 $k From subfld d $m From subfld e $x From subfld f
+901       $a GLAD $b 38447
+998       $a GLAD $b 1003 $c Record contains the unknown location code BIOC $d Release-027-000 $e 38447
+
+Record 14
+LDR  01176nam  2200289   45  
+001      GLAD38448-B
+005  19830314110734.0
+008  830314m19399999ii bcf       f00000 eng  
+010       $a    42030937
+040       $c CU-A $d CU-A
+043       $a a-ii---
+050  0    $a DS485.S65 $b A5
+110  10   $a Sirmur, India.
+245  10   $a Sirmur state gazetteer 1934.
+260  0    $a Lahore, $b Printed by the Superintendent, Government Printing, Punjab, $c 1939-
+300       $a v. $b geneal. tables, ford. maps, plates, ports. $c 26 cm.
+500       $a GLAD: VERIFY CALL NUMBER PROCESSING.
+500       $a GLAD: FOR LOC OPTO, CREATE 852 WITH $h AND $i FROM 950 $a AND $b; OUTPUT $d AS 852 $k AFTER REMOVING 3 BACKSLASHES AND ADDING A SPACE BETWEEN THEM
+500       $a GLAD: FOR LOC MAPS2, REMOVE BACKSLASHES FROM 950 $a & CREATE 852$j
+500       $a GLAD: FOR LOC ED-P, CREATE 852 WITH $j FROM 950 $b.
+651   0   $a Sirmur, India.
+700  10   $a Kapur, Kahn Chand.
+852       $a GLAD $b OPTO $h DS485.S65 $i A5 $k Bennett Coll
+852       $a GLAD $b MAPS2 $j Atlas Case
+852       $a GLAD $b ED-P $j PA4414
+901       $a GLAD $b 38448
+998       $a GLAD $b 1003 $c Record contains the unknown location code MAPS2 $d Release-027-000 $e 38448
+
+Record 15
+LDR  00794nam  2200169 a 45  
+001      GLAD28449-B
+005  19830314110844.0
+008  830314r19801930is            00011 rusod
+040       $a NIC $c NIC $d CU
+100  10   $a Kozakov, Mikhail çEmmanuilovich.
+245  10   $a Chelovek, padaëiìushchiæi niëtìs : $b povesti i rasskazy / $c Mikhail Kozakov.
+260  0    $a [Tel-Aviv : $b Shofar, $c 1980?]
+300       $a 220 p. ; $c 17 cm.
+500       $a GLAD: 950 HAS 3 $d's WITH CASE VARYING 'REF' NOTES; REMOVE BACKSLASHES & OUTPUT EACH AS SEPARATE 852 $m'S (5/02).
+500       $a GLAD: 950 HAS $e WITH 2 SURROUNDING & 1 CENTRAL BACKSLASH; REMOVE BACKSLASHES & REPLACE CENTRAL ONE WITH A SPACE; OUTPUT AS  852 $m (5/02).
+852       $a GLAD $b MAIN $h PG3476.K66 $i C5 1980 $m Ref $m Reference Area $m REFER to MOTHRA $m Loan Desk
+901       $a GLAD $b 28449
+
+Record 16
+LDR  00967cam  22002538i 45  
+001      GLAD14056062-B
+005  19830315095307.0
+008  800212r19791894nyu           00010 eng  
+010       $a    75023686
+020       $a 0404132391
+040       $d CU-A
+043       $a e-uk-en
+050  0    $a RC178.L66 $b B63 1979
+082       $a 614.5/73/209421
+100  10   $a Boghurst, William.
+245  10   $a Loimographia : $b an account of the great plague of London in the year 1665 / $c by William Boghurst ; edited by Joseph Frank Payne.
+260  0    $a New York : $b AMS Press, $c 1979.
+300       $a xxi, 99 p. ; $c 23 cm.
+500       $a GLAD: 950 HAS $n #506; REMOVE BACKSLASHES, OUTPUT TEXT TO 852 $m (03/02).
+500       $a "Now first printed from the British Museum Sloane ms. 349, for the Epidemiological Society of London."
+650   0   $a Plague $y England $y London, 1665.
+700  10   $a Payne, Joseph Frank, $d 1840-1910.
+852       $a GLAD $b MAIN $h RC178 $i B63 1979 $m 506 TEXT $x p/cip
+901       $a GLAD $b 14056062
+
+Record 17
+LDR  00708cam  2200193 i 45  
+001      GLAD14154560-B
+005  19830315093913.0
+008  800219s1963    cl            00011 spa d
+040       $a NN $c CU-A $d CU-A
+100  10   $a Thomson, Augusto, $d 1880-1950.
+245  00   $a Antologâia de Augusto d'Halmar : $b el hermano errante ; $c selecciâon y prâologo de Enrique Espinoza.
+260  0    $a Santiago de Chile : $b Zig-Zag, $c 1963.
+300       $a 294 p. ; $c 21 cm.
+490  0    $a Colecciâon Antologâias
+500  0    $a GLAD: 950 HAS $n #508; REMOVE BACKSLASHES, OUTPUT AS 852 $z (03/02).
+700  11   $a Espinoza, Enrique, $d 1898-
+740  31   $a El hermano errante.
+852       $a GLAD $b MAIN $h PQ8097.T55 $i A6 1963 $z 508 text
+901       $a GLAD $b 14154560
+
+Record 18
+LDR  00780nam  2200241 a 45  
+001      GLAD28521-B
+005  19830314141559.0
+008  830314s1981    pau           00010 eng  
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+010       $a    81009220
+020       $a 0918366232 : $c $10.00
+020       $a 0918366224 (pbk.) : $c $5.95
+040       $a DGPO/DLC $d CStRLIN $d CU-A
+050  0    $a PS3576.I47 $b A83
+082  0    $a 811/.54 $2 19
+100  10   $a Zimmer, Paul.
+245  14   $a The ancient wars / $c Paul Zimmer.
+260  0    $a Pittsburgh : $b Slow Loris Press, $c 1981.
+300       $a 29 p. ; $c 23 cm.
+490  0    $a Slow Loris poetry series
+500       $a GLAD: 950 $n HAS SUM HOL NOTE #8, 950 HAS $v, $y; OUTPUT 950 $v,$y AS 852 $3 (03/02).
+852       $a GLAD $b ANTH $j Avant Garde $3 v.1-80; Library Lacks: v.66
+901       $a GLAD $b 28521
+
+Record 19
+LDR  00611nam  2200157 a 45  
+001      GLAD48533-B
+005  19830314144332.0
+008  830314s1981    dcu      b   i00010 spa  
+050  0    $a AC75 $b .V248 1981
+100  10   $a Tobor, Johnny Bob
+245  10   $a History of the felt tip pen.
+260  0    $a Washington, D.C. : $b Daemon Pubs.
+300       $a v.1-1000 ; $c 50 cm.
+500       $a GLAD: 950 HAS $v $y $z: APPEND "Library Lacks: " IN FRONT OF $y; CONCATENATE $v, $y, $z (SEPARATING WITH "; ") AND OUTPUT TO 852 $3 (05/02).
+852       $a GLAD $b MAIN $h AC75 $i .V248 $3 v.1-1000; Library Lacks: v.49,67; Electronic Access.
+901       $a GLAD $b 48533
+
+Record 20
+LDR  00778nam  2200193 a 45  
+001      GLAD48482-B
+005  19830314120658.0
+008  830314s1982    maua     b    00110 eng  
+100  10   $a Porell, Frank W.
+245  10   $a Models of intraurban residential relocation / $c Frank W. Porell.
+260  0    $a Boston : $b Kluwer-Nijhoff, $c c1982.
+300       $a xvi, 204 p. : $b ill. ; $c 24 cm.
+440   0   $a Studies in applied regional science
+500       $a GLAD: OUTPUT 950$n PROF. NOTES #43-51 AS 852$x; IGNORE NOTES #999, #777, #444 (05/02).
+650   0   $a Residential mobility $z United States $x Mathematical models.
+852       $a GLAD $b MAIN $h HD7288 $i P67 $x #43 $x #44 $x #45 $x #46 $x #47
+852       $a GLAD $b BUSI $h RV6666 $i J44 $x #48 $x #49 $x #50 $x Fnote
+852       $a GLAD $b ED-P $h AC100 $i J22 $x #51 NOTE
+901       $a GLAD $b 48482
+
+Record 21
+LDR  00668nam  2200229 a 45  
+001      GLAD38483-B
+005  19830314120705.0
+008  830314m19829999flua     b    00100 eng  
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+010       $a    81010018
+020       $a 0849360412 (v. 1)
+040       $d CU-A
+050  0    $a TP453.C65 $b F67 1982
+082  0    $a 664/.01 $2 19
+245  00   $a Food hydrocolloids / $c editor, Martin Glicksman.
+260  0    $a Boca Raton, FL : $b CRC Press, $c c1982-
+300       $a v. : $b ill. ; $c 26 cm.
+500       $a GLAD: CONTAINS 950 $n #28 NOTE; IGNORE (03/02).
+650   0   $a Colloids.
+700  10   $a Glicksman, Martin.
+852       $a GLAD $b MAIN $h TP453.C65 $i F67 1982
+901       $a GLAD $b 38483
+
+Record 22
+LDR  00879nam  2200253 i 45  
+001      GLAD48484-B
+005  19830314120832.0
+008  830314s1981    cau      b    00010 eng  
+010       $a    79027097
+020       $a 0891303758
+020       $a 0891303766 (pbk.)
+040       $d IaU
+050  0    $a BX4705.T9 $b W44
+082       $a 230/.2/0924
+100  10   $a Wells, David F.
+245  14   $a The prophetic theology of George Tyrrell / $c by David F. Wells.
+260  0    $a Chico, CA : $b Scholars Press, $c c1981.
+300       $a xii, 107 p. ; $c 23 cm.
+490  1    $a American Academy of Religion studies in religion ; no. 22 $x 0084-6287
+500       $a GLAD: CONTAINS 950 $n #513 NOTE; OUTPUT AS 852 $Z (03/02).
+600  10   $a Tyrrell, George, $d 1861-1909.
+810  2    $a American Academy of Religion. $t AAR studies in religion ; $v no. 22.
+852       $a GLAD $b MAIN $h BX4705.T9 $i W44 $x cip $z NOTE 513
+901       $a GLAD $b 48484
+
+Record 23
+LDR  00656nam  2200193b  45  
+001      GLAD31658-B
+005  19890307060103.0
+008  831129 1983    cau               1 eng u
+010       $a    82005508 
+035       $a CUBU83-B687
+100  10   $a Duncan, David James
+245  14   $a The river why / $c David James Duncan
+260  0    $a San Francisco : $b Sierra Club Books, $c c1983
+300       $a 294 p. ; $c 22 cm
+500       $a GLAD: 950 $n #513 AND #541 - OUTPUT AS SEPARATE 852 $Z's (03/02).
+650   0   $a Fishing $x Fiction
+710  20   $a Sierra Club
+852       $a GLAD $b CEDA $h PS3554.U4634 $i .R5 $z Tan paper boards with blue cloth spine; dust jacket $z Sierra Club.
+901       $a GLAD $b 31658
+
+Record 24
+LDR  00966nas  2200217b  45  
+001      GLAD90602-S
+005  19900728040512.0
+008  840120         sw m                swe d
+022       $a 0567-8064
+245       $a Acta Radiologica. Therapy, Physics, Biology
+260       $a Stockholm
+362       $a v.1-16; Feb.1963-1977
+500       $a GLAD: DROP SUBFLD $n FRM 780; DROP SUBFLDS $e, $h, $n FRM 785.
+500       $a GLAD: DROP 003 FIELD FROM OUTPUT.
+500       $a GLAD: OUTPUT 590 IN $z OF EACH 852; DROP 590 FROM OUTPUT RECORD.
+780   3   $t Acta Radiologica
+785   0   $t Acta Radiologica. Oncology, Radiation, Physics, Biology
+852       $a GLAD $b BIOS $h RM845 $i .A2 $m Shelved at BIOSCIENCES OFF CAMPUS COLLECTION $z Some copies stored in librarian's car. $3 Bound 4(1966)-16(1977)//
+852       $a GLAD $b FORE $j GX33376 $z Some copies stored in librarian's car. $3 v. 1-16//
+901       $a GLAD $b 90602
+998       $a GLAD $b 1003 $c Record contains the unknown location code FORE $d Release-027-000 $e 90602
+
+Record 25
+LDR  00701nas  2200157   45  
+001      GLAD89182-S
+005  19900728040512.0
+008  840110d19041967mx  u p       0uuub0spa d
+035       $a RLINCUBU13068404-S
+245  00   $a Boletâin del Biblioteca Nacional de Mâexico.
+260       $a Mâexico.
+362  0    $a v.1-13, no.1, July 1904-Jan./Feb. 1929; ser.2, v.1-18, 1950-1967
+500       $a GLAD SERIAL: 2 950$v's & 1 $y; CONCATENATE BOTH $v's & $y AFTER PREFIXING 'Library lacks: ' TO THE $y; SEPARATE EACH UNIT WITH A SEMICOLON SPACE ("; ") AND OUTPUT RESULT AS 852 $3.
+710  21   $a Biblioteca Nacional de Mâexico
+852       $a GLAD $b BANC $h Z885 $i .M58 $3 v.3-77; v.99-121; Library Lacks: First two issues.
+901       $a GLAD $b 89182
+
+Record 26
+LDR  00509nam  2200133pa 45  
+001      GLAD3063-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+010       $a 4-123
+245  04   $a The Godzilla Diaries.
+260  0    $a Berkeley,Ca.: $b Library Systems Office, $c 1986.
+500       $a GLAD SRLF: LOCATION IN 950 $l IS 'ANEG'; DO NOT PROCESS AS MVM OR SVM; OUTPUT 'ANEG' IN 852$b; #096 STO NOTE IN 852$g; 950$v IN 852$3; 955$s IN 852 $p.
+852       $a GLAD $b ANEG $g Y9876 $j FB1.H1 $p 45966 $3 V.1-13
+901       $a GLAD $b 3063
+
+Record 27
+LDR  01419nms  2200265   45  
+001      GLAD97869-S
+005  19970920230024.0
+008  840131c19639999nyu           0uuua0eng u
+010       $a    77002093 //r88 $z 71-20887
+022       $a 0068-0346
+035       $a RLINCUBG12625607-S
+050       $a Q174 $b .B67
+222  00   $a Boston studies in the philosophy of science
+245  00   $a Boston studies in the philosophy of science.
+260  00   $a Dordrecht, Netherlands : $b D. Reidel Pub. Co., $c 1963-
+300       $a v. : $b ill.; $c 22 cm.
+362  0    $a [Vol. 1]-
+500       $a GLAD PE: MRDF RECORD (TYPE m, BIBLVL s); NO SPECIAL PROCESSING.
+510  2    $a Biological abstracts $x 0006-3169 $b -1980
+510  2    $a Mathematical reviews $x 0025-5629
+650   0   $a Science $x Philosophy.
+852       $a GLAD $b MAIN $g At NRLF: v.1-4, v.5:1-5:2, v.6-9, v.12-18, v.19:1-19:2, v.20-25, v.27-30, v.32-36 $h Q175.A1 $i .B63 $z After vol. 61 cataloged individually with series added entries. $3 Bound 1-16, 18-39, 42-44, 46-61 *c(more than one copy of some volumes)
+852       $a GLAD $b NRLF $g v.1-4, v.5:1-5:2, v.6-9, v.12-18, v.19:1-19:2, v.20-25, v.27-30, v.32-36 $h Q175.A1 $i .B63 $z After vol. 61 cataloged individually with series added entries.
+852       $a GLAD $b PHIL $h Q175.A1 $i .B63 $z Issues after vol. 39, if received, will be cataloged individually with with series added entries $3 Bound 1(1963)-8, 11-12, 14, 16, 20, 22-25, 27-28, 35, 37, 39(1977)
+901       $a GLAD $b 97869
+
+Record 28
+LDR  01187nbc  2200265K  45  
+001      GLAD167994759-W
+005  20010811194355.0
+008  920817i18641918cau                 eng d
+035       $a ocm26337088 
+040       $a CUY $c CUY
+100  1    $a Hearst, Phoebe Apperson, $d 1842-1919.
+245  10   $a Phoebe Apperson Hearst papers, $f [ca. 1864-1918]
+300       $3 Originals : $a 64 boxes, 24 cartons, 1 oversize folder.
+500       $a GLAD: TYPE = b; TYPE NOT VALID; CREATE 998 WITH ERROR MESSAGE
+500       $a GLAD: INPUT RECORD CONTAINS 852; DO NOT OUTPUT THE FIELD.
+500       $a GLAD SVM BANCROFT
+555       $a Finding aid available in Library. Electronic version available on the Internet.
+610  20   $a University of California (1868-1952)
+650   0   $a Women $z California.
+700  30   $a Hearst family.
+710  2    $a Online Archive of California Project.
+852       $a GLAD $b BNRLF $g CARTON 2-CARTON 14. $j BNEG MSS 72/204 c $m 1 oversize folder in oversize drawers, unit A. $p W 106 801
+856  42   $3 Finding aid: $u http://www.oac.cdlib.org/cgi-bin/oac/berkeley/bancroft/hearstpa
+901       $a GLAD $b 167994759
+998       $a GLAD $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e 167994759
+
+Record 29
+LDR  00974nam  2200253   45  
+001      GLAD342-B
+005  20020510143000.0
+008  830810 1981    gt                  spa u
+010       $a    82136295 
+035       $a ocm08668086
+100  20   $a Lujâan Muänoz, Luis.
+245  10   $a Tradiciones navideänas de Guatemala / $c Luis Lujâan Muänoz
+260  0    $a [Guatemala, Guatemala] : $b Esso Central America, $c [1981]
+265       $a Casa El Carmen $b 3a. Avenida Norte No. 8 $c Antigua, Guatemala, C.A.
+300       $a 199 p. : $b ill. (some col.) ; $c 22 cm
+490  1    $a Cuadernos de la tradiciâon guatemalteca ; $v 1
+500       $a GLAD: NO 005 FLD IN INPUT REC; CREATE 005 FROM PARM IN PROGRAM RUN.
+650   0   $a Christmas $z Guatemala.
+651   0   $a Guatemala $x Social life and customs.
+651   0   $a Guatemala $x Social life and customs.
+752       $a Guatemala $d Guatemala $9 (1981)
+830   0   $a Cuadernos de la tradiciâon guatemalteca ; $v 1
+852       $a GLAD $b BANC $h F1473.9 $i .L84.1981
+901       $a GLAD $b 342
+
+Record 30
+LDR  00572nam  2200181K  45  
+001      GLAD999-B
+005  19901218004537.0
+008  850309s1943    xx af    b    00000 eng d
+035       $a ocm22781309 
+040       $c CUY
+100  10   $a Jarratt, Kent, $d 1950-
+245  03   $a The giant squid.
+260  1    $c [1943]
+300       $a 1 p. l., 60 numb. l. incl. tables, diagrs., pl.
+500       $a GLAD: 3 LOCS; 1st AND 3rd HAVE 'D' IN 10TH POSITION OF 950 $i; DO NOT CREATE 852s FOR THEM - THEY ARE DELETE LOCATIONS.
+651   0   $a Ink Bottles.
+852       $a GLAD $b CEDA $h QF222 $i .P99
+901       $a GLAD $b 999
+
+Record 31
+LDR  00426nam  2200145pa 45  
+001      GLAD2064-B
+005  19860618100450.0
+008  860618 1986    cau                 eng  
+010       $a micA24-123456
+245  00   $a Claw of the ten foot tabby.
+260  0    $a Berkeley, Ca.: $b JRAT, $c 2001.
+300       $c 99 cm.
+500       $a GLAD: RECORD CONTAINS NON-NUMERIC TAGS; DO NOT MOVE TO OUTPUT RECORD.
+852       $a GLAD $b MAIN $j P19.B51
+901       $a GLAD $b 2064
+
+Record 32
+LDR  01114nam  2200277   45  
+001      GLAD163-B
+005  20020407000330.0
+008  830810 1981    cau                 eng u
+010       $a    82138075
+035       $a ocm08475771
+245  00   $a Charles Hopper and the pilgrims of the Pacific : $b a 1841 California pioneer, his narrative and other documents / $c edited by Franklin Beard
+260  0    $a La Grange, Calif. : $b Southern Mines Press, $c 1981
+300       $a xiv, 160, [2]  p. : $b ill. ; $c 29 cm
+500       $a GLAD: UNKNOWN LOC CODE, CREATE 998 FIELD WITH ERROR MSG (05/02).
+500       $a Includes index
+504       $a Bibliography: p. 159-[161]
+600  10   $a Hopper, Charles, $d 1800-1880.
+650   0   $a Pioneers $z California $x Biography.
+650   0   $a Overland journeys to the Pacific.
+650   0   $a Frontier and pioneer life $z California.
+651   0   $a California $v Biography.
+700  10   $a Beard, Franklin.
+752       $a United States $b California $d La Grange $9 (1981)
+852       $a GLAD $b XXXX $h F864.H83 $i .C45
+901       $a GLAD $b 163
+998       $a GLAD $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 163
+
+Record 33
+LDR  00925naX  2200241   45  
+001      GLAD1145-B
+005  20020407000330.0
+008  830810 1980    at                  eng u
+010       $a    81670137
+035       $a ocm08169499
+100  10   $a Boland, D. J. $q (Douglas J.)
+245  10   $a Eucalyptus seed / $c D.J. Boland, M.I.H. Brooker, and J.W. Turnbull ; with scanning electron microscopy by D.A. Kleinig
+260  0    $a [Canberra] : $b CSIRO Australia, $c c1980
+300       $a 191 p. : $b ill. ; $c 26 cm
+500       $a GLAD: INVALID BIBLVL - CREATE 998 FIELD WITH ERROR MSG (05/02).
+504       $a Bibliography: p. [173]-180
+650   0   $a Eucalyptus $x Seeds.
+700  10   $a Brooker, M. I. H. $q (M. Ian H.)
+700  10   $a Kleinig, D. A.
+700  10   $a Turnbull, J. W. $q (John W.)
+852       $a GLAD $b BIOS $h SD397.E8 $i .B63 $3 *c2 copies
+901       $a GLAD $b 1145
+998       $a GLAD $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 1145
+
+Record 34
+LDR  00555dXX  2200157   45  
+001      GLAD1489-B
+005  20020510143000.0
+008  830810 1982    flu                 eng u
+010       $a    82001238
+035       $a ocm08195962
+260  0    $a Boca Raton, Fla. : $b CRC Press, $c c1982
+300       $a 219 p. : $b ill. ; $c 26 cm
+500       $a GLAD: DELETE RECORD: INVALID TYPE & BIBLVL, NO 245, NO 005, NO LOC CODE- OUTPUT DELETE REC, DO NOT OUTPUT 998 ERROR FIELDS; USE FILEDATE FOR 005 (05/02).
+650   0   $a Salt marsh plants.
+700  10   $a Lewis, Roy R., $d 1944-
+901       $a GLAD $b 1489
+
+Record 35
+LDR  00718nam  2200217   45  
+001      GLAD2073-B
+005  20020407000330.0
+008  830810 1979    mau                 eng u
+010       $a    79084320
+035       $a ocm05228242
+250       $a 2d ed
+260  0    $a Boston : $b Little, Brown, $c c1979
+300       $a xv, 388 p. : $b ill. ; $c 22 cm
+500       $a GLAD: REC HAS NO 245, CREATE 998 FIELD WITH ERROR MSG (05/02).
+650   0   $a Symptoms.
+650   0   $a Diagnosis.
+700  10   $a Briney, Walter G. $q (Walter George), $d 1934-
+700  10   $a Friedman, H. Harold $q (Henry Harold), $d 1917-
+852       $a GLAD $b BIOS $h RC69 $i .P76 1979 $m WITHDRAWN
+901       $a GLAD $b 2073
+998       $a GLAD $b 1002 $c Record contains no 245 field $d Release-027-000 $e 2073
+
+Record 36
+LDR  01270nam  2200205   45  
+001      GLAD2327-B
+005  20020407000330.0
+008  830810 1981    dcu          f      eng u
+010       $a    81602600
+035       $a ocm07565150
+086       $a Y 4.Ap 6/1:L 11/982/pt.1-10
+110  10   $a United States. $b Congress. $b House. $b Committee on Appropriations. $b Subcommittee on the Departments of Labor, Health and Human Services, Education, and Related Agencies.
+245  10   $a Departments of Labor, Health and Human Services, Education, and related agencies appropriations for 1982 : $b hearings before a subcommittee of the Committee on Appropriations, House of Representatives, Ninety-seventh Congress, first session / $c Subcommittee on the Departments of Labor, Health and Human Services, Education, and Related Agencies
+260  0    $a Washington : $b U.S. G.P.O., $c 1981
+300       $a 10 v. : $b ill. ; $c 24 cm
+500       $a GLAD: DROP ALL INPUT 9XX FIELDS, INC 901 (05/02).
+651   0   $a United States $x Appropriations and expenditures, 1982.
+852       $a GLAD $b MAIN $g At NRLF: no.11 pt.1-3, no.11 pt.4-7, no.11 pt.8-11 pt.9-10 $h J61 $i .A6 97th no.11 pt.1-10 $3 PART 1-10 (1981)
+852       $a GLAD $b NRLF $g no.11 pt.1-3, no.11 pt.4-7, no.11 pt.8-11 pt.9-10 $h J61 $i .A6 97th no.11 pt.1-10
+901       $a GLAD $b 2327
+
+Record 37
+LDR  01648nas  2200349 a 4500
+001      GLAD100663306-B
+005  20020428192640.0
+008  890728u19uu9999mx ar        f0uuub0spa  
+010       $a    86656653
+035       $a ocm14577304 
+040       $a DLC $c DLC $d m/c $d DLC $d CUY
+042       $a lc
+043       $a n-mx---
+050  00   $a J171 $b .N3a
+082  00   $a 354.72/0005 $2 19
+110  10   $a Mexico. $b President.
+245  10   $a Informe de gobierno. $p Pesca y recursos del mar.
+246  10   $a Pesca y recursos del mar
+260  00   $a [Mâexico : $b Pesca, Direcciâon General de Comunicaciâon y Publicaciones,
+300       $a v. : $b ill. ; $c 28 cm.
+500       $a CHAR CO p0s; CHAR C1 p1s; CHAR C2 p2s;CHAR C3 p3s; CHAR C4 p4s; CHAR C5 p5s; CHAR C6 p6s.
+500       $a CHAR C7 p7s; CHAR C8 p8s; CHAR C9 p9s; CHAR CA p+s; CHAR CB p-s; CHAR CC p(s CHAR CD p)s.
+500       $a CHAR D0 b0s; CHAR D1 b1s; CHAR D2 b2s; CHAR D3 b3s; CHAR D4 b4s; CHAR D5 b5s; CHAR D6 b6s.
+500       $a CHAR D7 b7s; CHAR D8 b8s; CHAR D9 b9s; CHAR DA b+s; CHAR DB b-s; CHAR DC b(s; CHAR DD b)s.
+500       $a CHAR AF gas; CHAR BE gbs; CHAR BF gcs;
+500       $a CHAR A0  ; CHAR CE Î; CHAR CF Ï; CHAR DE Þ; CHAR DF ß; CHAR FC ü; CHAR FD ý.
+515       $a Also has numbering that begins again with each president's term.
+651   0   $a Mexico $x Politics and government $y 1970-1988 $x Periodicals.
+651   0   $a Mexico $x Economic policy $y 1970-1994 $x Periodicals.
+710  10   $a Mexico. $b Secretarâia de Pesca. $b Direcciâon General de Comunicaciâon y Publicaciones.
+852       $a GLAD $b MAIN $h J171 $i .N344 $3 BOUND 1986(4)
+901       $a GLAD $b 100663306
+

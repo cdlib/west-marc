@@ -1,0 +1,5 @@
+Record Rejected: I-30 R-1 No 001 field
+Record Rejected: I-31 R-2 Cataloging source not UCB
+Record Rejected: I-32 R-3 Cataloging source not UCB
+Record Rejected: I-39 R-4 no 852 was generated
+Record Rejected: I-41 R-5 no 852 was generated

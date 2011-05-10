@@ -1,0 +1,422 @@
+Record 1
+LDR  00965cam  2200289   45  
+005  19970709000000.0
+008  720810s1972    enk      b    00000 eng  
+010       $a 72185487
+015       $a B***
+035       $a car72185487 
+040       $a DLC $c DLC
+041  1    $a engger
+043       $a e------
+090  1    $a HD8376 $b .A213
+100  10   $a Abendroth, Wolfgang.
+240  00   $a Sozialgeschichte der europèaischen Arbeiterwegung. $l English.
+245  12   $a A short history of the European working class. $c [Translated from the German by Nicholas Jacobs and Brian Trench.
+260  0    $a London] $b NLB $c [1972]
+300       $a 204 p. $c 22 cm.
+350       $a ¹2.50.
+500       $a UCR MONO: 920 LACKS $L (NO LOCATION); DON'T CREATE 852; REJECT (03/06).
+504       $a Bibliography: p. [198]-204.
+650   0   $a Trade-unions $z Europe $x History.
+650   0   $a Working class $z Europe $x History.
+650   0   $a Labor movement $z Europe $x History.
+650   0   $a Labor $z Europe $x History.
+901       $a RVB $b 10021541
+
+Record 2
+LDR  00686nam  2200193I  45  
+005  19970627000000.0
+008  730507 1966                        ger u
+010       $a 67107293
+035       $a 616686
+040       $c CIN $d CU-Riv
+090  1    $a AC30 $b .N84
+245  00   $a 0+20 [i.e. Null plus zwanzig] $b Almanach der Nymphenburger Verlagshandlung 1946-1966.
+260  0    $a Mèunchen $b [Nymphenburger Verlagshandlung] $c 1966.
+300       $a 429 p. $c 20 cm.
+500       $a UCR MONO: REC HAS NO 920 & NO 901 $b; DON'T CREATE 852; REJECT (03/06).
+504       $a Bibliographical footnotes.
+710  20   $a Nymphenburger Verlagshandlung.
+740  01   $a Almanach der Nymphenburger Verlagshandlung 1946-1966.
+901       $a RVB $b 10000021
+
+Record 3
+LDR  00969cam  2200277 a 45  
+005  19970627000000.0
+008  830322s1983    nyu      b    00000 eng  
+010       $a 82048668
+020       $a 0060806605 (pbk.) :
+020       $a 0060151587 :
+035       $a 9393299
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CU-Riv
+090       $a PR6029.R84 $b N556 1983
+245  00   $a 1984 revisited : $b totalitarianism in our century / $c edited by Irving Howe.
+250       $a 1st ed.
+260  0    $a New York : $b Harper & Row, $c c1983.
+300       $a x, 276 p. ; $c 22 cm.
+500       $a UCR MONO: REC HAS NO 920, 901 $B IS 'MULTI', 998 CONTAINS NO $A'S; DON'T CREATE 852; REJECT (03/06).
+504       $a Includes bibliographical references.
+600  10   $a Orwell, George, $d 1903-1950. $t Nineteen eighty-four.
+650   0   $a Totalitarianism.
+700  10   $a Howe, Irving.
+700  11   $a Orwell, George, $d 1903-1950. $t Nineteen eighty-four.
+740  01   $a Nineteen eighty-four revisited.
+901       $a RVB $b 10007489
+
+Record 4
+LDR  00866cam  2200217   45  
+005  19970724000000.0
+008  710222s1947    iluabc   bey  00100deng  
+010       $a 47006281
+035       $a car47006281 
+040       $a DLC $c DLC $d CU-Riv
+049       $a CRUG
+090       $a AG5 $b .T45
+245  00   $a 10 eventful years; $b a record of events of the years preceding, including and following World War II, 1937 through 1946; $c prepared under the editorial direction of Walter Yust, editor of Encyclopµdia Britannica.
+260  0    $a Chicago, $b Encyclopµdia Britannica $c [1947]
+300       $a 4 v. $b illus., ports., maps. $c 29 cm.
+500       $a UCR MONO: NO 920, NO 998, 901 $b ='MULTI'; DON'T CREATE 852; REJECT (03/06).
+650   0   $a Encyclopedias and dictionaries.
+650   0   $a Twentieth century.
+700  10   $a Yust, Walter, $d b. 1894.
+730  01   $a Encyclopµdia Britannica.
+901       $a RVB $b 10001359
+
+Record 5
+LDR  01491cas  2200361 a 45  
+005  19970825000000.0
+008  791017d19171956ilusn p  b    0   a0eng d
+010       $a sn 86025046
+019       $a 7517168
+035       $a 5532957
+040       $a IPL $c IPL $d NSD $d OCL $d NYS $d OCL $d IUL $d NST $d CRU
+042       $a lcd
+090       $a Z1035 $b .B58
+098       $n ov=.b625916
+130  0    $a Booklist (Chicago, Ill. : 1917)
+245  04   $a The booklist.
+260       $a Chicago : $b American Library Association Publishing Board, $c 1917-1956.
+300       $a 40 v. ; $c 20-25 cm.
+310       $a Semimonthly (except for one or more summer months), $b Sept. 1947-Aug. 1956.
+321       $a Monthly (except Aug.-Sept.), $b Oct. 1917-July 1930.
+321       $a Monthly, $b Aug. 1930-Aug. 1937.
+362  0    $a Vol. 14, no. 1 (Oct. 1917)-v. 52, no. 23 (Aug. 1956).
+500       $a UCR PE: ALL LOCS BEGIN WITH "rd" ; CREATE NO 852; REJECT (03/06).
+515       $a Final issue of each vol. is the vol. index, Aug. 1949-Aug. 1956.
+580       $a Merged with: Subscription books bulletin, to form: Booklist and subscription books bulletin.
+650   0   $a Books $x Prices $x Periodicals.
+650   0   $a Books $x Reviews $x Periodicals.
+710  2    $a American Library Association.
+710  2    $a American Library Association. $b Publishing Board.
+780  00   $t A.L.A. booklist $w (OCoLC)4814149.
+785  17   $t Subscription books bulletin $w (OCoLC)1606336.
+785  17   $t Booklist and subscription books bulletin $x 0730-8957 $w (OCoLC)1780726.
+901       $a RVB $b 11046569
+
+Record 6
+LDR  00773cas  2200205I  45  
+005  19970825000000.0
+008  790326c19539999ru ur p       0    0rus  
+010       $a 54028333 /L
+035       $a 4784561
+040       $a DLC $c LUU $d OCL $d CRU
+049       $a CRUG
+050       $a PG3101 $b .A44
+110  2    $a Institut russkoæi literatury (Pushkinskiæi dom)
+245  10   $a Russkoe narodnoe poçeticheskoe tvorchestvo. $c [Otvetstvennyi redaktor V. P. Adrianova-Peretëtìs]
+260       $a Moskva, Izd-vo Akademii nauk SSSR, $c 1953-
+300       $a v. $b illus. $c 23 cm.
+500       $a UCR PE: REC HAS 850, BUT NO 850 $b; CREATE NO 852; REJECT (03/06).
+650   0   $a Folk literature, Russian $x History and criticism.
+700  2    $a Adrianova-Peretëtìs, V. P. $q (Varvara Pavlovna), $d 1888-1972, $e ed.
+901       $a RVB $b 18306536
+
+Record 7
+LDR  00703nas  2200205   45  
+005  19970825000000.0
+008  950418 1934    nyu      b    00110 eng  
+010       $a 34-21616
+035       $a aut10064152
+049       $a CRUG
+090       $a NA9010 $b .P32
+098       $n ov=.b280488
+111  2    $a Pacific Northwest regional planning conference.
+245  10   $a Proceedings of the ... $c Pacific Northwest regional planning conference ...
+260       $a Portland, Or. : $b Pacific Northwest regional planning commission, $c [1934-
+300       $a v. : $b diagr. ; $c 23 cm.
+362  0    $a [1934-
+500       $a UCR PE: HAS NO 850, 901 LACKS $b; CREATE NO 852; REJECT (03/06).
+650   0   $a Regional planning $x Congresses.
+901       $a RVB $b 21492190
+
+Record 8
+LDR  01126nas  2200325 a 45  
+005  19970724000000.0
+008  950510d19621976gw  x p       0uuua0ger d
+010       $a 89-643728
+022       $a 0036-5726
+035       $a (OCoLC)4753806
+035       $a aut   89643728
+040       $a InU $c InU $d DLC
+042       $a lc
+043       $a e-ge---
+049       $a CRUG
+090       $a NA6840.G5 $b S3
+098       $n ov=.b2822568
+245  00   $a Scena. $b [no.] 1-34.
+260       $a [Berlin : $b Institut fèur Technologie Kultureller Einrichtungen, $c 1962-1977?
+300       $a 34 v. : $b ill. ; $c 29 cm.
+310       $a Irregular.
+362  1    $a Began with 1 in 1962; ceased with 34 in 1976.
+500       $a UCR PE: HAS NO 850, 901 $b = 'MULTI', 998 HAS NO $a'S; CREATE NO 852; REJECT (03/06).
+650   0   $a Theater $z Germany  (East) $x Construction $x Periodicals.
+650   0   $a Theater $z Germany (East) $x Periodicals.
+710  20   $a Institut fèur Technologie Kultureller Einrichtungen (Berlin, Germany)
+730  0    $a Scena (Berlin, Germany)
+730  00   $a Theater der Zeit.
+772  0    $t Theater der Zeit $x 0040-5418 $w (DLC)   52018288 $w (OCoLC)1713663.
+901       $a RVB $b 21585416
+
+Record 9
+LDR  01571cas  22004571  45  
+005  19970724000000.0
+008  740222d19691984enkmr1p       0uu1a0eng  
+010       $a 78008081
+019       $a 1716757
+022  0    $a 0030-4921
+030       $a ORMRBD
+032       $a 055890 $b USPS
+035       $a 812268
+040       $a DLC $c OUN $d OCL $d COO $d DLC $d OCL $d NSD $d SER $d AIP $d OCL $d CRU
+041  0    $a engfreger
+042       $a lc $a nsdp
+050  0    $a QD476 $b .O2
+098       $n ov=.b256935
+210  0    $a Org magn. reson.
+222  00   $a Organic magnetic resonance.
+245  00   $a OMR. Organic magnetic resonance.
+246  10   $a Organic magnetic resonance.
+260  00   $a London, $b Heyden.
+265       $a Heyden & Son Ltd., Spectrum House, Hillview Gardens, London NW4 2JQ UK.
+300       $a 22 v. $b illus. $c 26 cm.
+310       $a Monthly.
+350       $a $647.00.
+362  0    $a v. 1-22, no. 12; Feb. 1969-Dec. 1984.
+500  2    $a UCR PE: NO 850, 901 $b='MULTI', NO 998; CREATE NO 852; REJECT (03/06).
+510  2    $a Abstract bulletin of the Institute of Paper Chemistry $x 0020-3033.
+510  2    $a Chemical abstracts $x 0009-2258.
+525       $a Each issue accompanied by a Spectral supplement.
+546       $a English, French or German.
+555       $a Vols. 1-2, 1969-70.  1 v.
+650   0   $a Carbon compounds $x Spectra $x Periodicals.
+650   0   $a Magnetic resonance $x Periodicals.
+690   0   $a Nuclear magnetic resonance $x Periodicals.
+690   0   $a Spectrum analysis $x Periodicals.
+690   0   $a Chemistry, Organic $x Periodicals.
+785  00   $t Magnetic resonance in chemistry.
+901       $a RVB $b 21607096
+
+Record 10
+LDR  00838nas  2200241Ia 45  
+005  19980127000000.0
+008  860925c19549999cauwr p       0uuu 0eng d
+035       $a 14262050
+040       $a CRU $c CRU
+049       $a CRUV $a [Micro-][film]CRUS $a CRUV
+098       $n ov=.b2543564
+099       $a Y $a R5H53
+245  00   $a Highlander.
+247  10   $a UCR Cub, $f v. 1, no. 1-v. 3, no. 7.
+260  00   $a Riverside, Calif. : $b Univ. of Calif., Riverside, $c 1954-
+300       $a v. : $b ill. ; $c 38 cm.
+310       $a Weekly (27 issues during academic year)
+362  0    $a Vol. 1, no. 1 (Feb. 1954)-
+500       $a UCR PE: EACH 850 LOC BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+515       $a Numbering for v. 25 is repeated on issues for 1978 and 79.
+610  20   $a University of California, Riverside.
+710  20   $a University of California, Riverside.
+901       $a RVB $b 21770268
+
+Record 11
+LDR  00962cas  2200265I  45  
+005  19980129000000.0
+008  770310c19579999azumr p       0uuua0eng d
+010       $a 63049070
+022       $a 0006-7520
+035       $a 2791645
+040       $a UCU $c UCU $d IUL $d CRU
+050  0    $a Z1251.S8 $b B6
+098       $n ov=.b291694
+245  00   $a Books of the Southwest.
+260  00   $a Tucson, Ariz. [etc.] $b University of Arizona Library [etc.]
+300       $a v. $c 22 cm. monthly.
+362  0    $a no. 1-   June 1957-
+500       $a UCR PE: NO 850S, 901 $b BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+550  0    $a Formerly issued by the University of California at Los Angeles Library.
+650   0   $a American literature $z Southwest, New $x Bibliography $x Periodicals.
+651   0   $a Southwest, New $x Bibliography $x Periodicals.
+691   0   $a Southwest, New $x Bibliography.
+710  11   $a California. $b University, Los Angeles. $b Library.
+710  21   $a University of Arizona. $b Library.
+901       $a RVB $b 21682331
+
+Record 12
+LDR  01559cas  2200385 a 45  
+005  19980125000000.0
+008  760108u19539999cauqr1m       0   a0eng d
+010       $a 90648521  $z sc 76000073  $z sn 79009009
+019       $a 2450361 $a 5669181 $a 12015497 $a 12015552
+022  0    $a 0195-864X
+035       $a 1916499
+040       $a COO $c COO $d NSD $d DLC $d NSD $d DLC $d OCL $d DLC $d NSD $d OCL $d NST $d CRU
+042       $a lc $a nsdp
+043       $a n-us-ca
+090       $a F868.S14 $b S37
+098       $n ov=.b258143
+130  0    $a Quarterly-B (San Bernardino County Museum Association)
+210  0    $a Q. San Bernard. Cty. Mus. Assoc.
+222   0   $a Quarterly-B of San Bernardino County Museum Association.
+245  10   $a Quarterly-B / $c San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association quarterly.
+246  10   $a Quarterly-B of San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association.
+260       $a Bloomington, Calif. : $b The Association, $c 1953-
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Quarterly.
+362  0    $a Vol. 1 (1953)-
+500       $a UCR PE: NO 850S, LOC IN 901 $b IS 'multi', 998 HAS 2 $a'S, EACH BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+510  2    $a GeoRef $x 0197-7482.
+580       $a Vol. 5, no. 4 contains separately paged section called Archeological survey reports.
+651   0   $a California $x History $x Periodicals.
+710  2    $a San Bernardino County Museum Association.
+730  0    $a Archeological survey reports.
+777  1    $t Archeological survey reports.
+901       $a RVB $b 21662253
+
+Record 13
+LDR  00631pam  2200193 a 45  
+005  19980210000000.0
+008  880202s1988    maubf    d    000 0 eng  
+010       $a 88001643
+020       $a 0877794464
+035       $a 17508209
+040       $a DLC $c DLC $d CU-Riv
+090       $a G103.5 $b .W42 1988
+245  00   $a Webster's new geographical dictionary.
+260       $a Springfield, Mass. : $b Merriam-Webster, $c c1988.
+300       $a xxix, 1376 p., [2] p. of plates : $b maps ; $c 25 cm.
+500       $a UCR MONO: ONE 920 $l, LOC BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+650   0   $a Geography $x Dictionaries.
+710  20   $a Merriam-Webster, Inc.
+901       $a RVB $b 20837458
+
+Record 14
+LDR  00894cam  2200253I  45  
+005  19980209000000.0
+008  760204m19649999xx            00000 germ 
+010       $a 72311331
+020       $a 3503000151
+035       $a 1966280
+040       $a DLC $c JHE $d CU-Riv
+098       $n ov=.b101058x
+099       $a KKC $a E74
+100  10   $a Erler, Adalbert, $d 1904-
+245  10   $a Handwèorterbuch zur deutschen Rechtsgeschichte. $c Unter Mitarbeit von Wolfgang Stammler, hrsg von Adalbert Erler und Ekkehart Kaufmann.
+260  0    $a [Berlin] $b E. Schmidt $c [c 1971-
+300       $a v. $c 26 cm.
+500       $a UCR MONO: NO 920s, LOC IN 901 $b BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+504       $a Includes bibliography.
+650   0   $a Law $x History $x Dictionaries $x German.
+650   0   $a Law $z Germany (West) $x History $x Dictionaries.
+700  10   $a Kaufmann, Ekkehard.
+700  10   $a Stammler, Wolfgang, $d 1886-1965.
+901       $a RVB $b 13048193
+
+Record 15
+LDR  00656pam  2200193 a 45  
+005  19980210000000.0
+008  880202s1988    maubf    d    000 0 eng  
+010       $a 88001643
+020       $a 0877794464
+035       $a 17508209
+040       $a DLC $c DLC $d CU-Riv
+090       $a G103.5 $b .W42 1988
+245  00   $a Webster's new geographical dictionary.
+260       $a Springfield, Mass. : $b Merriam-Webster, $c c1988.
+300       $a xxix, 1376 p., [2] p. of plates : $b maps ; $c 25 cm.
+500       $a UCR MONO: NO 920s, 901 $b IS 'multi', 2 $A'S IN 998 BEGIN 'rd'; CREATE NO 852; REJECT (03/06).
+650   0   $a Geography $x Dictionaries.
+710  20   $a Merriam-Webster, Inc.
+901       $a RVB $b 20837458
+
+Record 16
+LDR  00604nam  2200181   45  
+008                                     eng  
+098       $n ov=.b5587712
+245   0   $a COLLECTED ALGORITHMS FROM ACM.
+260  1    $a New York : Association for Computing Machinery.
+500       $a UCR: UNKNOWN CATALOGING SOURCE IN 901 $a: REJECT RECORD
+700       $a ASSOCIATION FOR COMPUTING MACHINERY.
+901       $a xxXb25118006 $b r     $c b
+902       $a 10-13-97
+907       $a .b25118006
+920       $l ed7 $d - $f -
+990       $a ISSUED WITH COLLECTED ALGORITHMS FROM ASM SUPPLEMENT (MICROFORM)
+998       $a r    
+999       $b 0 $c   -  -   $d p $e s $f b $g 0
+
+Record 17
+LDR  00972cam  2200301I  45  
+001  1078422
+005  19940411183010.0
+008  741118s1971    mx a     b    000 0 eng  
+010       $a 79867653
+040       $a DLC $c ISM $d CNE $d OCoLC $d CU-Riv
+049       $a CRUG
+090       $a GR70 $b .V4
+245  00   $a 25 estudios de folklore; $c homenaje a Vicente T. Mendoza y Virginia Rodrâiquez Rivera.
+246  3    $a Veinticinco estudios de folklore
+250       $a [1. ed.]
+260       $a Mâexico, $b [s.n.] $c 1971.
+300       $a 394 p. $b illus. $c 24 cm.
+490  1    $a Universidad Nacional Autâonoma de Mâexico. Instituto de Investigaciones Estâeticas. Estudios de folklore, 4
+500       $a UCR: NO 901; REJECT
+600  10   $a Rodrâiquez Rivera, Virginia.
+600  10   $a Mendoza, Vicente T., $d 1894-
+650   0   $a Folklore.
+830   0   $a Estudios de folklore, $v 4.
+902       $a 03-19-02
+907       $a .b10002765
+920       $l rstk  $b 3 1210 00461 4325
+998       $a r    
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+
+Record 18
+LDR  01163pam  2200325 a 45  
+001  28889314
+005  19940801170440.0
+008  930903s1994    nyuabc   b    000 0 eng  
+010       $a 93029264
+020       $a 0815314485 (alk. paper)
+040       $a DLC $c DLC $d CU-Riv
+043       $a n-usu--
+049       $a CRUG
+090       $a E185.6 $b .A25 1994
+245  00   $a African Americans and the emergence of segregation, 1865-1900 / $c edited with an introduction by Donald G. Nieman.
+260       $a New York : $b Garland Pub., $c 1994.
+300       $a xiii, 443 p. : $b ill., maps, ports. ; $c 24 cm.
+440   0   $a African American life in the Post-Emancipation South ; $v v. 11.
+500       $a UCR: 901 $a DOES NOT CONTAIN RECORD ID NUMBER - REJECT (06/02).
+650   0   $a African Americans $z Southern States $x History $y 19th century.
+650   0   $a African Americans $z Southern States $x Segregation.
+651   0   $a Southern States $x Race relations.
+651   0   $a Southern States $x History $y 1865-1951.
+700  10   $a Nieman, Donald G.
+901       $a UCR $b r     $c -
+902       $a 01-03-01
+907       $a .b10088350
+920       $l rstk  $b 31210009610245
+998       $a r    
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+

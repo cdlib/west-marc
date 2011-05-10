@@ -1,0 +1,142 @@
+Record 1
+LDR  00871nam  2200277Mi 45  
+001  ocm48737529 
+003  OCoLC
+005  20020318121355.0
+008  011011s2001    ne            000 0 eng d
+040       $a ZXW $b ger $c ZXW $d CRL
+020       $a 9058920054
+099       $a P-00006051
+049       $a CRLL
+100  1    $a Roodbergen, Kees Jan.
+260       $a Rotterdam : $b Selbstverl., $c 2001.
+300       $a xiii, 172 S.
+490  0    $a TRAIL thesis series ; $v 2001,3
+490  0    $a ERIM PhD series research in management ; $v 4
+500       $a NO 245 FIELD - CREATE 998 FLD WITH ERROR MSG (04/02).
+502       $a Thesis (doctoral)--Erasmus Universiteit Rotterdam, 2001.
+653       $a warehouses
+653       $a order picking
+653       $a supply chain process
+852       $a CRL $b CRLL $j P-00006051
+901       $a CRL $b 48737529
+998       $a CRL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 48737529
+
+Record 2
+LDR  01090cas  2200301 a 45  
+001  ocm47922599 
+003  OCoLC
+005  20020318122341.0
+008  010907c20019999ne br p       0    0dut d
+010       $a   2002225017
+040       $a SMI $c SMI $d CRL
+022       $a 1566-063X
+042       $a lcd
+090       $a QL401 $b .N37
+049       $a CXRL
+130  0    $a Spirula (Nederlandse Malacologische Vereniging)
+245  10   $a Spirula : $b correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a Amsterdam : $b Nederlandse Malacologische Vereniging,
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Bimonthly
+362  0    $a Nr. 319 (apr. 2001)-
+500       $a UNKNOWN LOCATION CODE - CREATE 998 FLD WITH ERROR MSG (04/02).
+650   0   $a Mollusks $v Periodicals.
+650   0   $a Shells $v Periodicals.
+780  00   $a Nederlandse Malacologische Vereniging. $t Correspondentieblad van de Nederlandse Malacologische Vereniging $x 0923-5701 $w (OCoLC)9662203
+852       $a CRL $b CXRL
+901       $a CRL $b 47922599
+998       $a CRL $b 1003 $c Record contains the unknown location code CXRL $d Release-027-000 $e 47922599
+
+Record 3
+LDR  01159cXs  2200313 a 45  
+001  ocm47922599 
+003  OCoLC
+005  20020318122348.0
+008  010907c20019999ne br p       0    0dut d
+010       $a   2002225017
+040       $a SMI $c SMI $d CRL
+022       $a 1566-063X
+042       $a lcd
+090       $a QL401 $b .N37
+099       $a Hd Cpy
+049       $a CRLS
+130  0    $a Spirula (Nederlandse Malacologische Vereniging)
+245  10   $a Spirula : $b correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a Amsterdam : $b Nederlandse Malacologische Vereniging,
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Bimonthly
+362  0    $a Nr. 319 (apr. 2001)-
+500       $a UNKNOWN TYPE - CREATE 998 FLD WITH ERROR MSG (04/02).
+650   0   $a Mollusks $v Periodicals.
+650   0   $a Shells $v Periodicals.
+780  00   $a Nederlandse Malacologische Vereniging. $t Correspondentieblad van de Nederlandse Malacologische Vereniging $x 0923-5701 $w (OCoLC)9662203
+852       $a CRL $b CRLS $j Hd Cpy $z Center's holdings begin with: vol. 319 (Apr. 2001)
+901       $a CRL $b 47922599
+998       $a CRL $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 47922599
+
+Record 4
+LDR  00754naX  2200229Ka 45  
+001  ocm49336510 
+003  OCoLC
+005  20020318122353.0
+008  020318s1980    wlk     b     000 0 eng d
+040       $a CRL $c CRL
+099       $a P-90000139
+049       $a CRLL
+100  1    $a Sigl, Patricia Mary.
+245  14   $a The literary achievement of Elizabeth Inchbald $h [microform] / $c Patricia Mary Sigl.
+260       $c 1980.
+300       $a 9 microfiches.
+500       $a UNKNOWN BIBLVL - CREATE 998 FLD WITH ERROR MSG (04/02).
+502       $a Thesis (doctoral)--University of Wales, 1980.
+653       $a Elizabeth Inchbald
+852       $a CRL $b CRLL $j P-90000139
+901       $a CRL $b 49336510
+998       $a CRL $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 49336510
+
+Record 5
+LDR  00982nam  2200265Ka 45  
+001  ocm49251955 
+003  OCoLC
+005  20020306113542.0
+008  020306s2000    caua     b    000 0 eng d
+040       $a WCA $c WCA
+037       $b Bay Institute of San Francisco, 500 Palm Drive, Suite 200, Novato, CA 94949; http:www.bay.org
+043       $a n-us-ca
+099   9   $a G432 $a P-10 $a Locked $a Cage
+049       $a WCAA
+100  1    $a Pawley, Anitra.
+260       $a Novato, Calif. : $b Bay Institute of San Francisco, $c [2000]
+300       $a v, 120 p. : $b ill. ; $c 28 cm.
+500       $a RECORD LACKS 245 FIELD; ADD 998 FIELD WITH ERROR MESSAGE
+504       $a Includes bibliographical references (p. 57)
+610  20   $a CALFED Bay-Delta Program $x Evaluation.
+650   0   $a Restoration ecology $z California $z Delta Region.
+710  2    $a Bay Institute of San Francisco.
+852       $a WCA $b WCAA $j G432 P-10 Locked Cage
+901       $a WCA $b 49251955
+998       $a WCA $b 1002 $c Record contains no 245 field $d Release-027-000 $e 49251955
+
+Record 6
+LDR  00946nam  2200253Ka 45  
+001  ocm49251972 
+003  OCoLC
+005  20020306113829.0
+008  020306s2000    caua          000 0 eng d
+040       $a WCA $c WCA
+099   9   $a 91.1 $a P-4
+049       $a WCAX
+245  00   $a Pacific coastal salmonid conservation and recovery initiative : $b California's perspective.
+260       $a [Sacramento? : $b California Dept. of Conservation?, $c 2000]
+300       $a 12 p. : $b ill. ; $c 22 x 28 cm.
+500       $a WCA: REC HAS UNKNOWN LOCATION CODE; ADD 998 FIELD WITH ERROR MESSAGE.
+500       $a "Fiscal year 2000."
+650   0   $a Pacific salmon $x Habitat.
+650   0   $a Fishery conservation $z California $z Pacific Coast.
+650   0   $a Water quality management $z California.
+650   0   $a Stream restoration $z California.
+852       $a WCA $b WCAX $j 91.1 P-4
+901       $a WCA $b 49251972
+998       $a WCA $b 1003 $c Record contains the unknown location code WCAX $d Release-027-000 $e 49251972
+

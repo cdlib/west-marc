@@ -1,0 +1,26 @@
+Record 1
+LDR  01190cXZ^^2200301^a^4500
+001  UCD-001432908
+005  20020819183309.0
+008  890629s1988    nju           00100 eng d
+020       $a 0865430497 (pbk.) : $c $9.95
+020       $a 0865430489 : $c $29.95
+035       $a 89-B25217
+035  9    $a (UCD)AFB-3900
+043       $a f-sa---
+049       $a MAIN
+090       $a DT779.952 $b .W5 1988
+260  0    $a Trenton, N.J. : $b Africa World Press, $c 1988.
+300       $a viii, 192 p. ; $c 23 cm.
+500       $a DVXL: NO 245, BAD BIBLEVEL, BAD TYPE, UNKNOWN LOC;CREATE 4 998s
+651   0   $a South Africa $x Politics and government $y 1978-1989.
+651   0   $a South Africa $x Race relations.
+700  1    $a Magubane, Bernard.
+700  1    $a Mandaza, Ibbo.
+852       $a DVXL $b GOD-ZILLA $h DT779.952 $i .W5 1988
+901       $a DVXL $b 001432908
+998       $a DVXL $b 1003 $c Record contains the unknown location code GOD-ZILLA $d Release-027-000 $e 001432908
+998       $a DVXL $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 001432908
+998       $a DVXL $b 1005 $c Record contains the invalid bibliographic level Z $d Release-027-000 $e 001432908
+998       $a DVXL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 001432908
+

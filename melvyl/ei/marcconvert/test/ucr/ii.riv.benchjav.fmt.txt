@@ -1,0 +1,1380 @@
+Record 1
+LDR  01152nas  2200313Ia 45  
+001  10045908
+005  19840208132227.0
+008  831006s1983    kyu      b    00100 eng  
+010       $a 83021026
+020       $a 0914604252 (pbk.)
+040       $a DLC $c DLC $d m/c $d CU-Riv
+049       $a CRUF,CRUQ
+090       $a QA76 $b .A25 1983
+245  00   $a ABI/SELECTS : $b the annotated bibliography of computer periodicals.
+250       $a 1st ed.
+260  0    $a Louisville, Ky. : $b Data Courier Inc., $c 1983.
+300       $a vii, 576 p. ; $c 23 cm.
+500       $a UCR: INPUT 902 FORMAT MM-DD-YY, WHERE YY DOES NOT BEGIN WITH ZERO; CREATE 005 BY ADDING "19" TO BEGINNING OF YEAR, THEN OUTPUTTING IN STANDARD MARC FORMAT (05/02)
+650   0   $a Computers $x Periodicals $x Bibliography.
+650   0   $a Electronic data processing $x Periodicals $x Bibliography.
+650   0   $a Microcomputers $x Periodicals $x Bibliography.
+650   0   $a Office practice $x Automation $x Periodicals $x Bibliography.
+710  20   $a Data Courier, inc.
+740  01   $a A.B.I./S.E.L.E.C.T.S.
+901       $a UCRb10023392 $b multi $c -
+902       $a 08-06-96
+907       $a .b10023392
+998       $a ed  $a ed7 
+999       $b 2 $c 05-20-96 $e a $f - $g 0
+
+Record 2
+LDR  02313cas  2200529Ia 45  
+001  818197
+005  19921116151725.0
+008  740301c19719999ksufr1p       0   a0eng d
+010       $a sn 79009765
+022  0    $a 0026-3079
+035       $a (SFX)954925376870
+040       $a OUN $c OUN $d SUL $d YUS $d NSD $d IUL $d m.c. $d AIP $d NST $d NSD $d AIP $d NST $d NSD $d DLC $d m/c $d HUL $d MUL $d NST $d CRU
+042       $a nsdp $a lcd
+043       $a n-us---
+049       $a CRUS
+090       $a E169.1 $b .A443
+098       $n ov=.b2506373
+130  0    $a American studies (Lawrence, Kan.)
+210  0    $a Am. stud. $b (Lawrence)
+222  10   $a American studies $b (Lawrence)
+245  00   $a American studies.
+260       $a Lawrence, Kan. : $b University of Kansas,
+265       $a Business Manager, American Studies, University of Kansas, Lawrence, KS 66045.
+300       $a v. ; $c 25 cm.
+310       $a Semiannual.
+350       $a $8.00 (institutional) $a $5.00 (regular) $a $2.50 (students & emeritus) $a $7.00 (direct institutional)
+362  0    $a Vol. 12 (Spring 1971)-
+500       $a UCR: REC HAS 001 AND 035. OUTPUT 035 AS IS; MOVE INPUT 001 TO NEW OUTPUT 035 a WITHOUT CHANGES; DROP 001 (03/06).
+510  2    $a Abstracts of English studies $x 0001-3560.
+510  2    $a America, history and life $x 0002-7065 $b 1971-
+510  2    $a Historical abstracts. Part B. Twentieth century abstracts $x 0363-2725 $b 1971-
+510  0    $a Public affairs information service.
+510  2    $a Historical abstracts. Part A. Modern history abstracts $x 0363-2717 $b 1971-
+510  0    $a Public affairs information service.
+510  1    $a Humanities index $x 0095-5981.
+550       $a Issued by the Midcontinent American Studies Association.
+555       $a Vol. 12 (1971) in v. 12 (includes index to Midcontinent American studies journal v. 10-11); Vols. 13 (1972)-15 (1974) in v. 15.
+651   0   $a United States $x Civilization $x Periodicals.
+710  21   $a University of Kansas.
+710  20   $a Midcontinent American Studies Association.
+780  00   $t Midcontinent American studies journal $x 0544-0335 $w (OCoLC)818179.
+850       $b rcps  $c E169.1 A443 $d - $f - $g Current Periodicals Area $h 7(1977)-8(1978), 12(1979)-28:1(1987), 29:2(1988), 30(1989)-32(1991), 34(1993)-
+901       $a UCRb21607205 $b r     $c -
+902       $a 08-25-97
+907       $a .b21607205
+998       $a r    
+999       $b 1 $c 05-20-96 $d a $e s $f - $g 0
+
+Record 3
+LDR  01915nam  22004939  45  
+001  car43006504
+005  19930910015000.0
+008  801203m19421961enk           00000 eng  
+010       $a 43006504
+040       $a DLC $c CarP
+043       $a e-uk-st
+090  2    $a DA890.A2 $b A1
+099   9   $a Y 1.1/7:101-188 (099$A-FIRST) $a 099$A-SECOND $b 099$B
+110  10   $a Aberdeen (Scotland). $b Town Council.
+245  00   $a Aberdeen Council letters, $c transcribed and edited for the Town council of Aberdeen by Louise B. Taylor.
+260  0    $a London, $a New York, $b Oxford University Press, $c 1942-61.
+300       $a 5 v., $b front., pl. $c 23 cm.
+500       $a UCR MONO: REC HAS 5 920S: 2 UNIQUE LOC CODES IN $L'S, 2 DUPLICATES, 1 LOC CODE BEGINNING "rd" - DROP THE "rd" LOC, OUTPUT 2 UNIQUE 852'S (02/02).
+500       $a REC HAS SUMMARY HOLDINGS IN 3 599 FIELDS.
+500       $a 1ST 920 HAS CALL NUM IN $A, OUTPUT AS 852 $J. CONCATENATE 599'S, SEPARATED BY "; " AND OUTPUT IN 852 $3.
+500       $a 2ND 920 HAS NO $A; RECORD HAS 099, 090, 050 - OUTPUT MULTIPLE 099$A'S TO SINGLE 852 $J. OUTPUT DEFAULT SUMMARY HOLDINGS MSG IN 852 $3.
+500       $a 3RD AND 5TH LOCS ARE DUPLICATES, DO NOT OUTPUT.
+500       $a 4TH LOC BEGINS "rd", DO NOT OUTPUT.
+599       $a FIRST 599.
+599       $a 2ND 599.
+599       $a 3RD 599.
+651   0   $a Aberdeen (Scotland) $x Politics and government.
+651   0   $a Aberdeen (Scotland) $x History $x Sources.
+700  10   $a Taylor, Louise Barbara, $e ed.
+901       $a UCRb10022417 $b zsrlf $c -
+902       $a 06-27-97
+907       $a .b10022417
+920       $l zsrlf $a 920$A (LOC 1) $u v.1
+920       $l ed    $u v.2
+920       $l zsrlf $a DUPLICATE LOC $u v.3
+920       $l rdap   $u v.4
+920       $l ed    $a DUPLICATE LOC $u v.5
+963       $a A 0006319073
+963       $a A 0006319065
+963       $a A 0006319057
+963       $a A 0006319578
+963       $a A 0006319560
+998       $a zsrlf
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 0
+
+Record 4
+LDR  01154cam  2200361   45  
+001  car72185487 
+005  19940330013329.0
+008  720810s1972    enk      b    00000 eng  
+010       $a 72185487
+015       $a B***
+040       $a DLC $c DLC
+041  1    $a engger
+043       $a e------
+090  1    $a HD8376 $b .A213
+100  10   $a Abendroth, Wolfgang.
+240  00   $a Sozialgeschichte der europèaischen Arbeiterwegung. $l English.
+245  12   $a A short history of the European working class. $c [Translated from the German by Nicholas Jacobs and Brian Trench.
+260  0    $a London] $b NLB $c [1972]
+300       $a 204 p. $c 22 cm.
+350       $a ¹2.50.
+500       $a UCR MONO: 920 LACKS $L (NO LOCATION); DON'T CREATE 852; REJECT (03/06).
+504       $a Bibliography: p. [198]-204.
+650   0   $a Trade-unions $z Europe $x History.
+650   0   $a Working class $z Europe $x History.
+650   0   $a Labor movement $z Europe $x History.
+650   0   $a Labor $z Europe $x History.
+901       $a UCRb10021541 $b multi $c -
+902       $a 07-09-97
+907       $a .b10021541
+920       $b 3 1210 00844 0883
+963       $a AA0000279711
+998       $a rstk  $a zsrlf
+999       $b 2 $c 06-08-97 $d - $e a $f - $g 2
+
+Record 5
+LDR  00965cam  22002899| 45  
+001  utl177412320
+005  19930910014951.0
+008  881019s1915    nyu           00000beng u
+043       $a e-uk-en
+045       $a t3u0
+050  1    $a DA357 (050$A) $b .A15 (050$B)
+090  1    $a DA357 (090$A) $b .A15 (090$B)
+100  10   $a Abbott, Jacob, $d 1803-1879.
+245  10   $a Queen Elizabeth / $c by Jacob Abbott.
+260  0    $a New York : $b Leslie-Judge, $c 1915.
+300       $a 223 p. : $b ill.
+490  0    $a Famous characters of history.
+500       $a UCR MONO: REC HAS NO 920, 901 $B IS NOT 'MULTI'; USE 901 $B AS LOC CODE (02/02).
+500       $a REC HAS 090 $A $B, 050 $A $B - OUTPUT 090 $A $B AS 852 $H $I.
+600  10   $a Elizabeth I, Queen of England, $d 1533-1603.
+651   0   $a Great Britain $x History $y Elizabeth, 1558-1603.
+901       $a UCRb10015772 $b zsrlf $c -
+902       $a 07-02-97
+907       $a .b10015772
+963       $a A 0010747970
+998       $a zsrlf
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 0
+
+Record 6
+LDR  00827nam  2200253I  45  
+001  616686
+005  19930910014911.0
+008  730507 1966                        ger u
+010       $a 67107293
+040       $c CIN $d CU-Riv
+090  1    $a AC30 $b .N84
+245  00   $a 0+20 [i.e. Null plus zwanzig] $b Almanach der Nymphenburger Verlagshandlung 1946-1966.
+260  0    $a Mèunchen $b [Nymphenburger Verlagshandlung] $c 1966.
+300       $a 429 p. $c 20 cm.
+500       $a UCR MONO: REC HAS NO 920 & NO 901 $b; DON'T CREATE 852; REJECT (03/06).
+504       $a Bibliographical footnotes.
+710  20   $a Nymphenburger Verlagshandlung.
+740  01   $a Almanach der Nymphenburger Verlagshandlung 1946-1966.
+901       $a UCRb10000021 $c -
+902       $a 06-27-97
+907       $a .b10000021
+963       $a A 0007358971
+998       $a zsrlf
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 0
+
+Record 7
+LDR  01248cam  2200337   45  
+001  63795
+005  19801215000000.0
+008  700401s1970    enk      d    00010 eng  
+010       $a 73088348 //r71
+020       $a 0080122272
+040       $a DLC $c DLC $d GXM $d IAV $d CU-Riv
+041  0    $a engrus
+049       $a [Bio-Ag Ref]CRUG,CRUQ
+050       $a Q123 (050 $A) $b .A4 1970 (050 $B)
+100  10   $a Alford, M. H. T.
+245  10   $a Russian-English scientific and technical dictionary $c [by] M. H. T. and V. L. Alford.
+250       $a [1st ed.]
+260  0    $a Oxford, $a New York, $b Pergamon Press $c [1970]
+300       $a 2 v. (1423 p.) $c 21 cm.
+500       $a UCR MONO: RECORD LACKS 920, 901 $B = MULTI; 998 HAS MULTIPLE $A'S - OUTPUT THE 4 UNIQUE LOC CODES (02/02).
+500       $a REC HAS NO 099, NO 090, HAS 050 $A $B - OUTPUT 050 $A $B IN 852 $H $I FOR ALL UNIQUE LOCS.
+650   0   $a Science $x Dictionaries $x Russian.
+650   0   $a Russian language $x Dictionaries $x English.
+650   0   $a Technology $x Dictionaries $x Russian.
+650   0   $a Encyclopedias and dictionaries, Russian.
+700  10   $a Alford, V. L.
+901       $a UCRb10164303 $b multi $c -
+902       $a 08-05-96
+907       $a .b10164303
+998       $a r  $a r7cp  $a r  $a rca7  $a r7cp  $a rcaci 
+999       $b 2 $c 05-20-96 $e a $f - $g 0
+
+Record 8
+LDR  01087cam  2200325 a 45  
+001  9393299
+005  19840920125429.0
+008  830322s1983    nyu      b    00000 eng  
+010       $a 82048668
+020       $a 0060806605 (pbk.) :
+020       $a 0060151587 :
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CU-Riv
+090       $a PR6029.R84 $b N556 1983
+245  00   $a 1984 revisited : $b totalitarianism in our century / $c edited by Irving Howe.
+250       $a 1st ed.
+260  0    $a New York : $b Harper & Row, $c c1983.
+300       $a x, 276 p. ; $c 22 cm.
+500       $a UCR MONO: REC HAS NO 920, 901 $B IS 'MULTI', 998 CONTAINS NO $A'S; DON'T CREATE 852; REJECT (03/06).
+504       $a Includes bibliographical references.
+600  10   $a Orwell, George, $d 1903-1950. $t Nineteen eighty-four.
+650   0   $a Totalitarianism.
+700  10   $a Howe, Irving.
+700  11   $a Orwell, George, $d 1903-1950. $t Nineteen eighty-four.
+740  01   $a Nineteen eighty-four revisited.
+901       $a UCRb10007489 $b multi $c -
+902       $a 06-27-97
+907       $a .b10007489
+998       $b rstk
+999       $b 1 $c 06-01-97 $d - $e a $f - $g 0
+
+Record 9
+LDR  00923cam  2200241   45  
+001  car47006281 
+005  19600000000000.0
+008  710222s1947    iluabc   bey  00100deng  
+010       $a 47006281
+040       $a DLC $c DLC $d CU-Riv
+049       $a CRUG
+090       $a AG5 $b .T45
+245  00   $a 10 eventful years; $b a record of events of the years preceding, including and following World War II, 1937 through 1946; $c prepared under the editorial direction of Walter Yust, editor of Encyclopµdia Britannica.
+260  0    $a Chicago, $b Encyclopµdia Britannica $c [1947]
+300       $a 4 v. $b illus., ports., maps. $c 29 cm.
+500       $a UCR MONO: NO 920, NO 998, 901 $b ='MULTI'; DON'T CREATE 852; REJECT (03/06).
+650   0   $a Encyclopedias and dictionaries.
+650   0   $a Twentieth century.
+700  10   $a Yust, Walter, $d b. 1894.
+730  01   $a Encyclopµdia Britannica.
+901       $a UCRb10001359 $b multi $c -
+902       $a 07-24-97
+907       $a .b10001359
+
+Record 10
+LDR  01033nam  2200289I  45  
+001  2310687
+005  19930910015050.0
+008  760714s1966    fr            00000 fre  
+010       $a 67083661
+040       $a DLC $c na $d CU-Riv
+050  2    $a QC185 (050 $A) $b .A28 1966 (050 $B)
+100  10   $a Adda, Y. $q (Yves)
+245  13   $a La Diffusion dans les solides, $c par Y. Adda et J. Philibert ...
+260  0    $a Saclay, $b Institut national des sciences et techniques nuclâeaires; $a Paris, $b Presses universitaires de France, $c 1966.
+300       $a 2 v. (iv, 1268, xvii p.) $b illus. $c 25 cm.
+490  0    $a Bibliotháeque des sciences et techniques nuclâeaires.
+500       $a UCR MONO: REC HAS NO 920, BUT HAS 901 $B LOC, HAS 050; MOVE 050 $A $B TO 852 $H $I (02/02).
+650   0   $a Diffusion.
+650   0   $a Solids.
+700  10   $a Philibert, J. $q (Jean), $e joint author.
+901       $a UCRb10063651 $b zsrlf $c -
+902       $a 06-27-97
+907       $a .b10063651
+963       $a A 0007373863
+963       $a A 0007373855
+998       $a zsrlf
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 3
+
+Record 11
+LDR  01233cam  22003619  45  
+001  car70001390 
+005  19930910014953.0
+008  700302s1965    enk      b    00010 arax 
+010       $a 70001390 //r83
+040       $a DLC $c DLC
+041  1    $a araeng
+090  1    $a PJ7741.A23 $b E38
+100  00   $a °Abd al-Latåif, $d 1160?-1231.
+240  10   $a Ifåadah wa-al-i°tibåar. $l English and Arabic.
+245  14   $a The Eastern key: $b Kitåab al-ifåadah wa°l-i°tibåar $c of °Abd al-Latåif al-Baghdåadi. Translated in English by Kamal Hafuth Zand, and John A. and Ivy E. Videan.
+260  0    $a London, $b Allen and Unwin $c [1965]
+300       $a 293 p. $c 26 cm.
+500       $a UCR: MOVE ALL 590'S TO MULTIPLE 852 $Z'S FOR ALL OUTPUT LOCS (02/02).
+590       $a FIRST 590.
+590       $a SHARED PURCHASE WITH UCSB EAST ASIAN LIBRARY
+590       $a 3RD 590.
+590       $a 4TH 590
+651   0   $a Egypt $x Description and travel.
+700  11   $a Zand, Kamal Hafuth, $e tr.
+700  11   $a Videan, John A. $e tr.
+700  11   $a Videan, Ivy E. $e tr.
+740   1   $a Kitåab al-ifåadah wa°l-i°tibåar.
+901       $a UCRb10017343 $b multi $c -
+902       $a 06-27-97
+907       $a .b10017343
+963       $a A 0006606149
+998       $a zsrlf $a edr   $a edv  
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 4
+
+Record 12
+LDR  00900nam  22002899  45  
+001  car67014742 
+005  19930910014954.0
+008  821223s1967    miu           00000 eng  
+010       $a 67014742
+040       $a DLC $c CarP
+090  2    $a PK6905 $b .A2
+100  10   $a Abdulla, Jamal Jalal.
+245  10   $a Kurdish readers,
+260  0    $a Ann Arbor, $b University of Michigan Press $c [1967]
+300       $a 3 v. $c 28 cm.
+500       $a UCR MONO: REC HAS 2 LOCS IN 998 $A'S AND 4 963'S; OUTPUT 1ST 963 IN $P OF 1ST 852 ONLY (02/02).
+650   0   $a Kurdish language $x Readers.
+700  10   $a McCarus, Ernest N. $q (Ernest Nasseph), $d 1922- $e joint author.
+901       $a UCRb10018177 $b multi $c -
+902       $a 07-02-97
+907       $a .b10018177
+963       $a D 0003097599 (1)
+963       $a D 0003097581 (2)
+963       $a D 0003097573 (3)
+963       $a D 0003097979 (4)
+998       $a zsrlf $a rref 
+999       $b 1 $c 06-08-97 $d - $e a $f - $g 0
+
+Record 13
+LDR  01455cms  2200349Ia 45  
+001  15334999
+005  19881202115259.0
+008  870317c19869999mauqr      da       n/a d
+040       $a CPO $c TXA $d CPO $d OCoLC $d CPO $d CU-Riv
+049       $a CRUU
+090       $a BF1 $b .P89
+245  00   $a PsycLIT $h [machine-readable data file]
+260       $a Wellesley Hills, MA : $b SilverPlatter Information Services, $c 1986?-
+300       $a computer laser optical disks ; $c 4 3/4 in. + $e computer floppy disks + template.
+315       $a Quarterly, with disk being cumulative.
+362  0    $a 1983-Sept. 1988-
+500       $a UCR MRDF: TYPE='m', BIBLEVEL='s'; PROCESS AS SERIAL (02/02).
+520       $a "Summaries of the world's serial literature in psychology and related disciplines, compiled from the PsyINFO online database and Psychological abstracts."
+538       $a System requirements: IBM PC, XT or AT or compatible; 512K; PC or MS DOS 2.1 or higher; 1 floppy disk drive or hard disk drive and compact disc drive; printer.
+650   0   $a Psychology $x Abstracts.
+650   0   $a Psychology $x Periodicals.
+710  20   $a SilverPlatter Information, Inc.
+730  02   $a Psychological abstracts.
+740  01   $a Psyc Lit.
+753       $a IBM PC $c DOS 2.1 or higher.
+850       $b rref  $d - $f - $h Keep latest only.
+901       $a UCRb17760768 $b rref  $c -
+902       $a 08-25-97
+907       $a .b17760768
+935   0   $a Library keeps latest disc only.
+998       $a rref 
+999       $b 1 $c 05-20-96 $d a $e m $f - $g 0
+
+Record 14
+LDR  01514nmb  2200361Ia 45  
+001  31811967
+005  19950328114516.0
+008  950113c19949999maubr      u        eng d
+040       $a EYD $c EYD $d CU-Riv
+098       $n ov=.b593155
+099       $a 64
+245  00   $a Ei tech index $h [computer file].
+260       $a [Norwood, MA] : $b Engineering Information, Inc. : $b SilverPlatter Information, $c c1987-
+300       $a computer laser optical disks ; $c 4 3/4 in.
+315       $a Bimonthly.
+362  0    $a 1987-Nov. 1994-
+500       $a UCR MRDF: TYPE='m', BIBLEVEL='b'; PROCESS AS SERIAL (02/02).
+538       $a Systems requirements: DOS-compatible computer, 640K RAM (500K RAM available), hard disk with 650K available with additional 2.5MB for temporary storage, MS-DOS or PC-DOS 3.1 or higher with CD-ROM extensions, CD-ROM drive, floppy disk drive, monitor and printer.
+538       $a Disk characteristics: CD-ROM.
+599  1    $a COMPUTER FILE NO. 64.
+650   0   $a Engineering $x Abstracts $x Databases.
+650   0   $a Technology $x Abstracts $x Databases.
+650   0   $a Engineering $x Indexes $x Databases.
+650   0   $a Technology $x Indexes $x Databases.
+710  20   $a Engineering Information, Inc.
+710  20   $a SilverPlatter Information, Inc.
+780  00   $t Concise engineering and technology index $w (OCoLC)30824419.
+850       $b rre7  $d - $f - $h COMPACT DISC:  1987-SEP(1995)  DEC(1995)-NOV(1996)
+901       $a UCRb12906591 $b p     $c -
+902       $a 08-21-97
+907       $a .b12906591
+998       $a p    
+999       $b 1 $c 05-04-97 $d l $e m $f - $g 0
+
+Record 15
+LDR  01739cas  2200457 a 45  
+001  5532957
+003  OCoLC
+005  19960213134418.0
+008  791017d19171956ilusn p  b    0   a0eng d
+010       $a sn 86025046
+019       $a 7517168
+040       $a IPL $c IPL $d NSD $d OCL $d NYS $d OCL $d IUL $d NST $d CRU
+042       $a lcd
+090       $a Z1035 $b .B58
+098       $n ov=.b625916
+130  0    $a Booklist (Chicago, Ill. : 1917)
+245  04   $a The booklist.
+260       $a Chicago : $b American Library Association Publishing Board, $c 1917-1956.
+300       $a 40 v. ; $c 20-25 cm.
+310       $a Semimonthly (except for one or more summer months), $b Sept. 1947-Aug. 1956.
+321       $a Monthly (except Aug.-Sept.), $b Oct. 1917-July 1930.
+321       $a Monthly, $b Aug. 1930-Aug. 1937.
+362  0    $a Vol. 14, no. 1 (Oct. 1917)-v. 52, no. 23 (Aug. 1956).
+500       $a UCR PE: ALL LOCS BEGIN WITH "rd" ; CREATE NO 852; REJECT (03/06).
+515       $a Final issue of each vol. is the vol. index, Aug. 1949-Aug. 1956.
+580       $a Merged with: Subscription books bulletin, to form: Booklist and subscription books bulletin.
+650   0   $a Books $x Prices $x Periodicals.
+650   0   $a Books $x Reviews $x Periodicals.
+710  2    $a American Library Association.
+710  2    $a American Library Association. $b Publishing Board.
+780  00   $t A.L.A. booklist $w (OCoLC)4814149.
+785  17   $t Subscription books bulletin $w (OCoLC)1606336.
+785  17   $t Booklist and subscription books bulletin $x 0730-8957 $w (OCoLC)1780726.
+850       $b rdacq $d - $f - $h 1(AAAA)
+850       $b rdadm $d - $f - $h 2(BBBB)
+850       $b rdcat $d - $f - $h 3(CCCC)
+901       $a UCRb11046569 $b r     $c -
+902       $a 08-25-97
+907       $a .b11046569
+998       $a r    
+999       $b 2 $c 05-04-97 $d q $e s $f - $g 4
+
+Record 16
+LDR  00942cas  2200277I  45  
+001  4784561
+003  OCoLC
+005  19960905185742.0
+008  790326c19539999ru ur p       0    0rus  
+010       $a 54028333 /L
+040       $a DLC $c LUU $d OCL $d CRU
+049       $a CRUG
+050       $a PG3101 $b .A44
+110  2    $a Institut russkoæi literatury (Pushkinskiæi dom)
+245  10   $a Russkoe narodnoe poçeticheskoe tvorchestvo. $c [Otvetstvennyi redaktor V. P. Adrianova-Peretëtìs]
+260       $a Moskva, Izd-vo Akademii nauk SSSR, $c 1953-
+300       $a v. $b illus. $c 23 cm.
+500       $a UCR PE: REC HAS 850, BUT NO 850 $b; CREATE NO 852; REJECT (03/06).
+650   0   $a Folk literature, Russian $x History and criticism.
+700  2    $a Adrianova-Peretëtìs, V. P. $q (Varvara Pavlovna), $d 1888-1972, $e ed.
+850       $d - $f - $h v.2 pt.2.
+901       $a UCRb18306536 $b zsrlf $c -
+902       $a 08-25-97
+907       $a .b18306536
+998       $a zsrlf
+999       $b 2 $c 11-01-96 $d l $e s $f - $g 0
+
+Record 17
+LDR  01062nms  2200301Ia 45  
+001  24602853
+005  19920615194153.0
+008  911022c19919999vauuu      u f      eng d
+040       $a GIS $c GIS $d CU-Riv
+043       $a n-us---
+050       $a QE75 (050 $A) $b .U554 (050 $B)
+098       $n ov=.b512828
+245  00   $a U.S. Geological Survey digital data series $h [computer file].
+246  10   $a Digital data series.
+246  10   $a USGS DDS.
+260       $a Reston, Va. : $b The Survey, $c 1991-
+300       $a computer laser optical disks ; $c 4 3/4 in.
+362  0    $a DDS-1-
+500       $a UCR PE: RECORD HAS NO 850, 901 $B IS NOT 'MULTI'; USE 901 $B AS LOC CODE (02/02).
+500       $a REC HAS NO 099, NO 090, HAS 050 $A $B - OUTPUT TO 852 $H $I.
+538       $a System requirements: IBM or compatible PC with DOS; CD-ROM driver software; CD-ROM reader.
+650   0   $a Earth sciences $z United States $x CD-ROM.
+710  20   $a Geological Survey (U.S.)
+901       $a UCRb20516034 $b rref  $c -
+902       $a 08-25-97
+907       $a .b20516034
+998       $a p    
+999       $b 1 $c 05-04-97 $d 1 $e m $f - $g 0
+
+Record 18
+LDR  00786nas  2200241   45  
+001  aut10064152
+008  950418 1934    nyu      b    00110 eng  
+010       $a 34-21616
+049       $a CRUG
+090       $a NA9010 $b .P32
+098       $n ov=.b280488
+111  2    $a Pacific Northwest regional planning conference.
+245  10   $a Proceedings of the ... $c Pacific Northwest regional planning conference ...
+260       $a Portland, Or. : $b Pacific Northwest regional planning commission, $c [1934-
+300       $a v. : $b diagr. ; $c 23 cm.
+362  0    $a [1934-
+500       $a UCR PE: HAS NO 850, 901 LACKS $b; CREATE NO 852; REJECT (03/06).
+650   0   $a Regional planning $x Congresses.
+901       $a UCRb21492190 $c -
+902       $a 08-25-97
+907       $a .b21492190
+998       $a r    
+999       $b 1 $c 05-20-96 $d i $e s $f - $g 0
+
+Record 19
+LDR  01322cas  22003497a 45  
+001  autsn 85017787
+005  19910227000000.0
+008  950428d18961917nyuuu m r     0uuua0eng  
+010       $a sn85-017787
+035       $a (OCoLC)5356331
+040       $a DLC $c InU $d m.c. $d N $d m/c $d NST
+042       $a msc
+049       $a CRUG
+050       $a E185.5 (050 $A) $b .A882 (050 $B)
+090       $a E185.5 (090 $A) $b .A882 (090 $B)
+245  00   $a Atlanta University publications.
+246  00   $a Publications.
+260       $a New York : $b Octagon Books, $c 1968-
+300       $a v. ; $c 24 cm.
+362  0    $a No. 1 (1896)-1917.
+500       $a UCR PE: REC HAS NO 850, 901 $B IS MULTI; 998 HAS 5 $A'S, 3 UNIQUE. OUTPUT 3 852'S, USING THE UNIQUE LOC CODES (02/02).
+500       $a REC HAS NO 099, HAS 090 $A $B, HAS 050 $A $B - OUTPUT 090 $A $B IN 852 $H $I FOR ALL LOCS.
+580       $a Reprinted from the original: Atlanta University publications published in Atlanta by Atlanta University Press.
+650   0   $a Afro-Americans $x Periodicals.
+700  11   $a Du Bois, W. E. B. $q (William Edward Burghardt), $d 1868-1963.
+710  20   $a Atlanta University.
+775  1    $t Atlanta University publications.
+901       $a UCRb21529620 $b multi $c -
+902       $a 08-25-97
+907       $a .b21529620
+998       $a rstk $a edr   $a rstk  $a ed7   $a edr  
+999       $b 1 $c 05-20-96 $d q $e s $f - $g 0
+
+Record 20
+LDR  01245nas  2200373 a 45  
+001  aut   89643728
+005  19910227000000.0
+008  950510d19621976gw  x p       0uuua0ger d
+010       $a 89-643728
+022       $a 0036-5726
+035       $a (OCoLC)4753806
+040       $a InU $c InU $d DLC
+042       $a lc
+043       $a e-ge---
+049       $a CRUG
+090       $a NA6840.G5 $b S3
+098       $n ov=.b2822568
+245  00   $a Scena. $b [no.] 1-34.
+260       $a [Berlin : $b Institut fèur Technologie Kultureller Einrichtungen, $c 1962-1977?
+300       $a 34 v. : $b ill. ; $c 29 cm.
+310       $a Irregular.
+362  1    $a Began with 1 in 1962; ceased with 34 in 1976.
+500       $a UCR PE: HAS NO 850, 901 $b = 'MULTI', 998 HAS NO $a'S; CREATE NO 852; REJECT (03/06).
+650   0   $a Theater $z Germany  (East) $x Construction $x Periodicals.
+650   0   $a Theater $z Germany (East) $x Periodicals.
+710  20   $a Institut fèur Technologie Kultureller Einrichtungen (Berlin, Germany)
+730  0    $a Scena (Berlin, Germany)
+730  00   $a Theater der Zeit.
+772  0    $t Theater der Zeit $x 0040-5418 $w (DLC)   52018288 $w (OCoLC)1713663.
+901       $a UCRb21585416 $b multi $c -
+902       $a 07-24-97
+907       $a .b21585416
+998       $b rstk 
+999       $b 1 $c 05-20-96 $d q $e s $f - $g 0
+
+Record 21
+LDR  01668cas  22004931  45  
+001  812268
+005  19850327171959.0
+008  740222d19691984enkmr1p       0uu1a0eng  
+010       $a 78008081
+019       $a 1716757
+022  0    $a 0030-4921
+030       $a ORMRBD
+032       $a 055890 $b USPS
+040       $a DLC $c OUN $d OCL $d COO $d DLC $d OCL $d NSD $d SER $d AIP $d OCL $d CRU
+041  0    $a engfreger
+042       $a lc $a nsdp
+050  0    $a QD476 $b .O2
+098       $n ov=.b256935
+210  0    $a Org magn. reson.
+222  00   $a Organic magnetic resonance.
+245  00   $a OMR. Organic magnetic resonance.
+246  10   $a Organic magnetic resonance.
+260  00   $a London, $b Heyden.
+265       $a Heyden & Son Ltd., Spectrum House, Hillview Gardens, London NW4 2JQ UK.
+300       $a 22 v. $b illus. $c 26 cm.
+310       $a Monthly.
+350       $a $647.00.
+362  0    $a v. 1-22, no. 12; Feb. 1969-Dec. 1984.
+500  2    $a UCR PE: NO 850, 901 $b='MULTI', NO 998; CREATE NO 852; REJECT (03/06).
+510  2    $a Abstract bulletin of the Institute of Paper Chemistry $x 0020-3033.
+510  2    $a Chemical abstracts $x 0009-2258.
+525       $a Each issue accompanied by a Spectral supplement.
+546       $a English, French or German.
+555       $a Vols. 1-2, 1969-70.  1 v.
+650   0   $a Carbon compounds $x Spectra $x Periodicals.
+650   0   $a Magnetic resonance $x Periodicals.
+690   0   $a Nuclear magnetic resonance $x Periodicals.
+690   0   $a Spectrum analysis $x Periodicals.
+690   0   $a Chemistry, Organic $x Periodicals.
+785  00   $t Magnetic resonance in chemistry.
+901       $a UCRb21607096 $b multi $c -
+902       $a 07-24-97
+907       $a .b21607096
+999       $b 1 $c 05-04-97 $d q $e s $f - $g 0
+
+Record 22
+LDR  01706cas  22004331  45  
+001  812841
+005  19871019162809.0
+008  740225c19499999vauqr p       0  ua0eng  
+010       $a 55042047 //r81
+019       $a 1460802
+022       $a 0001-074X
+040       $a DLC $c OUN $d SUL $d COO $d YUS $d NYG $d MUL $d m.c. $d PIT $d DLC $d NST $d AIP $d NSD $d AIP $d OCL $d AIP $d NYG $d CRU
+042       $a lc
+050       $a 050 $A $b $B
+090       $a 090 $A $b $B
+098       $n ov=.b250411
+210  0    $a ACLS newsl.
+212  0    $a American Council of Learned Societies newsletter.
+222  04   $a The ACLS newsletter.
+245  04   $a The ACLS newsletter.
+260  00   $a [Richmond, etc., $b American Council of Learned Societies]
+310       $a Quarterly, $b 1952-
+321       $a Irregular, $b 1949-51.
+362  0    $a v. 1-37 May 1949-Winter/Spring 1987; 2nd ser. v. 1, no. 1-   Summer 1987-
+500       $a UCR PE: REC HAS 2 850S,  NEITHER HAS $C; REC HAS 090, 050; MOVE 090 $A $B TO 852 $H $I FOR BOTH LOCATIONS (02/02).
+510  2    $a Annual bibliography of English language and literature $x 0066-3786.
+510  2    $a Public Affairs Information Service bulletin $x 0033-3409.
+530       $a Available on microfilm.
+650   0   $a Learned institutions and societies $z United States $x Periodicals.
+650   0   $a Learned institutions and societies $x Periodicals.
+710  20   $a American Council of Learned Societies.
+710  21   $a American Council of Learned Societies. $t Newsletter.
+850       $b rcp   $d - $f - $g Unbd: Cur Per. $h Keep latest 2 years only.
+850       $b rref  $d - $f - $g Unbd: Cur Per. $h Keep latest 2 years only.
+901       $a UCRb21607102 $b r     $c -
+902       $a 07-29-97
+907       $a .b21607102
+998       $a r    
+999       $b 1 $c 05-04-97 $d a $e s $f - $g 4
+
+Record 23
+LDR  01570cas  2200421 a 45  
+001  813488
+005  19910403113503.0
+008  740226u19699999enkbr1p       0uuua0eng d
+010       $a 80640744 //r80 $z 74014637
+019       $a 2446087 $a 3581438
+022       $a 0010-2687
+030       $a CAMPBS
+040       $a OUN $c OUN $d NSD $d OCL $d NSD $d DLC $d OCL $d DLC $d OCL $d SER $d AIP $d NST $d NSD $d CAS $d HUL $d NST $d CRU
+042       $a lc $a nsdp
+050       $a 050 $A $b $B
+098       $n ov=.b252872
+210  0    $a Comments at. mol. phys.
+222  00   $a Comments on atomic and molecular physics.
+245  00   $a Comments on atomic and molecular physics.
+260  00   $a [New York : $b Gordon and Breach, Science Publishers]
+300       $a v. ; $c 22 cm.
+310       $a Bimonthly.
+362  0    $a Vol. 1 (Apr./May 1969)-
+490  0    $a Comments on modern physics. Part D.
+500       $a UCR PE: REC HAS NO 850, 901 $B IS 'MULTI, 998 HAS 3 UNIQUE LOCS; REC HAS 050 $A $B; MOVE 050 $A $B TO 852 $H $I FOR EACH UNIQUE LOC (02/02).
+510  1    $a Electrical & electronics abstracts $x 0036-8105 $b April/May 1969-
+510  1    $a Physics abstracts. Science abstracts. Series A $x 0036-8091 $b April/May 1969-
+510  2    $a Chemical abstracts $x 0009-2258 $b -1988.
+510  0    $a Nuclear science abstracts $x 0029-5612.
+650   0   $a Nuclear physics $x Periodicals.
+650   0   $a Atoms $x Periodicals.
+650   0   $a Molecules $x Periodicals.
+760  0    $t Comments on modern physics.
+901       $a UCRb21607126 $b multi $c -
+902       $a 07-24-97
+907       $a .b21607126
+998       $a gc    $a gcca  $a rrep 
+999       $b 1 $c 05-04-97 $d i $e s $f - $g 0
+
+Record 24
+LDR  02402cas  2200541I  45  
+001  813697
+005  19781005112421.0
+008  740226c19689999gw mr p       0  1a0ger d
+022       $a 0009-5893
+040       $a OUN $c OUN $d MUL $d UCU $d COO $d OCL $d COO $d CRU
+041  0    $a engfreger
+090       $a QD79.C4 $b C47
+098       $n ov=.b252737
+099       $a Y (099$A-1) $a R5C47 (099$A-2) $a 1989-1992 (099$A-3)
+245  00   $a Chromatographia.
+260  00   $a Braunschweig, Germany, [etc.] $b Friedrich Vieweg & Sohn; $a New York, $b Pergamon Press.
+300       $a v. $b ill. $c 30 cm. $a monthly.
+362  0    $a v.1-   1968-
+500       $a UCR PE: REC HAS 11 850S - 6 UNIQUE, 3 DUPLICATES, 2 BEGINNING "rd": DROP THE 'rd' LOCS, OUTPUT THE 6 UNIQUE 852 FIELDS (02/02).
+500       $a 1ST, 3RD, 7TH, 9TH LOCS HAVE CALL NUM IN 850$C - OUTPUT IN 852 $J.
+500       $a REC HAS 099 WITH 3 $A'S, 090, 050 - OUTPUT SINGLE 852 $J FROM MULTIPLE 099 $A'S FOR 2 LOCS.
+500       $a 1ST 850, NO $H, CONCATENATE 599'S WITH BLANK INDS AND OUTPUT IN 852 $3; DO NOT OUTPUT 599 FIELDS.
+500       $a 2ND 850, HAS 3 $H'S; CONCATENATE $H'S AND OUTPUT IN 852 $3.
+500       $a 3RD 850, HAS 1 $H; OUTPUT IN 852 $3.
+500       $a 5TH AND 7TH 850'S - NO $H, OUTPUT DEFAULT MESSAGE IN 852 $3.
+500       $a 9TH 850, HAS $H, $U, $L; IGNORE $U AND $L; USE $H FOR $3
+546       $a English, French or German.
+555       $a Vols. 1-3, 1968-70, with 1970.
+599  1    $a 1ST 599, 1ST IND = 1
+599       $a 2ND 599, 1ST IND = BLANK
+599       $a 3RD 599, 1ST IND = BLANK
+650   0   $a Chromatographic analysis $x Periodicals.
+850       $b rstci  $c FIRST LOC CALL NUM $d - $f t $g Unbd: Cur Per.
+850       $b rstd   $d - $f l $h 850$h (1) $h 850$h (2) $h 850$h (3)
+850       $b rstd7 $c 3RD LOC CALL NUM $d - $f 3 $g Bd: Cur  $h 850$h (3RD LOC)
+850       $b rstci  $c DUPLICATE LOC $d - $f t $g Unbd: Cur Per.
+850       $b rstd8  $d - $g Unbd: Cur Per.
+850       $b rstd7 $c DUPLICATE LOC $d - $f 3 $g Bd: Cur Per. $h 850$h (3) $u 850$u (3)
+850       $b rstk  $c 7TH LOC CALL NUM $d - $g Unbd: Cur Per.
+850       $b rstk  $c DUPLICATE LOC $d - $g Unbd: Cur Per.
+850       $b edr   $c 9TH LOC CALL NUM $d - $f 3 $h 850$h (9TH LOC) $u 850 $u  $l 850 $l
+850       $b rdref $c RD LOCATION $d - $g Unbd: Cur Per.
+850       $b rdres $c RD LOCATION $d - $f 3 $h 850 $h $u 850 $u  $l 850$l
+901       $a UCRb21607138 $b p     $c -
+902       $a 08-12-97
+907       $a .b21607138
+998       $a p    
+999       $b 1 $c 05-04-97 $d r $e s $f - $g 0
+
+Record 25
+LDR  02474cas  2200565   45  
+001  816160
+005  19820707123002.0
+008  740227d19401981nyuqr1        0uuua0eng  
+010       $a 40004041
+022       $a 0033-3646
+030       $a PBPYAF
+035       $a 061193A $b MULS
+040       $a DLC $c OUN $d YUS $d NSD $d OCL $d DLC $d NSD $d DLC $d OCL $d NSD $d DLC $d OCL $d NST $d CRU
+042       $a nsdp $a lc
+050  0    $a JA51 $b .P82
+098       $n ov=.b281266
+222  10   $a Public policy $b (Cambridge)
+245  00   $a Public policy.
+260  00   $a [New York, etc., $b Published by J. Wiley for the John Fitzgerald Kennedy School of Government, Harvard University, etc.]
+265       $a Journals Dept., J. Wiley & Sons, 605 Third Ave., New York, NY 10016.
+300       $a 29 v. $b tables, diagrs. $c 25 cm.
+310       $a Quarterly, $b 1969-1981.
+321       $a Annual, $b 1940-68.
+350       $a $22.00 (U.S.) $a $28.00 (foreign)
+362  0    $a v. [1]-29; 1940-81.
+500       $a UCR PE: 850$F = '1' (ONE), OUTPUT "CURRENTLY RECEIVED" IN 852$D, "1" (ONE) IN 852$O (02/02).
+500       $a 850$F = 'i', OUTPUT "NOT CURRENTLY RECEIVED" IN 852 $D, "i" IN 852 $O.
+500       $a 850$F = 'q', OUTPUT "NO LONGER PUBLISHED" IN 852$D, "q" IN 852 $O.
+500       $a 850$F = 'l' (LETTER l), OUTPUT "SUBSCRIPTION CANCELLED" IN 852$D, "l" (LETTER l) IN 852 $O.
+500       $a 850$F = 'A' (AN UNDEFINED VALUE), DO NOT CREATE 852 $D, OUTPUT "A" IN 852 $O.
+500       $a 850 FIELD DOES NOT HAVE A $F, BUT THIS IS NOT FIRST 852 - DO NOT OUTPUT 852 $D OR $O.
+550  1    $a Vols. for 1940-68 published by the Graduate School of Public Administration, Harvard University; 1969-81 by the John Fitzgerald Kennedy School of Government, Harvard University.
+650   0   $a Political science $x Yearbooks.
+650   0   $a Social sciences $x Yearbooks.
+690   0   $a Political science $x Periodicals.
+690   0   $a Social sciences $x Periodicals.
+710  20   $a Kennedy School of Government.
+710  21   $a Harvard University. $b Graduate School of Public Administration.
+785  00   $t Journal of policy analysis and management $x 0276-8739.
+850       $b rstk  $d - $f 1 $h 1(1940)-29(1981)
+850       $b ede   $d - $f i $h 1(1940)-29(1981)
+850       $b edr   $d - $f q $h 1(1940)-29(1981)
+850       $b ed7   $d - $f l $h 1(1940)-29(1981)
+850       $b rref  $d - $f A $h LATEST IN REF
+850       $b rcps  $d - $h 1(1940)-29(1981)
+901       $a UCRb2160714x $b r     $c -
+902       $a 07-24-97
+907       $a .b2160714x
+998       $a r    
+999       $b 1 $c 05-04-97 $d g $e s $f - $g 0
+
+Record 26
+LDR  00656nas  2200205   45  
+008                                     eng  
+020       $a 0066-0035
+090       $a DS101 A53
+098       $n ov=.b250604x
+110       $a AMERICAN SCHOOLS OF ORIENTAL RESEARCH.
+245   0   $a ANNUAL.
+260  1    $a Winina Lake, Indiana : Eisenbraun.
+500       $a UCR PE: 850 $F IS '-' (AN UNDEFINED VALUE), NO 999 $D. DO NOT OUTPUT 852 $D OR $O (02/02).
+850       $b rstk  $c DS101 A53 $d - $f - $h 1(1919)-49(1989), 50(1992)-53(1996)-
+901       $a UCRb24324164 $b r     $c b
+902       $a 08-06-97
+907       $a .b24324164
+992       $a Innovacq record
+998       $a r    
+999       $b 1 $c   -  -   $e s $f b $g 0
+
+Record 27
+LDR  01579cms  2200337Ia 45  
+001  21493670
+005  19930614185202.0
+008  900508c19909999mauqr      d        eng d
+022       $a 1058-4129
+040       $a TXA $c TXA $d FDA $d CU-Riv
+049       $a [Computer File]CROB
+099       $a 50
+245  00   $a Biological abstracts on compact disc $h [computer file]
+260       $a Newton Lower Falls, MA : $b SilverPlatter,
+265       $a SilverPlatter Information, Inc., One Newton Executive Park, Newton Lower Falls, MA 02162-1449.
+300       $a computer laser optical disk ; $c 4 3/4 in. + $e setup disk + database disk + 1 user's guide.
+315       $a Quarterly, with annual cumulations.
+362  0    $a Vol. 1990, issue 1 (Jan.-March)-
+500       $a UCR PE: LOC TAKEN FROM 901 $B, 999 DOES NOT HAVE $D; DO NOT OUTPUT 852 $D OR $O (02/02).
+520       $a Biological abstracts on compact disk (BA on CD) is the equivalent of the printed reference work, Biological abstracts.  It contains approximately 275,000 records per year.
+538       $a System requirements: IBM PC, XT, AT, or compatible; 512K in RAM (640K recommended); PC or MS-DOS 2.1 or higher; 1 floppy disk drive, hard disk drive, CD-ROM drive and interface card; printer (optional)
+650   0   $a Biology $x Abstracts.
+710  20   $a BioSciences Information Service of Biological Abstracts.
+710  20   $a SilverPlatter Information, Inc.
+740  01   $a BA on CD.
+753       $a IBM PC $c DOS 2.1 or higher.
+901       $a UCRb10945969 $b rrep  $c -
+902       $a 05-18-97
+907       $a .b10945969
+999       $b 1 $c 05-20-96 $e m $f - $g 0
+998       $a rrep 
+
+Record 28
+LDR  01074nas  2200313Ia 45  
+001  14262050
+005  19861002102442.0
+008  860925c19549999cauwr p       0uuu 0eng d
+040       $a CRU $c CRU
+049       $a CRUV $a [Micro-][film]CRUS $a CRUV
+098       $n ov=.b2543564
+099       $a Y $a R5H53
+245  00   $a Highlander.
+247  10   $a UCR Cub, $f v. 1, no. 1-v. 3, no. 7.
+260  00   $a Riverside, Calif. : $b Univ. of Calif., Riverside, $c 1954-
+300       $a v. : $b ill. ; $c 38 cm.
+310       $a Weekly (27 issues during academic year)
+362  0    $a Vol. 1, no. 1 (Feb. 1954)-
+500       $a UCR PE: EACH 850 LOC BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+515       $a Numbering for v. 25 is repeated on issues for 1978 and 79.
+610  20   $a University of California, Riverside.
+710  20   $a University of California, Riverside.
+850       $b rdacq $c SPEC COLL f Y R5H53 $c Y R5H53 f SPEC.COLL. $d - $f g.
+850       $b rdacv $c Y R5H53 $d - $f g.
+901       $a UCRb21770268 $b multi $c -
+902       $a 01-27-98
+907       $a .b21770268
+998       $a r     $a x    
+999       $b 2 $c 05-20-96 $d - $e s $f - $g 0
+
+Record 29
+LDR  01130cas  2200325I  45  
+001  2791645
+005  19800415171426.0
+008  770310c19579999azumr p       0uuua0eng d
+010       $a 63049070
+022       $a 0006-7520
+040       $a UCU $c UCU $d IUL $d CRU
+050  0    $a Z1251.S8 $b B6
+098       $n ov=.b291694
+245  00   $a Books of the Southwest.
+260  00   $a Tucson, Ariz. [etc.] $b University of Arizona Library [etc.]
+300       $a v. $c 22 cm. monthly.
+362  0    $a no. 1-   June 1957-
+500       $a UCR PE: NO 850S, 901 $b BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+550  0    $a Formerly issued by the University of California at Los Angeles Library.
+650   0   $a American literature $z Southwest, New $x Bibliography $x Periodicals.
+651   0   $a Southwest, New $x Bibliography $x Periodicals.
+691   0   $a Southwest, New $x Bibliography.
+710  11   $a California. $b University, Los Angeles. $b Library.
+710  21   $a University of Arizona. $b Library.
+901       $a UCRb21682331 $b rdtk  $c -
+902       $a 01-29-98
+907       $a .b21682331
+990       $a LIBRARY & INFORMATION SCIENCE(2)
+998       $a rstk 
+999       $b 1 $c 05-04-97 $d - $e s $f - $g 0
+
+Record 30
+LDR  01957cas  2200481 a 45  
+001  1916499
+003  OCoLC
+005  19960123152934.0
+008  760108u19539999cauqr1m       0   a0eng d
+010       $a 90648521  $z sc 76000073  $z sn 79009009
+019       $a 2450361 $a 5669181 $a 12015497 $a 12015552
+022  0    $a 0195-864X
+040       $a COO $c COO $d NSD $d DLC $d NSD $d DLC $d OCL $d DLC $d NSD $d OCL $d NST $d CRU
+042       $a lc $a nsdp
+043       $a n-us-ca
+050       $a F868.S14 (050 $A) $b S37 (050 $B)
+090       $a F868.S14 (090 $A) $b S37 (090 $B)
+099       $a 099$A (1) $a 099$A (2) $a 099 $A (3)
+098       $n ov=.b258143
+130  0    $a Quarterly-A (San Bernardino County Museum Association)
+210  0    $a Q. San Bernard. Cty. Mus. Assoc.
+222   0   $a Quarterly-A of San Bernardino County Museum Association.
+245  10   $a Quarterly-A / $c San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association quarterly.
+246  10   $a Quarterly-A of San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association.
+260       $a Bloomington, Calif. : $b The Association, $c 1953-
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Quarterly.
+362  0    $a Vol. 1 (1953)-
+500       $a UCR PE: NO 850S, LOCATION IN 901 $B IS 'multi', 998 HAS 3 $A'S, 2ND 998 $A BEGINS 'rd'. DROP 'rd' LOCATION, OUTPUT OTHER TWO (2/02).
+500       $a REC HAS 099 WITH MULTIPLE $A'S, 090, 050 - OUTPUT 099 $A'S IN SINGLE 852 $J FOR BOTH LOCS.
+510  2    $a GeoRef $x 0197-7482.
+580       $a Vol. 5, no. 4 contains separately paged section called Archeological survey reports.
+651   0   $a California $x History $x Periodicals.
+710  2    $a San Bernardino County Museum Association.
+730  0    $a Archeological survey reports.
+777  1    $t Archeological survey reports.
+901       $a UCRb21662253 $b multi $c -
+902       $a 01-25-98
+907       $a .b21662253
+998       $a rmfl  $a rd    $a rcps 
+999       $b 3 $c 05-04-97 $d - $e s $f - $g 0
+
+Record 31
+LDR  01703cas  2200445 a 45  
+001  1916499
+003  OCoLC
+005  19960123152934.0
+008  760108u19539999cauqr1m       0   a0eng d
+010       $a 90648521  $z sc 76000073  $z sn 79009009
+019       $a 2450361 $a 5669181 $a 12015497 $a 12015552
+022  0    $a 0195-864X
+040       $a COO $c COO $d NSD $d DLC $d NSD $d DLC $d OCL $d DLC $d NSD $d OCL $d NST $d CRU
+042       $a lc $a nsdp
+043       $a n-us-ca
+090       $a F868.S14 $b S37
+098       $n ov=.b258143
+130  0    $a Quarterly-B (San Bernardino County Museum Association)
+210  0    $a Q. San Bernard. Cty. Mus. Assoc.
+222   0   $a Quarterly-B of San Bernardino County Museum Association.
+245  10   $a Quarterly-B / $c San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association quarterly.
+246  10   $a Quarterly-B of San Bernardino County Museum Association.
+246  10   $a San Bernardino County Museum Association.
+260       $a Bloomington, Calif. : $b The Association, $c 1953-
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Quarterly.
+362  0    $a Vol. 1 (1953)-
+500       $a UCR PE: NO 850S, LOC IN 901 $b IS 'multi', 998 HAS 2 $a'S, EACH BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+510  2    $a GeoRef $x 0197-7482.
+580       $a Vol. 5, no. 4 contains separately paged section called Archeological survey reports.
+651   0   $a California $x History $x Periodicals.
+710  2    $a San Bernardino County Museum Association.
+730  0    $a Archeological survey reports.
+777  1    $t Archeological survey reports.
+901       $a UCRb21662253 $b multi $c -
+902       $a 01-25-98
+907       $a .b21662253
+998       $a rdzz  $a rd   
+999       $b 3 $c 05-04-97 $d - $e s $f - $g 0
+
+Record 32
+LDR  00809pam  2200253 a 45  
+001  17508209
+005  19890314172320.0
+008  880202s1988    maubf    d    000 0 eng  
+010       $a 88001643
+020       $a 0877794464
+040       $a DLC $c DLC $d CU-Riv
+090       $a G103.5 $b .W42 1988
+245  00   $a Webster's new geographical dictionary.
+260       $a Springfield, Mass. : $b Merriam-Webster, $c c1988.
+300       $a xxix, 1376 p., [2] p. of plates : $b maps ; $c 25 cm.
+500       $a UCR MONO: ONE 920 $l, LOC BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+650   0   $a Geography $x Dictionaries.
+710  20   $a Merriam-Webster, Inc.
+901       $a UCRb20837458 $b multi $c -
+902       $a 02-10-98
+907       $a .b20837458
+920       $l rd    $b 31210011026794
+998       $a r     $a p     $a m     $a b    
+999       $b 4 $c 02-10-98 $d - $e a $f - $g 0
+
+Record 33
+LDR  01063cam  2200313I  45  
+001  1966280
+005  19930910024426.0
+008  760204m19649999xx            00000 germ 
+010       $a 72311331
+020       $a 3503000151
+040       $a DLC $c JHE $d CU-Riv
+098       $n ov=.b101058x
+099       $a KKC $a E74
+100  10   $a Erler, Adalbert, $d 1904-
+245  10   $a Handwèorterbuch zur deutschen Rechtsgeschichte. $c Unter Mitarbeit von Wolfgang Stammler, hrsg von Adalbert Erler und Ekkehart Kaufmann.
+260  0    $a [Berlin] $b E. Schmidt $c [c 1971-
+300       $a v. $c 26 cm.
+500       $a UCR MONO: NO 920s, LOC IN 901 $b BEGINS 'rd'; CREATE NO 852; REJECT (03/06).
+504       $a Includes bibliography.
+650   0   $a Law $x History $x Dictionaries $x German.
+650   0   $a Law $z Germany (West) $x History $x Dictionaries.
+700  10   $a Kaufmann, Ekkehard.
+700  10   $a Stammler, Wolfgang, $d 1886-1965.
+901       $a UCRb13048193 $b rd    $c -
+902       $a 02-09-98
+907       $a .b13048193
+963       $a D 0004717328
+998       $a rstk  $a rstk  $a rstk  $a zsrlf
+999       $b 4 $c 06-08-97 $d - $e a $f - $g 0
+
+Record 34
+LDR  00782pam  2200241 a 45  
+001  17508209
+005  19890314172320.0
+008  880202s1988    maubf    d    000 0 eng  
+010       $a 88001643
+020       $a 0877794464
+040       $a DLC $c DLC $d CU-Riv
+090       $a G103.5 $b .W42 1988
+245  00   $a Webster's new geographical dictionary.
+260       $a Springfield, Mass. : $b Merriam-Webster, $c c1988.
+300       $a xxix, 1376 p., [2] p. of plates : $b maps ; $c 25 cm.
+500       $a UCR MONO: NO 920s, 901 $b IS 'multi', 2 $A'S IN 998 BEGIN 'rd'; CREATE NO 852; REJECT (03/06).
+650   0   $a Geography $x Dictionaries.
+710  20   $a Merriam-Webster, Inc.
+901       $a UCRb20837458 $b multi $c -
+902       $a 02-10-98
+907       $a .b20837458
+998       $a rda   $a rdb  
+999       $b 4 $c 02-10-98 $d - $e a $f - $g 0
+
+Record 35
+LDR  00604nam  2200181   45  
+008                                     eng  
+098       $n ov=.b5587712
+245   0   $a COLLECTED ALGORITHMS FROM ACM.
+260  1    $a New York : Association for Computing Machinery.
+500       $a UCR: UNKNOWN CATALOGING SOURCE IN 901 $a: REJECT RECORD
+700       $a ASSOCIATION FOR COMPUTING MACHINERY.
+901       $a xxXb25118006 $b r     $c b
+902       $a 10-13-97
+907       $a .b25118006
+920       $l ed7 $d - $f -
+990       $a ISSUED WITH COLLECTED ALGORITHMS FROM ASM SUPPLEMENT (MICROFORM)
+998       $a r    
+999       $b 0 $c   -  -   $d p $e s $f b $g 0
+
+Record 36
+LDR  00877cZZ  2200289   45  
+001  8532176
+003  OCoLC
+005  19980625191924.0
+008  820524m1949999ne a          000 0 eeng c
+010       $a 50020998 //r855
+040       $a DLC $c DLC
+050  00   $a NE663 $b .H6
+098       $n ov=.b1433660
+100  1    $a Hollstein, F. W. H.
+260       $a Amsterdam, $b M. Hertzberger, $c 1949-
+300       $a 58 v. $b illus. $c 28 cm.
+500       $a UCR: UNKNOWN TYPE AND BIBLVL, NO 245, UNKNOWN LOC CODE; CREATE 4 998 ERR FIELDS (03/06).
+650   0   $a Engraving, Dutch.
+650   0   $a Engraving, Flemish.
+740  01   $a Hollstein's Dutch and Flemish etchings, engravings, and woodcuts, ca. 1450-1700.
+901       $a UCRb14541440 $b r     $c -
+902       $a 12-10-01
+907       $a .b14541440
+910       $a pem/rev.
+920       $l XXZZ  $b 31210010556841 $u v.1
+998       $a r    
+999       $b 1 $c 11-16-01 $d - $e a $f - $g 0
+
+Record 37
+LDR  00972cam  2200301I  45  
+001  1078422
+005  19940411183010.0
+008  741118s1971    mx a     b    000 0 eng  
+010       $a 79867653
+040       $a DLC $c ISM $d CNE $d OCoLC $d CU-Riv
+049       $a CRUG
+090       $a GR70 $b .V4
+245  00   $a 25 estudios de folklore; $c homenaje a Vicente T. Mendoza y Virginia Rodrâiquez Rivera.
+246  3    $a Veinticinco estudios de folklore
+250       $a [1. ed.]
+260       $a Mâexico, $b [s.n.] $c 1971.
+300       $a 394 p. $b illus. $c 24 cm.
+490  1    $a Universidad Nacional Autâonoma de Mâexico. Instituto de Investigaciones Estâeticas. Estudios de folklore, 4
+500       $a UCR: NO 901; REJECT
+600  10   $a Rodrâiquez Rivera, Virginia.
+600  10   $a Mendoza, Vicente T., $d 1894-
+650   0   $a Folklore.
+830   0   $a Estudios de folklore, $v 4.
+902       $a 03-19-02
+907       $a .b10002765
+920       $l rstk  $b 3 1210 00461 4325
+998       $a r    
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+
+Record 38
+LDR  01022cam  2200301 a 45  
+001  17900052
+005  19921101133106.0
+008  880501s1988    ohuab        f00100 eng d
+040       $a GPO $c GPO $d MvI-cor
+043       $a n-us---
+074       $a 830-C
+086  0    $a NAS 1.2:P 94/5
+088       $a B-0042
+098       $a NAS12P945
+099   8   $a NAS 1.2:P 94/5
+245  00   $a 25 years of progress, NASA's first 25 years.
+260  0    $a Cleveland, Ohio : $b Educational Services Office, NASA Lewis Research Center, $c 1988.
+300       $a v, 129 p. : $b ill., map ; $c 24 cm.
+500       $a UCR: NO 902 IN INPUT REC; CREATE 005 FROM DATE PARM
+610  10   $a United States. $b National Aeronautics and Space Administration $x History.
+710  20   $a Lewis Research Center. $b Educational Services Office.
+740  01   $a Twenty-five years of progress, NASA's first twenty-five years.
+901       $a UCRb1000287x $b g     $c -
+907       $a .b1000287x
+910       $a GovPub
+920       $l gsus  $b 31210015596131
+998       $a g    
+999       $b 0 $c 05-20-96 $d - $e a $f - $g 0
+
+Record 39
+LDR  00805cXX  2200205Ia 45  
+001  9311883
+005  19850301173036.0
+008  830315s1979    sp ae    c   f00010 spa d
+040       $a WAU $c WAU $d CU-Riv
+043       $a e-sp---
+049       $a CRUG
+090       $a GN784.3.A6 $b S62 1979
+110  10   $a Spain. $b Subdirecciâon General de Arqueologâia.
+260  0    $a [Madrid] : $b Imprenta del Ministerio de Cultura, $c 1979.
+300       $a [82] p. : $b ill., plans ; $c 22 cm.
+500       $a UCR: 901 $c = "d" (DELETE); NO 902, USE FILEDATE FOR 005; NO LOC CODE (NO 920 $l, 901 $b IS 'multi', NO 998 FLD); INVALID TYPE & BIBLVL; NO 245 - NO OUTPUT 852, NO OUTPUT 998 ERR FLDS; CHG LEADER STATUS TO 'd' (05/02).
+651   0   $a Altamira Cave (Spain)
+901       $a UCRb10004099 $b multi $c d
+907       $a .b10004099
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+
+Record 40
+LDR  02228cas  2200685 a 45  
+001  1239877 
+003  OCoLC
+005  20000815131026.0
+007  cr unu
+008  750326c18879999dcugr1    rh f0   a0eng  
+010       $a 06035330 //r954  $z sc 79002752 $z sn 84000755
+022  0    $a 0160-9890
+030       $a CODIDS
+035       $a (GPO)99055776
+037       $b Supt. of Docs., U.S. Govt. Print. Off., Washington, DC 20402
+060  0    $a JK 1011 A1
+074       $a 0992
+074       $a 0992 (online)
+086  0    $a Y 4.P 93/1:1/
+098       $a Y4P9311
+098       $a Electronicjournal
+099       $a JK1011
+110  1    $a United States. $b Congress.
+222   0   $a Official congressional directory
+245  10   $a Official congressional directory / $c by W. H. Michael.
+246  14   $a Congressional directory $f <97th Congress->
+260       $a Washington : $b U.S. G.P.O., $c 1888-
+300       $a v. : $b ill., maps ; $c 15-24 cm.
+310       $a Biennial, $b 19  -
+321       $a Annual, $b 19  -19
+362  0    $a 50th Congress, 1st session-
+500  10   $a UCR PE: TEST ALL POSSIBLE 850 $f ORDER RECEIPT VALUES(3/28/02
+700  1    $a Michael, W. H.
+850       $b n     $c Callno1 $d - $f g $h v.1
+850       $b s     $c Callno2 $d - $f m $h v.2
+850       $b sccd   $c Callno3 $d - $f o $h v.3
+850       $b scdvd  $c Callno4 $d - $f p $h v.4
+850       $b scir  $c Callno5 $d - $f s $h v.5
+850       $b scirf  $c Callno6 $d - $f t $h v.6
+850       $b scirs   $c Callno7 $d - $f x $h v.7
+850       $b scp  $c Callno8 $d - $f y $h v.8
+850       $b scps  $c Callno9 $d - $f 1 $h v.9
+850       $b sgov  $c Callno10 $d - $f 5 $h v.10
+850       $b sress  $c Callno11 $d - $f i $h v.11
+850       $b sresm  $c Callno12 $d - $f r $h v.12
+850       $b sref7  $c Callno13 $d - $f z $h v.13
+850       $b sref  $c Callno14 $d - $f 2 $h v.14
+850       $b srcd  $c Callno15 $d - $f 6 $h v.15
+850       $b ssru $c Callno16 $d - $f q $h v.16
+850       $b sst7 $c Callno17 $d - $f 3 $h v.17
+850       $b smath $c Callno18 $d - $f 7 $h v.18
+850       $b smcd $c Callno19 $d - $f l $h v.19
+850       $b v  $c Callno20 $d - $f 4 $h v.20
+850       $b vcas  $c Callno21 $d - $f B $h v.21
+901       $a UCRb21612547 $b multi $c -
+902       $a 03-20-02
+907       $a .b21612547
+910       $a gp-U.S. depository
+998       $a n     $a g     $a r     $a rref  $a s    
+999       $b 60 $c 10-07-00 $d - $e s $f - $g 0
+
+Record 41
+LDR  01089cam  2200313   45  
+001  88240
+005  19801215000000.0
+008  700731s1970    ilu      b    00110 eng  
+010       $a 78124404
+020       $a 0202010911
+040       $a DLC $c DLC $d CU-Riv
+043       $a n-us-pa
+049       $a CRUG
+090       $a GR103 $b .A27 1970
+100  10   $a Abrahams, Roger D.
+245  10   $a Deep down in the jungle ...; $b Negro narrative folklore from the streets of Philadelphia $c [by] Roger D. Abrahams.
+250       $a 1st rev. ed.
+260  0    $a Chicago, $b Aldine Pub. Co. $c [1970]
+300       $a ix, 278 p. $c 22 cm.
+490  0    $a Aldine folklore series
+500       $a UCR: INPUT 902 FORMAT MM-DD-YY, WHERE YY BEGINS WITH ZERO; CREATE 005 BY ADDING "20" TO BEGINNING OF YEAR, THEN OUTPUTTING IN STANDARD MARC FORMAT (05/02)
+650   0   $a African Americans $z Pennsylvania $z Philadelphia.
+650   0   $a Toasts (Afro-American folk poetry)
+650   0   $a African Americans $x Folklore.
+901       $a UCRb10027233 $b rstk  $c -
+902       $a 01-03-01
+907       $a .b10027233
+998       $a rstk 
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+
+Record 42
+LDR  01195cas  2200421   45  
+001  130-S
+002  002 FLD
+003  003 FLD
+004  004 FLD
+005  19891127000000.0
+008  800813c19129999caubr1p  g    0uuua0eng  
+009  009 FLD
+010       $a 19003441
+022  0    $a 0008-1221
+040       $a MUL $c MUL $d FGULS $d MUL $d NSDP $d CU-AL
+042       $a nsdp
+043       $a n-us-ca
+222  00   $a California law review
+245  00   $a California law review
+260  11   $a Berkeley, Calif., $c 1913-
+300       $a v. $b ports. $c 26 cm
+362  0    $a v. 1-   Nov. 1912-
+500       $a UCR: DROP 001-005, 009, 590, 850, 852, 866-868, 886, 899, INPUT 9XX FLDS; OUTPUT 005 FLD WILL BE CREATED FROM 902, DATA FROM OTHER DROPPED FIELDS MAY BE OUTPUT ELSEWHERE (04/02).
+590       $a 590 FLD
+650   0   $a Law $x Periodicals $z California
+710  10   $a University of California, Berkeley. $b School of Law
+850       $a 850 FLD $b xet8
+852       $a 852 FLD
+866       $a 866 FLD
+867       $a 867 FLD
+868       $a 868 FLD
+886       $a 886 FLD
+899       $a 899 FLD
+901       $a UCRb10023392 $b xet8 $c -
+902       $a 08-06-96
+907       $a .b10023392
+998       $a ed7  $a r 
+999       $b 2 $c 05-20-96 $e a $f - $g 0
+
+Record 43
+LDR  02232cai  2200469 a 4500
+001  856122
+005  19930712155731.0
+007  cr unu
+008  740415c19539999txumr1p       0   a0eng d
+010       $a 56003239 //r86
+019       $a 2445971 $a 1554750
+022  0    $a 0009-7330
+030       $a CIRUAL
+032       $a 113760 $b USPS
+035       $a (SFXObjID)954925390276  
+040       $a OUN $c OUN $d OCL $d UCU $d MUL $d NSD $d HUL $d IUL $d DLC $d m.c. $d NSD $d OCL $d SER $d RCS $d AIP $d NSD $d AIP $d OCL $d AIP $d IXA $d AIP $d NSD $d AIP $d OCL $d DLC $d NSD $d m/c $d NSD $d NST $d HUL $d NLM $d NSD $d NST $d NSD $d CRU
+042       $a nsdp $a lc
+090       $a RC681.A1 $b .C59
+098       $n ov=.b252765
+210  0    $a Circ. res.
+222  10   $a Circulation research.
+245  00   $a Circulation research : $b a journal of the American Heart Association.
+260       $a Baltimore, Md. : $b Grune & Stratton, $c c1953-
+265       $a American Heart Association, 7320 Greenville Ave., Dallas, TX 75231.
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Biweekly, $b 1998-
+321       $a Monthly, $b 1962-1997.
+321       $a Bimonthly, $b 1953-1961.
+362  0    $a Vol. 1, no. 1 (Jan. 1953)-
+500       $a UCR PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+530       $a Also available via the World Wide Web. (Restricted to Lippincott Williams & Wilkins subscribers).
+580       $a Includes v. <9>-11, 14-26 of: Hypertension (published as an issue of Circulation research, <1961>-1963, and as a supplement, 1966-1978), which is also available separately.
+650   0   $a Cardiovascular system $v Periodicals.
+650   0   $a Blood $x Circulation $v Periodicals.
+850       $b n     $c Electronic journal $d - $f s $h Table of contents: v.17:4(1965)-35(1974); Abstracts: v.36(1975)-75(1994); Full text: v.76(1995)-
+856  41   $3 Connect to Table of contents only: v.17 no.4 (1965)-v.35 (1974); Abstracts only: v.36 (1975)-v.75 (1994); Full text: v.76 (1995)- $x Lippincott Williams & Wilkins. $z Current 12 months restricted to UC campuses; older issues freely available to all  $u http://uclibs.org/PID/4018
+901       $a UCRb21607606 $b n $c -
+902       $a 06-12-06
+907       $a .b21607606
+910       $a pem/elec/SCP
+998       $a n     $a s    
+999       $b 2 $c 05-04-97 $d - $e s $f - $g 0
+
+Record 44
+LDR  01632cmi  22004211  4500
+001  928160
+005  19871023132651.0
+008  740624c19589999nyu x1m   b   0uuua0engm 
+010       $a 58009935
+019       $a 304937 $a 1461164
+022  0    $a 0065-2385
+030       $a ADCPAA
+040       $a DLC $c DAY $d SUL $d HUL $d YUS $d NYG $d DLC $d m.c. $d OCL $d SER $d OCL $d AIP $d NSD $d NST $d CRU
+042       $a lc $a nsdp
+060  0    $a W1 AD53L
+090       $a QD453 $b .A39
+098       $n ov=.b250130
+210  0    $a Adv. chem. phys.
+222  00   $a Advances in chemical physics.
+245  00   $a Advances in chemical physics.
+260  00   $a New York, $b Wiley [etc.] $c 1958-
+265       $a John Wiley & Sons, 605 Third Ave., New York, NY 10016.
+300       $a v. $b ill., diagrs. $c 24 cm.
+310       $a Irregular.
+362  0    $a v. 1-
+500       $a UCR PE: INTEGRATING RESOURCE - TYPE = 'm', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+510  2    $a Chemical abstracts $x 0009-2258.
+510  2    $a Energy research abstracts $x 0160-3604.
+570       $a Editor: v. 1-    I. Prigogine.
+650   0   $a Chemistry, Physical and theoretical.
+700  11   $a Prigogine, I. $q (Ilya) $e ed.
+850       $b sstk  $c QD453 A39 $d - $f p $h v.1(1958)-132(2006)-
+856  41   $3 Connect to Table of contents only: v.17 no.4 (1965)-v.35 (1974); Abstracts only: v.36 (1975)-v.75 (1994); Full text: v.76 (1995)- $x Lippincott Williams & Wilkins. $z Current 12 months restricted to UC campuses; older issues freely available to all  $u http://uclibs.org/PID/4018
+901       $a UCRb21607965 $b s     $c -
+902       $a 06-15-06
+907       $a .b21607965
+998       $a s    
+999       $b 0 $c 05-04-97 $d - $e s $f - $g 0
+
+Record 45
+LDR  01163pam  2200325 a 45  
+001  28889314
+005  19940801170440.0
+008  930903s1994    nyuabc   b    000 0 eng  
+010       $a 93029264
+020       $a 0815314485 (alk. paper)
+040       $a DLC $c DLC $d CU-Riv
+043       $a n-usu--
+049       $a CRUG
+090       $a E185.6 $b .A25 1994
+245  00   $a African Americans and the emergence of segregation, 1865-1900 / $c edited with an introduction by Donald G. Nieman.
+260       $a New York : $b Garland Pub., $c 1994.
+300       $a xiii, 443 p. : $b ill., maps, ports. ; $c 24 cm.
+440   0   $a African American life in the Post-Emancipation South ; $v v. 11.
+500       $a UCR: 901 $a DOES NOT CONTAIN RECORD ID NUMBER - REJECT (06/02).
+650   0   $a African Americans $z Southern States $x History $y 19th century.
+650   0   $a African Americans $z Southern States $x Segregation.
+651   0   $a Southern States $x Race relations.
+651   0   $a Southern States $x History $y 1865-1951.
+700  10   $a Nieman, Donald G.
+901       $a UCR $b r     $c -
+902       $a 01-03-01
+907       $a .b10088350
+920       $l rstk  $b 31210009610245
+998       $a r    
+999       $b 1 $c 05-20-96 $d - $e a $f - $g 0
+

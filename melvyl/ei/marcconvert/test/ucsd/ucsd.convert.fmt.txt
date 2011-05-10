@@ -1,0 +1,720 @@
+Record 1
+LDR  00704dam  2200217   45  
+005  19890525000000.0
+008  690626s1968    nyua     b    00110 eng  
+010       $a 68025338
+035       $a (CaOTULAS)112438813
+035       $a (OCoLC)10562
+040       $a DLC $c DLC $d m.c. $d CUS
+050  0    $a TK7816 $b .O4
+100  10   $a Olsen, George Henry
+245  10   $a Electronics; a general introduction for the non-specialist $c [by] G. H. Olsen
+260  0    $a New York, $b Plenum Press $c [1968]
+300       $a 493 p. $b illus. $c 23 cm
+500       $a UCSD: INPUT 901 $C VALUE IS 'd'. OUTPUT STATUS CODE SHOULD BE 'd'. (2/02)
+504       $a Includes bibliographies
+650   0   $a Electronics
+852       $a SDB $b smono $h TK7816 $i .O4
+901       $a SDB $b 1303023
+
+Record 2
+LDR  00771cab  2200241   45  
+005  19890525000000.0
+008  691125s1969    nyua     b   00110 eng  
+010       $a 70078948
+020       $a 444197532
+035       $a (CaOTULAS)112445648
+035       $a (OCoLC)24221
+040       $a DLC $c DLC $d OCL $d m.c. $d CUS
+049       $a CUSO $n msg. 1978 inv.[!31822014479497]
+050  0    $a VK555 $b .C869 1969b
+090       $a VK555 $b .C869
+100  10   $a Cotter, Charles H
+245  14   $a The complete nautical astronomer $c [by] Charles H. Cotter
+260  0    $a New York, $b American Elsevier Pub. Co., $c 1969
+300       $a x, 336 p. $b illus. $c 23 cm
+500       $a UCSD PE: INPUT TYPE IS 'h'; CHANGE TO 'a'; BIBLEV IS 'b'. (2/02)
+650   0   $a Nautical astronomy
+852       $a SDB $b smono $j VK555
+901       $a SDB $b 13067948
+
+Record 3
+LDR  00892cas  2200277   45  
+005  19890525000000.0
+008  690904s1969    mduabd        00110 eng  
+010       $a 71079625 //r79
+035       $a (CaOTULAS)112445651
+035       $a (OCoLC)26120
+040       $a DLC $c DLC $d m.c. $d CUS
+050  0    $a VK555 $b .D96 1969
+090       $a VK555 $b .D97 1969
+100  10   $a Dunlap, G. D., $d 1923-
+245  10   $a Dutton's Navigation and piloting
+250       $a 12th ed. $b by G. D. Dunlap and H. H. Shufeldt
+260  0    $a Annapolis, $b United States Naval Institute $c [1969]
+300       $a 715, ii, 25 p. $b illus., charts, maps. $c 27 cm
+500       $a UCSD PE: TYPE IS 'a'; BIBLEV IS 's'. (2/02)
+650   0   $a Navigation
+650   0   $a Nautical astronomy
+700  10   $a Dutton, Benjamin, $d 1883-1937
+700  10   $a Shufeldt, H. H., $d 1898-
+740  00   $a Navigation and piloting
+852       $a SDB $b smono $j VK555
+901       $a SDB $b 13072748
+
+Record 4
+LDR  00931cam  2200253I  45  
+005  20020510143000.0
+008  691204s1969    caua         00000 eng  
+010       $a 71088212
+035       $a (CaOTULAS)112444381
+035       $a (OCoLC)45705
+040       $a DLC $c DLC $d CUS
+050  0    $a TR850 $b .A57 1969
+090       $a TR850 $b .A512 1969
+245  00   $a American cinematographer manual. $c Compiled and edited by Arthur C. Miller and Walter Strenge
+250       $a 3d ed
+260  0    $a Hollywood, $b American Society of Cinematographers $c [1969]
+300       $a 650 p. (p. [1]-57, 645-650 advertisements) $b illus. $c 19 cm
+500       $a UCSD: RECORD HAS 005, NO 902. DROP INPUT 005 AND CREATE NEW 005 FROM FILEDATE PARM (3/02).
+650   0   $a Cinematography $x Handbooks, manuals, etc
+700  10   $a Miller, Arthur C.,
+700  10   $a Strenge, Walter,
+710  20   $a American Society of Cinematographers
+852       $a SDB $b smono $h TR850 $i .A512 1969
+901       $a SDB $b 1310723
+
+Record 5
+LDR  01282cam  2200313I  45  
+005  19890524000000.0
+008  700206s1967    ne a     b    10110 engm 
+010       $a 75440168
+035       $a 035 FIELD
+035       $a (OCoLC)001 FIELD
+040       $a DLC $c DLC $d m.c. $d CUS
+041  0    $a engfre
+050  0    $a RC48 $b .I57 1966
+051       $c Copy 2
+096       $a WB 100 I608 1966i
+111  20   $a International Congress of Internal Medicine. $n (9th : $d 1966 : $c Amsterdam)
+245  10   $a Integration in internal medicine; $b proceedings of the ninth International Congress of Internal Medicine, Amsterdam, 7-10 September 1966, $c organized by the Netherlands Society of Internal Medicine. Editor, A. J. Dunning
+260  0    $a Amsterdam, $a New York [etc.] $b Excerpta Medica Foundation $c [1967]
+300       $a xv, 559 p. $b illus. $c 25 cm
+490  1    $a International congress series, $v no. 137
+500       $a UCSD: DROP FLDS: 001/005,009,590,850,852,866/868,886,899,9XX (2/02)
+504       $a Includes bibliographies
+650   0   $a Internal medicine $x Congresses
+650   2   $a Internal Medicine $x congresses
+700  10   $a Dunning, A. J
+710  20   $a Nederlandsche Internisten Vereeniging
+830   0   $a International congress series. $v no.137
+852       $a SDB $b bf1 $j WB 100 I608 1966i $z 590 FIELD.
+901       $a SDB $b 1312712
+
+Record 6
+LDR  00939dXX  2200265   45  
+005  20020510143000.0
+008  710507s1971    paua          00110 eng  
+010       $a 76118592
+020       $a 0721672671
+035       $a (CaOTULAS)112436589
+035       $a (OCoLC)139956
+040       $a DLC $c DLC $d GXM $d CUS
+049       $a CUSB $c [!31822014203103]
+050  0    $a RJ51.P8 $b P6
+060       $a WB 284 P765p 1971
+096       $a WB 284 P765p 1971
+100  10   $a Polgar, George, $d 1919-
+260  0    $a Philadelphia, $b Saunders, $c 1971
+300       $a ix, 273 p. $b illus. $c 27 cm
+500       $a UCSD: DELETE REC (901 $c = "d"), HAS NO 245, NO 920 (LOC CODE), NO 902, INVALID TYPE & BIBLVL - DO NOT CREATE 998 ERROR FLDS, USE FILEDATE TO CREATE OUTPUT 005 (06/02).
+650   0   $a Pulmonary function tests
+650   0   $a Pediatric respiratory diseases $x Diagnosis
+650   2   $a Pulmonary function tests $x in infancy and childhood
+700  10   $a Promadhat, Varuni
+901       $a SDB $b 1334655
+
+Record 7
+LDR  02048cam  2200409I  45  
+005  19890524000000.0
+008  710723s1971    nyua     b    10100 engm 
+010       $a 78141401
+020       $a 0808906747
+035       $a (CaOTULAS)112435217
+035       $a (OCoLC)153681
+040       $a DLC $c DLC $d m.c. $d CUS
+050  0    $a RA645.5 $b .S9 1969
+096       $a WB 100 S989 1971
+111  20   $a Symposium on Emergency Medical Care $d (1969 : $c Philadelphia)
+245  10   $a Emergency medical management; $b the twenty-first Hahnemann symposium. $c Edited by Stanley Spitzer [and] Wilbur W. Oaks. Under the general editorship of John H. Moyer
+260  0    $a New York, $b Grune & Stratton $c [1971]
+300       $a xiii, 477 p. $b illus. $c 26 cm
+500       $a UCSD: CREATE 035 FROM 001, ADDING "OCoLC" TO BEGINNING. (2/02)
+500       $a UCSD: MULTIPLE INPUT 920s. CREATE HOLDINGS SEGMENTS FOR UNIQUE LOCS ONLY - OUTPUT 852'S FOR LOCS 1,2,3,4,5,8; DROP LOCS 6,7,9,10 (02/02)
+500       $a UCSD: CREATE 852 $Z FROM 590 FOR EACH 852 OUTPUT. (02/02)
+500       $a UCSD: 2ND LOC, CREATE 852 $H $I FROM 920 $A $B; CREATE 852 $M FROM STAMP IN 920 $A. (2/02)
+500       $a UCSD: 3RD & 4TH LOCS, 920 HAS ONLY $A OR $B, CREATE 852 $J. (2/02)
+500  0    $a UCSD: 5TH 920 HAS MULTIPLE $A'S & NO $B, OUTPUT SINGLE 852 $J. (2/02)
+500       $a UCSD: 8TH 920 HAS MULTIPLE $A's AND SINGLE $B. OUTPUT ALL AS SINGLE 852 $J. (2/02)
+650   0   $a Emergency medical services $x Congresses
+650   2   $a Emergencies $x congresses
+700  10   $a Spitzer, Stanley,
+700  10   $a Oaks, Wilbur W., $d 1928-
+711  20   $a Hahnemann Symposium, $n (21st)
+852       $a SDB $b bf1 $j WB 100 S989 1971 $z This is an input 590 note.
+852       $a SDB $b smono $m Sp.Coll.Over $h QR58 $i .B864e 1961 $z This is an input 590 note.
+852       $a SDB $b rkh $j SUBFLD a only $z This is an input 590 note.
+852       $a SDB $b cpp $j SUBLFD b only $z This is an input 590 note.
+852       $a SDB $b ic $j FirstA SecondA $z This is an input 590 note.
+852       $a SDB $b ir $j 1ST$a 2ND$a 3RD$a SUBFLD$b $z This is an input 590 note.
+901       $a SDB $b 1338065
+
+Record 8
+LDR  00719nam  22002411  45  
+005  19900829000000.0
+008  810312s1856    nyu      d    00000beng  
+010       $a 04000714
+035       $a (CaOTULAS)74598675
+046       $c CarP   $a XUS1
+050  0    $a CT103 $b .R4 1856
+051       $c Copy 2
+098  0    $n ov=
+099       $a 15524
+100  10   $a [Rich, Elihu], $d 1819-1875,
+245  10   $a Appletons' cyclopµdia of biography:
+260  0    $a New York, $b D. Appleton and company, $c 1856.
+300       $a 1058 p. $b illus. $c 27 cm.
+500       $a UCSD: ID LENGTH=8; MAINTAIN CHECK DIGIT IN 901 $B (03/02).
+650   0   $a Biography $x Dictionaries.
+700  10   $a Lilly, Lambert, $d 1798-1866.
+852       $a SDB $b ca $h CT103 $i .R4 1856
+901       $a SDB $b 19971558
+
+Record 9
+LDR  01059pam  2200277 a 45  
+005  19880727000000.0
+008  890721s1990    gauaf    b   s00110beng  
+010       $a 89-20136
+020       $a 0820312010 (alk. paper)
+035       $a (OCoLC)20130742
+040       $a DLC $c DLC $d CUS
+043       $a n-us-sc $a n-usu--
+098  0    $n ov=.b3575421
+100  10   $a Wilson, Clyde Norman.
+245  10   $a Carolina cavalier : $b the life and mind of James Johnston Pettigrew / $c Clyde N. Wilson.
+260  0    $a Athens : $b University of Georgia Press, $c c1990.
+300       $a xiv, 303 p., [8] p. of plates : $b ill. ; $c 24 cm.
+500       $a UCSD: LENGTH ID=7; NO CHECK DIGIT. (02/02)
+600  10   $a Pettigrew, James Johnston, $d 1828-1863.
+610  10   $a South Carolina. $b General Assembly $x Biography.
+610  10   $a Confederate States of America. $b Army $x Biography.
+650   0   $a Legislators $z South Carolina $x Biography.
+650   0   $a Upper classes $z South Carolina $x History $y 19th century.
+650   0   $a Generals $z Southern States $x Biography.
+852       $a SDB $b ck $h F273.P53 $i W55 1990
+901       $a SDB $b 1234567
+
+Record 10
+LDR  01324cas  2200349 ü 45  
+005  19910703000000.0
+008  740411c19719999oncuu4p  o     uu0a0eng  cas ü
+010       $a 73648066  $z cn 84311398
+012       $a 4 $b 3 $e - $f - $g p $h - $i ----
+022  0    $a 0045-2564
+035       $a (CaOTULAS)126472468
+035       $a 46290 $b XUSL
+035       $a (OCoLC)1789992
+040       $a DLC $b eng $c DLC $d NLC $d OCL $d NLC $d NST $d AIP $d NLC $d NST $d CUS
+042       $a lc $a nlc $a isds/c
+043       $a n-cn---
+050  0    $a Z1369 $b .B73
+098       $n ov=.b1460262
+210  0    $a Books Can.
+222   0   $a Books in Canada.
+245  00   $a Books in Canada.
+260  00   $a [Toronto, $b Canadian Review of Books Ltd.]
+265       $a 6 Charles St., M4Y IT2.
+300       $b ill. $c 28 cm.
+362  0    $a v. 1-   July 1971-
+500       $a UCSD PE: MOVE INPUT 935 FLD TO OUTPUT 852$X FOR ALL LOCATIONS (02/02).
+515       $a Vol. 1, no. 1 preceded by a number dated May 1971, called Introductory ed.
+651   0   $a Canada $x Book reviews $x Periodicals.
+776  0    $t Books in Canada.  Index and microtext. $c (Toronto, $d 1971) $x 0317-4905.
+852       $a SDB $b ccha $j Z 1369 B73 $m * $x 935 FIELD $3 5-7:1-5,7:7-10,8-18,1990- (1976- ) $D Not currently received $O t
+852       $a SDB $b ccoa $j Z 1369 B73 $m * $x 935 FIELD $3 5-7:1-5,7:7-10,8-18,1990- (1976- ) $D Not currently received $O t
+901       $a SDB $b 27256169
+
+Record 11
+LDR  01644cas  2200421 a 45  
+005  19920306000000.0
+008  820401c19uu9999waubr1p  ¯    0uuua0eng d
+010       $a 82-644165 $z sn82-2365
+012       $a 3 $b 3 $j 1 $k 1 $m p
+022  0    $a 0744-4664 $y 0279-8549
+030       $a SELEDQ
+032       $a 585910 $b USPS
+035       $a (OCoLC)8297292
+040       $a NSD $c NSD $d DLC $d NST $d NSD $d NST $d NSD $d CUS
+042       $a nsdp $a lc
+050  0    $a SH334.9 $b .S44
+098       $n ov=.b3591505
+099       $a SIO $a 1 $a SE223
+210  0    $a Seaf. lead.
+222  00   $a Seafood leader.
+245  00   $a Seafood leader.
+246  00   $a Seafood leader buyer's guide.
+260  00   $a [Seattle, WA : $b Waterfront Press Co.,
+265       $a Waterfront Press Co., 1115 N.W. 46th St., Seattle, WA 98107.
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Bimonthly, $b <Mar./Apr. 1989->
+321       $a Five issues a year, $b <Vol. 4, no. 1->
+321       $a Quarterly, $b <spring 1982->
+500       $a Description based on: Vol. 2, no. 5 (Spring 1982); title from cover.
+500       $a UCSD PE: 1ST LOC, CREATE 852 $M FROM STAMP IN 850 $D (02/02).
+500       $a 2ND LOC: 850 HAS $e AND $f - OUTPUT BOTH SUBFIELDS AS SEPARATE 852 $M'S (02/02).
+510  2    $a BioBusiness $b 1990-
+650   0   $a Fishery processing $x Periodicals.
+650   0   $a Fishery processing industries $x Periodicals.
+780  00   $t Ocean leader $x 0279-8549 $w (OCoLC)7329813.
+852       $a SDB $b sk $m Sp.Coll $j SIO 1 SE223 $3 U3:2,U5:2,6:1-2 (1984-1986) $D Currently received $O a
+852       $a SDB $b sr $j SH 339.4 S44 $m LATEST IN REF. EARLIER TO LEVEL 2 STACKS AS SIO 1 SE223 $m BUYER'S GUIDE issue $3 U12:2- (1991- ) $O <blank>
+901       $a SDB $b 23187189
+
+Record 12
+LDR  01462cas  2200325 a 45  
+005  19930121000000.0
+008  901031c19849999fr ar         0   a0fre d
+010       $a sn 92028058
+012       $i 9201
+035       $a (OCoLC)22612131
+040       $a CUI $c CUI $d IUL $d CUS
+042       $a lcd
+043       $a e-fr---
+050  14   $a AY72 $b .E983
+098       $n ov=.b1084641
+245  04   $a Les Evâenements de l'annâee / $c par Serge-Allain Rozenblum.
+246  13   $a Evâenements politiques, internationaux, âeconomiques et sociaux, culturels et sportifs de l'annâee.
+260       $a Paris : $b Revue politique et parlementaire,
+265       $a Revue politique et parlementaire, 17, avenue Gourgaud, 75017 Paris, France.
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Annual.
+362  1    $a Began publication with 1984 ed.
+440   0   $a Collection de la RPP.
+500       $a Description based on: 1986.
+500       $a UCSD: TWO 590 FIELDS, 1 STARTS WITH "SHARED PURCHASE", THE OTHER DOES NOT. OUTPUT BOTH AS 852 $Z'S FOR ALL LOCATIONS (02/02).
+650   0   $a Yearbooks $x Periodicals.
+651   0   $a France $x Periodicals.
+852       $a SDB $b lf $j AY 72 E983 $z Shared purchase; output as 852 $z note. $z This is not a shared purchase note; output as 852 $z. $3 1985 (1985-1985) $D Not currently received $O i
+852       $a SDB $b acc $j AY 83 E872 $z Shared purchase; output as 852 $z note. $z This is not a shared purchase note; output as 852 $z. $3 1981 (1981-1981) $D Not currently received $O i
+901       $a SDB $b 22686642
+
+Record 13
+LDR  02563cas  2200517 a 45  
+005  19950103000000.0
+008  740108c19749999dcuar1   f   f0uuua0eng  
+010       $a 73-646537//r86 $z 73-64653
+012       $a 2 $b 3 $d 7 $e - $f - $g p $h - $i 8407 $j 0
+019       $a 963015 $a 3077581 $a 5841032 $a 14346043
+022       $a 0092-1904
+035       $a 1007103 $b MULS
+035       $a (OCoLC)1788884
+040       $a DLC $c DLC $d OCL $d DLC $d m.c. $d GPO $d DLC $d NST $d DLC $d NST $d RCS $d OCL $d NST $d HUL $d GPO $d NST $d GPO
+042       $a lc $a nsdp
+043       $a n-us---
+050  00   $a JK421 $b .A3
+060  0    $a JK 421 U57
+069  1    $a U02800000
+074       $a 577
+086  0    $a GS 4.109:
+086  0    $a AE 2.108/2:
+098       $n ov=.b1275586
+130  00   $a United States government manual (Washington, D.C. : 1973)
+210  0    $a U. S. gov. man. $b (1974)
+222  00   $a United States government manual $b (1974)
+245  00   $a United States government manual.
+246  30   $a Government organization manual.
+260  00   $a Washington, D.C. : $b Office of the Federal Register, National Archives and Records Service, General Services Administration : $b For sale by the Supt. of Docs., U.S. G.P.O., $c [1973-
+265       $a Supt. of Docs., U.S. Govt. Print. Off., Washington, DC 20402.
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Annual.
+362  0    $a 1973/74-
+500       $a UCSD PE: 850 $aa, OUTPUT a IN 852 $O, 'Currently received' in 852 $D; 850 $at, OUTPUT 't' IN 852 $O, 'Not currently received' IN 852 $D;  850 $ai, OUTPUT 'i' IN 852 $O, OUTPUT 'Not currently received' IN 852 $D. IF 850 $a IS BLANK, OUTPUT BLANK IN 852 $O, NO $D.  IF 850 $a IS ANYTHING ELSE, DO NOT OUTPUT 852 $O OR $D  (02/02).
+651   0   $a United States $x Politics and government $x Handbooks, manuals, etc.
+710  10   $a United States. $b Office of the Federal Register.
+730  00   $a Federal register.
+780  00   $t United States government organization manual $x 0083-1174 $w (DLC)   35026025 $w (OCoLC)8508797.
+852       $a SDB $b crd $j JK 421 U590 $m Lib. retains latest only $3 1995- (1994- ) $D Currently received $O a
+852       $a SDB $b cdaus $j GS 4.109: $3 1939-1974,U1975-1979,1980-1985 (1938-1985) $D Not currently received $O t
+852       $a SDB $b ak $j GS 4.109: c.2 $3 1964,1974,1979 (1963-1979) $D Not currently received $O i
+852       $a SDB $b ird $j JK 421 U590 $m Latest in Ref. $3 1990,U1994 (1989-1994) $O <blank>
+852       $a SDB $b erd $j JK 421 U590 $m LIB. RETAINS LATEST ONLY $3 U1993/94- (1993/94- )
+852       $a SDB $b rr $j JK 421 U59 $3 1992/93- (1992/93- ) $O ard
+852       $a SDB $b akx $j JK 421 U59 $3 1992/93- (1992/93- ) $O <blank>
+901       $a SDB $b 22877587
+
+Record 14
+LDR  02189cms  2200493 a 45  
+005  19970523000000.0
+006  sdr p       0    0
+007  cruan 
+008  910425c19909999cl         d        eng d
+010       $a sn 91019129
+012       $i 9104
+035       $a (OCoLC)23603807
+040       $a COO $c NST $d OCL $d CUS
+042       $a lcd
+043       $a s-cl---
+090       $a JC599.C5 $b C45
+098       $n ov=.b3790460
+245  00   $a CHIP news $h [computer file] / $c [compiled by] Steve Anderson.
+246  1    $i Some issues called: $a Chile news.
+260       $a Santiago, Chile : $b Chile Information Project, $c 1990-
+310       $a Daily.
+362  1    $a Began with: Jan. 1, 1990-
+500       $a UCSD MRDF: MRDF RECORD WITH TYPE = 'm', BIBLEV = 's'; PROCESS AS SERIALS RECORD (02/02).
+500       $a "Chile Information Project âCHIPâ, hosted by the Vicaria[te] of Solidarity."
+506       $a Internet version requires UCSD IP address.
+516       $a Electronic newsletter.
+520       $a Summaries in English of articles from Chilean newspapers concerning human rights, political and environmental issues.
+530       $a Also available at UCSD as paper copy.
+538       $a Available via the Internet: http://ssdc.ucsd.edu/news/chip/.  UCSD users may request personal email subscriptions by sending to listserv@ucsd the message: add chile.
+650   0   $a Human rights $z Chile $x Periodicals.
+650   0   $a Human ecology $z Chile $x Periodicals.
+651   0   $a Chile $x Politics and government $y 1988- $x Periodicals.
+651   0   $a Chile $x Economic policy $x Periodicals.
+690       $a Human rights $z Chile $x Web sites.
+690       $a Human ecology $z Chile $x Web sites.
+690       $a Infocat.
+691       $a Chile $x Politics and government $y 1988- $x Web sites.
+691       $a Chile $x Economic policy $x Web sites.
+700  1    $a Anderson, Steve.
+710  2    $a Chile Information Project.
+710  2    $a Catholic Church. $b Archdiocese of Santiago (Chile). $b Vicarâia de la Solidaridad.
+852       $a SDB $b nnet $m Electronic journal $3 1994- (1994-) $D Currently received $O a
+856  7    $z Connect to the World Wide Web version (Access restricted to UCSD IP addresses only) $u http://ssdc.ucsd.edu/news/chip/ $2 http.
+901       $a SDB $b 27441994
+
+Record 15
+LDR  02151nas  2200469   45  
+005  20010615000000.0
+008  850117m19279999mnu           00010 engm 
+010       $a 41005629 //r855
+035       $a (OCoLC)8878489
+040       $a DLC $c DLC $d m.c. $d CUS
+043       $a n-us---
+049       $a CUSD
+050  0    $a KF62 1927 $b .W45
+090       $a KF62 $b .W4
+098       $n ov=.b1902064
+110  10   $a United States
+240  10   $a Laws, etc. (U.S. code : 1982 ed.)
+245  10   $a United States code annotated
+260  0    $a St. Paul, $b West Pub. Co., $c 1927-
+300       $a v. in $c 25 cm
+500       $a UCSD PE: MULTIPLE 850 FIELDS WITH DUP LOCS. OUTPUT UNIQUE LOCS - 1,2,3,4,7,8,9,11. DROP 5,6,10. (02/02)
+500       $a UCSD PE: 1ST 850: NO 850 $d; MOVE 850 $h TO 852 $h & 850 $i TO 852 $i.
+500       $a UCSD PE: 2ND 850: HAS NO $d; HAS $h BUT NO $i; MOVE $h TO 852 $j.
+500       $a UCSD PE: 3RD 850: HAS $d; HAS 850 $h AND $i; MOVE $d ONLY TO 852 $j.
+500       $a UCSD PE: 4TH 850: HAS NO $d, NO $h, NO $i; DO NOT OUTPUT CALL NUMBER.
+500       $a UCSD PE: 7TH 850: HAS NO $d, NO $h, HAS $i, DO NOT OUTPUT CALL NUMBER.
+500       $a UCSD PE: 11TH 850: UNKNOWN LOC CODE; CREATE 998 WITH ERR MSG (06/02).
+650   0   $a Law $z United States
+710  20   $a West Publishing Company
+710  20   $a Edward Thompson Company
+710  11   $a United States. $t Constitution
+740  01   $a Constitution of the United States annotated
+852       $a SDB $b ca $h move to 852$h $i move to 852 $i $3 v.1-4;  1990- $D Currently received $O a
+852       $a SDB $b cph $j move to 852$j $3 v.6-9 $D Not currently received $O i
+852       $a SDB $b sr $j move to 852$j(2) $3 v.13-16 $D Not currently received $O t
+852       $a SDB $b cra $m Latest in Ref $3 1957- (1957- ) $D Currently received $O a
+852       $a SDB $b er $3 v.21-40 $D Currently received $O a
+852       $a SDB $b rr $j Ref Z 1215 P977 $3 1987-1988 (1987-1988) $O q
+852       $a SDB $b ck $j Ref Z 1215 P977 $3 1987-1988 (1987-1988)
+852       $a SDB $b XX $j Ref Z 1215 P977 $m LIB. RETAINS LATEST ONLY $3 1990/91- (1990/91- ) $D Not currently received $O t
+901       $a SDB $b 18216468
+998       $a SDB $b 1003 $c Record contains the unknown location code XX $d Release-027-000 $e 18216468
+
+Record 16
+LDR  01544nXX  2200373 a 45  
+005  20011218000000.0
+008  920513s1992    moua     b    001 0 eng c
+010       $a 92018767
+015       $a GB92-48577
+019       $a 27147779
+019       $a 27217457
+020       $a 1556643721
+035       $a (OCoLC)25877287
+040       $a DNLM/DLC $c DLC $d NLM $d UKM
+050  00   $a RC394.W63 $b C46 1992
+060  0    $a WV 272 $b C3973 1992
+069  0    $a 9206773
+260       $a St. Louis : $b Mosby Year Book, $c c1992
+300       $a x, 210 p. : $b ill. ; $c 28 cm
+500       $a UCSD: NO 245 FIELD, INVALID TYPE AND BIBLVL, UNKNOWN LOC CODE IN 920; TREAT AS MONO; CREATE 4 998 FIELDS, OUTPUT ERROR RECORD (12/05).
+650   0   $a Word deafness
+650   2   $a Auditory Diseases, Central $x complications
+650   2   $a Auditory Diseases, Central $x diagnosis
+650   2   $a Auditory Diseases, Central $x therapy
+700  1    $a Central auditory processing : $b a transdisciplinary view / $c [edited by] Jack Katz, Nancy A. Stecker, Donald Henderson
+700  1    $a Katz, Jack
+700  1    $a Stecker, Nancy Austin
+700  1    $a Henderson, Donald, $d 1938-
+852       $a SDB $b XXX $h RC394.W63 $i C46 1992
+901       $a SDB $b 33582269
+998       $a SDB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 33582269
+998       $a SDB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 33582269
+998       $a SDB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 33582269
+998       $a SDB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 33582269
+
+Record 17
+LDR  01296nas  2200373   45  
+005  20020510143000.0
+008  751101c19649999dcusr1   a    0   a0eng  
+010       $a 64009362 //r86
+012       $a 3 $b 3 $e n $i 8611 $j 1 $k 1 $m 1
+022       $a 0020-8264
+030       $a IPMAAH
+032       $a 267400 $b USPS
+035       $a (OCoLC)1753672
+040       $a DLC $c MUL $d NSD $d DLC $d NSD $d OCL $d DLC $d RCS $d DLC $d NSD
+042       $a nsdp $a lc
+050  00   $a RS1 $b .I63
+060  0    $a ZQV 704 I61
+069  1    $a I29340000
+096       $a ZW1 I612p
+098       $n ov=.b173569x
+210  0    $a Int. pharm. abstr
+222   0   $a International pharmaceutical abstracts
+245  00   $a International pharmaceutical abstracts
+260       $a [Washington, D.C.] : $b American Society of Hospital Pharmacists, $c [c1964-
+265       $a American Society of Hospital Pharmacists, 4630 Montgomery Ave., Bethesda, Md. 20896
+300       $a v. ; $c 27 cm
+310       $a Semimonthly
+362  0    $a Vol. 1, no. 1 (Jan. 15, 1964)-
+500       $a UCSD: NO 902 FLD - CREATE 005 FROM FILEDATE PARM (06/02).
+555       $a Cumulative indexes issued twice yearly
+650   0   $a Pharmacy $x Abstracts $x Periodicals
+710  20   $a American Society of Hospital Pharmacists
+852       $a SDB $b br $j ZW1 I612P $m Retain all $3 1- (1964- ) $D Currently received $O a
+901       $a SDB $b 23337692
+
+Record 18
+LDR  01348nas  2200385   45  
+005  20020523000000.0
+007  cr un-        
+008  751121c19759999sz br0p       0   a0eng d
+010       $a 75647592
+012       $a 4 $b 3 $e n
+022       $a 0376-8716
+030       $a DADEDV
+035       $a (OCoLC)1847307
+040       $a NLM $c NLM $d NSD $d DLC $d OCL $d NST $d SER $d RCS $d NST $d AIP $d NST $d AIP $d NST $d AIP $d NST $d m/c $d NST
+042       $a nsdp $a lc
+050   0   $a RC566.A1 $b D66
+060  0    $a W1 DR565
+069  1    $a D20360000
+098       $n ov=.b1466677
+210       $a Drug alcohol depend
+222   0   $a Drug and alcohol dependence
+245  00   $a Drug and alcohol dependence
+260       $a Lausanne, $b Elsevier Sequoia
+265       $a P.O. Box 851, 1001
+300       $a v. $b ill. $c 24 cm
+362  0    $a v. 1-   Sept. 1975-
+500       $a UCSD: 902 FLD BEGINS WITH "0" - ADD "20" TO BEGINNING & OUTPUT AS 005 ((06/02).
+690       $a Electronic journals $x Biology and medicine
+710  20   $a International Council on Alcohol and Addictions
+710  2    $a ScienceDirect (Online Service)
+793  0    $a ScienceDirect Online Journals
+852       $a SDB $b bkh $j W1 DR565 $3 1- (1975- ) $D Currently received $O a
+852       $a SDB $b nnet $m Electronic journal $3 38- (1995- ) $D Currently received $O a
+856  41   $3 v.38(1995)- $z Restricted to UC campuses $u http://uclibs.org/PID/2573
+901       $a SDB $b 2306867x
+
+Record 19
+LDR  01184nas  2200313   45  
+005  19990523000000.0
+008  770506d19771983paufr1p       0   a0eng d
+010       $a 77641359  $z sc 77000709
+012       $a 2 $b 3 $i 8805 $k 1
+022       $a 0145-8779
+035       $a (OCoLC)2946634
+040       $a NSD $c NSD $d DLC $d NSD $d OCL $d NST $d AIP $d NSD $d NST $d AIP $d NST $d IUL $d NST
+042       $a nsdp $a lc
+050  00   $a PS3525.O5616 $b Z69
+098       $n ov=.b1504630
+210  0    $a Marianne Moore newsl
+222   0   $a Marianne Moore newsletter
+245  00   $a Marianne Moore newsletter
+246  13   $a MMN $f spring 1977-
+260       $a [Philadelphia, $b Philip H. and A. S. W. Rosenbach Foundation]
+265       $a Philip H. and A. S. W. Rosenbach Foundation, 2010 DeLancey Pl., Philadelphia, PA 10103
+300       $a 7 v. $b ill. $c 19 cm
+310       $a Semiannual
+362  0    $a v. 1-7; spring 1977-1983
+500       $a UCSD: 902 DOES NOT BEGIN WITH "0" - ADD "19" TO BEGINNING & OUTPUT AS 005 (06/02).
+600  10   $a Moore, Marianne, $d 1887-1972 $x Societies, periodicals, etc
+710  2    $a Philip H. & A.S.W. Rosenbach Foundation
+852       $a SDB $b ck $j PS 3525 O5616 Z69 $3 1-7 (1977-1983) $D Not currently received $O i
+901       $a SDB $b 23106633
+
+Record 20
+LDR  04493nas  2200769 a 45x0
+005  20051122000000.0
+007  cr unu--------
+008  760826c19499999dcuwr1p       0   a0eng d
+010       $a 80643369  $z 83641459  $z 85644546  $z 83641460  $z 84644357
+019       $a 2396685 $a 10561460 $a 12330965 $a 13245194 $a 20323241
+022  0    $a 0148-0227 $z 0022-1406 $z 0196-6928 $z 0196-6936 $z 0885-3401 $z 8755-8556 $z 0196-2256 $z 0747-7309
+030       $a JGREA2 $z JJGPD4 $z JJGBDU $z JGRCEY $z JJGADR $z JGRDE3
+032       $a 280300 $b USPS
+035       $a (OCoLC)2396688
+040       $a UDI $c UDI $d NSD $d DLC
+042       $a lc $a nsdp
+050  00   $a QC811 $b .J6
+082  00   $a 551 $2 19
+099       $a SIO $a 1 $a JO502
+210  0    $a J. geophys. res
+222   0   $a Journal of geophysical research
+245  00   $a Journal of geophysical research
+246  1    $i Issues for 1974- also have title: $a JGR
+246  3    $a Journal of geophysical research. $p Space physics $f 1967-1977
+246  3    $a Journal of geophysical research. $n A, $p Space physics $f 1978-
+246  3    $a Journal of geophysical research. $n B $f 1978-1984
+246  3    $a Journal of geophysical research. $n B, $p Solid earth $f 1991-
+246  3    $a Journal of geophysical research. $n C, $p Oceans $f 2003-
+246  3    $a Journal of geophysical research. $p Oceans and atmospheres $f 1969-1977
+246  3    $a Journal of geophysical research. $n C, $p Oceans and atmospheres $f 1978-1983
+246  3    $a Journal of geophysical research. $n D, $p Atmospheres $f 1984-
+246  3    $a Journal of geophysical research. $n E, $p Planets $f 1991-
+246  3    $a Journal of geophysical research. $n F, $p Earth surface $f 2003-
+260       $a Richmond, Va. : $b William Byrd Press for John Hopkins Press, $c 1949-
+300       $a v. : $b ill. ; $c 30 cm
+310       $a Weekly, $b <July 20, 1986->
+321       $a Frequency varies, $b 1949-<1985>
+362  0    $a Mar. 1949-
+500       $a UCSD PE:  850 FLD HAS HOLDINGS IN MULTIPLE SUBFLD g'S.  OUPUT IN 852 IN SINGLE SUBFLD 3, SEPARATING EACH g WITH ";  " (SEMICOLON FOLLOWED BY 2 SPACES) (12/05).
+515       $a Some vols. issued in pts. called: Space physics, Nov. 1967-1977; Oceans and atmospheres, June 20, 1969-1977; A, Space physics, 1978- ; B, 1978-1984; B, Solid earth and planets, Jan. 10, 1985-Aug. 10, 1991; B, Solid earth, Sept. 1991- ; C, Oceans and atmospheres, 1978-1983; C, Oceans, 1984- ; D, Atmospheres, 1984- ; E, Planets, 1991- ; F, Earth surface, Dec. 28, 2003-
+515       $a Vols. for 1949- called also v. 54-
+530       $a Also issued on microfilm
+530       $a Also issued online
+555       $a Annual index to all parts issued as a JGR supplement beginning with v. 99 for 1994
+650   0   $a Geomagnetism $v Periodicals
+650   0   $a Geophysics $v Periodicals
+650   0   $a Astrophysics $v Periodicals
+655   7   $a Online resources. $2 local
+690       $a Electronic journals $x Geology, geochemistry, and geophysics
+690       $a Electronic journals $x Climate and atmospheric science
+690       $a Electronic journals $x Oceanography and limnology (Physical aspects)
+690       $a Electronic journals $x Physical sciences
+690       $a Electronic journals $x Physical sciences and engineering
+710  2    $a American Geophysical Union
+770  0    $t Journal of geophysical research. Supplement $w (DLC)sf 87010371 $w (OCoLC)9103975
+776  1    $c Microfiche $x 0148-0227 $w (OCoLC)30890943
+780  00   $t Terrestrial magnetism and atmospheric electricity $x 0096-8013 $w (DLC)   83641458 $w (OCoLC)1772705
+793  0    $a American Geophysical Union online journals. $g a
+852       $a SDB $b ek $j QE 1 J826 $m Sections A-E bound together $3 JGR. 54-82 (1949-1977) (1ST);  Section A. 72-98 (1967-1993) (2ND);  Section B. 72-81,82:1,82:3-4,82:6-9,83-98 (1967-1993) (3RD);  Section C. 72-98 (1967-1993) (4TH);  Section D. 72-98 (1967-1993) (5TH);  Section E. 96-98 (1991-1993) (6TH) $D Not currently received $O i
+852       $a SDB $b nnet $m Electronic journal $3 99- (1994- ) $D Currently received $O a
+856  41   $3 v.99(1994)- $z AGU. Atmospheres. Restricted to UC campuses. Limited to 4 users for all JGR titles; if refused, try again in a few minutes $u http://uclibs.org/PID/37794
+856  41   $3 v.108(2003)- $z AGU. Earth surface. Restricted to UC campuses. Limited to 4 users for all JGR titles; if refused, try again in a few minutes $u http://uclibs.org/PID/37795
+891  33   $9 853 $8 1 $a v. $b no. $i (year) $j (month)
+891  40   $9 863 $8 1 $a <55>- $i <1950>- $x provisional
+891  33   $9 853 $8 2 $a v. $b no. $u 48 $v r $i (year) $j (month) $w m $x 01
+891  40   $9 863 $8 2 $a <83>- $i <1978>- $x provisional
+901       $a SDB $b 27292940
+
+Record 21
+LDR  01857nai  2200445 a 4500
+005  20060614000000.0
+007  cr cn---------
+008  800701c19819999dcuwr1p       0   a0eng d
+010       $a 81640907  $z sn 80013101
+012       $a 2 $b 3 $k 1 $l 1 $m 1
+022  0    $a 0270-6474
+030       $a JNRSDS
+032       $a 592410 $b USPS
+035       $a (OCoLC)6476199
+040       $a NSD $c NSD $d NSD $d DLC $d NSD $d DLC $d NSD $d NST $d SER $d RCS $d NST $d AIP $d NST $d AIP $d NST $d AIP $d NST $d AIP $d NST $d NSD $d MXC $d GUA $d IUL $d SYS $d OCL $d NLM $d OCLCQ $d GUA $d NLGGC $d UtOrBLW
+041  0    $a eng $b eng
+042       $a nsdp $a lc
+050  00   $a QP351 $b .J65
+060  00   $a W1 $b JO795BN
+082  0    $a 599.01/88/05
+210  0    $a J. neurosci
+222   0   $a Journal of neuroscience
+245  04   $a The journal of neuroscience : $b the official journal of the Society for Neuroscience
+246  30   $a Neuroscience
+260       $a [Baltimore, MD : $b The Society, $c c1981-
+300       $a v. : $b ill. ; $c 28 cm
+310       $a Weekly, $b July 2003-
+321       $a Monthly, $b 1981-1995
+321       $a Semimonthly, $b 1996-June 2003
+362  0    $a Vol. 1, no. 1 (Jan. 1981)-
+500       $a Title from cover
+500       $a UCSD PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+650   0   $a Neurophysiology $v Periodicals
+793  0    $a HighWire Press online journals. $g a
+793  0    $a Open access resource; selected by the UC Libraries. $p HighWire Press online journals
+852       $a SDB $b bkh $j W1 JO721F $3 13- (1993- ) $D Currently received $O a
+852       $a SDB $b ba $j W1 JO721F $3 1-12 (1981-1992) $D Not currently received $O i
+852       $a SDB $b nnet $D Currently received $O a
+856  41   $3 v.1(1981)- $z HighWire. Current 6 months and issues before Jan. 1997 restricted to UCSD IP addresses; issues older than 6 months through Jan. 1997 freely available $u http://uclibs.org/PID/4040
+901       $a SDB $b 23166058
+
+Record 22
+LDR  01774nmi  2200409 a 4500
+005  20060616000000.0
+007  cr un---------
+008  810318c19819999moumr1p       0   a0eng d
+010       $a sn 81003114
+022  0    $a 0194-5998
+032       $a 108790 $b USPS
+035       $a (OCoLC)7236111
+037       $b C.V. Mosby, 11830 Westline Industrial Dr., St. Louis, MO 63146-3318
+040       $a NSD $c NSD $d DLC $d HUL $d NST $d RCS $d NST $d AIP $d NST $d AIP $d NLM $d OCL $d NLM $d NSD $d NST $d GUA $d WAU $d NYG $d NSD $d OCLCQ $d CUS $d UtOrBLW
+042       $a nsdp $a lcd
+050   4   $a RD521 $b .O86
+060  00   $a W1 $b OT52W
+082  10   $a 617 $2 11
+096       $a W1 OT598B
+210  0    $a Otolaryngol. head neck surg
+222   0   $a Otolaryngology and head and neck surgery
+245  00   $a Otolaryngology--head and neck surgery : $b official journal of American Academy of Otolaryngology--Head and Neck Surgery
+260       $a [Rochester, MN] : $b The Academy, $c [1981-
+300       $a v. : $b ill., ports. ; $c 27 cm
+310       $a Monthly, $b Mar. 1986-
+321       $a Bimonthly, $b Jan./Feb. 1981-Feb. 1983
+321       $a Eight times a year, $b Apr. 1983-Dec. 1985
+321       $a 10 times a year, $b Jan. 1986-Feb. 1986
+362  0    $a Vol. 89, no. 1 (Jan.-Feb. 1981)-
+500       $a UCSD PE: INTEGRATING RESOURCE - TYPE = 'm', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+650   0   $a Head $x Surgery $v Periodicals
+793  0    $a ScienceDirect online journals $g a
+852       $a SDB $b mkh $j W1 OT598B $3 89- (1981- ) $D Currently received $O a
+852       $a SDB $b ba $j W1 OT598B $3 87-95,96:2-3,96:4-6,97-98:1-3,98:4&6,99-109 (1981-1993) $D Not currently received $O i
+852       $a SDB $b nnet $D Currently received $O a
+856  41   $3 v.120:no.4(1999:Apr.)- $z ScienceDirect. Restricted to UC campuses $u http://uclibs.org/PID/37689
+901       $a SDB $b 23174742
+
+Record 23
+LDR  00965nas  2200253Ia 4500
+005  20051110000000.0
+008  770921c19739999enktr p       0   a0eng u
+035       $a (OCoLC)3284084
+040       $c MUL $d CUS
+090       $a PR1170 $b .G7
+098       $n ov=.b1724307
+260       $a Hanley, Stoke-on-Trent, England : $b Plan B Press, $c 1973-
+300       $a v. : $b ill. ; $c 30 cm
+310       $a Three times a year
+362  0    $a no. 1 (Apr. 1973)-
+500       $a UCSD PE: NO 245 FIELD, UNKNOWN LOC CODE - CREATE 2 998 ERROR FIELDS (12/05).
+650   0   $a English poetry $y 20th century $v Periodicals
+700  1    $a Symondson, Bill
+700  1    $a Philpott, Peter, $d 1949-
+793  0    $a Archive for New Poetry
+852       $a SDB $b XXX $j PR 1170 G7 $3 U1,U4,U6-7 (1973-MAY1979) $D Not currently received $O i
+901       $a SDB $b 2332630x
+998       $a SDB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 2332630x
+998       $a SDB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 2332630x
+

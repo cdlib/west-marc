@@ -1,0 +1,2406 @@
+Record 1
+LDR  01270aam  2200349 a 45  
+001  ocm44268215 
+003  OCoLC
+005  20020321125013.0
+008  990720s1998    ru       b    001 0 ruso 
+010       $a    99228274 
+040       $a DLC $c DLC $d CRL
+020       $a 5201147445
+043       $a e-ur---
+050  00   $a HC335.6 $b .P67 1998
+099       $a R-35414
+049       $a CRLL
+245  00   $a Poslevoennaëiìa konversiëiìa : $b k istorii "kholodnoæi voæiny" : sbornik
+260       $a Moskva : $b Rossiæiskaëiìa akademiëiìa nauk, In-t rossiæiskoæi istorii, $c 1998.
+300       $a 242 p. ; $c 20 cm.
+500       $a REC ID IS IN 001 FLD - DROP "ocm" IN POS 1-3 & OUTPUT NUMERICS IN POS 4-11 TO OUTPUT 901 $b (04/02).
+500       $a DROP ALL INPUT 9XX FLDS.
+504       $a Includes bibliographical references and index.
+650   0   $a Economic conversion $z Soviet Union $x History $v Sources.
+650   0   $a Cold War $x History $v Sources.
+651   0   $a Soviet Union $x Economic policy $y 1942-1945.
+651   0   $a Soviet Union $x Economic policy $y 1946-1950.
+700  1    $a Molodëtìsygin, M. A. $q (Mark Andreevich)
+710  2    $a Institut rossiæiskoæi istorii (Rossiæiskaëiìa akademiëiìa nauk)
+901       $a 901 FLD (DROP)
+949       $a OM $b om
+949       $a *recs=b;dflt=crlm;ov=o;i=;ins=olm;
+994       $a 02 $b CRL
+
+Record 2
+LDR  00942nam  2200253Ka 45  
+001  ocm49335746 
+003  OCoLC
+005  20020318105745.0
+008  020318s1993    enk     a     000 0 eng d
+040       $a CRL $c CRL
+099       $a P-80000439
+049       $a [ff]CRLL $a [**]CRLA[Thesis][Collection]
+100  1    $a Lucas, Rory C. M.
+245  14   $a The evolution of monastic liturgy in Northern Britain before 1153 $h [microform] / $c Rory C. M. Lucas.
+260       $c 1993.
+300       $a 1 microfilm reel ; $c 35 mm.
+500       $a CRL: 1ST 049 $a HAS CALL NUM PREFIX - OUTPUT TO 852 $k IN 1ST 852 (04/02).
+500       $a 2ND 049 $a HAS CALL NUM PREFIX & SUFFIX - OUTPUT PREFIX TO 852 $k AND SUFFIX TO 852 $m IN 2ND 852.
+502       $a Thesis (doctoral)--University of Edinburgh, 1993.
+653       $a monastic liturgy, Northumbria
+653       $a liturgics
+949       $a XL $b xl
+949       $a *recs=b;dflt=crlm;bn=diss;ov=.b14011700;i=/loc=diss;ins=leix;
+994       $a 02 $b CRL
+
+Record 3
+LDR  00866nam  2200253Ka 45  
+001  ocm49335747 
+003  OCoLC
+005  20020318105746.0
+008  020318s1986    enk     a     000 0 eng d
+040       $a CRL $c CRL
+099       $a P-80000440
+049       $a NPWA
+100  1    $a Ayres, Jose Marcio Correa.
+245  10   $a Uakaris and Amazonian flooded forests $h [microform] / $c Jose Marcio Correa Ayres.
+260       $c 1986.
+300       $a 1 microfilm reel ; $c 35 mm.
+500       $a CRL: 994 IS "NPW" - OUTPUT "CRL" IN 901 $a & 852 $a; DROP "ocm" FROM RECORD ID IN 001 & OUTPUT NUMERICS IN 901 $b. (04/02).
+502       $a Thesis (doctoral)--University of Cambridge, UK, 1986.
+653       $a Uakari monkeys, the Amazon River basin
+653       $a Uakaris
+653       $a ecology
+949       $a XL $b xl
+949       $a *recs=b;dflt=crlm;bn=diss;ov=.b14154055;i=/loc=diss;ins=leix;
+994       $a 02 $b NPW
+
+Record 4
+LDR  01146nam  22003014a 45  
+001  ocm49289746 
+003  OCoLC
+005  20020318105746.0
+007  he bmb026baca
+008  020311s1997    xx a    bb    000 0 eng c
+040       $a COO $c COO $d CRL
+042       $a pcc
+050   4   $a DS589.B2 $b B37 1997a
+090       $a DS589 $b .B2
+049       $a CRLL
+100  1    $a Barmâe, Scot.
+245  10   $a Towards a social history of Bangkok $h [microform] : $b gender, class and popular culture in the Siamese capital, 1905-1940 / $c Scot Barmâe.
+260       $c [1997]
+300       $a 3 microfiches.
+500       $a CRL MONO: REC HAS 050, 090, BUT NO 099 - DO NOT OUTPUT ANY CALL NUM (04/02).
+502       $a Thesis (Ph. D.)--Australian National University, Nov., 1997.
+504       $a Includes bibliographical references (p. 234-242).
+533       $a Microfiche. $b [Canberra?] : $c HPA for Australian National University, $d 2001. $e 3 microfiches : negative.
+651   0   $a Bangkok (Thailand) $x History $y 20th century.
+651   0   $a Bangkok (Thailand) $x Social life and customs.
+949       $a XL $b xl
+949       $a *recs=b;dflt=crlm;bn=diss;ov=.b15379036;i=/loc=diss;ins=leix;
+994       $a 02 $b CRL
+
+Record 5
+LDR  00826nam  2200229Ka 45  
+001  ocm49337532 
+003  OCoLC
+005  20020318142211.0
+008  020318s2001    gw            000 0 ger d
+040       $a CRL $c CRL
+099       $a Z7401 (1ST 099 $a) $a Slav. (2nd $a) $c Ref. (099$c)
+049       $a CRLL,CRLA,CRLB
+100  1    $a Caro, Wolfgang Christopher.
+245  14   $a Die Entwicklung der Orthopèadie als akademisches Lehrfach an der Universitèat Mèunchen unter besonderer Berèucksichtigung des Wirkens / $c Wolfgang Christopher Caro.
+260       $c 2001.
+300       $a 176 p.
+500       $a CALL NUM IN 099 HAS 2 $a'S, 1 $c - CONCATENATE & OUTPUT TO SINGLE 852 $j FOR ALL 852'S (04/02).
+502       $a Thesis (doctoral)--, .
+653       $a x
+949       $a XL $b xl
+949       $a *recs=b;dflt=crlm;bn=diss;ov=o;i=/loc=diss;ins=leix;
+994       $a 02 $b CRL
+
+Record 6
+LDR  00836cas  2200301 a 45  
+001  ocm40669508 
+003  OCoLC
+005  20020318111954.0
+008  990125c199u9999pk br p       0    0eng  
+010       $a    98930669 
+040       $a DLC $c DLC $d OCL $d CRL
+012       $i 9903
+042       $a lc
+043       $a a-pk---
+050  00   $a HD7361.5.K37 $b S54
+099       $a P-80000440
+049       $a CRLL
+130  0    $a Shelter (Karachi, Pakistan)
+245  00   $a Shelter : $b an ABAD publication.
+260       $a Karachi : $b Archi Times,
+300       $a v. ; $c 28 cm.
+310       $a Bimonthly
+500       $a CRL: SERIALS RECORD - DO NOT OUTPUT ANY CALL NUM  (04/02).
+650   0   $a Homeless persons $x Housing $z Pakistan $z Karachi $v Periodicals.
+650   0   $a Low-income housing $z Pakistan $v Periodicals.
+710  2    $a ABAD (Association)
+850       $a DLC
+994       $a 02 $b CRL
+
+Record 7
+LDR  01043cXX  22002775a 45  
+001  ocm44149945 
+003  OCoLC
+010       $a    99956379 
+040       $a DLC $c DLC $d CRL
+012       $a 3 $i 0006
+025       $a B-99-956379-S
+037       $b Room 401, Lecture Theatre, University of Dhaka, Dhaka-1000, Bangladesh
+042       $a lc
+050  00   $a IN PROCESS
+049       $a XXXX
+130  0    $a Prabandhåabalåi (University of Dhaka. Centre for Advanced Research in Social Science)
+260       $a òDhåakåa : $b Uccatara Såamåajika Bijänåana Gabeshaònåa Kendra, òDhåakåa Biâsvabidyåalaçya,
+300       $a v. ; $c 22 cm.
+362  1    $a Began with khaònòda 1 (1987).
+500       $a 994 $a = "03", DELETE RECORD - OUTPUT STATUS AS "d" (04/02).
+500       $a REC HAS NO 005, NO 245, UNKNOWN TYPE, UNKNOWN BIBLVL, UNKNOWN LOC CODE - DO NOT CREATE ANY 998 FLDS IN A DELETE.
+500       $a USE FILEDATE PARM TO CREATE OUTPUT 005 FLD.
+546       $a In Bengali.
+710  2    $a University of Dhaka. $b Centre for Advanced Research in Social Science.
+850       $a DLC
+994       $a 03 $b CRL
+
+Record 8
+LDR  01204nas  22003497a 45  
+001  ocm36703753 
+003  OCoLC
+005  20020318112203.0
+008  970408c19949999ii fr p      s0    0hino 
+010       $a    96904008 
+040       $a DLC $c DLC $d CRL
+012       $a 5 $i 9608
+025       $a I-E-H-96-904008; 21
+037       $b Himåacala Pradeâsa Vidhåana Sabhåa Sacivåalaya-171004
+042       $a lcd
+043       $a a-ii---
+050  10   $a NOT IN LC
+245  00   $a Vidhåana måalåa / $c Himåacala Pradeâsa Vidhåana Sabhåa.
+246  14   $a Vidhåanamåalåa
+260       $a [âSimalåa] : $b Himåacala Pradeâsa Vidhåana Sabhåa Sacivåalaya, $c 1994-
+300       $a v. ; $c 25 cm.
+310       $a Semiannual
+362  0    $a Açnka 1 (Janavaråi-Jåuna 1994)-
+500       $a 994 $a = "93", DELETE RECORD - OUTPUT STATUS AS "d" (04/02).
+500       $a DELETE REC HAS NO OUTPUT 852 (NO LOC CODE) - DO NOT CREATE 998 FLD.
+515       $a Açnka 1 called also âsishòtåacåara viâseshåaçnka.
+520       $a On the legislative assembly of Himachal Pradesh.
+546       $a In Hindi.
+610  10   $a Himachal Pradesh (India). $b Vidhan Sabha $x Periodicals.
+710  1    $a Himachal Pradesh (India). $b Vidhan Sabha. $b Sacivåalaya.
+850       $a DLC
+994       $a 93 $b CRL
+
+Record 9
+LDR  01046cas  2200337 a 45  
+001  ocm37715640 
+003  OCoLC
+005  20020318113810.0
+008  971001c19uu9999ii ar p      s0    0kano 
+010       $a    97901482 
+040       $a DLC $c DLC $d CRL
+012       $a 3 $i 9807
+025       $a I-E-Kan-97-901482; 12
+037       $b Karnåaòtaka Såahitya Akåaòdemi, Nôrpatuçnga Raste, Beçngaòlåuru-560002, India
+042       $a lc
+043       $a a-ii---
+050  00   $a PL4650 $b .A47
+049       $a CRLL $a CRLB $a CRLS
+245  00   $a Vimarâse.
+246  14   $a Såahitya vimarâse
+260       $a Beçngaòlåuru : $b Karnåaòtaka Såahitya Akåaòdemi,
+300       $a v. ; $c 19 cm.
+310       $a Annual
+500       $a DO NOT OUTPUT 590 FIELD; DATA MAY BE OUTPUT ELSEWHERE IN THE RECORD (04/02).
+520       $a Articles on Kannada literature.
+590       $a FLD 590.
+650   0   $a Kannada literature $x History and criticism $x Periodicals.
+710  2    $a Karnåaòtaka Såahitya Akåaòdemi.
+780  00   $t Såahitya vimarâse $w (DLC)   89812776 $w (OCoLC)22761507
+850       $a DLC
+994       $a 02 $b CRL
+
+Record 10
+LDR  01100cas  2200337 a 45  
+001  ocm18999217 
+003  OCoLC
+005  20020318114751.0
+008  890110c198u9999ii fr p       0   z0urdod
+010       $a    88912786 
+040       $a GZM $c GZM $d DLC $d CRL
+012       $a 4 $i 8907
+025       $a 1-E-U-26
+042       $a lc
+050  00   $a BP130 $b .U46
+049       $a [ff]CRLS,CRLL[Ref.],[DUP LOC]CRLL,CRLA[Folio],CRLA[DUP LOC]
+245  00   $a °Ulåumulqur®åan : $b Idåarah-yi °Ulåumulqur®åan kåa tarjumåan.
+246  10   $a Biannual °Uloom-ul-Qur®an
+246  13   $a Bi-annual °Uloom-ul-Qur®an
+246  15   $a Uloom-ul-Qur®an
+260       $a °Alåigarh : $b Idåarah-yi °Ulåumulqur®åan,
+265       $a Post Box 99, Sir Syed Nagar, Aligarh-202002, India
+300       $a v. ; $c 22 cm.
+310       $a Semiannual
+500       $a 5 LOC CODES (3 UNIQUE, 2 DUPS) IN SINGLE 049 $a - REMOVE BRACKETED PREFIXES & SUFFIXES FOR OUTPUT ELSEWHERE, OUTPUT 3 852 FIELDS (04/02).
+546       $a In Urdu.
+630  00   $a Koran $x Periodicals.
+650   0   $a Islam $x Periodicals.
+710  2    $a Idåarah-yi °Ulåumulqur®åan.
+850       $a DLC
+994       $a 02 $b CRL
+
+Record 11
+LDR  01459cas  2200421 a 45  
+001  ocm02043565 
+003  OCoLC
+005  20020318114953.0
+008  760311d19561991ru mrzp      f0   c0rusod
+010       $a    59018354  $z sn 87018191 
+040       $a COO $c COO $d MUL $d OCL $d FUG $d AIP $d HUL $d NST $d NSD $d DLC $d PIT $d IUL $d DLC $d CRL
+012       $i 8702
+019       $a 2267883
+022       $a 0037-8216 $y 0132-1552 $y 0584-150X
+042       $a lc $a nsdp
+043       $a e-ur---
+050  00   $a HD4811 $b .S65
+099       $a Hd Cpy
+049       $a CRLS $a CRLA
+210  0    $a Social. trud
+222   0   $a Socialistiéceskij trud
+245  00   $a Soëtìsialisticheskiæi trud : $b ezhemesëiìachnyæi zhurnal Gosudarstvennogo komiteta Soveta ministrov SSSR po voprosam truda i zarabotnoæi platy.
+260       $a Moskva : $b Komitet, $c    -1991.
+300       $a 35 v. : $b ill. ; $c 26 cm.
+310       $a Monthly
+362  1    $a Began in 1956.
+362  0    $a -91, 12.
+500       $a CRL: 1ST 590 BEGINS "CENTER HAS:", THERE IS NO 2ND 590 - DO NOT OUTPUT 852 $3. (04/02).
+510  2    $a International labour documentation $x 0020-7756
+515       $a Issues numbered 1-12 within each year.
+590       $a Center has:
+650   0   $a Working class $z Soviet Union $v Periodicals.
+650   0   $a Wages $z Soviet Union $v Periodicals.
+785  00   $t Chelovek i trud $w (DLC)   94646704 $w (OCoLC)25701750
+850       $a CSt-H $a DLC $a InU $a MH-R $a PPiU
+949       $a SD $b sd
+949       $a *recs=b;dflt=crls;ov=o;i=;ins=smd;
+994       $a 02 $b CRL
+
+Record 12
+LDR  01696cas  2200409 a 45  
+001  ocm04704571 
+003  OCoLC
+005  20020318115315.0
+008  790301d19451991ru mr p       0   c0rusod
+010       $a    51036950 
+040       $a UIU $c UIU $d IUL $d NSD $d DLC $d IUL $d DLC $d CRL
+012       $a 3 $c - $i 9211
+022       $a 0132-2028
+042       $a lc
+050  00   $a AP50 $b .S6
+092       $a 057 $b SOVWZ
+099       $a Hd Cpy
+049       $a CRLS $a CRLB
+245  00   $a Sovetskaëiìa zhenshchina.
+260       $a Moskva : $b Sovetskaëiìa zhenshchina, $c 1945-91.
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Monthly, $b 1954-91
+321       $a Bimonthly, $b 1945-53
+500       $a CRL SERIAL: 1ST 590 BEGINS "CENTER HAS:", 2ND & 3RD 590 CONTAIN HOLDINGS - OUTPUT 2ND & 3RD 590'S TO 852 $3 OF 1ST 852, CONCATENATING THE 2 FLDS, SEPARATED BY "+++". (04/02).
+525       $a Supplements accompany some issues.
+550       $a Organ of Antifashistskiæi komitet sovetskikh zhenshchin and of Vsesoëiì
+580       $a Issued also in Arabic, Bengali, Chinese, English, French, German, Hindi, Hungarian, Japanese, Korean, and Spanish.
+590       $a Center has:
+590       $a F-3857   1954, no. 6-12; 1955-1956; 1957, no. 7-12; 1958, no. 1-11; 1959, no. 1-6; 1960, no. 11-12; 1961, no. 3-12; 1962-1966
+590       $a F-1721   1967; 1968, no. 1-8; 1969-1972; 1973, no. 1-2, 4-12; 1974; 1976, no. 2-11
+650   0   $a Women's periodicals, Russian.
+710  2    $a Antifashistskiæi komitet sovetskikh zhenshchin.
+767  1    $t Sovetskaëiìa zhenshchina.  English $x 0201-6982 $w (DLC)   52038741 $w (OCoLC)1606325
+785  00   $t Mir zhenshchiny $w (DLC)   92645587 $w (OCoLC)25585873
+850       $a DLC $a InU
+949       $a SD $b sd
+994       $a 02 $b CRL
+
+Record 13
+LDR  00955nam  2200241Ia 45  
+001  ocm49336276 
+003  OCoLC
+005  20020318115935.0
+008  020318s1961    lv            000 0 rus d
+040       $a CRL $c CRL
+099       $a AS266. Slav. Ref.
+049       $a [**]CRLL[1ST LOC] $a CRLB $a CRLS $a [DUP LOC]CRLB
+100  1    $a ëIìAkobson, M. A.
+245  10   $a Bibliografiëiìa dissertaëtìsiæi, zashchishchennykh v Latviæiskoæi SSR /
+260       $a Riga : $b [s.n.], $c 1961.
+300       $a 7 p. ; $c 26 cm.
+500       $a 4 LOC CODES (3 UNIQUE, 1 DUP) IN MULT. $a'S IN 049 FIELD - REMOVE BRACKETED PREFIXES/SUFFIXES FOR OUTPUT ELSEWHERE, OUTPUT 3 852 FLDS (04/02).
+500       $a "Prilozhenie k zhurnaly 'Izvestiëiìa AN Latviæiskoæi SSR' 1961, no 1."
+650   0   $a Dissertations, Academic $z Latvia $v Bibliography.
+730  0    $a Latvijas PSR Zinåat÷nu akadåemijas våestis. $n 1961, no 1 (Supplement)
+949       $a SD $b sd
+949       $a *recs=b;dflt=crlm;ov=o;i=;ins=smd;
+994       $a 02 $b CRL
+
+Record 14
+LDR  00616cam  2200193Ia 45  
+001  ocm49336276 
+003  OCoLC
+005  20020318120119.0
+008  020318s1961    lv       b    000 0 rus d
+040       $a CRL $c CRL
+049       $a CRLL
+100  1    $a ëIìAkobson, M. A.
+245  10   $a Bibliografiëiìa dissertaëtìsiæi, zashchishchennykh v Latviæiskoæi SSR /
+260       $a Riga : $b [s.n.], $c 1961.
+300       $a 7 p. ; $c 26 cm.
+500       $a 994 $a = "11" - REJECT RECORD (04/02).
+650   0   $a Dissertations, Academic $z Latvia $v Bibliography.
+730  0    $a Latvijas PSR Zinåat÷nu akadåemijas våestis. $n 1961, no 1 (Supplement)
+994       $a 11 $b CRL
+
+Record 15
+LDR  01171cas  2200289 a 45  
+001  ocm43847870 
+003  OCoLC
+005  20020318120805.0
+008  000413c19979999ru  x         0   c0rusod
+010       $a   2002225016
+040       $a CUS $c CUS $d CRL
+042       $a lcd
+090       $a HQ1075 $b .G4665
+049       $a [***]CRLL,Crlb,[DUP LOC]crll[ff],CRLB[DUP LOC],CRLl[dup loc]
+245  00   $a Gendernye tetradi.
+260       $a Sankt-Peterburg : $b Rossiæiskaëiìa akademiëiìa nauk, Sankt-Peterburgskiæi filial, In-t soëtìsiologii, $c 1997-
+300       $a v. ; $c 21 cm.
+310       $a Irregular
+362  0    $a Vyp. 1-
+440   0   $a Trudy Sankt-Peterburgskogo filiala Instituta soëtìsiologii Rossiæiskoæi akademii nauk. $p Materialy tekushchikh issledovaniæi
+500       $a 5 LOC CODES (2 UNIQUE, 3 DUPS) ARE IN UPPER/LOWER CASE - REMOVE BRACKETED INFO, CHG TO UPPERCASE BEFORE OUTPUTTING 2 UNIQUE 852'S (04/02).
+650   0   $a Gender identity $v Periodicals.
+650   0   $a Sociology $v Periodicals.
+650   0   $a Feminism $v Periodicals.
+710  2    $a Institut soëtìsiologii (Rossiæiskaëiìa akademiëiìa nauk). $b Sankt-Peterburgskiæi filial.
+936       $a Vyp. 2., published in 1999 LIC
+994       $a 01 $b CRL
+
+Record 16
+LDR  01250cam  2200349 a 45  
+001  ocm43847870 
+003  OCoLC
+005  20020318120807.0
+008  000413c19979999ru  x         0   c0rusod
+010       $a   2002225016
+040       $a CUS $c CUS $d CRL
+042       $a lcd
+090       $a HQ1075 $b .G4665
+099       $a Hd Cpy (1ST 099)
+099       $a PAPERBACK (2ND 099)
+049       $a CRLS
+245  00   $a Gendernye tetradi.
+260       $a Sankt-Peterburg : $b Rossiæiskaëiìa akademiëiìa nauk, Sankt-Peterburgskiæi filial, In-t soëtìsiologii, $c 1997-
+300       $a v. ; $c 21 cm.
+310       $a Irregular
+362  0    $a Vyp. 1-
+440   0   $a Trudy Sankt-Peterburgskogo filiala Instituta soëtìsiologii Rossiæiskoæi akademii nauk. $p Materialy tekushchikh issledovaniæi
+500       $a REC HAS 2 099 FLDS WITH SINGLE $a - OUTPUT 2ND 099 TO 852 $j (04/02).
+590       $a Center's holdings begin with: vol. 2 (1999).
+650   0   $a Gender identity $v Periodicals.
+650   0   $a Sociology $v Periodicals.
+650   0   $a Feminism $v Periodicals.
+710  2    $a Institut soëtìsiologii (Rossiæiskaëiìa akademiëiìa nauk). $b Sankt-Peterburgskiæi filial.
+949       $a SD $b sd
+936       $a Vyp. 2., published in 1999 LIC
+949       $a *recs=b;dflt=crls;ov=o;i=;ins=smd;
+994       $a 02 $b CRL
+
+Record 17
+LDR  01385nam  2200325Mi 45  
+001  ocm48717641 
+003  OCoLC
+005  20020318121355.0
+008  010717s2000    ne            000 0 eng d
+040       $a ZXW $b ger $c ZXW $d CRL
+020       $a 9051708076
+099       $a P-00006055
+049       $a [ON][RESERVE]CRLL[COPY 2 REF]
+100  1    $a Mortel, Elisabeth Gerarda van de.
+245  13   $a An institutional approach to transition processes = $b Een institutionele benadering van transitieprocessenen / $c Elisabeth Gerarda van de Mortel.
+246  31   $a Institutionele benadering van transitieprocessenen
+260       $a Rotterdam : $b Thela Thesis, $c 2000.
+300       $a 220 S.
+490  0    $a Tinbergen institute research series ; $v 234
+490  0    $a Research series
+500       $a 049 HAS CALL NUM SUFFIXES BEFORE & AFTER LOC CODE - OUTPUT DATA IN PAIRED BRACKETS BEFORE LOC CODE AS SINGLE 852 $m AFTER REMOVING BRACKETS; OUTPUT SINGLE SUFFIX AFTER LOC CODE AS 2ND 852 $m AFTER REMOVING BRACKETS (04/02).
+502       $a Thesis (doctoral)--Erasmus Universiteit Rotterdam, 2000.
+650   0   $a Economic policy $v Cross-cultural studies.
+653       $a economic transition
+653       $a planned economy
+653       $a market economy
+653       $a North's theory of institutions and institutional change
+949       $a STE $b ste
+949       $a *recs=b;dflt=crlm;bn=diss;ov=o;i=/loc=diss;ins=ste;
+994       $a 02 $b CRL
+
+Record 18
+LDR  00854nam  2200265Mi 45  
+001  ocm48723292 
+003  OCoLC
+005  20020318121355.0
+008  011024s2001    ne            000 0 eng d
+040       $a ZXW $b ger $c ZXW $d CRL
+020       $a 9051668597
+099       $a P-00006053
+049       $b CRLL
+100  1    $a Schans, Jan Willem van der.
+245  10   $a Governance of marine resources : $b conceptual clarifications and two case studies / $c Jan Willem van der Schans.
+260       $a Delft : $b Eburon, $c 2001.
+300       $a V, 468 S.
+500       $a NO 049 $a, 852 CAN'T BE CREATED - REJECT (07/06).
+502       $a Thesis (doctoral)--Erasmus Universiteit Rotterdam, 2001.
+653       $a marine resources
+653       $a common natural resources
+653       $a fisheries
+949       $a STE $b ste
+949       $a *recs=b;dflt=crlm;bn=diss;ov=o;i=/loc=diss;ins=ste;
+994       $a 02 $b CRL
+
+Record 19
+LDR  00837nam  2200277Mi 45  
+001  ocm48737529 
+003  OCoLC
+005  20020318121355.0
+008  011011s2001    ne            000 0 eng d
+040       $a ZXW $b ger $c ZXW $d CRL
+020       $a 9058920054
+099       $a P-00006051
+049       $a CRLL
+100  1    $a Roodbergen, Kees Jan.
+260       $a Rotterdam : $b Selbstverl., $c 2001.
+300       $a xiii, 172 S.
+490  0    $a TRAIL thesis series ; $v 2001,3
+490  0    $a ERIM PhD series research in management ; $v 4
+500       $a NO 245 FIELD - CREATE 998 FLD WITH ERROR MSG (04/02).
+502       $a Thesis (doctoral)--Erasmus Universiteit Rotterdam, 2001.
+653       $a warehouses
+653       $a order picking
+653       $a supply chain process
+949       $a STE $b ste
+949       $a *recs=b;dflt=crlm;bn=diss;ov=o;i=/loc=diss;ins=ste;
+994       $a 02 $b CRL
+
+Record 20
+LDR  00705cas  2200205K  45  
+001  ocm09662203 
+003  OCoLC
+008  830630d19uu2001ne  x p       0    0dut d
+040       $a CRL $c CRL
+022       $a 0923-5701
+049       $a CRLL
+110  2    $a Nederlandse Malacologische Vereniging.
+245  10   $a Correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a De Bilt, Netherlands [etc.], $b Nederlandse Malacologische Vereniging.
+300       $a v. $b ill.
+310       $a Irregular
+362  0    $a -318 (jan. 2001).
+500       $a NO 005 FIELD, CREATE 005 FROM FILEDATE PARM (04/02).
+785  00   $t Spirula (Nederlandse Malacologische Vereniging) $x 1566-063X $w (DLC)  2002225017 $w (OCoLC)47922599
+994       $a 01 $b CRL
+
+Record 21
+LDR  01376cas  2200313K  45  
+001  ocm09662203 
+003  OCoLC
+005  20020318122121.0
+008  830630d19uu2001ne  x p       0    0dut d
+040       $a CRL $c CRL
+022       $a 0923-5701
+099       $a Hd Cpy
+049       $a CRLS,CRLA,CRLB
+110  2    $a Nederlandse Malacologische Vereniging.
+245  10   $a Correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a De Bilt, Netherlands [etc.], $b Nederlandse Malacologische Vereniging.
+300       $a v. $b ill.
+310       $a Irregular
+362  0    $a -318 (jan. 2001).
+500       $a CRL: 1ST 590 DOES NOT BEGIN WITH "CENTER HAS:" AND DOES NOT FOLLOW "CENTER HAS:" 590 - OUTPUT AS 852 $z IN ALL 852'S  (04/02).
+500       $a 2ND 590 BEGINS "CENTER HAS:" & IS FOLLOWED BY 3 MORE 590'S - CONCATENATE 3 FOLLOWING 590'S, SEPARATED BY "+++" & OUTPUT AS 852 $3 IN 1ST 852.
+590       $a Some issues lost. (1st 590)
+590       $a Center has:
+590       $a E-11847  v. 74-92 (Feb. 1958-Jan. 1961); v. 94-128 (June 1961-Oct. 1968); v. 132-215 (June 1969-Nov. 1983) (1ST HOLDINGS 590)
+590       $a B-47761  v. 216-315 (Jan. 1984-July 2000) (2ND HOLDINGS 590)
+590       $a E-11847  v. 318 (Jan. 2001) (3RD HOLDINGS 590)
+785  00   $t Spirula (Nederlandse Malacologische Vereniging) $x 1566-063X $w (DLC)  2002225017 $w (OCoLC)47922599
+949       $a SD $b sd
+994       $a 02 $b CRL
+
+Record 22
+LDR  01002cas  2200289 a 45  
+001  ocm47922599 
+003  OCoLC
+005  20020318122341.0
+008  010907c20019999ne br p       0    0dut d
+010       $a   2002225017
+040       $a SMI $c SMI $d CRL
+022       $a 1566-063X
+042       $a lcd
+090       $a QL401 $b .N37
+049       $a CXRL
+130  0    $a Spirula (Nederlandse Malacologische Vereniging)
+245  10   $a Spirula : $b correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a Amsterdam : $b Nederlandse Malacologische Vereniging,
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Bimonthly
+362  0    $a Nr. 319 (apr. 2001)-
+500       $a UNKNOWN LOCATION CODE - CREATE 998 FLD WITH ERROR MSG (04/02).
+650   0   $a Mollusks $v Periodicals.
+650   0   $a Shells $v Periodicals.
+780  00   $a Nederlandse Malacologische Vereniging. $t Correspondentieblad van de Nederlandse Malacologische Vereniging $x 0923-5701 $w (OCoLC)9662203
+936       $a No. 323 (nov./dec. 2001) LIC
+994       $a 01 $b CRL
+
+Record 23
+LDR  01157cXs  2200337 a 45  
+001  ocm47922599 
+003  OCoLC
+005  20020318122348.0
+008  010907c20019999ne br p       0    0dut d
+010       $a   2002225017
+040       $a SMI $c SMI $d CRL
+022       $a 1566-063X
+042       $a lcd
+090       $a QL401 $b .N37
+099       $a Hd Cpy
+049       $a CRLS
+130  0    $a Spirula (Nederlandse Malacologische Vereniging)
+245  10   $a Spirula : $b correspondentieblad van de Nederlandse Malacologische Vereniging.
+260       $a Amsterdam : $b Nederlandse Malacologische Vereniging,
+300       $a v. : $b ill. ; $c 30 cm.
+310       $a Bimonthly
+362  0    $a Nr. 319 (apr. 2001)-
+500       $a UNKNOWN TYPE - CREATE 998 FLD WITH ERROR MSG (04/02).
+590       $a Center's holdings begin with: vol. 319 (Apr. 2001)
+650   0   $a Mollusks $v Periodicals.
+650   0   $a Shells $v Periodicals.
+780  00   $a Nederlandse Malacologische Vereniging. $t Correspondentieblad van de Nederlandse Malacologische Vereniging $x 0923-5701 $w (OCoLC)9662203
+936       $a No. 323 (nov./dec. 2001) LIC
+949       $a SD $b sd
+949       $a *recs=b;dflt=crls;ov=o;i=;ins=smd;
+994       $a 02 $b CRL
+
+Record 24
+LDR  00707naX  2200229Ka 45  
+001  ocm49336510 
+003  OCoLC
+005  20020318122353.0
+008  020318s1980    wlk     b     000 0 eng d
+040       $a CRL $c CRL
+099       $a P-90000139
+049       $a CRLL
+100  1    $a Sigl, Patricia Mary.
+245  14   $a The literary achievement of Elizabeth Inchbald $h [microform] / $c Patricia Mary Sigl.
+260       $c 1980.
+300       $a 9 microfiches.
+500       $a UNKNOWN BIBLVL - CREATE 998 FLD WITH ERROR MSG (04/02).
+502       $a Thesis (doctoral)--University of Wales, 1980.
+653       $a Elizabeth Inchbald
+949       $a XL $b xl
+949       $a *recs=b;dflt=crlm;bn=diss;ov=.b14606550;i=/loc=diss;ins=leix;
+994       $a 02 $b CRL
+
+Record 25
+LDR  00662nam  2200217Ii 45  
+001  ocm07839850 
+003  OCoLC
+005  20020116122306.0
+008  811012s1960    ug            000 0 eng d
+040       $a MOA $c MOA $d CRL
+099       $a F-6327
+049       $a CRLL
+100  1    $a Langdale-Brown, I.
+245  14   $a The vegetation of the western province of Uganda.
+260       $a Kampala : $b Dept. of Agriculture, $c 1960.
+300       $a 111 p. ; $c 34 cm.
+440   0   $a Memoirs of the Research Division ; $v Series 2, Vegetation, no. 4
+500       $a 994 $a = "03" - CREATE DELETE RECORD (04/02).
+650   0   $a Botany $z Uganda
+949       $a recs=b;dflt=crlm;ov=o;i=;ins=clh;
+994       $a 03 $b CRL
+
+Record 26
+LDR  00796nam  2200253 a 45  
+001  ocm48788637 
+003  OCoLC
+005  20020129134115.0
+008  020115s2001    ru b     b    000 0 rusoc
+040       $a CGU $c CGU $d CRL
+020       $a 5020322393
+042       $a pcc
+043       $a e-urf--
+050   4   $a HD9502.R83 $b S254 2001
+049       $a CRLL
+100  1    $a Efremov, çE. I. $q (çEduard Ivanovich)
+245  10   $a çEkonomika toplivno-çenergeticheskogo kompleksa ëIìAkutii / $c çE.I. Efremov.
+260       $a Novosibirsk : $b Nauka, $c 2001.
+300       $a 283 p. : $b map ; $c 23 cm.
+500       $a 994 $a = "93" - CREATE DELETE RECORD (04/02).
+504       $a Includes bibliographical references.
+650   0   $a Energy industries $z Russia (Federation) $z Sakha.
+651   0   $a Sakha (Russia) $x Economic conditions.
+994       $a 93 $b CRL
+
+Record 27
+LDR  00657naa  2200205Ia 45  
+001  ocm49344353 
+003  OCoLC
+005  20020319171230.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Hirsch, Werner Zvi, $d 1920-
+245  10   $a Making California's state budget more user-friendly and transparent / $c Werner Z. Hirsch, Daniel J. B. Mitchell.
+500       $a CBG (for all): 994 $a IS  '11'; REJECT
+650   0   $a Budget $z California.
+700  1    $a Mitchell, Daniel J. B.
+773  0    $7 nnas $t California policy options. $g 2002, p. 20-46. $w (OCoLC)38594780
+994       $a 11 $b CBG
+
+Record 28
+LDR  00701naa  2200205Ia 45  
+001  ocm49344354 
+003  OCoLC
+005  20020319171231.0
+008  020319s2002    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us--- $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Holter, Darryl.
+245  10   $a BIDs [business improvement districts] : $b a quiet revolution in urban management / $c Darryl Holter.
+500       $a CBG (for all): 994 $a IS '03'; CHANGE LEADER STATUS TO 'd'
+650   0   $a Central business districts $z United States $x Planning.
+650   0   $a Urban renewal $z United States.
+773  0    $7 nnas $t California policy options. $g 2002, p. 47-52. $w (OCoLC)38594780
+994       $a 03 $b CBG
+
+Record 29
+LDR  00585naa  2200193Ia 45  
+001  ocm49344355 
+003  OCoLC
+005  20020319171232.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Blasi, Gary.
+245  10   $a Reforming educational accountability / $c Gary Blasi.
+500       $a CBG (for all): 994 $a IS '93'; CHANGE LEADER STATUS TO 'd'.
+650   0   $a Educational accountability $z California.
+773  0    $7 nnas $t California policy options. $g 2002, p. 53-78. $w (OCoLC)38594780
+994       $a 93 $b CBG
+
+Record 30
+LDR  00751naa  2200217Ia 45  
+001  ocm49344356 
+003  OCoLC
+005  20020319171233.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a PROS
+100  1    $a Malloy, Timothy F.
+245  10   $a Pollution prevention as a regulatory tool in California : $b breaking barriers and building bridges / $c Timothy F. Malloy.
+500       $a CBG: 994 $b IS PRO; OUTPUT 852 $a AND 901 $a AS 'CBG'.
+650   0   $a Pollution prevention $z California.
+650   0   $a Dry cleaning $x Environmental aspects $z California.
+700  1    $a Sinsheimer, Peter.
+773  0    $7 nnas $t California policy options. $g 2002, p. 79-[110]. $w (OCoLC)38594780
+994       $a 01 $b PRO
+
+Record 31
+LDR  00634naa  2200205Ia 45  
+001  ocm49344357 
+003  OCoLC
+005  20020319171234.0
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Edwards, Alejandra Cox, $d 1954-
+245  10   $a Contingent workers in California / $c Alejandra Cox Edwards, Lisa M. Grobar.
+500       $a UNKNOWN SOURCE 'XYZ' IN 994 $b; REJECT.
+650   0   $a Temporary employment $z California.
+700  1    $a Grobar, Lisa M.
+773  0    $7 nnas $t California policy options. $g 2002, p. 155-175. $w (OCoLC)38594780
+994       $a 01 $b XYZ
+
+Record 32
+LDR  00635naa  2200181Ia 45  
+001  ocm49344358 
+003  OCoLC
+008  020319s2002    xx a     b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us-ca
+099       $a A9884 $a 2002
+049       $a CBGS
+100  1    $a Thornberg, Christopher F.
+245  10   $a Of megawatts and men : $b understanding the causes of the California power crisis / $c Christopher F. Thornberg.
+500       $a CBG (for all): NO 005 IN RECORD; USE DATE PARM TO CREATE 005
+650   0   $a Electric utilities $x Deregulation $z California.
+773  0    $7 nnas $t California policy options. $g 2002, p. 177-195. $w (OCoLC)38594780
+994       $a 01 $b CBG
+
+Record 33
+LDR  00579caa  2200169Ia 45  
+001  ocm48936915 
+003  OCoLC
+005  20020319172941.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Cox, Gary W.
+245  10   $a Agenda setting in the U.S. House : $b a majority-party monopoly? / $c Gary W. Cox.
+500       $a CBG (for all): RECORD LACKS 994 FIELD; REJECT.
+610  10   $a United States. $b Congress. $b House $x Leadership.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 185-210. $w (OCoLC)2398192
+
+Record 34
+LDR  00731caa  2200205Ia 45  
+001  ocm48936916 
+003  OCoLC
+005  20020319172941.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Abramowitz, Alan.
+245  10   $a It's Monica, stupid : $b the impeachment controversy and the 1998 midterm election / $c by Alan I. Abramowitz.
+500       $a CBG (for all): 994 LACKS $a; REJECT.
+610  10   $a United States. $b Congress $x Elections, 1998.
+651   0   $a United States $x Politics and government $y 1993-2001.
+650   0   $a Impeachments $z United States.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 211-226. $w (OCoLC)2398192
+994       $b CBG
+
+Record 35
+LDR  00612caa  2200181Ia 45  
+001  ocm48936917 
+003  OCoLC
+005  20020319172942.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Arnold, Laura W.
+245  14   $a The distribution of Senate committee positions : $b change or more of the same? / $c Laura W. Arnold.
+500       $a CBG (for all): 994 LACKS $b; REJECT.
+610  10   $a United States. $b Congress. $b Senate $x Committees.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 2 (May 2001), p. 227-248. $w (OCoLC)2398192
+994       $a 01
+
+Record 36
+LDR  00639caa  2200181Ia 45  
+003  OCoLC
+005  20020319172945.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+049       $a CBGA
+100  1    $a Bailey, Michael.
+245  10   $a Quiet influence : $b the representation of diffuse interests on trade policy, 1983-1994 / $c Michael Bailey.
+500       $a CBG (for all): RECORD LACKS 001; REJECT.
+650   0   $a Commercial policy $z United States.
+610  10   $a United States. $b Congress $x Voting.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 1 (Feb. 2001), p. 45-80. $w (OCoLC)2398192
+994       $a 01 $b CBG
+
+Record 37
+LDR  00582caa  2200205Ia 45  
+001  ocm48936915 
+003  OCoLC
+005  20020319173149.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+050       $a AB444 $. C22
+090       $a This is an 090 call num
+099       $a A0040 (099 1ST $a) $a At NRLF (099 2ND $a)
+049       $a CBGS
+100  1    $a Barks, Barry
+245  10   $a Agenda setting in the DogHouse
+500       $a CBG: TAKE CALL NUMBER FROM 099; OUTPUT BOTH $a's IN 852 $j
+610  10   $a United States. $b Congress. $b House $x Leadership.
+994       $a 01 $b CBG
+
+Record 38
+LDR  00777caa  2200217Ia 45  
+001  ocm48936924 
+003  OCoLC
+005  20020319173154.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+050       $a CH996 (050) $b .D50
+090       $a Modern Units (090)
+049       $a CBGS
+100  1    $a Lipinski, Daniel.
+245  04   $a The effect of messages communicated by members of congress : $b the impact of publicizing votes / $c Daniel Lipinski.
+500       $a CBG: RECORD HAS 050 AND 090; USE 090 FOR CALL NUMBER IN 852 $j.
+610  10   $a United States. $b Congress $x Voting.
+650   0   $a Legislators $z United States $x Public opinion.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 1 (Feb. 2001), p. 81-100. $w (OCoLC)2398192
+994       $a 01 $b CBG
+
+Record 39
+LDR  00726caa  2200205Ia 45  
+001  ocm48936925 
+003  OCoLC
+005  20020319173154.0
+008  020205s2001    xx       b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+050  00   $a E889 (050) $b .N33 2002
+049       $a CBGS,CBGA
+100  1    $a Morris, Jonathan S.
+245  10   $a Reexamining the politics of talk : $b partisan rhetoric in the 104th House / $c Jonathan S. Morris.
+500       $a CBG: TAKE CALL NUMBER FROM 050.
+610  10   $a United States. $b Congress $n (104th : $d 1995-1996). $b House.
+650   0   $a Rhetoric $x Political aspects $z United States.
+773  0    $7 nnas $t Legislative studies quarterly. $g Vol. 26, no. 1 (Feb. 2001), p. 101-121. $w (OCoLC)2398192
+994       $a 01 $b CBG
+
+Record 40
+LDR  00840nam  2200253Ia 45  
+001  ocm48936930 
+003  OCoLC
+005  20020319173155.0
+008  020205s2001    dcu      b    000 0 eng d
+040       $a CBG $c CBG
+043       $a n-us---
+099       $a x
+049       $a CBGS
+100  1    $a Edwards, Chris.
+245  10   $a Simplifying federal taxes : $b the advantages of consumption-based taxation  / $c by Chris Edwards.
+260       $a Washington, D.C. : $b Cato Institute, $c 2001.
+300       $a 31 p. ; $c 28 cm.
+490  1    $a Policy analysis ; $v no. 416
+500       $a 099 $a IS 'x'; DO NOT OUTPUT A CALL NUMBER IN THE 852
+530       $a Also available online via the Internet.
+650   0   $a Taxation $x Law and legislation $z United States.
+830   0   $a Policy analysis (Cato Institute) ; $v no. 416
+856  41   $u http://www.cato.org/pubs/pas/pa416
+994       $a 01 $b CBG
+
+Record 41
+LDR  00875cas  2200253Ia 45  
+001  ocm13364381 
+003  OCoLC
+005  20020322124649.0
+008  860331c19839999cauar        l0   a0eng d
+040       $a CUZ $c CUZ $d OCL $d CBG
+090       $a HJ9012.C3 $b S365
+099       $a A0040 $a At NRLF
+049       $a CBGS $a CBGA
+110  1    $a Santa Cruz County (Calif.). $b Auditor-Controller.
+245  10   $a Comprehensive annual financial report of the County of Santa Cruz, Sate of California, for the fiscal year ended ...
+260       $a [Santa Cruz : $b s.n., $c 1983-
+300       $a v. ; $c 22 x 28 cm.
+310       $a Annual
+362  0    $a 1983-
+500       $a CBG: OUTPUT 590 'Library has:' IN 1st 852 $3; OTHER 590 AS 852 $z IN ALL 852s.
+590       $a Library has: 2001-
+590       $a Some volumes stolen by aliens.
+650   0   $a Finance, Public $z California $z Santa Cruz County $v Periodicals.
+994       $a 01 $b CBG
+
+Record 42
+LDR  01278cam  2200337 a 45  
+001  ocm38231026 
+003  OCoLC
+005  20010529151451.0
+008  690121s1968    mdua          000 0 eng  
+010       $a    68008919 
+040       $a NLM $c NLM $d AGL $d HMF
+016  7    $a 0164734 $2 DNLM
+060  00   $a QU 16 (060) $b A468m 1968
+070  0    $a QH521 $b .M47 1968
+072   0   $a X300
+096       $a QU 16 (096) $b F4a 1968
+049       $a HMFR $a hMfP
+100  1    $a Altman, Philip L.
+245  10   $a Metabolism / $c compiled and edited by Philip L. Altman and Dorothy S. Dittmer.  Prepared under the auspices of the Committee on Biological Handbooks.
+260       $a Bethesda, Md. : $b Federation of American Societies for Experimental Biology, $c [c1968]
+300       $a xix, 737 p. : $b ill. ; $c 28 cm.
+440   0   $a Biological handbooks
+500       $a HMF: 096 AND 060 IN RECORD. TAKE CALL NUMBER FROM 096
+500       $a HMF: CHANGE 049 'hMfP' TO 'HMFP' FOR OUTPUT IN 852 $b.
+650   0   $a Metabolism $v Handbooks, manuals, etc.
+650   2   $a Metabolism $v tables.
+650   2   $a Nutrition $v tables.
+700  1    $a Katz, Dorothy Dittmer.
+710  2    $a Federation of American Societies for Experimental Biology. $b Committee on Biological Handbooks.
+710  2    $a National Library of Medicine (U.S.)
+994       $a 01 $b HMF
+
+Record 43
+LDR  01279pam  2200349 a 45  
+001  ocm23732128 
+003  OCoLC
+005  20010529153100.0
+008  910425s1992    nyua     b    001 0 eng c
+010       $a    91018631 
+040       $a DNLM/DLC $c DLC $d NLM $d HMF
+016  7    $a 9105250 $2 DNLM
+019       $a 23653751 $a 25870446
+020       $a 0881678155
+050  10   $a RC847.5.E53 (050) $b S54 1991
+082  00   $a 616.3/650757 $2 20
+049       $a HMFR
+100  1    $a Siegel, Jerome H., $d 1932-
+245  10   $a Endoscopic retrograde cholangiopancreatography : $b technique, diagnosis, and therapy / $c Jerome H. Siegel ; with a contribution by J. Delmont and A.G. Harris.
+260       $a New York : $b Raven Press, $c c1992.
+300       $a xv, 426 p. : $b ill. (some col.) ; $c 29 cm.
+500       $a HMF: NO 099,096,060, OR 090; TAKE CALL NUM FROM 050.
+504       $a Includes bibliographical references and index.
+650   0   $a Endoscopic retrograde cholangiopancreatography.
+650   2   $a Biliary Tract Diseases $x diagnosis.
+650   2   $a Biliary Tract Diseases $x therapy.
+650   2   $a Cholangiopancreatography, Endoscopic Retrograde.
+650   2   $a Pancreatic Diseases $x diagnosis.
+650   2   $a Pancreatic Diseases $x therapy.
+700  1    $a Delmont, J.
+700  1    $a Harris, A. G. $q (Alan G.)
+994       $a 01 $b HMF
+
+Record 44
+LDR  02024cas  2200565   45  
+001  ocm01481511 
+003  OCoLC
+005  20010529160220.0
+007  cr unu
+008  750727c19399999cauar1        0   a0eng d
+010       $a    39015404 
+040       $a MUL $c MUL $d NSD $d YUS $d DLC $d OCL $d DLC $d SER $d OCL $d AIP $d NSD $d AIP $d NSD $d DLC $d NSD $d AIP $d HUL $d NST $d DLC $d AGL $d MXC $d CUS $d GUA $d MYG $d SYS $d OCL $d HMF
+012       $a 3 $b 3 $e n $i 8811 $j 0
+016  7    $a A54240000 $2 DNLM
+019       $a 599732
+022  0    $a 0066-4278
+030       $a ARPHAD
+035       $a 0066578 $b MULS $a   Ulp   No.  0829200002 $a PITT NO.  0690300000
+042       $a lc $a nsdp
+050  00   $a QP1 $b .A535
+060  0    $a W1 AN779
+070  0    $a 444.8 $b An7
+072   0   $a X300
+082       $a 599.01/05
+099       $a QT 4 A615 (099)
+049       $a HMFM $a HMFR $a HMFP
+210  0    $a Annu. rev. physiol.
+222   0   $a Annual review of physiology
+245  00   $a Annual review of physiology.
+260       $a Palo Alto, Calif., $b Annual Reviews Inc.
+362  0    $a v. 1-   1939-
+500       $a HMF: CREATE 852 $j CALL NUM FROM 099 $a.
+500       $a HMF: CREATE 852 $3 FROM INFO FOLLOWING 'Library has:' IN 590 FIELD; OUTPUT IN FIRST 852 ONLY
+500       $a HMF: CREATE $z IN EACH 852 FROM 2ND 590 IN RECORD; DROP BOTH 590s
+510  2    $a Psychological abstracts $x 0033-2887 $b 1939-
+555       $a Vols. 1-20, 1939-48.  1 v.
+590       $a Library has:  v.8, 1946; v.15, 1953; v.24-32, 1962-1970; v.34-35, 1972-1973; v.37, 1975; v.47, 1985-
+590       $a Some copies under librarian's chair.
+650   0   $a Physiology $v Periodicals.
+650   2   $a Physiology $x yearbooks.
+700  1    $a Luck, James Murray, $d 1899- $e ed.
+700  1    $a Hall, Victor Ernest, $d 1901- $e ed.
+710  2    $a Annual Reviews, Inc.
+710  2    $a American Physiological Society (1887- )
+850       $a CSt-L $a DLC $a DNAL $a GU $a MnSU
+856  41   $u http://physiol.AnnualReviews.org/
+891  30   $9 853 $8 1 $a v. $i (year)
+891  40   $9 863 $8 1 $a <1>- $i <1939>- $x provisional
+936       $a Unknown $a 1974 (surrogate)
+994       $a 02 $b HMF
+
+Record 45
+LDR  01657cas  2200433 a 45  
+001  ocm45147179 
+003  OCoLC
+005  20010529161536.0
+008  001010c20019999caubr p       0    0eng d
+010       $a    00212506 
+040       $a NSD $c NSD $d EYM $d VA@ $d GUA $d MYG $d CAS $d EYM $d HMF
+012       $l 1
+022  0    $a 1532-0464
+030       $a JBIOBL
+037       $b Academic Press, 525 B Street, Ste. 1900, San Diego, CA
+042       $a lcd
+060       $a 060 subfld A1 $a 060 subfld A2 $b 060 subfld b
+090       $a Journals
+049       $a HMFP $a HMFR
+245  00   $a Journal of biomedical informatics.
+246  30   $a Biomedical informatics
+260       $a San Diego, CA : $b Academic Press, $c c2001-
+263       $a 0102
+300       $a v. : $b ill. ; $c 28 cm.
+310       $a Bimonthly
+362  0    $a Vol. 34, no. 1 (Feb. 2001)-
+500       $a HMF: CREATE CALL NUM FOR EACH 852 FROM 060; TAKE $h FROM 1ST $a; $i FROM ONLY $b
+510  0    $a Chemical abstracts $x 0009-2258
+530       $a Also available to subscribers via the World Wide Web; full-text in PDF, tables of contents and abstracts in HTML.
+590       $a Library has:  v.34, 2001-
+650   0   $a Medical informatics $v Periodicals.
+650   0   $a Medicine $x Data processing $v Periodicals.
+650   0   $a Medicine $x Research $x Data processing $v Periodicals.
+776  1    $t Journal of biomedical informatics (Online) $x 1532-0480 $w (DLC)   00212507 $w (OCoLC)45147742
+780  00   $t Computers and biomedical research $x 0010-4809 $w (DLC)sn 78004292 $w (OCoLC)1564611
+856  41   $u http://www.idealibrary.com/links/toc/jbin
+891  20   $9 853 $8 1 $a v. $b no. $u 6 $v r $i (year) $j (month) $w b $x 02
+891  41   $9 863 $8 1.1 $a 34 $b 1 $i 2001 $j 02
+994       $a 01 $b HMF
+
+Record 46
+LDR  01908cas  2200457   45  
+001  ocm01564611 
+003  OCoLC
+005  20010529162950.0
+008  750823d19672000caubr1p       0   a0eng d
+010       $a sn 78004292 
+040       $a MUL $c MUL $d OCL $d UCU $d NSD $d HUL $d IUL $d SER $d RCS $d AIP $d NSD $d AIP $d NSD $d NST $d IUL $d NST $d GUA $d NSD $d OCL $d MYG $d HLS $d GUA $d MYG $d HMF
+012       $b 3 $e n $i 8707 $j 1 $k 1 $m 1
+016  7    $a C36140000 $2 DNLM
+022  0    $a 0010-4809
+030       $a CBMRB7
+032       $a 934480 $b USPS
+042       $a nsdp
+050  14   $a R850.A2 $b C73
+082  2    $a 574
+090       $a Martian Journals (090)
+049       $a [Secret][Vault]HMFP $o Callnum for HMFP $a HMFR[ff] $a HMFM $o Callnum for HMFM $a HMFP
+222   0   $a Alien autopsy weekly $b (Print)
+245  00   $a Alien autopsy weekly
+260       $a Barsoom [etc.] $b Academic Press.
+300       $a 33 v. $b ill. $c 25 cm.
+310       $a Bimonthly
+362  0    $a v. 1-33, no. 6; Mar. 1967-Dec. 2000.
+500  2    $a HMF: TAKE HMFP CALLNUM FROM 1st 049 $o; TAKE HMFR CALLNUM FROM 090;  TAKE HMFM CALLNUM FROM 2ND 049 $o.
+500  2    $a HMF: CREATE $m 'Secret Vault' FOR LOC HMFP; CREATE $k 'ff' FOR HMFR.
+500  2    $a HMF: CREATE $3 IN 1ST 852 ONLY FROM 590 'Library lacks' NOTE.
+550       $a Official publication of the Barsoom Association for Martian Systems
+590       $a Library lacks:  v. 27
+650   0   $a Medicine $x Data processing $v Periodicals.
+650   0   $a Medicine $x Research $x Data processing $v Periodicals.
+650   2   $a Medicine $x periodicals.
+710  2    $a American Association for Medical Systems and Informatics.
+776  1    $t Computers and biomedical research (Online) $x 1090-2368 $w (DLC)sn 97004481 $w (OCoLC)36935130
+785  00   $t Journal of biomedical informatics $x 1532-0464 $w (DLC)   00212506 $w (OCoLC)45147179
+850       $a CSt-L $a GU $a ICIU $a InU $a MChB $a NbU-M $a NcRS $a PPiD $a ULA $a ViBlbV
+856  41   $u http://www.idealibrary.com/links/toc/cbmr
+994       $a 02 $b HMF
+
+Record 47
+LDR  00938pam  2200277 a 45  
+001  ocm42437207 
+003  OCoLC
+005  20020325152637.0
+008  990920r20001938nyua          000 0 eng  
+010       $a    99048877 
+040       $a DLC $c DLC $d CUH
+043       $a e-it--- $a f-et---
+090  00   $a KZ719 (090) $b 1934
+086  0    $a Y 4.AR 5/2 A:2001-2002/25 (086)
+049       $a CUHH $a CUH$ $a CUHS
+100  1    $a Potter, Pitman B. $q (Pitman Benjamin), $d 1892-
+245  14   $a The Wal Wal arbitration / $c by Pitman B. Potter.
+260       $a Buffalo, N.Y. : $b W.S. Hein & Co., $c 2000.
+300       $a vii, 182 p. : $b ill. ; $c 23 cm.
+500       $a CUH: FOR LOCS CUHH & CUHS USE 086 FOR CALL NUMBER; FOR CUH$ USE 090.
+651   0   $a Italy $x Claims $v Cases.
+651   0   $a Ethiopia $x Claims $v Cases.
+710  2    $a Carnegie Endowment for International Peace. $b Division of International Law.
+945       $a STATS CATS://MN//XX//ED//
+949       $a *recs-b;ov-o;
+994       $a 02 $b CUH
+
+Record 48
+LDR  01784nam  2200373 a 45  
+001  ocm49200060 
+003  OCoLC
+005  20020325180809.0
+008  020226s2001    dcuab        f000 0 eng c
+040       $a GPO $c GPO $d CUH
+020       $a 0160666872
+042       $a pcc
+043       $a n-us--- $a n-us-ca $a n-us-oh
+050  14   $a HC241.4 $b .E44
+090  14   $a GA333.4 $b .G33
+099       $b CallNum From 099
+049       $a CUHk
+110  1    $a United States. $b Congress. $b House. $b Committee on Resources. $b Subcommittee on Fisheries Conservation, Wildlife, and Oceans.
+245  10   $a H.R. 37, H.R. 640, and H.R. 1000 : $b legislative hearing before the Subcommittee on National Parks, Recreation, and Public Lands of the Committee on Resources, U.S. House of Representatives, One Hundred Seventh Congress, first session, Thursday, April 26, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O., [Congressional Sales Office], $c 2001.
+300       $a iii, 545 p. : $b ill., maps ; $c 24 cm.
+500       $a CUH: USE LC CALL NUM SCHEME: OUTPUT 099 $b AS 852 $j.
+500       $a CUH: UPPERCASE LOCATION CODE BEFORE OUTPUT.
+650   0   $a Trails $x Law and legislation $z United States.
+651   0   $a Santa Monica Mountains National Recreation Area (Calif.) $x Boundaries.
+650   0   $a Recreation areas $x Law and legislation $z California.
+651   0   $a William Howard Taft National Historic Site (Cincinnati, Ohio) $x Boundaries.
+650   0   $a Land titles $x Registration and transfer $z Ohio $z Cincinnati.
+856  41   $3 Text version: $u http://purl.access.gpo.gov/GPO/LPS17751
+856  41   $3 PDF version: $u http://purl.access.gpo.gov/GPO/LPS17752 $z Adobe Acrobat Reader required
+910       $a Y 4.R 31/3:107-21
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 49
+LDR  01325nam  2200301 a 45  
+001  ocm49015143 
+003  OCoLC
+005  20020325180956.0
+008  020215s2001    dcua         f000 0 eng c
+040       $a GPO $c GPO $d CUH
+020       $a 0160666937
+042       $a pcc
+043       $a n-us---
+050       $a Callnum from 050
+090       $a Sedler (090 1ST $a) $a Collection (2ND $a) $a Area (3RD $a)
+049       $a CUHb
+110  1    $a United States. $b Congress. $b House. $b Committee on Resources. $b Subcommittee on Forests and Forest Health.
+245  10   $a Developing economic uses for forest fuels : $b oversight hearing before the Subcommittee on Forests and Forest Health of the Committee on Resources, U.S. House of Representatives, One Hundred Seventh Congress, first session, April 3, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O., [Congressional Sales Office], $c 2001.
+300       $a iii, 73 p. : $b ill. ; $c 24 cm.
+500       $a CUH: USE LC CALLNUM SCHEME: OUTPUT 090 $a's IN 852 $j.
+650   0   $a Forests and forestry $x Economic aspects $z United States.
+650   0   $a Biomass energy $x Economic aspects $z United States.
+650   0   $a Energy development $x Economic aspects $z United States.
+910       $a Y 4.R 31/3:107-13
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 50
+LDR  01419nam  2200325 a 45  
+001  ocm49191414 
+003  OCoLC
+005  20020325181134.0
+008  020225s2001    dcu          f000 0 eng c
+040       $a GPO $c GPO $d CUH
+020       $a 0160666783
+042       $a pcc
+043       $a n-us---
+050       $a R129 (050) $b .D47
+049       $a CUHA
+110  1    $a United States. $b Congress. $b House. $b Committee on Resources. $b Subcommittee on Forests and Forest Health.
+245  10   $a Views and vision of the new chief of the U.S. Forest Service, Dale N. Bosworth : $b oversight hearing before the Subcommittee on Forests and Forest Health of the Committee on Resources, U.S. House of Representatives, One Hundred Seventh Congress, first session, May 15, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O., [Congressional Sales Office], $c 2001.
+300       $a iii, 34 p.  ; $c 24 cm.
+500       $a CUH: USE LC CALL NUM SCHEME: OUTPUT 050 AS 852 $h & $i.
+500       $a "Serial no. 107-28."
+600  10   $a Bosworth, Dale N.
+610  10   $a United States. $b Forest Service.
+650   0   $a Forest management $z United States.
+856  41   $3 Text version: $u http://purl.access.gpo.gov/GPO/LPS17577
+856  41   $3 PDF version: $u http://purl.access.gpo.gov/GPO/LPS17578 $z Adobe Acrobat Reader required
+910       $a Y 4.R 31/3:107-28
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 51
+LDR  01554nam  2200349 a 45  
+001  ocm49014748 
+003  OCoLC
+005  20020325181250.0
+008  020215s2002    dcu      b   f000 0 eng c
+040       $a GPO $c GPO $d CUH
+020       $a 0160666953
+042       $a pcc
+043       $a n-us---
+086       $a callnum in 086
+099       $a Documents Area (099)
+049       $a CUHh
+110  1    $a United States. $b Congress. $b House. $b Committee on Small Business. $b Subcommittee on Regulatory Reform and Oversight.
+245  10   $a EPA rulemaking : $b do bad analyses lead to irrational rules : hearing before the Subcommittee on Regulatory Reform of the Committee on Small Business, House of Representatives, One Hundred Seventh Congress, first session, Washington, DC, November 8, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O., [Congressional Sales Office], $c 2002.
+300       $a iii, 88 p. ; $c 24 cm.
+500       $a CUH: USE SUDOC CALL NUM SCHEME: OUTPUT 099 $a AS 852 $j.
+504       $a Includes bibliographical references.
+500       $a "Serial no. 107-35."
+650   0   $a Administrative procedure $z United States.
+650   0   $a Administrative regulation drafting $z United States.
+610  10   $a United States. $b Environmental Protection Agency.
+856  41   $3 Text version: $u http://purl.access.gpo.gov/GPO/LPS17574
+856  41   $3 PDF version: $u http://purl.access.gpo.gov/GPO/LPS17576 $z Adobe Acrobat Reader required
+910       $a Y 4.SM 1:107-35
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 52
+LDR  01462nam  2200325 a 45  
+001  ocm49015103 
+003  OCoLC
+005  20020325181428.0
+008  020215s2001    dcu          f000 0 eng c
+040       $a GPO $c GPO $d CUH
+020       $a 0160666899
+042       $a pcc
+043       $a n-us---
+088       $a Serial no. 107-10 (United States. Congress. House. Committee on Resources)
+086  0    $a HE 20.3017: (086)
+049       $a CUHS
+110  1    $a United States. $b Congress. $b House. $b Committee on Resources. $b Subcommittee on Forests and Forest Health.
+245  10   $a Effective community involvement in national forest restoration and recreation efforts : $b obstacles and solutions : oversight hearing before the Subcommittee on Forests and Forest Health of the Committee on Resources, U.S. House of Representatives, One Hundred Seventh Congress, first session, March 29, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O., [Congressional Sales Office], $c 2001.
+300       $a iii, 55 p.  ; $c 24 cm.
+500       $a CUH: USE SUDOC CALLNUM SCHEME; OUTPUT 086 $a AS 852 $j.
+500       $a Shipping list no.: 2002-0096-P.
+500       $a "Serial no. 107-10."
+650   0   $a Forestry and community $z United States.
+650   0   $a Forest reserves $z United States $z Recreational use.
+650   0   $a Outdoor recreation $z United States.
+910       $a Y 4.R 31/3:107-10
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 53
+LDR  02525cam  2200385 a 45  
+001  ocm48886621 
+003  OCoLC
+005  20020325181745.0
+008  020129s2002    dcu          f000 0 eng c
+040       $a SEN $c SEN $d GPO $d CUH
+020       $a 0160666848
+042       $a pcc
+043       $a n-us-ny $a n-us-ms $a n-us-id
+049       $a CUHh,CUH*,CUH%
+110  1    $a United States. $b Congress. $b Senate. $b Committee on Energy and Natural Resources. $b Subcommittee on National Parks.
+245  10   $a Governors Island, Vicksburg Military Park, Niagara Falls Heritage Area, and Craters of the Moon Preserve bills : $b hearing before the Subcommittee on National Parks of the Committee on Energy and Natural Resources, United States Senate, One Hundred Seventh Congress, first session on S. 689, to convey certain federal properties on Governors Island, New York; S. 1175, to modify the boundary of Vicksburg National Military Park to include the property known as Pemberton's Headquarters, and for other purposes; S. 1227, to authorize the Secretary of the Interior to conduct a study on the suitability and feasibility of establishing the Niagara Falls National Heritage Area in the state of New York, and for other purposes; H.R. 601, to redesignate certain lands within the Craters of the Moon National Monument, and for other purposes, July 31, 2001.
+260       $a Washington : $b U.S. G.P.O. : $b For sale by the Supt. of Docs., U.S. G.P.O. [Congressional Sales Office], $c 2002.
+300       $a iii, 52 p. ; $c 24 cm.
+500  1    $a CUH: NO CALLNUMS IN INPUT REC; DON'T CREATE CALL NUM SUBFLDS IN 852s
+500       $a CUH: OUTPUT 590 Library has: AS 852 $3 IN 1ST 852; OTHER 590s AS 852$x's IN EACH 852 OUTPUT; STRIP 'Library has:' PREFIX BEFORE OUTPUT.
+590       $a Library has: all volumes.
+590       $a Some copies have vanished (590).
+590       $a Some copies have rematerialized (590).
+651   0   $a Governors Island (New York County, N.Y.)
+651   0   $a Vicksburg National Military Park (Miss.)
+651   0   $a Niagara Falls (N.Y. and Ont.)
+651   0   $a Craters of the Moon National Monument (Idaho)
+650   0   $a National parks and reserves $x Law and legislation $z United States.
+810  1    $a United States. $b Congress. $b Senate. $t S. hrg. ; $v 107-231.
+856  41   $3 Text version: $u http://purl.access.gpo.gov/GPO/LPS17478
+856  41   $3 PDF version: $u http://purl.access.gpo.gov/GPO/LPS17479 $z Adobe Acrobat Reader required
+910       $a Y 4.EN 2:S.HRG.107-231
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+
+Record 54
+LDR  01486cam  22003258a 45  
+001  ocm47716508 
+003  OCoLC
+005  20020328125633.0
+008  010725s2002    nyu      b    001 0 eng  
+010       $a   2001048047
+040       $a DLC $c DLC $d GUL $d CUH
+020       $a 1571050892
+042       $a pcc
+043       $a a-iq--- $a a-sy--- $a a-tu---
+090       $a KZ3700 $b .E45 2002
+049       $a CUHI
+100  1    $a Elver, Hilal.
+245  10   $a Peaceful uses of international rivers : $b the Euphrates and Tigris Rivers dispute / $c Hilal Elver.
+260       $a Ardsley, NY : $b Transnational Publishers, $c 2002.
+300       $a xxxvii, 504 p. ; $c 25 cm.
+440   0   $a Innovation in international law
+500       $a CUH: OUTPUT 590 LIBRARY LACKS: v.2 AS 852 $3
+505  2    $a The rise and fall of ancient fluvial societies : lessons to be learned -- A historical and comparative approach to water law principles -- New hyrdropolitics in the 21st century -- Creation of modern international law and international watercourses in state treaty practices -- From customary law to a global convention -- Judicial efforts -- The innovative approach : converging trends in international law -- The Middle East and water conflicts -- Water conflict in the Euphrates and Tigris Rivers basin.
+590   0   $a LIBRARY LACKS: v.2
+650   0   $a Water rights (International law)
+651   0   $a Euphrates River.
+651   0   $a Tigris River.
+945       $a STATS CATS://MN//01//XX//ED//
+949       $a *recs-b;ov-o;
+994       $a 02 $b CUH
+
+Record 55
+LDR  00808cam  2200241Ia 45  
+001  ocm38570477 
+003  OCoLC
+005  20020304112213.0
+008  980309s1997    cauab         001 0 eng d
+050       $a GR654 $b .C16
+090       $a 317.94 $b C128, 1997
+099   9   $a G4081 (099 1ST $a) $a N7 (2ND $a)
+049       $a WCAA $a WCAL
+110  1    $a California. $b Dept. of Finance.
+245  10   $a California statistical abstract : $b 1997 / $c California Department of Finance.
+250       $a 38th ed.
+260       $a Sacramento, Calif. : $b Dept. of Finance, $c 1997.
+300       $a xvii, 203 p. ; $c 28 cm.
+500       $a WCA: DON'T OUTPUT 852 FROM LOCATION WCAL
+500       $a WCA: USE LC CALLNUM SCHEME: OUTPUT 099 $a's AS 852 $j
+651   0   $a California $x Economic conditions $v Statistics.
+651   0   $a California $v Statistics.
+994       $a 01 $b WCA
+
+Record 56
+LDR  01009nas  2200253Ia 45  
+001  ocm49245567 
+003  OCoLC
+005  20020305192623.0
+008  020305c19uu9999cauar     r   0    0eng d
+050       $a AB123 (050) $b .P21
+090   9   $a G402 (090 1ST $a) $a W-4 (090 2nd $a)
+049       $a [***]WCAA[Deep][Water][Storage]
+110  2    $a California Rural Water Association.
+245  10   $a Membership directory / $c California Rural Water Association.
+260       $a [Sacramento : $b The Association],
+300       $a v. ; $c 14 x 23 cm.
+500       $a WCA: OUTPUT Lib. Has: 590 AS 852 $3 AFTER STRIPPING PREFIX; OUTPUT OTHER 590 AS 852 $z.
+500       $a WCA SERIAL: USE LC CALLNUM SCHEME: OUTPUT 852 $j FROM 090 $a's.
+500       $a WCA SERIAL: OUTPUT 049 BRACKETED INFO. '****' AS 852 $k; OTHER AS '$m'
+590       $a Lib. Has: v. 12-14, 1951-1953
+590       $a Gift of the Naiad Society (590).
+610  20   $a California Rural Water Association $v Directories.
+650   0   $a Water utilities $z California $v Directories.
+994       $a 01 $b WCA
+
+Record 57
+LDR  01085nam  2200265Ka 45  
+001  ocm49251919 
+003  OCoLC
+005  20020306113212.0
+008  020306s1977    cauab    b    000 0 eng d
+060       $a callnum from 060
+086       $a callnum from 086
+050       $a 050 1stA $a 2ndA $a 3rdA
+049       $a WCAA
+245  00   $a Water conservation, reuse and supply plan for the San Francisco Bay Region / $c prepared by J.B. Gilbert & Associates ; [for] Association of Bay Area Governments.
+246  1    $i At head of title: $a Draft final report
+260       $a [Berkeley, Calif. : $b J.B. Gilbert & Associates, $c 1977]
+300       $a 1 v. (various pagings) : $b ill., map ; $c 28 cm.
+500       $W CA: USE LC CALLNUM SCHEME: MOVE 1ST 050 $a TO 852 $j.
+504       $a Includes bibliographical references.
+650   0   $a Water conservation $z California $z San Francisco Bay Area.
+650   0   $a Water-supply $z California $z San Francisco Bay Area.
+650   0   $a Water reuse $z California $z San Francisco Bay Area.
+710  2    $a J.B. Gilbert & Associates.
+710  2    $a Association of Bay Area Governments.
+994       $a 01 $b WCA
+
+Record 58
+LDR  00844nam  2200241Ka 45  
+001  ocm49251955 
+003  OCoLC
+005  20020306113542.0
+008  020306s2000    caua     b    000 0 eng d
+040       $a WCA $c WCA
+037       $b Bay Institute of San Francisco, 500 Palm Drive, Suite 200, Novato, CA 94949; http:www.bay.org
+043       $a n-us-ca
+099   9   $a G432 $a P-10 $a Locked $a Cage
+049       $a WCAA
+100  1    $a Pawley, Anitra.
+260       $a Novato, Calif. : $b Bay Institute of San Francisco, $c [2000]
+300       $a v, 120 p. : $b ill. ; $c 28 cm.
+500       $a RECORD LACKS 245 FIELD; ADD 998 FIELD WITH ERROR MESSAGE
+504       $a Includes bibliographical references (p. 57)
+610  20   $a CALFED Bay-Delta Program $x Evaluation.
+650   0   $a Restoration ecology $z California $z Delta Region.
+710  2    $a Bay Institute of San Francisco.
+994       $a 01 $b WCA
+
+Record 59
+LDR  00803nam  2200229Ka 45  
+001  ocm49251972 
+003  OCoLC
+005  20020306113829.0
+008  020306s2000    caua          000 0 eng d
+040       $a WCA $c WCA
+099   9   $a 91.1 $a P-4
+049       $a WCAX
+245  00   $a Pacific coastal salmonid conservation and recovery initiative : $b California's perspective.
+260       $a [Sacramento? : $b California Dept. of Conservation?, $c 2000]
+300       $a 12 p. : $b ill. ; $c 22 x 28 cm.
+500       $a WCA: REC HAS UNKNOWN LOCATION CODE; ADD 998 FIELD WITH ERROR MESSAGE.
+500       $a "Fiscal year 2000."
+650   0   $a Pacific salmon $x Habitat.
+650   0   $a Fishery conservation $z California $z Pacific Coast.
+650   0   $a Water quality management $z California.
+650   0   $a Stream restoration $z California.
+994       $a 01 $b WCA
+
+Record 60
+LDR  01228nam  2200301Ka 45  
+001  ocm49251993 
+003  OCoLC
+008  020306s2001    bccab    b    000 0 eng d
+040       $a WCA $c WCA
+043       $a n-cn-bc
+099   9   $a G120 $a P1
+049       $a WCAA
+245  00   $a River recovery : $b restoring rivers and streams through dam decommissioning and modification.
+246  30   $a Restoring rivers and streams through dam decommissioning and modification
+246  17   $a River recovery project, final report
+260       $a [Vancouver, B.C.?] : $b Outdoor Recreation Council of BC, $c [2001]
+300       $a vi, 2-47 leaves : $b ill., map ; $c 28 cm.
+500       $a Cover title.
+500       $a "July 2001."
+500       $a "Project supported and funded by: Outdoor Recreation Council of British Columbia, Donner Canadian Foundation, BCIT."
+500       $a WCA: RECORD LACKS 005; CREATE 005 FROM FILEDATE PARM.
+504       $a Includes bibliographical references.
+650   0   $a Stream restoration $z Canada $z British Columbia.
+650   0   $a Dam retirement $z Canada $z British Columbia.
+710  2    $a Outdoor Recreation Council of British Columbia.
+710  2    $a Donner Canadian Foundation.
+710  2    $a British Columbia Institute of Technology.
+994       $a 01 $b WCA
+
+Record 61
+LDR  00963nam  2200265Ia 45  
+001  ocm49331743 
+003  OCoLC
+005  20020318123506.0
+008  020316s1915    xx a          000 0 eng d
+040       $a CBT $c CBT
+043       $a n-us---
+050       $a Z7164.T8 (050) $a C15 $a no.10
+090       $a Z7164.T8 (090) $b C15 no.10
+099       $a 15-2 (099 $a)
+049       $a CBTp
+100  1    $a Beveridge, Albert J.
+245  14   $a The Lincoln Highway / $c by Albert J. Beveridge.
+500       $a CBT: HAS 099, 090, 050 - OUTPUT CALL NUM FROM 099 $a TO 852$j (04/02).
+500       $a LOC CODE IN 049 IS "CBTp" - OUTPUT AS ALL CAPS IN 852 $b.
+650   0   $a Roads $z United States $x History $y 20th century.
+650   0   $a Roads $z United States $x Design and construction $x History $y 20th century.
+651   0   $a Lincoln Highway $x History $y 20th century.
+773  0    $7 nnas $t Saturday Evening Post. $g Vol. 187, no. 38 (Mar. 20, 1915) p. 9-10, 69-70, 72-74. $w (OCoLC)1916574
+949       $z tris
+994       $a 01 $b CBT
+
+Record 62
+LDR  00752nam  2200229Ia 45  
+001  ocm49331746 
+003  OCoLC
+005  20020318123624.0
+008  020316s1915    xx a          000 0 eng d
+040       $a CBT $c CBT
+043       $a n-us---
+050       $a Z7164.T8.C15 no.9 (050)
+090       $a Z7164.T8 (090 $a) $b C15 no.9 (090 $b)
+049       $a CBTp
+100  1    $a Payne, Will.
+245  14   $a The jitney juggernaut / $c by Will Payne.
+500       $a CBT: HAS 050, 090, NO 099 - OUTPUT CALL NUM FROM 090 $a $b TO 852 $h $i (04/02).
+650   0   $a Paratransit services $z United States $x History $y 20th century.
+650   7   $a jitneys $2 trt
+773  0    $7 nnas $t Saturday Evening Post. $g Vol. 187, no. 44 (May 1, 1915) p. 8, 65-66. $w (OCoLC)1916574
+949       $z tris
+994       $a 01 $b CBT
+
+Record 63
+LDR  01278nam  2200301Ia 45  
+001  ocm49201181 
+003  OCoLC
+005  20020318131958.0
+008  020226s2001    flua     b    000 0 eng d
+040       $a TRL $c TRL $d CBT
+043       $a n-us-fl
+050       $a HE336.T7 (050 1ST $a) $a 2ND$a $b M53 2001 (1ST $b) $b 2ND$b
+049       $a CBTM
+245  00   $a Miami-Dade County Transportation Management Center (TMC) functionality study.
+260       $a Tampa, Fla. : $b Center for Urban Transportation Research, University of South Florida, $c [2001]
+300       $a 59 leaves : $b ill. ; $c 28 cm.
+513       $a Final report.
+500       $a CBT: HAS 050 ONLY - OUTPUT CALL NUM FROM 1ST $a AND 1ST $b OF 050 TO 852 $h $i (04/02).
+500       $a Performed for Miami-Dade Metropolitan Planning Organization.
+500       $a "December 2001."
+504       $a Includes bibliographical references (leaves 59-60).
+610  10   $a Miami-Dade County (Fla.). $b Transportation Management Center $x Evaluation.
+650   0   $a Traffic flow $z Florida $z Miami $x Management.
+650   0   $a Traffic flow $z Florida $z Dade County $x Management.
+710  2    $a University of South Florida. $b Center for Urban Transportation Research.
+710  2    $a Metropolitan Planning Organization (Miami-Dade County, Fla.)
+949       $z tris
+994       $a 01 $b CBT
+
+Record 64
+LDR  01070nas  2200289Ia 45  
+001  ocm48963538 
+003  OCoLC
+005  20020208193645.0
+008  020208c20029999caumr p       0   a0eng d
+040       $a CBT $c CBT
+037       $b Bay Crossings, PO Box 747, Alameda CA 94501
+043       $a n-us-ca
+099       $a See journal
+049       $a CBTj $a CBTc
+245  00   $a San Francisco Bay and New York Harbor crossings
+246  30   $a Crossings
+260       $a Alameda, CA : $b Bay Crossings, $c 2002-
+300       $a v. : $b ill. ; $c 35 cm.
+362  0    $a Vol. 3, no. 1 (Feb. 2002)
+590       $a Only copy kept in Reference. (1st 590).
+590       $a Library has: Feb. 2002. (2nd 590)
+500       $a CBT: 1ST 590 DOES NOT CONTAIN HOLDINGS INFO, OUTPUT AS 852 $z IN ALL 852'S (04/02).
+500       $a 2ND 590 BEGINS "Library has:" - STRIP PREFIX, OUTPUT AS 852 $3 IN THE 1ST 852 OUTPUT.
+650   0   $a Ferries $z California $z San Francisco Bay $v Periodicals.
+650   0   $a Ferries $z New York Harbor (N.Y. and N.J.) $v Periodicals.
+780  00   $t San Francisco Bay crossings $w (OCoLC)48963526
+994       $a 02 $b CBT
+
+Record 65
+LDR  00810cas  2200253Ia 45  
+001  ocm48963526 
+003  OCoLC
+005  20020208193937.0
+008  020208d20002001caumr p       0   a0eng d
+040       $a CBT $c CBT
+037       $b Bay Crossings, PO Box 747, Alameda CA 94501
+043       $a n-us-ca
+049       $a CBTM
+245  00   $a San Francisco Bay crossings.
+246  30   $a Bay crossings
+260       $a Alameda, CA : $b Bay Crossings,
+300       $a v. : $b ill. ; $c 35 cm.
+362  1    $a Began in 2000?
+362  0    $a -v. 2, no. 12 (Jan. 2002)
+500       $a CBT: 590 BEGINS "Lib. has:" - STRIP PREFIX & OUTPUT AS 852 $3 (04/02).
+590       $a Lib. has: Feb. 2002.
+650   0   $a Ferries $z California $z San Francisco Bay $v Periodicals.
+785  00   $t San Francisco Bay and New York Harbor crossings $w (OCoLC)48963538
+994       $a 01 $b CBT
+
+Record 66
+LDR  00883nam  2200229Ia 45  
+001  ocm12761327 
+008  851105s1985    xx            00010 ger d
+005  19851105162351.0
+040       $c CBT
+043       $a e-ge---
+099       $a See $a journal
+049       $a CBTj
+100  10   $a Janetzki, Georg.
+242  00   $a Data collection for urban mass transit in the city of Leipzig : $b selected results. $y eng
+245  00   $a Erhebungen zum èoffentlichen Personennahverkehr in der Stadt Leipzig : $b ausgewèahlte Ergebnisse / $c Georg Janetzki, Gerd Johne, Axel-P. Teichert.
+300       $a p. 205-207 ; $c 30 cm.
+500       $a CBT: HAS 653 FIELD WITH 1 $a - OUTPUT 1 690 WITH 2ND IND = "7", UPPERCASE 1ST LETTER OF $a & OUTPUT TO THE 690 $a; CREATE $2 WITH CONTENTS "TRIS" (04/02).
+653       $a data collection (653 FLD)
+700  10   $a Johne, Gerd.
+700  10   $a Teichert, Axel-P.
+949       $z tris
+994       $a 01 $b CBT
+
+Record 67
+LDR  01292nam  2200277Ia 45  
+001  ocm12769884 
+008  851107s1985    dcu      b    00000 eng d
+005  19851107124021.0
+040       $c CBT
+049       $a CBTM
+090       $a HV3022.A12 $b U68 1985
+245  00   $a UMTRIS selections pertaining to transportation disadvantaged (92 selections).
+260  0    $a [Washington, D.C. : $b National Research Council, Transportation Research Board, $c 1985]
+300       $a p. 8-99 ; $c 28 cm.
+500       $a CBT: 1ST 653 FIELD HAS 3 $a'S - OUTPUT 3 690'S WITH 2ND IND = "7", UPPERCASE 1ST LETTER OF EACH $a & OUTPUT TO ITS OWN 690 $a; CREATE $2 WITH CONTENTS "TRIS" FOR EACH 690. (04/02).
+500       $a 2ND 653 FIELD HAS 1 $a - OUTPUT 1 NEW 690 WITH 2ND IND = "7", UPPERCASE 1ST LETTER OF THE $a AND OUTPUT TO 690 $a; CREATE $2 WITH CONTENTS = "TRIS".
+500       $a "June/July 1985."
+650   0   $a Handicapped $x Transportation $x Bibliography.
+650   0   $a Aged $x Transportation $x Bibliography.
+650   0   $a Poor $x Bibliography.
+653       $a transportation disadvantaged $a second subfield $a third subfield
+653       $a second 653 fld.
+710  20   $a National Research Council (U.S.). $b Urban Mass Transportation Research Information Service.
+740  01   $a Transportation disadvantaged.
+949       $z tris
+994       $a 01 $b CBT
+
+Record 68
+LDR  00914cam  2200277I  45  
+001  ocm04542068 
+003  OCoLC
+005  20020318150815.0
+008  790111s1955    cauabe   b    000 0 eng  
+010       $a    57034258 
+040       $a DLC $c FDA $d FDA $d OCL $d CBT
+019       $a 19758194
+043       $a n-us-ca
+090       $a NA9127.B48 $b B48 1955
+049       $a CBTM
+245  00   $a Berkeley master plan, 1955.
+260       $a [Berkeley, Calif. : $b Berkeley City Council?, $c 1955?]
+300       $a 111 p. : $b ill., col. maps ; $c 28 cm.
+500       $a CBT: 949 HAS $r - OUTPUT PIECE NUMBER (RLF NUM) IN 852 $p (04/02).
+500       $a Col. folded map inserted at end.
+504       $a Includes bibliographical references (p. 111).
+650   0   $a City planning $z California $z Berkeley.
+710  1    $a Berkeley (Calif.). $b City Planning Commission.
+710  1    $a Berkeley (Calif.) $b City Council.
+949       $z tris $r CBT12345 (949 $r)
+994       $a 01 $b CBT
+
+Record 69
+LDR  00848nas  2200265Ia 45  
+001  ocm48963526 
+003  OCoLC
+005  20020208192952.0
+008  020208d20002001caumr p       0   a0eng d
+040       $a CBT $c CBT
+037       $b Bay Crossings, PO Box 747, Alameda CA 94501
+043       $a n-us-ca
+099       $a See journal
+049       $a CBTj,cbtr
+245  00   $a San Francisco Bay crossings.
+246  30   $a Bay crossings
+260       $a Alameda, CA : $b Bay Crossings,
+300       $a v. : $b ill. ; $c 35 cm.
+362  1    $a Began in 2000?
+362  0    $a -v. 2, no. 12 (Jan. 2002)
+590       $a Library lacks: Dec. 2001.
+500       $a CBT: 590 BEGINS "LIBRARY LACKS:" - OUTPUT $a AS IS IN 852 $3 OF 1ST 852 OUTPUT (04/02).
+650   0   $a Ferries $z California $z San Francisco Bay $v Periodicals.
+785  00   $t San Francisco Bay and New York Harbor crossings
+994       $a 02 $b CBT
+
+Record 70
+LDR  00723cas  2200241I  45  
+001  ocm31396169 
+003  OCoLC
+005  20020207114015.0
+008  941102u1947uuuunyu x m       0    0eng d
+040       $a OSU $c OSU $d CBT
+090       $a HE369.A1 $b B4
+049       $a CBTM $a CBTZ
+245  00   $a Beecroft memorial lecture.
+246  14   $a SAE David Beecroft memorial lecture
+260       $a New York, $c 1947-
+300       $a v. : $b ill. ; $c 22 cm.
+362  0    $a no. 1-
+500       $a CBT: 590 BEGINS "LIB HAS" - STRIP PREFIX, OUTPUT AS 852 $3 IN 1ST 852 (04/02).
+590       $a Lib has: Feb. 2002. 
+650   0   $a Traffic safety $v Periodicals.
+650   0   $a Traffic accidents $v Periodicals.
+710  2    $a Society of Automotive Engineers.
+994       $a 02 $b CBT
+
+Record 71
+LDR  01410nam  2200301Ia 45  
+001  ocm49343012 
+003  OCoLC
+005  20020319142928.0
+008  020319s2001    ja a     b    100 0 eng d
+040       $a QCE $c QCE
+050   4   $a TA160.4 $b .R44 2002:1
+090       $a TA492.C7 $b P4x
+099       $a 500 (099 1ST $a) $a M26 (2ND $a) $a 2000 (3RD $a)
+049       $a QCEA
+111  2    $a Management Panel on Collaboration Research Activities about Building Structural Engineering between JRC-ISIS & JBRI $n (5th : $d 2000 : $c Tsukuba, Japan)
+245  14   $a The 5th Management Panel on Collaboration Research Activities about Building Structural Engineering between JRC-ISIS & JBRI : $b 17-18 May 2000 at Tsukuba City, Japan / $c edited by Mizuo Inukai.
+260       $a Tsukuba, Japan : $b Building Research Institute, Ministry of Construction, $c c2001.
+300       $a iii, 321 p. : $b ill. ; $c 30 cm.
+490  1    $a BRI proceedings, $x 1341-2930 ; $v no. 9
+500       $a QCE: HAS 099, 090, 050, USE 099 FOR CALL NUM - OUTPUT MULTIPLE $a'S AS SINGLE 852 $j (04/02).
+504       $a Includes bibliographical references.
+650   0   $a Structural engineering $z Japan $v Congresses.
+650   0   $a Structural engineering $z Europe $v Congresses.
+700  1    $a Inukai, Mizuo.
+710  2    $a Kensetsushåo Kenchiku Kenkyåujo (Japan)
+710  2    $a Commission of the European Communities. $b Joint Research Centre.
+830   0   $a BRI proceedings ; $v no. 9.
+994       $a 01 $b QCE
+
+Record 72
+LDR  01092nam  2200313Ia 45  
+001  ocm49343022 
+003  OCoLC
+005  20020319143018.0
+008  020319s2002    cau           001 0deng d
+010       $a   2001054499
+040       $a QCE $c QCE
+020       $a 0943198127 (alk. paper)
+043       $a n-us-ca
+050   4   $a TA160.4 $b .R44 2002:1
+090       $a TA492.C7 $b P4x
+049       $a QCEA
+100  1    $a Popov, E. P. $q (Egor Paul), $d 1913-
+245  10   $a Egor P. Popov / $c Stanley Scott, interviewer ; editor, Gail H. Shea.
+260       $a Oakland, CA : $b Earthquake Engineering Research Institute, $c c2002.
+300       $a xvii, 104 p. : $b ill. ; $c 25 cm.
+440   0   $a Connections: the EERI oral history series ; $v 9
+500       $a QCE: HAS 090, 050, NO 099 - DO NOT OUTPUT CALL NUM (04/02).
+600  10   $a Popov, E. P. $q (Egor Paul), $d 1913- $v Interviews.
+650   0   $a Civil engineers $z California $v Interviews.
+650   0   $a Earthquake engineering $z California $x History.
+700  1    $a Scott, Stanley, $d 1921-
+700  1    $a Shea, Gail H.
+710  2    $a Earthquake Engineering Research Institute.
+994       $a 01 $b QCE
+
+Record 73
+LDR  01033ctm  2200265Ma 45  
+001  ocm47262564 
+003  OCoLC
+005  20020319143133.0
+008  000419s2000    cau           000 0 eng d
+040       $a CUY $c CUY $d OCL $d QCE
+099       $a 517.25 (1ST 099) $a N24 $a 2000
+099       $a 517.25 (2ND 099 $a) $b N24 2000 (2ND 099 $b)
+049       $a QCEA
+100  1    $a Naito, Clay J.
+245  10   $a Experimental and computational evaluation of reinforced concrete bridge beam-column connections for seismic performance / $c by Clay Joshua Naito.
+260       $c 2000.
+300       $a xv, 221 leaves : $b ill. (some col.) ; $c 28 cm.
+500       $a QCE: HAS 2 099 FIELDS - OUTPUT 2ND 099 $a $b TO 852 $h $i (04/02).
+504       $a Includes bibliographical references (leaves 196-199).
+650   0   $a Bridges, Concrete $x Earthquake effects.
+650   0   $a Earthquake engineering $x Research.
+650   0   $a Reinforced concrete construction
+650   0   $a Joints (Engineering)
+710  2    $a University of California Berkeley. $b Dept. of Civil Engineering.
+994       $a 01 $b QCE
+
+Record 74
+LDR  01258cas  22003497a 45  
+001  ocm41604366 
+003  OCoLC
+005  20020219174758.0
+008  990624c20009999gaumr1p       0   a0eng d
+010       $a sn 99008795 
+040       $a NSD $c NSD $d QCE
+012       $l 1 $m 0
+022  0    $a 1525-6251
+037       $b Structural Engineer, 4005 Windward Plaza Dr., #580, Alpharetta, GA 30005
+042       $a nsdp $a lcd
+082  10   $a 624 $2 13
+099       $a 500 $a S76
+049       $a [(1)Latest issue][(2)on reserve]QCEA $a QCER $a QCEZ
+130  0    $a Structural engineer (Alpharetta, Ga.)
+210  0    $a Struct. eng. $b (Alpharetta Ga.)
+222   0   $a Structural engineer $b (Alpharetta, Ga.)
+245  00   $a Structural engineer.
+260       $a Alpharetta, GA : $b Civil Engineering News, Inc., $c c2000-
+300       $a v.
+310       $a Monthly
+362  0    $a Vol. 1, no. 1 (Feb. 2000)-
+500       $a QCE: 1ST 590 DOES NOT BEGIN "LIB HAS:", 2ND 590 DOES - OUTPUT 1ST 590 AS 852 $z IN ALL 852'S OUTPUT (04/02).
+500       $a STRIP "LIB HAS: " FROM 2ND 590 & OUTPUT AS 852 $3 IN 1ST 852 ONLY.
+500       $a 1ST LOC HAS 2 INPUT STAMPS TOGETHER - OUTPUT AS 1 852 $m IN 1ST 852.
+590       $a Accompanying CD-ROM is at CF 53 (1ST 590).
+590       $a LIB HAS: v. 2, no. 5 (2001)-
+994       $a 01 $b QCE
+
+Record 75
+LDR  01173nam  2200301Ka 45  
+001  ocm49343071 
+003  OCoLC
+005  20020319143518.0
+008  020319s2001    es           i000 0 spa d
+040       $a QCE $c QCE
+099       $a X
+049       $a QCEA
+245  00   $a Memoria, Lecciones aprendidas de los terremotos del 2001 en El Salvador, sector salud / $c Jorge J. Jenkins, editor.
+246  10   $a Lecciones aprendidas de los terremotos del 2001 en El Salvador
+246  30   $a Terremotos del 2001 en El Salvador
+260       $a San Salvador : $b OPS/OMS, $c 2001.
+300       $a 124 p. : $b ill. ; $c 28 cm.
+500       $a QCE: 099 HAS 1 $a, WITH ONLY "X" - DO NOT OUTPUT CALL NUM (04/02).
+500       $a "Una publicaciâon de la Representaciâon de OPS/OMS en El Salvador."
+500       $a "San Salvador, El Salvador, 4-5 de julio de 2001"--Cover.
+650   0   $a Earthquakes $z El Salvador.
+650   0   $a Disaster relief $z El Salvador.
+650   0   $a Public health $z El Salvador.
+650   0   $a Emergency management $z El Salvador.
+700  1    $a Jenkins, Jorge J.
+710  2    $a World Health Organization
+710  2    $a United Nations Development Programme. $b Office for Project Services.
+994       $a 01 $b QCE
+
+Record 76
+LDR  01074nam  2200265Ia 45  
+001  ocm48801472 
+003  OCoLC
+005  20020116203026.0
+008  020116s2001    gw a     b    001 0dger d
+040       $a CAW $c CAW
+043       $a e-gw---
+090       $a QH149.2 $b .A76 1992
+050  00   $a QH149 $b .A64 1996
+099       $a QH149 (099$a) $a .A34 (2ND $a) $a v. (3RD $a) $a 63:4 (4TH $a)
+049       $a [Serials]CAWA $l exch.
+100  1    $a Wagener, S. $q (Sigbert)
+245  14   $a Die Grossschmetterlinge von Elten bei Emmerich / $c Sigbert Wagener.
+260       $a Mèunster [Germany] : $b Westfèalisches Museum fèur Naturkunde : $b Landschaftsverband Westfalen-Lippe, $c 2001.
+300       $a 212 p. : $b ill. ; $c 25 cm.
+440   0   $a Abhandlungen aus dem Westfèalischen Museum fèur Naturkunde, $x 0175-3495 ; $v 63. Jahrg., Heft 4
+500       $a CAW: LOC CODE IS NOT "CAWB"; HAS 099, 090, 050 - OUTPUT CALL NUM FROM MULTIPLE 099 $a'S TO SINGLE 852 $j (04/02).
+650   0   $a Butterflies $z Germany $z Elten Region.
+600  10   $a Spaarmann, Carl, $d 1897-1977.
+650   0   $a Entomologists $z Germany $v Biography.
+994       $a 01 $b CAW
+
+Record 77
+LDR  01372nam  2200277Ia 45  
+001  ocm30531969 
+003  OCoLC
+005  20020319140504.0
+008  940601s1993    nyu      b    000 0 eng d
+040       $a CAW $c CAW
+050  00   $a HC79.E5 $b .O53 1996
+090       $a HC79.E5 (090 $a) $b O53 1993 (090 $b)
+049       $a CAWA
+245  00   $a One year after Rio : $b keeping the promises of the Earth Summit : a country-by-country progress report / $c Earth Summit Watch National Implementation Survey Team ; S. Jacob Scherr, survey coordinator ; Barrett Frelinghuysen, Rob Born, New York coordinators ; Jared E. Blumenfeld, Michelle Benedict Nowlin, editors, Washington coordinators.
+250       $a Special 1st ed.
+260       $a [New York, NY] : $b Natural Resources Defense Council, $c [c1993]
+300       $a xi, 157 p. ; $c 28 cm.
+500       $a CAW: LOC CODE NOT CAWB; HAS 090, 050, NO 099 - OUTPUT CALL NUM FROM 090 $a $b TO 852 $h $i (04/02).
+504       $a Includes bibliographical references.
+611  20   $a United Nations Conference on Environment and Development $d (1992 : $c Rio de Janeiro, Brazil)
+650   0   $a Environmental law, International.
+650   0   $a Economic development $x Environmental aspects.
+700  1    $a Scherr, S. Jacob, $d 1948-
+710  2    $a Natural Resources Defense Council.
+710  2    $a Earth Summit Watch (Project). $b National Implementation Survey Team.
+994       $a 01 $b CAW
+
+Record 78
+LDR  01430cam  2200349Ia 45  
+001  ocm26985602 
+003  OCoLC
+005  20020319140707.0
+008  921117s1992    nyua     b    000 0 eng d
+040       $a DMM $c DMM $d AGF $d SDF $d MLX $d AGL $d OCL $d OCLCQ $d CAW
+020       $a 0393309746 (pbk.) : $c $10.95
+070  0    $a HC79.E5B76 $b 1992
+072   0   $a X700 $a P000
+092       $a 333.7 (092 $a) $b V836 (092 $b)
+090       $a HC79.E5 (1ST 090 $a) $b B76 (1ST 090 $b)
+090       $a TD193.2 (2ND 090 $a) $b .B76 1992 (2ND 090 $b)
+049       $a CAWA $a CAWB $a CAWF $a CAWA
+100  1    $a Brown, Lester Russell, $d 1934-
+245  10   $a Vital signs 1992 : $b the trends that are shaping our future / $c Lester R. Brown, Christopher Flavin, Hal Kane ; editor Linda Starke.
+250       $a 1st ed.
+260       $a New York : $b W.W. Norton, $c 1992.
+300       $a 131 p. : $b ill. ; $c 24 cm.
+440   0   $a Worldwatch environmental alert series
+500       $a CAW: 4 LOC CODES, 3 UNIQUE - OUTPUT 3 852'S.  2ND LOC IS "CAWB" - OUTPUT CALL NUM FROM 092 $a $b TO 852 $h $i FOR THAT 852 (04/02).
+500       $a 2 NON-"CAWB" LOCS - USE 2ND 090 FOR CALL NUM - OUTPUT $a $b TO 852 $h $i.
+650   0   $a Economic development $x Environmental aspects.
+650   0   $a Environmental impact analysis.
+650   0   $a Nature $x Effect of human beings on $x Forecasting.
+650   0   $a Consumption (Economics) $x Forecasting.
+700  1    $a Flavin, Christopher.
+700  1    $a Kane, Hal.
+994       $a 01 $b CAW
+
+Record 79
+LDR  01477cam  2200313Ia 45  
+001  ocm39155014 
+003  OCoLC
+005  20020319141555.0
+008  980521s1998    nyua          000 0 eng d
+040       $a MSO $c MSO $d UKM $d OCL $d CAW
+015       $a GB98-43741
+020       $a 0393317625 (pbk)
+082  04   $a 363.7 $2 21
+090       $a HD75.6 (090 $a) $b .B76 1998 (090 $b)
+049       $a CAWB, CAWC, CAWE
+100  1    $a Brown, Lester Russell, $d 1934-
+245  10   $a Vital signs 1998 : $b the environmental trends that are shaping our future / $c Lester R. Brown, Michael Renner, Christopher Flavin ; editor, Linda Starke.
+260       $a New York : $b Norton, $c 1998.
+300       $a 207 p. : $b ill. ; $c 24 cm.
+500       $a CAW: 3 LOCS INC. "CAWB" - HAS 090, NO 092, 099, 050 - FOR "CAWB", OUTPUT "Unclassified" in 852 $j.  FOR OTHER 2 LOCS, USE 090 $a $b (04/02).
+505  00   $t Food trends. $t Agricultural resource trends. $t Energy trends. $t Atmospheric trends. $t Economic trends. $t Transportation trends. $t Environmental trends. $t Social trends. $t Military trends. $t Environmental features. $t Economic features. $t Social features. $t Military features.
+650   0   $a Economic development $x Environmental aspects.
+650   0   $a Environmental impact analysis.
+650   0   $a Nature $x Effect of human beings on $x Forecasting.
+650   0   $a Consumption (Economics) $x Forecasting.
+653  0    $a Economic conditions $a Related to $a Environment
+700  1    $a Renner, Michael.
+700  1    $a Flavin, Christopher.
+994       $a 02 $b CAW
+
+Record 80
+LDR  00981nam  2200265Ka 45  
+001  ocm33154505 
+003  OCoLC
+005  20020319141705.0
+008  950919s1995    xxu           000 0 eng d
+040       $a EJB $c EJB $d CAW
+043       $a n-us---
+090       $a x
+049       $a CAWA
+245  00   $a Stealth attack : $b gutting environmental protection through the budget process / $c principal authors, Sharon Buccino, Scott Surovell ; contributing authors, Sarah Chasis ... [et al.].
+260       $a [S.l.] : $b Natural Resources Defense Council, $c c1995.
+300       $a vi, 37 p. ; $c 28 cm.
+440   0   $a NRDC briefing paper
+500       $a CAW: NO 099, 050, 090 = 'x' - OUTPUT "Unclassified" IN 852 $j (04/02).
+610  10   $a United States. $b Environmental Protection Agency $x Budget.
+650   0   $a Environmental protection $z United States $x Finance.
+700  1    $a Buccino, Sharon.
+700  1    $a Surovell, Scott.
+700  1    $a Chasis, Sarah.
+710  2    $a Natural Resources Defense Council.
+994       $a 01 $b CAW
+
+Record 81
+LDR  01157cam  2200313 a 45  
+001  ocm36900683 
+003  OCoLC
+005  20020319152714.0
+008  961115s1996    dcu      b    000 0 eng  
+010       $a    96219515 
+040       $a DLC $c DLC $d CAW
+019       $a 35922828
+020       $a 1884122159
+050  00   $a GE170 $b .O64 1996
+082  00   $a 363.7/0526 $2 21
+049       $a [Serials]CAWA[Locked] $v 4-
+245  00   $a Operational strategy of the Global Environment Facility.
+246  30   $a Operational strategy
+260       $a Washington, D.C. : $b The Facility, $c c1996.
+300       $a viii, 71 p. ; $c 28 cm.
+500       $a CAW: HAS CALL NUM STAMP BEFORE LOC ("Serials") AND AFTER LOC ("Locked") - IGNORE STAMP AFTER LOC, OUTPUT STAMP BEFORE LOC IN 852 $m (04/02).
+610  20   $a Global Environment Facility.
+650   0   $a Environmental policy $x International cooperation.
+650   0   $a Biodiversity $x International cooperation.
+650   0   $a Climatic changes $x International cooperation.
+650   0   $a Territorial waters $x International cooperation.
+650   0   $a Ozone layer depletion $x International cooperation.
+710  2    $a Global Environment Facility.
+994       $a 01 $b CAW
+
+Record 82
+LDR  01279cam  2200325 a 45  
+001  ocm36923190 
+003  OCoLC
+005  20020319152743.0
+008  970221s1990    lu a     b    000 0 eng  
+010       $a    97118128 
+040       $a DLC $c DLC $d BOP $d ILK $d SLU $d AGX $d IXA $d IPL $d CAW
+019       $a 22502220
+020       $a 928261414X
+020       $a 928261414X
+043       $a e------
+050  00   $a GE190.E85 $b E57 1990
+072   0   $a W000 $a D500
+082  00   $a 363.7/0094 $2 21
+049       $a [M.P.]CAWA $a [S.C.]CAWD $a [BOp]CAWE
+245  00   $a Environmental policy in the European Community.
+250       $a 4th ed.
+260       $a Luxembourg : $b Office for Official Publications of the European Communities, $c 1990.
+300       $a 60 p. : $b ill. ; $c 23 cm.
+490  1    $a European documentation ; $v 5/1990
+500       $a CAW: 1ST LOC HAS STAMP BEFORE LOC CODE - EXPAND "M.P." TO "Morrison Planetarium" & OUTPUT TO 852 $m (04/02).
+500       $a 2ND LOC HAS STAMP BEFORE LOC CODE - EXPAND "S.C." TO "Special Collections" & OUTPUT TO 852 $m.
+500       $a 3RD LOC HAS 1 STAMP BEFORE LOC CODE - EXPAND "BOp" TO "Building Operations" & OUTPUT TO 852 $m (04/02).
+650   0   $a Environmental policy $z European Economic Community countries.
+830   0   $a European documentation ; $v periodical 90/5.
+994       $a 01 $b CAW
+
+Record 83
+LDR  01270nas  2200313Ia 45  
+001  ocm48808196 
+003  OCoLC
+005  20020117185732.0
+008  020117c19949999wau x m       0   a0eng d
+040       $a CAW $c CAW
+043       $a n-us-wa $a n-us-or $a n-cn-bc
+099       $a CAT. $a AS $a SEPS.
+049       $a [Location][Varies]CAWA $v <1, 4-6 (049 $v)> $a CAWD $m <2> $l gift: M. Renaker
+245  00   $a NEW report.
+246  3    $a Northwest Environment Watch report
+260       $a Seattle, Wash. : $b Northwest Environment Watch, $c [1994-
+300       $a v. : $b ill., maps ; $c 22 cm.
+310       $a Irregular
+362  0    $a No. 1-
+500       $a CAW: 1ST LOC IN 049 HAS CALL NUM STAMP, HOLDINGS IN $v - OUTPUT STAMP TO 852 $m; OUTPUT $v AS 852 $3 (04/02).
+500       $a 2ND LOC IN 049 HAS $m ONLY - OUTPUT 852 $3 AS "Library lacks: " FOLLOWED BY DATA IN $m.
+500       $a OUTPUT 3 590'S AS SEPARATE 852 $z FOR ALL 852'S.
+590       $a Library has: no.<1, 4-6> (590 FLD)
+590       $a Copy 1 (claimed): Mailliard Serials QL309 .I56 no.172 (590 FLD)
+590       $a Copy 2: Herp. QL668.A6 P53 1999 (590 FLD)
+651   0   $a Northwest, Pacific $x Environmental conditions.
+650   0   $a Environmental protection $z Northwest, Pacific.
+710  2    $a Northwest Environment Watch (Organization)
+994       $a 01 $b CAW
+
+Record 84
+LDR  02809cas  2200493 a 45  
+001  ocm39848596 
+003  OCoLC
+005  20020320164355.0
+008  980910c19989999enkbr p       0    0eng d
+010       $a    98641136  $z sn 98030253 
+040       $a VXG $c VXG $d GUA $d EYM $d NYG $d DLC $d CAS $d AGL $d NSD $d UMC $d OCL $d MYG $d SYS $d OCL $d CAW
+012       $i 9810 $k 1 $m 0
+022       $a 1366-9516
+030       $a DIDIFX
+037       $b Blackwell Science Ltd, Journal Subscriptions, PO Box 88, Oxford OX2 0NE. U.K.
+042       $a lc
+090       $a QH75.A1 $b D58
+049       $a [Serials]CAWA $v 4- $y 1998- $m v.2, no.3 $a CAWD
+245  00   $a Diversity & distributions.
+246  3    $a Diversity and distributions
+260       $a Oxford, U.K. : $b Blackwell Science, $c c1998-
+300       $a v. : $b ill. ; $c 25 cm.
+310       $a Bimonthly
+362  0    $a Vol. 4, no. 1 (Jan. 1998)-
+500       $a CAW: 1ST LOC IN 049 HAS $v $y $m - CONCATENATE $v & $y, SEPARATING BY ", ", THEN ADD "; Library lacks: " FOLLOWED BY $m AND OUTPUT IN 852 $3 (04/02).
+500       $a 2ND LOC HAS NO HOLDINGS INFO, DO NOT OUTPUT 852 $3.
+520       $a "A journal of biological invasions and biodiversity."
+530       $a Also available to subscribers via the World Wide Web from OCLC FirstSearch Electronic Collections Online and Synergy.
+580       $a Companion publication to: Journal of biogeography; Global ecology and biogeography letters, 1998; and: Global ecology and biogeography, 1999-
+650   0   $a Biological diversity $v Periodicals.
+650   0   $a Biological diversity conservation $v Periodicals.
+776  1    $t Diversity & distributions (Online) $w (OCoLC)43066124
+776  1    $t Diversity & distributions (Online : Synergy) $w (DLC)   00242276 $w (OCoLC)44974464
+780  00   $t Biodiversity letters $x 0967-9952 $w (DLC)   94645017 $w (OCoLC)28698695
+787  1    $t Journal of biogeography $x 0305-0270 $w (DLC)   75640198 $w (OCoLC)2240360
+787  1    $t Global ecology and biogeography letters $x 0960-7447 $w (DLC)   91644006 $w (OCoLC)23156550
+787  1    $t Global ecology and biogeography $w (DLC)sn 99050137 $w (OCoLC)42056750
+850       $a DLC $a DNAL $a GU $a MdU $a MiU $a N
+856  41   $u http://www.blackwell-synergy.com/issuelist.asp?journal=ddi
+856  41   $u http://firstsearch.oclc.org $z Address for accessing the journal using authorization number and password through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text
+856  41   $u http://firstsearch.oclc.org/journal=1366-9516;screen=info;ECOIP $z Address for accessing the journal from an authorized IP address through OCLC FirstSearch Electronic Collections Online. Subscription to online journal required for access to abstracts and full text
+891  33   $9 853 $8 1 $a v. $b no. $i (year)
+891  40   $9 863 $8 1 $a <4> $b <1>- $i <1998> $x provisional
+994       $a 02 $b CAW
+
+Record 85
+LDR  01966cas  2200505 a 45  
+001  ocm03460725 
+003  OCoLC
+005  20020320164628.0
+008  771202c19639999is qxzp       0   a0eng d
+010       $a sn 85006689 
+040       $a COO $c COO $d HUL $d NYG $d MUL $d RCS $d AIP $d NSD $d NYG $d NST $d AGL $d NSD $d NST $d WAU $d CAW
+012       $i 9002 $j P
+016  7    $a I40400000 $2 DNLM
+022       $a 0021-2210
+030       $a IJZOAE
+037       $b Laser Pages Pub. Ltd., P.O. Box 35409, Jerusalem 91353, Israel
+041  0    $a engfreger
+042       $a nsdp $a lcd
+050  00   $a QL690.A1 (050) $b B385 1998
+090       $a QL690.A1 (090) $b B385
+092       $a 506 (092) $b Is7j
+099       $a QL690.B37 (099)
+049       $a [Serials]CAWB $v <18-46//> $y <1969-2000>
+210  0    $a Isr. j. zool.
+222   0   $a Israel journal of zoology
+245  00   $a Israel journal of zoology.
+260       $a Jerusalem, Israel : $b Weizmann Science Press of Israel, $c 1963-
+300       $a v. : $b ill. ; $c 24 cm.
+310       $a Four no. a year
+362  0    $a Vol. 12, nos. 1-4 (Dec. 1963)-
+500       $a CAW: LOC CODE IN 049 $a IS "CAWB", HAS 099, 090, 050, 092 - TAKE CALL NUM FROM 092 $a $b & OUTPUT TO 852 $h $i (04/02).
+500       $a REMOVE CALL NUM SUFFIX FROM 049 $a & OUTPUT TO 852 $m.
+500       $a TAKE HOLDINGS INFO FROM 049 $v $y, CONCATENATE TOGETHER SEPARATED BY ", " & OUTPUT TO 852 $3.
+510  2    $a Biological abstracts $x 0006-3169
+510  2    $a GeoRef $x 0197-7482
+515       $a Some no. issued together.
+525       $a Supplements accompany some volumes.
+546       $a Articles in English, French, and German.
+550       $a Issued by: National Council for Research and Development, 1963-
+650   0   $a Zoology $x Periodicals.
+710  2    $a Mo°atsah ha-le®umit le-meòhòkar ule-fituaòh (Israel)
+780  00   $t Bulletin of the Research Council of Israel. Section B, Zoology $x 0375-9156 $w (DLC)sn 85064478 $w (OCoLC)1645336
+850       $a NcD $a TxArU
+936       $a Vol. 43, no. 2 (1997) LIC
+994       $a 02 $b CAW
+
+Record 86
+LDR  00838cam  2200217 a 45  
+001  ocm34472681 
+003  OCoLC
+005  20020320170304.0
+008  960312s1998    njuab    b    001 0 eng  
+010       $a    96013626 
+040       $a DLC $c DLC $d CAW
+020       $a 0691027269
+043       $a e------ $a ff----- $a aw-----
+050  00   $a QL690.A1 $b B385 1998
+049       $a [5 volume set]CAWK $l M&O $v 1-3, 5 $m 4
+100  1    $a Beaman, Mark.
+245  14   $a The handbook of bird identification : $b for Europe and the western Palearctic / $c Mark Beaman and Steve Madge.
+260       $a Princeton, N.J. : $b Princeton University Press, $c c1998.
+300       $a 868 p. : $b col. ill., col. maps ; $c 25 cm.
+500       $a CAW: LOC IN 049 FOLLOWED BY $v $m - CREATE HOLDINGS BY CONCATENATING $v FOLLOWED BY "; Library lacks: " FOLLOWED BY $m AND OUTPUT TO 852 $3 (04/02).
+994       $a 01 $b CAW
+
+Record 87
+LDR  01089cas  22003257a 45  
+001  ocm40604366 
+003  OCoLC
+005  20030117174758.0
+008  990624c20009999gaumr1p       0   a0eng d
+010       $a sn 98008795 
+040       $a NSD $c NSD $d QCE
+012       $l 1 $m 0
+022  0    $a 1525-6251
+037       $b Structural Engineer, 4005 Windward Plaza Dr., #580, Alpharetta, GA 30005
+042       $a nsdp $a lcd
+082  10   $a 624 $2 13
+099       $a 500 $a S76
+049       $a [Latest, first]QCEA $a QCER $a QCEZ
+130  0    $a Structural engineering (Alpharetta, Ga.)
+210  0    $a Struct. eng. $b (Alpharetta Ga.)
+222   0   $a Structural engineering $b (Alpharetta, Ga.)
+245  00   $a Structural engineering.
+260       $a Alpharetta, GA : $b Civil Engineering News, Inc., $c c2000-
+300       $a v.
+310       $a Monthly
+362  0    $a Vol. 1, no. 1 (Feb. 2000)-
+500       $a QCE: 1ST LOC HAS INPUT STAMP CONTAINING A COMMA - OUTPUT AS 852 $m IN 1ST 852; OTHER LOCS IN SEPARATE $a'S (02/03).
+590       $a Accompanying CD-ROM is at CF 53 (1ST 590).
+590       $a LIB HAS: v. 2, no. 5 (2001)-
+994       $a 01 $b QCE
+
+Record 88
+LDR  00929cam  2200277Ii 45  
+001  ocm04467087 
+003  OCoLC
+005  20030208154434.0
+008  781027s1977    enkaf    b    001 0 eng  
+010       $a    78314088 
+040       $a DLC $c DLC $d CBT
+015       $a GB78-05011
+020       $a 0711006261
+043       $a l------
+099       $a 77-671
+049       $a CBTr [NRLF] [folio]
+100  1    $a Ransome-Wallis, P. $q (Patrick)
+245  10   $a North Atlantic panorama, 1900-1976 / $c P. Ransome-Wallis.
+260       $a London : $b I. Allan, $c 1977.
+300       $a 192 p., [4] p. of plates : $b ill. (some col.) ; $c 30 cm.
+500       $a CBT: 049 $a HAS 2 BRACKETED STAMPS WITH A BLANK BETWEEN THE TWO - OUTPUT AS A SINGLE 852 $m (03/03).
+500       $a Includes index.
+650   0   $a Ocean liners $x History $y 20th century.
+650   0   $a Passenger ships $x History $y 20th century.
+651   0   $a Atlantic Ocean $x Navigation $x History $y 20th century.
+994       $a 01 $b CBT
+
+Record 89
+LDR  01738cas  2200469 a 450
+001  ocm01162440 
+003  OCoLC
+005  20040211131823.0
+008  750206c19659999enkar1   r    0   a0eng d
+010       $a    48003250  $z sc 79003102 
+040       $a UDI $c UDI $d BTI $d NSD $d DLC $d NST $d RCS $d OCL $d DLC $d IUL $d HUL $d NST $d OCL $d NST $d DLC $d AGL $d SYS $d GUA $d HUL $d WAU $d CUH
+016  7    $a M34940000 $2 DNLM
+022       $a 0076-8502
+042       $a nsdp $a lc
+043       $a aw----- $a ff-----
+060  0    $a DS 49 M627
+070  0    $a DS49 $b .M5
+090       $a DS49 $b .M5
+049       $a CUHQ,CUHR
+210  0    $a Middle East North Afr.
+222   4   $a The Middle East and North Africa
+245  04   $a The Middle East and North Africa.
+260       $a London : $b Europa Publications, $c 1964-
+300       $a v. : $b ill., maps. ; $c 26 cm.
+310       $a Annual
+362  0    $a 11th ed. (1964-65)-
+490  1    $a 2000-  : Regional surveys of the world
+500       $a CUH serial: 590 begins "Lib. Has: "; remove prefix and output remainder in  $3  of 1st 852 (02/04).
+590       $a Lib. Has: 38th ed. (1992),  42nd ed. (1996)-
+651   0   $a Middle East $v Periodicals.
+651   0   $a Middle East $v Directories.
+651   0   $a Africa, North $v Periodicals.
+651   0   $a Africa, North $v Directories.
+710  2    $a Europa Publications Limited.
+740  02   $a Who's who in the Middle East and North Africa.
+780  00   $t Middle East $w (DLC)   99105068 $w (OCoLC)2473588
+830   0   $a Regional surveys of the world
+850       $a CSf $a DLC a DNAL $a DeU $a FU $a IC $a ICRL $a InU $a KMK $a MChB $a MH-Ed $a MH-L $a MH-ME $a MH-P $a MnU $a NNC $a NcD $a NcRS $a NjR $a TxHR $a TxLT $a ViBlbV $a ViU $a WyU
+891  03   $9 853 $8 1 $a +ed. $i (year) $w a
+891  40   $9 863 $8 1.1 $a 11> $i 1964/1965
+936       $a 47th ed. (2001) LIC
+994       $a 02 $b CUH
+
+Record 90
+LDR  01741cas  22004691  450
+001  ocm01087495 
+003  OCoLC
+005  20040211131826.0
+008  741125c19719999enkarz        0   a0eng  
+010       $a    78112271 
+040       $a DLC $c UDI $d SUL $d DLC $d YUS $d OCL $d MUL $d DLC $d NSD $d DLC $d NST $d OCL $d SER $d OCL $d NST $d OCL $d NST $d OCL $d HUL $d NST $d HUL $d NST $d HUL $d CDU $d GUA $d HUL $d WAU $d NLM $d CUH
+016  7    $a 0354200 $2 DNLM
+016  7    $a A16710000 $2 DNLM
+019       $a 274357 $a 1461379 $a 3461483 $a 3829328 $a 1712021 $a 1780743
+022  0    $a 0065-3896 $y 0400-6933
+042       $a lc $a nsdp
+043       $a fb-----
+060  00   $a DT 351 $b A258
+082       $a 916.7
+090       $a DT12.2 $b .A5
+049       $a CUHQ,CUH5
+210  0    $a Afr. south Sahara
+222   0   $a Africa south of the Sahara
+245  00   $a Africa South of the Sahara.
+260       $a London, $b Europa Publications Ltd.
+300       $a v. $b maps. $c 26 cm.
+310       $a Annual
+362  0    $a 1971-
+490  1    $a 2000-  : Regional surveys of the world
+500       $a CUH serial: 590 begins "Lib has"; remove prefix and output remainder in  $3  of 1st 852 (02/04).
+520       $a Vols. for 1971-   include a section entitled "Who's who in Africa South of the Sahara."
+590       $a Lib has 21st ed. (1992),  25th ed. (1996)-
+651   0   $a Africa, Sub-Saharan $v Periodicals.
+651   2   $a Africa, Central.
+710  2    $a Europa Publications Limited.
+730  02   $a Who's who in Africa South of the Sahara.
+830   0   $a Regional surveys of the world.
+850       $a CSf $a CU-SB $a CaOOE $a CaOPAL $a DLC $a FU $a LU $a MCM $a MH-CI $a MH-L $a MH-P $a MH-PA $a NN $a NcRS $a OrU $a TxArU $a TxHR $a ViBlbV $a ViU
+891  20   $9 853 $8 1 $a +ed. $i (year) $w a
+891  41   $9 863 $8 1.1 $a <15> $i <1986>
+936       $a Unknown $a 1979-80 $a 2001
+994       $a 02 $b CUH
+
+Record 91
+LDR  02178cab  22004811  450
+001  ocm01239901 
+003  OCoLC
+005  20040211131833.0
+008  750326c19289999nyuzr         0   a0eng  
+010       $a    28005598 
+040       $a DLC $c UDI $d SUL $d COO $d YUS $d DLC $d NSD $d DLC $d OCL $d SER $d DLC $d OCL $d NST $d OCL $d NST $d DLC $d NSD $d NST $d HUL $d IUL $d SYS $d NLM $d IUL $d CUH
+016  7    $a 03330190R $2 DNLM
+016  7    $a A25950000 $2 DNLM
+019       $a 642371 $a 740575 $a 1480930 $a 9781981
+022       $a 0066-0922
+042       $a lc
+043       $a n-us---
+060  00   $a L 901 $b A512a
+082       $a 378.73/05
+090       $a LA226 $b .A65
+049       $a CUHQ
+222   0   $a American universities and colleges
+245  00   $a American universities and colleges.
+260       $a New York [etc.] $b Walter de Gruyter [etc.]
+300       $a v. $c 23-35 cm.
+310       $a Quadrennial
+362  0    $a [1st]-   ; 1928-
+500       $a CUH serial: 590 begins "Lib. has"; remove prefix and output remainder in 852  $3  (02/04).
+500       $a CUH serial with biblvl = 'b'; output  (02/04).
+500       $a Editors: 1928, D. A. Robertson.--1932, J. H. MacCracken.--1936-40, C. S. Marsh.--1948-   A. J. Brumbaugh.
+550       $a Issued by the American Council on Education.
+580       $a Vols. for 1940-1971 have companion vol.: American junior colleges, ISSN 0065-9029; issue for 1984 has companion vol.: American community, technical, and junior colleges; issues for 1995-    have companion vol.: American community colleges.
+590       $a Lib. has 1997 (15th ed.).
+650   0   $a Universities and colleges $z United States $v Directories.
+650   0   $a Education $z United States $v Directories.
+710  2    $a American Council on Education.
+787  1    $t American junior colleges $x 0065-9029 $w (DLC)  40033685 $w (OCoLC)1480208
+787  1    $t American community, technical, and junior colleges $x 0749-2650 $w (DLC)   92659067 $w (OCoLC)11111453
+787  1    $t American community colleges $x 1079-7599 $w (DLC)   95664195 $w (OCoLC)31509579
+850       $a CSf $a CU-RivA $a CU-RivP $a CtY-L $a DLC $a DNGA $a MChB $a MH-Ed $a MH-L $a MH-SD $a MnU $a NBC $a NN $a NhU $a OrU $a WM
+891  23   $9 853 $8 1 $a +ed. $i (year) $w x
+891  40   $9 863 $8 1.1 $a <+16>- $i <2001>
+994       $a 02 $b CUH
+
+Record 92
+LDR  01381cas  2200373   450
+001  ocm01643569 
+003  OCoLC
+005  20040211131838.0
+008  750921c18999999nju x         0   a1eng d
+010       $z sn 83007027  $z    01031760 
+040       $a MUL $c MUL $d YUS $d NSD $d MQM $d OCL $d MUL $d NSD $d OCL $d NSD $d OCL $d DLC $d NSD $d OCL $d OCLCQ $d CUH
+019       $a 1600410 $a 621043 $a 3676488
+022       $a 0076-6526 $z 0076-6534
+082       $a 615.02
+090       $a RC55 $b .M4
+096       $a WB 100 M54
+049       $a CUHR
+222   4   $a The Merck manual of diagnosis and therapy
+245  04   $a The Merck manual of diagnosis and therapy.
+247  10   $a Merck's manual of the materia medica $g (varies slightly). $f 1899-1940
+260       $a Rahway, N.J., $b Merck, Sharp & Dohme Research Laboratories [etc.]
+300       $c 18 cm.
+362  0    $a [1st]- ed.; 1899-
+500       $a CUH serial: 590 begins "LIBRARY HAS"; remove prefix and output remainder in 850  $3  for 1st loc code (02/04).
+550       $a Issued 1899- by Merck and Company; <1972-> by Merck, Sharp & Dohme Research Laboratories, a division of Merck & Co., inc.
+590       $a LIBRARY HAS 14th ed.(1982)-17th ed.(1999)-
+650   0   $a Diagnosis.
+650   0   $a Therapeutics.
+650   0   $a Medicine $v Handbooks, manuals, etc.
+650   2   $a Diagnosis.
+650   2   $a Drug Therapy.
+710  2    $a Merck & Co.
+710  2    $a Merck Sharp & Dohme.
+994       $a 02 $b CUH
+
+Record 93
+LDR  01141cas  2200265Ia 450
+001  ocm07377690 
+003  OCoLC
+005  20040211131844.0
+008  810430d19531969cau x        s0    1eng d
+040       $a CSA $c CSA $d OCL $d CUH
+090       $a KFC10 $b .B8
+049       $a CUHQ
+110  1    $a California. $b Legislature. $b Joint Legislative Budget Committee. $b Legislative Analyst.
+245  10   $a California interim legislative committees and reports.
+247  10   $a Chronological list of California legislative interim committees and their reports $f 1937/53
+247  10   $a California interim legislative committees and reports $f 1953/1955
+260       $a Sacramento, Calif. : $b The Legislature, $c 1937/53-1967/69.
+300       $a v. ; $c 23 cm.
+362  0    $a 1937/53-1967/69.
+500       $a CUH serial: 590 begins Library lacks; output entire field in 852  $3  (02/04).
+590       $a Library lacks 1955/65-1967/69
+610  10   $a California. $b Legislature $x Committees.
+650   0   $a Legislation $z California $x Indexes.
+785  00   $a California. Legislature. Joint Legos;atove Budget Committee. Legislative Analyst. $t California legislative committees and reports
+994       $a 02 $b CUH
+
+Record 94
+LDR  01607cai  2200385 a 450
+001  ocm49050276 
+003  OCoLC
+005  20060717180440.0
+006  m        a f      
+007  cr anu
+008  020220c19uu9999dcuar  sss   f0    0eng d
+010       $a   2004230162
+040       $a BKL $c BKL $d OCLCQ $d GPO $d OCLCQ $d OCL $d CUH
+037       $b Paper version available from: Bureau of Justice Statistics Clearinghouse, Box 179, Annapolis Junction, MD 20701-0179
+042       $a lcd
+043       $a n-us---
+086  0    $a J 29.20:
+049       $a CUHw
+130  0    $a Compendium of federal justice statistics (Online)
+245  10   $a Compendium of federal justice statistics $h [electronic resource] / $c U.S. Department of Justice, Office of Justice Programs, Bureau of Justice Statistics.
+260       $a [Washington, D.C.] : $b Bureau of Justice Statistics
+310       $a Annual
+500       $a OCLC PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+500       $a Latest issue consulted: 2001.
+516  8    $a PDF, ASCII, and Spreadsheet formats.
+530       $a Also issued in print.
+538       $a System requirements: Zip software to access Zip files (Spreadsheet format only).
+580       $a Some issues also available as part of CD-ROM: Federal justice statistics program (CD-ROM).
+650   0   $a Judicial statistics $z United States.
+650   0   $a Criminal statistics $z United States.
+710  1    $a United States. $b Bureau of Justice Statistics.
+856  40   $u http://purl.access.gpo.gov/GPO/LPS2430
+945       $a STATS FEDS://MN//ED//
+949       $a *recs-b;ov-+;
+994       $a 02 $b CUH
+

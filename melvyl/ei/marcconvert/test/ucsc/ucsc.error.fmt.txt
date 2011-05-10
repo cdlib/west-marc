@@ -1,0 +1,78 @@
+Record 1
+LDR  01257paX  2200313 a 45  
+005  19950323000000.0
+008  940511s1994    aru           000 0 eng  
+010       $a 94017161
+020       $a 1557283656 (alk. paper)
+020       $a 1557283729 (pbk. : alk. paper)
+035       $a (OCoLC)30518158
+040       $a DLC $c DLC $d CUZ
+043       $a n-us---
+049       $a CUZA
+050  00   $a E884 $b .B54 1994
+245  00   $a Bill Clinton on stump, state, and stage : $b the rhetorical road to the White House / $c Stephen A. Smith, editor.
+260       $a Fayetteville : $b University of Arkansas Press, $c 1994.
+300       $a 416 p. ; $c 25 cm.
+500       $a UCSC: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+650   0   $a Presidents $z United States $x Election $y 1992.
+600  10   $a Clinton, Bill, $d 1946- $x Oratory.
+650   2   $a Rhetoric $x Political aspects $z United States $x History $y 20th century.
+650   4   $a Communication in politics $z United States $x History $y 20th century.
+651   0   $a United States $x Politics and government $y 1989-1993.
+690   0   $a White House $z United States.
+700  1    $a Smith, Stephen A., $d 1949-
+852       $a SCB $b mstax $h E884 $i .B54 1994
+901       $a SCB $b 18301538
+998       $a SCB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 18301538
+
+Record 2
+LDR  00980pam  2200277 a 45  
+005  19950307000000.0
+008  940419s1994    oncb     b    001 0 eng d
+010       $a cn 94931290
+020       $a 0802029728 (bound) :
+020       $a 0802077420 (pbk.) :
+035       $a (OCoLC)30668015
+040       $a CaOTU $b eng $c NLC $d NGU $d CUZ
+043       $a n-cn-on
+049       $a CUZA
+100  1    $a Henry, Frances, $d 1931-
+260       $a Toronto : $b University of Toronto Press, $c c1994.
+300       $a xv, 297 p. : $b map ; $c 24 cm.
+500       $a UCSC: RECORD HAS NO 245 FIELD, CREATE ERROR FIELD (04/02).
+650   0   $a Blacks $z Ontario $z Toronto Metropolitan Area.
+650   0   $a Blacks $z Caribbean Area.
+650   0   $a Immigrants $z Ontario $z Toronto Metropolitan Area.
+650   0   $a Racism $z Ontario $z Toronto Metropolitan Area.
+651   0   $a Toronto Metropolitan Area (Ont.) $x Race relations.
+852       $a SCB $b mstax
+901       $a SCB $b 18304746
+998       $a SCB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 18304746
+
+Record 3
+LDR  01198nam  2200313Ia 45  
+005  19950314000000.0
+008  950221m19949999mx a     b    000 0 spa d
+020       $a 9688423939 (obra completa)
+020       $a 9688423947 (t. 1)
+035       $a (OCoLC)32026134
+040       $a AZU $c AZU $d CUZ
+043       $a n-mx---
+049       $a CUZA
+090       $a F1219 $b .H658 1994
+245  00   $a Historia antigua de Mâexico / $c coordinadores, Linda Manzanilla y Leonardo Lâopez Lujâan.
+250       $a 1. ed.
+260       $a Mâexico, D.F. : $b Consejo Nacional para la Cultura y las Artes : $b Universidad Nacional Autâonoma de Mâexico : $b M.A. Porrâua, Grupo Editorial, $c 1994-
+300       $a v. : $b ill. ; $c 23 cm.
+500       $a UCSC: UNKNOWN LOCATION CODE - CREATE ERROR FIELD (04/02).
+650   0   $a Indians of Mexico $x History.
+651   0   $a Mexico $x History $y To 1519.
+650   0   $a Indians of Mexico $x Antiquities.
+651   0   $a Mexico $x Antiquities.
+700  10   $a Manzanilla, Linda.
+700  20   $a Lâopez Lujâan, Leonardo.
+852       $a SCB $b mstax $h F1219 $i .H658 1994
+852       $a SCB $b XXXX $h F1219 $i .H658 1994
+901       $a SCB $b 18319385
+998       $a SCB $b 1003 $c Record contains the unknown location code XXXX $d Release-027-000 $e 18319385
+

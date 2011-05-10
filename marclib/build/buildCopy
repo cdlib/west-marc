@@ -1,0 +1,24 @@
+#! /bin/csh -f
+
+setenv CVS_RSH  ssh
+#setenv CVSROOT :pserver:mreyes@cvs.cdlib.org:/cvs/root
+setenv CVSROOT :pserver:rkl@cvs.cdlib.org:/cvs/root
+cvs login
+
+#set RELEASE = Release-011-000
+set RELEASE = Release-027-000
+
+# Bring in scripts
+rm scripts/runconvert.pl scripts/runConvertWrapper.csh scripts/javaSetup.csh
+cvs export -r $RELEASE -d scripts  marcutil/perl/runconvert.pl
+cvs export -r $RELEASE -d scripts  melvyl/production/converterScripts/runConvertWrapper.csh
+cvs export -r $RELEASE -d scripts  melvyl/production/converterScripts/javaSetup.csh
+
+# Bring in libraries
+cp -p $RELEASE/marc/build/lib/marcconvert.jar		lib/cdl/
+cp -p $RELEASE/marc/build/lib/marcutil.jar		lib/cdl/
+
+# Bring in configuration files
+cp -p $RELEASE/marc/cvsroot/marclib/cdl/log4j.debug.props	conf/
+cp -p $RELEASE/marc/cvsroot/marclib/cdl/log4j.devl.base.props	conf/
+cp -p $RELEASE/marc/cvsroot/marclib/cdl/log4j.prod.base.props	conf/

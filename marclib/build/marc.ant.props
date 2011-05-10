@@ -1,0 +1,20 @@
+# Properties file for marc build
+#
+# The properties in this file should reflect the versions of software
+# that should be used during a build. This file should be maintained
+# someone in the group responsible for doing builds.
+#
+# This version is primarily to demonstate format for that person.
+#
+# Note if this file exists, and is found by the build script, and
+# the tag versions are incorrect the wrong version will be built.
+#
+# You have been warned.
+#------------------------------------------------------------------------------
+
+props.marclib.tag     = Release-027-000
+props.marcutil.tag    = Release-027-000
+props.marcconvert.tag = Release-027-000
+
+# use jdk1.3 compiler (remove if you have jikes)
+build.compiler = modern

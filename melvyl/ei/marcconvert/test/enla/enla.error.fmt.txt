@@ -1,0 +1,35 @@
+Record 1
+LDR  01623nXZ a2200409 a 4500
+001  52269
+003  CLU
+005  20020510143000.0
+007  t
+008  830803s1983    nyu      b     01 0 eng  
+010       $a    83072214 
+020       $a 0872623750 (pbk.)
+035       $a (OCoLC)09829991
+035       $9 07-AAI-4646
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CLU
+050  0    $a TH4581 $b .A427 1983
+082  0    $a 621.48/35$219
+110  2    $a American Society of Civil Engineers.
+260       $a New York, N.Y. : $b American Society of Civil Engineers, $c c1983.
+300       $a xi, 23 p. ; $c 23 cm.
+500       $a UCLA GEN: NONDELETE REC HAS NO 245, UNKNOWN LOC, INVALID TYPE, & INVALID BIBLEVEL; CREATE 4 998 FIELDS; WRITE TO ERROR FILE; WRITE TO OUTPUT FILE
+500       $a TEST REC 15 *****
+500       $a On cover: ASCE standard.
+504       $a Includes bibliographical references and index.
+650   0   $a Nuclear power plants $x Design and construction.
+650   0   $a Civil engineering.
+650   0   $a Earthwork.
+740  01   $a N725 guideline for design and analysis of nuclear safety related earth structures.
+740  01   $a ASCE standard.
+852       $a LAGE $b badbadLocation $h TH4581 $i .A426 1983
+852       $a LAGE $b sr
+901       $a LAGE $b 52269
+998       $a LAGE $b 1003 $c Record contains the unknown location code badbadLocation $d Release-027-000 $e 52269
+998       $a LAGE $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 52269
+998       $a LAGE $b 1005 $c Record contains the invalid bibliographic level Z $d Release-027-000 $e 52269
+998       $a LAGE $b 1002 $c Record contains no 245 field $d Release-027-000 $e 52269
+

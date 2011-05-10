@@ -1,0 +1,6 @@
+Record Rejected: I-12 R-1 no 852 was generated
+Record Rejected: I-20 R-2 Cataloging source not UCSF
+Record Rejected: I-25 R-3 no 852 was generated
+Record Rejected: I-28 R-4 Cataloging source not UCSF
+Record Rejected: I-37 R-5 no 852 was generated
+Record Rejected: I-42 R-6 no 852 was generated

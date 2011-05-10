@@ -1,0 +1,4 @@
+Record Rejected: I-1 R-1 no 852 was generated
+Record Rejected: I-2 R-2 Unknown or incorrect cataloging source
+Record Rejected: I-3 R-3 Unknown or incorrect cataloging source
+Record Rejected: I-4 R-4 no 852 was generated

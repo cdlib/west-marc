@@ -1,0 +1,3 @@
+Record Rejected: (id=1406285) R-1 Record Rejected - more than one bib record
+Record Rejected: (id=4112540) R-2 Record Rejected - no holding record
+Record Rejected: (id=4112541) R-3 Record Rejected - no bib record

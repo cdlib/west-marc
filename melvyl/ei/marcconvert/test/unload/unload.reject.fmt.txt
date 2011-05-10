@@ -1,0 +1,43 @@
+Record 1
+LDR  00515naa  2200157Ia 45  
+LDR  00655naa  2200193Ia 4500
+001  12707771
+008  000901s2000    xx a          000 0 eng d
+245  00   $a $1.3-billion upgrade unveiled for busy Baltimore-Washington.
+300       $a p. 26 : $b col. ill. ; $c 28 cm.
+500   0   $a ITS MONO: NO INCOMING 901 FIELD - REJECT.
+650   0   $a Airport terminals $z Maryland $z Baltimore $x Design and construction.
+902       $a 20000901145624.0
+904       $a 20000901 $b 20000901
+920       $a CBTJ
+930       $c See journal
+
+Record 2
+LDR  00427naa  2200157Ia 45  
+LDR  00732naa  2200181Ia 4500
+001  8088200
+008  921214s1992    xx d          000 0 eng d
+040       $a CU-IT $c CU-IT
+300       $a p. 50-55 : $b charts ; $c 28 cm.
+500   0   $a ITS MONO: NO 902 IN INCOMING RECORD - REJECT.
+650   0   $a Financial statements.
+901       $a O $b 27120328 $c CBT
+904       $a 19921214 $b 19921214
+920       $a CBTJ
+930       $c See journal
+
+Record 3
+LDR  00532nam  2200169Ia 45  
+LDR  00761nam  2200241Ia 4500
+001  778343
+008  820104s1975    abcab        l00000 eng d
+245  00   $a 2 and 3 Avenue couplet / Transportation Department.
+260  0    $a Calgary : $b The Dept., $c 1975.
+300       $a 15 leaves : $b ill., folded maps ; $c 28 cm.
+500       $a ITS MONO: NO 920 IN RECORD - REJECT
+650   0   $a One-way streets $z Alberta $z Calgary.
+901       $a O $b 8036884 $c CBT
+902       $a 19820104000000.0
+904       $a 19820104 $b 19820104
+930       $c 76-1041
+

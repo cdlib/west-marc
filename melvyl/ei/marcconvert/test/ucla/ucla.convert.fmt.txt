@@ -1,0 +1,356 @@
+Record 1
+LDR  02463nas  2200409I  45  
+001  07-AOK-7121
+005  20020101000000.0
+008  750720c19uu9999it mx p      u0   a0ita d
+010       $a    77003851
+022       $a 0001-3218
+035       $a (OCoLC)01460559 (FIRST OF 2 910s move to 035)
+035       $a 112233 (SECOND OF 2 910s move to 2nd 035)
+040       $a MUL $c MUL $d SUL $d YUS $d IUL $d CLU
+041  0    $a itaeng $b fregerspa
+043       $a e-it---
+222  00   $a Abitare
+245  00   $a Abitare.
+260       $a [Milano, $b Editrice Segesta, etc.]
+300       $b ill. $c 32 cm.
+310       $a 10 no. a year
+362  0    $a n. 1-  19  -
+500       $a UCLA: MOVE 902 TO 005; DROP INPUT 005 (05/02).
+500       $a UCLA: MOVE ALL 910s TO 035s
+500       $a UCLA: CREATE 1 852 FOR EACH 920 (3 FOR THIS REC)
+500       $a UCLA: TEST CALL NUM OUTPUT: 1ST LOC SEG MOVE 930 $c TO 852 $j; 2ND SEG HAS NO 930, WILL HAVE NO 852 CALL NUM SUBFLDS; 3RD 852 WILL HAVE $h & $i FROM 930 $a & $b
+500       $a UCLA: CREATE MULTIPLE 852 $k's WHEN MULTIPLE 928s
+500       $a UCLA: CREATE MULTIPLE 852 $m's WHEN MULTIPLE 932s
+500       $a UCLA: FROM 935s: IF IND2=BLANK --> 852 $x; IF IND2=1 --> 852 $x; IF IND2=0 --> 852 $z
+500       $a UCLA: MOVE 590 SHARED PURCHASE NOTE TO $z OF EACH 852
+500       $a UCLA: CONCATENATE MULTIPLE 950s INTO SINGLE 852 $3
+500       $a UCLA: OUTPUT 1ST ONLY THE 1ST 963 OF A LOC SEGMENT AS 852 $p
+690   0   $a Architecture $x Periodicals.
+770  0    $t Mettiamo su casa insieme
+852       $a LAD $b ARTSTAX $m 1st LOC  - 1ST 932 $m 1st LOC - 2ND 932 $m 1st LOC - 3RD 932 $p E0000528877 (output as 852 $p) $x 1st LOC - 1ST 935 (BLANK INDICATORS) $x 1st LOC - 2ND 935 (2ND IND = 1) $z 1st LOC - 3RD 935 (2ND IND = 0) $z SHaRed purchase (OUTPUT AS 852 $Z). $D Subscription cancelled. $O y $3 BN117-318(1973-93) ***Supplement:SPECIAL ISSUE: BNNOV(1983).BNSEP(1984).BNJAN-FEB(1987)BSEP-OCT(1989)BN311(1992).GUIDA ALLA SCELTA E ALL'USO DEI MIGLIORI ELETTRODOMESTICI DA INCASSO:B(1996).ALLE SOGLIE DEL TERZO MILLENNIO:BN372-379(1998) ***Index:B(1982-87).B(1989-91).B(1993-95)
+852       $a LAD $b ARTUJNL $m 2nd LOC, 1ST 932 $m 2nd LOC - 2ND 932 $x 2nd LOC - 935 - 2ND IND = 1 $z SHaRed purchase (OUTPUT AS 852 $Z). $D Currently received $O 4 $3 UN408-410(2001)
+852       $a LAD $b SRLF $h NK2700 $i .B148 $m 3rd LOC, only 932 $p AAAAA528851 $z 3rd LOC - 935 - 2ND IND = 0 $z SHaRed purchase (OUTPUT AS 852 $Z). $3 yr.1977-79 mi.index - no.178-180 yr.1979 mo.OCT-DEC ***Index:B(1977-79)
+901       $a LAD $b 07-AOK-7121
+
+Record 2
+LDR  01519ngm  22003131i 45  
+001  04-AAA-2912
+005  20011206001607.0
+007  mr|naaafm|aeinnnc198208
+007  mr|  b fn|aei  ac198208
+008        s1927    xxu               | eng d
+035       $a (OCoLC)01460559
+035       $a 2ND 910 FIELD
+040       $a CLU $c CLU
+245  00   $a Alice the whaler / $c produced by Walt Disney.
+260       $c 1927.
+440   2   $a Alice in Cartoonland
+440   2   $a A Walt Disney Alice cartoon
+500       $a UCLA: CREATE 007 WHEN $T OF 958 = '007'; WILL BE MULT 007s (05/02).
+500       $a UCLA: CREATE 852 $z FROM 958 WHEN $T OF 958 = '300'
+500       $a OUTPUT 1ST 934 OF EACH LOC SEG TO 852 $3.
+655   7   $a Animation. $2 mim
+655   7   $a Cartoons. $2 mim
+690       $a Alice (Fictitious character : Walt Disney)
+690       $a Silent films.
+700  1    $a Disney, Walt, $d 1901-1966. $e animation
+852       $a LAD $b FTAARSC $h MA123 $i M8503 $m 1st LOC - 1st  932 - move to 852 $m $m 1st LOC - 2nd  932 - move to new $m in 852 $x 1st loc - This 935 has 2nd ind. 1 - move to 852 $x $z 1st loc - This 935 field has 2nd ind. 0 - move to 852 $z $z SHARED PURCHASE. $z 1 reel of 1 (ca. 1000 ft.) : opt sd. ; 35 mm. nitrate trk masterpos. $3 Library has: v.1-44 (1ST LOC, 1ST 934)
+852       $a LAD $b FTAPRES $z SHARED PURCHASE. $z 1 reel of 1 ; 35 mm. nitrate pic masterpos. $3 2ND LOC - 934
+852       $a LAD $b FTAHOLL $m 3rd LOC - 1ST 932 $m 3rd LOC - 2ND 932 $z 3rd loc; 935 with 2nd ind = 0; move to 852 $z $z SHARED PURCHASE. $3 3rd LOC - 934
+901       $a LAD $b 04-AAA-2912
+
+Record 3
+LDR  02848ngm  22003731i 45  
+001  04-AAA-3128
+005  20020102151714.0
+007  vf|bbahom
+007  mr|b aadm|artnnac199103
+007  mr| aaafm|ari  ac
+007  mr|b badn|b tnnac199309
+007  mr|n aadm|b tnnac199309
+007  mr| aaafm|ari  ac
+007  vf|bbahom
+008        s1945    xxu020            |leng d
+040       $a CLU $c CLU
+245  00   $a All star bond rally / $c produced by Twentieth Century-Fox for the Office of War Information and the War Finance Division, Treasury Department, and exhibited by the War Activities Committee ; producer, Fanchâon ; director, Michael Audley ; writer, Don Quinn.
+260       $c 1945.
+500       $c UCLA: X IN POS 33 OF 008, CHG TO FILL CHAR ON OUTPUT BECAUSE 1ST 2 CHARS OF 901 $b ARE '04' (05/02).
+511  1    $a Bob Hope, Betty Grable, Fibber McGee and Molly, Bing Crosby, Harry James, Frank Sinatra, Harpo Marx, Jeanne Crain, Linda Darnell, Carmen Miranda.
+508       $a Photography, James van Trees; effects, Fred Sersen and Rolla Flora; music, Emil Newman; editor, Stanley Robinson.
+655   7   $a Documentaries and factual films and video. $2 mim
+655   7   $a Shorts. $2 mim
+655   7   $a Academy War Film Collection. $2 local
+700  1    $a Audley, Michael. $e direction
+700  1    $a Hope, Bob, $d 1903- $e cast
+852       $a LAD $b FTAARSC $z AVAILABILITY: Study Copy. Available for on site viewing only. NOTES: Second on videocassette with: The Double duty dollar. VA9686 M $z 1 videocassette of 1 (VHS) : sd., b&w ; 1/2 in.
+852       $a LAD $b FTASRLF $z AVAILABILITY: Projection only; no individual viewing.Research Copy. Usually available for on site viewing, some restrictions may apply. A3-450-5 $z 1 reel of 1 (ca. 800 ft.) : opt sd., b&w ; 16 mm. safety print.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Research Copy. Usually available for on site viewing, some restrictions may apply. F101-L1-1 $z 2 reels of 2 (ca. 2000 ft.) : opt sd. ; 35 mm. nitrate print.
+852       $a LAD $b FTASRLF $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. A3-444-3 $z 1 reel of 1 (ca. 600 ft.) : b&w ; 16 mm. safety pic neg.
+852       $a LAD $b FTASRLF $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. A3-444-3 $z 1 reel of 1 (ca. 600 ft.) : opt sd. ; 16 mm. safety trk neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Research Copy. Usually available for on site viewing, some restrictions may apply. NOTES: Studio print. CONDITION: Excellent condition (Melnitz cond. report, 2/28/1989). F107-L5-3 $z 1 reel of 1 (ca. 2000 ft.) : opt sd. ; 35 mm. nitrate print.
+852       $a LAD $b FTAARSC $z AVAILABILITY: Study copy. Available for onsite viewing only. $z 1 videocassette of 1 (VHS) : sd., b&w ; 1/2 in.
+901       $a LAD $b 04-AAA-3128
+
+Record 4
+LDR  00692nas  2200193I  45  
+001  07-RDV-9999
+005  20020202000000.0
+008  750720c19uu9999it mx p      u0   a0ita d
+035       $a (OCoLC)55560559
+245  00   $a Alien invasion of earth.
+260       $a [Rome, $b Editrice Segesta, etc.]
+300       $b ill. $c 12 cm.
+310       $a 25 no. a year
+362  0    $a n. 1-  19  -
+500       $a UCLA: 1ST 920 LOC SEG IS BRIEF; TAKE NO DATA FOR 1ST 852 FROM 2ND 920 LOC SEGMENT (05/02).
+690   0   $a Alien invasions $x Periodicals.
+852       $a LAD $b ARTSTAX
+852       $a LAD $b ARTUJNL $m 2nd LOC LOC, only 932 $p AAAAA528851 $x 2ND LOC - 935 - 2ND IND = 1 $D No longer published. $O x $3 UN408-410(2001)
+901       $a LAD $b 07-RDV-9999
+
+Record 5
+LDR  00601dXZ  22001691i 45  
+001  04-AAF-6084
+005  20020510143000.0
+008        r19661962xxu080            |leng d
+040       $a CLU $c CLU
+130  0    $a Intruder (Motion picture : 1962)
+260       $c 1966.
+500       $a UCLA: DELETE REC HAS NO 902, NO 920, NO 245, INVALID TYPE & BIBLEVEL; DO NOT CREATE ERROR FIELDS; DO CREATE 005 FROM FILEDATE (05/02).
+511  1    $a William Shatner, Frank Maxwell, Beverly Lunsford.
+508       $a Photography, Taylor Byars.
+655   7   $a Features. $2 mim
+700  1    $a Corman, Roger, $d 1926- $e direction
+901       $a LAD $b 04-AAF-6084
+
+Record 6
+LDR  01204n=m  2200337 a 45  
+001  07-ARY-2500
+005  20020205094917.0
+008  981204s1998    gt a     b    001 0aeng  
+010       $a    98227797
+035       $a (OCoLC)40595496
+040       $a DLC $c DLC $d CLU
+020       $a 9992244003
+043       $a nc-----
+050  00   $a E57.S66 $b A3 1998
+082  00   $a 972.805/1/092 $a B $2 21
+049       $a CLUr $l L0080716103
+100  1    $a Shook, Edwin M.
+245  10   $a Incidents in the life of Maya archaelogist as told to Winifred Veronda / $c Edwin M. Shook
+250       $a 1. ed.
+260       $a Guatemala : $b Southwestern Academy Press, $c 1998.
+300       $a 302 p. : $b ill. ; $c 25 cm.
+500       $a UCLA: INVALID LEADER TYPE: CREATE ERROR FIELD (05/02).
+504       $a Includes bibliographical references and index.
+600  10   $a Shook, Edwin M.
+650   0   $a Archaeologists $z Central America $v Biography.
+650   0   $a Anthropologists $z Central America $v Biography.
+650   0   $a Mayas $x Antiquities.
+651   0   $a Central America $x Antiquities.
+852       $a LAD $b URLSTAX $h E57.S66 $i A3 1998 $m URLSTAX-STAX
+901       $a LAD $b 07-ARY-2500
+998       $a LAD $b 1004 $c Record contains the invalid leader type = $d Release-013-000 $e 07-ARY-2500
+
+Record 7
+LDR  00972na=  2200301 a 45  
+001  07-ARG-2499
+005  20000705094917.0
+008  981204s1998    gt a     b    001 0aeng  
+010       $a    98228808
+035       $a (OCoLC)40595496
+040       $a DLC $c DLC $d CLU
+020       $a 9872244003
+043       $a nc-----
+050  00   $a A57.S66 $b A3 1998
+082  00   $a 872.805/1/092 $a B $2 21
+049       $a CLUr $l L0080716103
+100  1    $a Estey, Dale E.
+245  12   $a A lost tale / $c Dale E. Estey
+250       $a 1st ed.
+260       $a New York : $b Pergamon Press, $c 1998.
+300       $a 302 p. : $b ill. ; $c 25 cm.
+500       $a UCLA: INVALID LEADER BIBLVL: CREATE ERROR FIELD (05/02).
+504       $a Includes bibliographical references and index.
+600  10   $a Estey, Dale E.
+650   0   $a Unicorns $x Fiction.
+852       $a LAD $b URLSTAX $h A57.S66 $i A3 1998 $m URLSTAX-STAX
+901       $a LAD $b 07-ARG-2499
+998       $a LAD $b 1005 $c Record contains the invalid bibliographic level = $d Release-013-000 $e 07-ARG-2499
+
+Record 8
+LDR  00867nam  2200253Ia 45  
+001  07-ARY-2550
+005  20020510143000.0
+008  000111s1998    xx            000 f eng d
+035       $a (OCoLC)43252454
+040       $a NYP $c NYP $d CLU
+020       $a 1874509557
+043       $a n-us-ny
+090       $a PS3558.A832 $b B56 1998
+049       $a CLUR $l L0079564217
+100  1    $a Hayes, Teddy, $c dramatist.
+245  10   $a Blood red blues : $b a Devil Barnett detective novel / $c [Teddy Hayes].
+260       $a London : $b X Press, $c c1998.
+300       $a 188 p. ; $c 20 cm.
+500       $a UCLA: NO 902; DROP 005; CREATE NEW 005 FROM FILEDATE (05/02).
+650   0   $a Afro-American detectives $v Fiction.
+651   0   $a Harlem (New York, N.Y.) $v Fiction.
+650   0   $a Afro-Americans $z New York (State) $z New York $v Fiction.
+852       $a LAD $b URLSTAX $h PS3558.A832 $i B56 1998 $m URLSTAX-STAX
+901       $a LAD $b 07-ARY-2550
+
+Record 9
+LDR  11565ngm  22008651i 45  
+001  04-AAL-4396
+005  20020128124322.0
+007  vf|cbahom
+007  mr|c aad |art  ac198710
+007  mr|caaafm|artacac198802
+007  mr|caaafm|artacac198803
+007  vf|ccahrm
+007  vr|ceahpm
+007  vf| cahr
+007  mr|cabafn|b ij ac199001
+007  mr|cabafn|b ii ac199001
+007  mr|cabafn|aetk ac198902
+007  mr|cabafn|aeti ac198902
+007  mr|cabafn|aetj ac198902
+007  mr|naaafm|aetnnac198902
+007  mr|naaafm|b tnnac198902
+007  mr|cabafn|aete ac198902
+007  mr|ca  fn|artacan199308
+007  mr|ca  fn|bdtacan199308
+007  mr|cabafn|b ik ac198910
+007  mr|cabafn|b ii ac198910
+007  mr|cabafn|b ij ac198910
+007  mr|cabafn|b ik ac199001
+007  mr|n aafm|a tnnac199702
+007  mr||aaadm|art||ac198209
+007  mr|caaaf |art  ac199811
+008        s1949    xxu103            |leng d
+040       $a CLU $c CLU
+245  00   $a She wore a yellow ribbon / $c RKO-Argosy ; producer, John Ford, Merian C. Cooper ; associate producer, Lowell Farrell ; director, John Ford ; screenplay, Frank Nugent, Laurence Stallings ; from a story by James Warner Beulah.
+260       $c 1949.
+500       $a UCLA: FTV REC HAS 24 LOC SEGS; TEST LONG REC OUTPUT (05/02) (05/02).
+500       $a Western; feature.
+500       $a Author, James Warner Beulah.
+500       $a Credits were supplied from: Film daily yearbook, 1950.
+500       $a Playing time on release was 103 min., according to: Film daily yearbook, 1950.
+508       $a Art director, James Basevi; musical director, C. Bakaleinikoff; photography, Winton Hoch; editor, Jack Murray.
+511  1    $a John Wayne, Joanne Dru, John Agar, Ben Johnson, Harry Carey, Jr., Victor McLaglen, Mildred Natwick, George O'Brien, Arthur Shields, Harry Woods, Chief Big Tree, Noble Johnson, Cliff Lyons, Tom Tyler, Michael Dugan, Mickey Simpson, Frank McGrath, Don Summer, Fred Libbey, Jack Pennick, Billy Jones, Bill Goettinger, Fred Graham, Fred Kennedy, Rudy Bowman, Post Parks, Ray Hyke, Lee Bradley.
+518       $a Filmed on location in Monument Valley.
+610  10   $a United States. $b Army. $b Cavalry $v Drama.
+651   0   $a Monument Valley (Ariz. and Utah)
+655   7   $a Westerns. $2 mim
+655   7   $a Features. $2 mim
+655   7   $a UCLA preservation. $2 local
+700  1    $a Ford, John, $d 1894-1973. $e direction
+700  1    $a Wayne, John, $d 1907-1979. $e cast
+852       $a LAD $b FTAARSC $z AVAILABILITY: Study Copy. Available for on site viewing only. REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassettes (M41540), June, 1989. Reproduction for preservation purposes permitted by öööööö, 1989 [?]. $z 1 videocassette of 1 (VHS) (103 min.) : sd., col. ; 1/2 in.
+852       $a LAD $b FTASRLF $p FH0000011957 $z AVAILABILITY: Research Copy. Usually available for on site viewing, some restrictions may apply. $z 3 reels of 3 (ca. 4800 ft.) : opt sd., col. ; 16 mm. safety print.
+852       $a LAD $b FTASRLF $p FB0000214718 $z CONDITION: Good condition: slight perf. damage, r1,3,5; occasional splices, r1-3; (Melnitz cond. report, 7/24/1990). Print has been mounted for platter projection (fh, 6/24/1992). AVAILABILITY: Research copy. Usually available for onsite viewing; some restrictions may apply. REPRODUCTION: Reproduced by UCLA Film and Television Archive from [?], Feb. 1988. Reproduction for preservation purposes permitted by [?], 1988. $z 6 reels of 6 (103 min.) (ca. 12000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAD $b FTASRLF $p FB0000163170 $z CONDITION: Excellent condition, Melnitz cond. report, 8/4/1994. AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by the UCLA Film and Television Archive from [?]. Reproduction for preservation purposes permitted by [?], 1988. Clearance: Rights have reverted to Batjac Productions (per information received from Warner Bros., Aug., 2000). Booked 8/4/1994, 1409 (Archive). $z 6 reels of 6 (103 min.) (ca. 12000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAD $b FTASRLF $p VA0000142760 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. REPRODUCTION: Reproduced from 35 mm. select print (M35368) by Archive Commercial Services, June, 1989. Reproduction for preservation purposes permitted by [?], 1989. $z 2 videocassettes of 2 (103 min.) : sd., col. ; 3/4 in.
+852       $a LAD $b FTASRLF $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. REPRODUCTION: Reproduced by UCLA Film and Television Archive at the Post Group from[?], Aug. 1994. Reproduction for preservation purposes permitted by [?], Mar. 1988. LOCATION: A4-35-3-4. $z 2 videoreels of 2 (Type C) (104 min.) : sd., col. ; 1 in.
+852       $a LAD $b FTASRLF $p VA0000138404 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. $z 2 videocassettes of 2 : sd. ; 3/4 in.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: G77-R26-3 $z 6 reels of 6 (ca. 12000 ft.) : magenta ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: G77-R26-2 $z 6 reels of 6 (ca. 12000 ft.) : cyan ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTAPRES $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. yellow nitrate pic neg (M42945). Reproduction for preservation purposes permitted by [?]ööööööööö, 1988. PRESERVATION: "Pres. protection master." $z 11 reels of 11 (103 min.) (ca. 11000 ft.) : yellow ; 35 mm. safety prsv pic masterpos.
+852       $a LAD $b FTAPRES $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. nitrate cyan pic neg (M42946), Feb. 1989. Reproduction for preservation purposes permitted by [?]ööööööööö, 1988. PRESERVATION: "Pres. protection master." $z 11 reels of 11 (103 min.) (ca. 11000 ft.) : cyan ; 35 mm. safety prsv pic masterpos.
+852       $a LAD $b FTAPRES $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. PRESERVATION: "Pres. protection master." REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. nitrate magenta pic neg (M42947), Feb. 1989. Reproduction for preservation purposes permitted by [?]öööööö, 1988. $z 11 reels of 11 (103 min.) (ca. 11000 ft.) : magenta ; 35 mm. safety prsv pic masterpos.
+852       $a LAD $b FTAPRES $z PART/ELEMENT: "Domestic track." AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from [?], Feb. 1989öööö. Reproduction for preservation purposes permitted by [?]öööööö, 1988. NOTES: On r6 with trailer. $z 6 reels of 6 (103 min.) (ca. 11000 ft.) : opt sd. ; 35 mm. safety prsv dbl edge trk masterpos.
+852       $a LAD $b FTAPRES $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from [?], FEb. 1989öööö. Reproduction for preservation purposes permitted by [?]öööööö, 1988. $z 6 reels of 6 (103 min.) (ca. 12000 ft.) : opt sd. ; 35 mm. safety prsv trk neg.
+852       $a LAD $b FTAPRES $z PART/ELEMENT: Unidentified color separation sections: yellow, cyan and magenta. AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from [?], Feb. 1989ööö. Reproduction for preservation purposes permitted by [?]öööööö, 1988. NOTES: 3 rolls in one can. $z 1 can of 1 (ca. 300 ft.) : 3-col. ; 35 mm. safety prsv pic masterpos.
+852       $a LAD $b FTAPRES $z PART/ELEMENT: Confirmation test print. AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. safety prsv dupe pic neg (XFE4367 M), Aug. 1993. Reproduction for preservation purposes permitted by [?]. $z 1 reel of 1 (3 min.) (199 ft.) : MOS, EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAD $b FTAPRES $z PART/ELEMENT: Confirmation test internegative. AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. safety prsv pic masterpos, 3 complete col. strips (unidentified reels from XFE85 - 117 M), Aug. 1993. Reproduction for preservation purposes permitted by [?]. $z 1 reel of 1 (3 min.) (199 ft.) : MOS, EC (col.), low-fade ; 35 mm. safety prsv dupe pic neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: D36-L2-25. $z 11 reels of 11 (ca. 11000 ft.) : yellow ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: D38-L1-24 $z 11 reels of 11 (ca. 11000 ft.) : cyan ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: D36-R2-1. $z 11 reels of 11 (ca. 11000 ft.) : magenta ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTAHOLL $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. LOCATION: G77-R26-1 $z 6 reels of 6 (ca. 11000 ft.) : yellow ; 35 mm. nitrate pic neg.
+852       $a LAD $b FTASRLF $p FA0000259309 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Reserved for preservation; no use. ADDITIONAL PHYSICAL DESCRIPTION: 7 reels mounted on 6, with r5-6 (r3AB) mounted on 1 reel. Can 1: R1 1A + 5B; Can 2: R1 1B + 5A; Can 3: R1 2A + 4B; Can 4: R1 2B + 6A/B; Can 5: R1 3A + 3B; Can 6: R1 4A. $z 6 reels of 6 (ca. 6000 ft.) : opt sd. ; 35 mm. safety dbl edge trk pos.
+852       $a LAD $b FTASRLF $p FH0000229948 $z AVAILABILITY: Archival copy. Not available for viewing; contact the Research and Study Center for further information. Conservation copy. $z 3 reels of 3 (ca. 4800 ft.) : opt sd. ; 16 mm. safety print.
+852       $a LAD $b FTASRLF $z CONDITION: Bad print; r3 (3AB) and r5 (5AB) incomplete. AVAILABILITY: Preservation Department use only. REPRODUCTION: Reproduced by the UCLA Film and Television Archive from 35 mm. nitrate pic negs (M42945, M42946, M42947) and safety prsv re-recorded trk neg (XFG109 -113 M). Reproduction for preservation purposes, 1998? ADDITIONAL PHYSICAL DESCRIPTION: r1=r1AB, r2=r2AB, r3=r3AB, r4=r4AB, r5=r5AB, r6=r6AB. LOCATION: A16-522. $z 6 reels of 6 (ca. 12000 ft.) : opt sd., col. ; 35 mm. safety print.
+901       $a LAD $b 04-AAL-4396
+
+Record 10
+LDR  01441nam  22003618a 45  
+001  07-AAA-0777
+005  20020313183209.0
+008  900207s1990    cau      b     01 0 eng  
+010       $a    90008131
+020       $a 0941690385 :$26.95
+020       $a 0941690393 (pbk.) :$13.95
+035       $a (OCoLC)21117587
+040       $a DLC $c DLC $d CLU
+043       $a n-us-ca
+050  00   $a F869.L89 $b T84 1990
+245  00   $a 20th century Los Angeles : $b power, promotion, and social conflict / $c edited by Norman M. Klein and Martin J. Schiesl.
+260       $a Claremont, Calif. : $b Regina Books, $c c1990.
+300       $a 240 p. ; $c 23 cm.
+500       $a UCLA: LAST 920 LOC CODE IS UNKNOWN: CREATE ERROR FIELD (05/02).
+650   0   $a Minorities $z California $z Los Angeles $x Social conditions.
+651   0   $a Los Angeles (Calif.) $x Social conditions.
+651   0   $a Los Angeles (Calif.) $x Politics and government.
+700  1    $a Klein, Norman M., $d 1945-
+700  1    $a Schiesl, Martin J.
+740  01   $a Twentieth century Los Angeles.
+852       $a LAD $b CSRSTAX $h F869.L89 $i T84 1990 $m CSRSTAX-STAX
+852       $a LAD $b COLSTAX $h F869.L89 $i T84 1990
+852       $a LAD $b SRLF $p A0011046992
+852       $a LAD $b URLSCRA $h F869.L89 $i T84 1990 $m URLSCRA-STAX
+852       $a LAD $b URLSTAX $h F869.L89 $i T84 1990 $m URLSTAX-STAX
+852       $a LAD $b RMOON $h F869.L89 $i T84 1990
+901       $a LAD $b 07-AAA-0777
+998       $a LAD $b 1003 $c Record contains the unknown location code RMOON $d Release-013-000 $e 07-AAA-0777
+
+Record 11
+LDR  01189nam  2200313 a 45  
+001  07-AAA-0827
+005  19910720142657.0
+008  880726s1987    cl a     b     00 0dspa  
+010       $a    88165874
+035       $a (OCoLC)18961380
+040       $a DLC $c DLC $d CLU
+043       $a s-cl---
+050  0    $a F3100 $b .A17 1987
+260       $a Chile : $b Comitâe de Defensa de los Derechos del Pueblo, $c 1987.
+300       $a 107 p. : $b ill. ; $c 22 cm.
+440   0   $a Colecciâon Patricio Sobarzo ; $v v. 4
+500       $a UCLA: NO 245 FIELD, OUTPUT 998 ERROR FIELD (05/02).
+504       $a Includes bibliographical references.
+610  10   $a Chile. $b Central Nacional de Informaciones.
+650   0   $a Political crimes and offenses $z Chile $x History $y 20th century.
+650   0   $a Violence $z Chile $x History $y 20th century.
+650   0   $a Civil rights $z Chile $x History $y 20th century.
+651   0   $a Chile $x Politics and government $y 1973-
+710  2    $a Comitâe de Defensa de los Derechos del Pueblo (Chile)
+740  01   $a Veintitrâes de agosto 1984.
+740  01   $a 23 de agosto de 1984.
+852       $a LAD $b SRLF $p AA0007761562
+901       $a LAD $b 07-AAA-0827
+998       $a LAD $b 1002 $c Record contains no 245 field $d Release-013-000 $e 07-AAA-0827
+
+Record 12
+LDR  01103nam  2200253Ia 45  
+001  07-AAA-0508
+005  20020815102029.0
+008  880809s1987    cc acf         00 0 eng d
+035       $a (OCoLC)18334269
+040       $a CUF $c CUF
+043       $a a-cc---
+245  04   $a The 13th party congress & China's reforms.
+260       $a Beijing, China : $b Beijing review : $b Distributed by China International Book Trading Corporation, $c 1987.
+300       $a 113 p., [12] p. of plates : $b ill., ports. ; $c 19 cm.
+440   0   $a China in focus
+500       $a UCLA: 1ST LOC = 'URLSTAX', 2ND & 3RD LOCS ARE 'ARTSPCSR' AND 'URLRFSRL' - OUTPUT 1 852 FOR 'URLSTAX' (08/02).
+610  20   $a Zhongguo gong chan dang. $b Ch°èuan kuo tai piao ta hui $n (13th : $d 1987 : $c Peking)
+651   0   $a China $x Politics and government $y 1976-
+651   0   $a China $x Economic policy $y 1976-
+740  41   $a The 13th party congress and China's reforms.
+740  41   $a The thirteenth party congress & China's reforms.
+740  41   $a The thirteenth party congress and China's reforms.
+852       $a LAD $b URLSTAX $h DS779.26 $i .T48 1987 $m URLSTAX-STAX
+901       $a LAD $b 07-AAA-0508
+

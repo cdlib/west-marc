@@ -1,0 +1,37 @@
+Record 1
+LDR  00914nam  2200205 a 4500
+001  .c2746670
+003  CUNER
+004  .b54612214
+005  20100203155831
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 70273422 $b OCoLC
+022  0    $a 1932-4855 $y 0894-8631 $2 1
+035       $a (OCoLC)70273422
+500       $a 920 FIELDS FOR UCB AND UCSF ONLY; 1ST 856 RESTRICTED TO UCB ONLY - OUTPUT FOR UCB ONLY (02/10)
+500       $a 2ND 856 RESTRICTED TO UC CAMPUSES - OUTPUT FOR BOTH UCB AND UCSF
+500       $a 3RD 856 IS OPEN RESOURCE - OUTPUT FOR BOTH UCB AND UCSF
+852       $a CUNER $b CUNA
+856  41   $3 Selected article text for Jun 2006- [Latest 12 months not available online]. $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1932-4855
+856  41   $3 v.41:no.5(2009:Sept./Oct.)- $u http://purl.access.gpo.gov/GPO/LPS1602 $x UC open access
+
+Record 2
+LDR  01071nam  2200217 a 4500
+001  .c2746670
+003  CUYER
+004  .b54612214
+005  20100203155831
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 70273422 $b OCoLC
+022  0    $a 1932-4855 $y 0894-8631 $2 1
+035       $a (OCoLC)70273422
+500       $a 920 FIELDS FOR UCB AND UCSF ONLY; 1ST 856 RESTRICTED TO UCB ONLY - OUTPUT FOR UCB ONLY (02/10)
+500       $a 2ND 856 RESTRICTED TO UC CAMPUSES - OUTPUT FOR BOTH UCB AND UCSF
+500       $a 3RD 856 IS OPEN RESOURCE - OUTPUT FOR BOTH UCB AND UCSF
+852       $a CUYER $b CUYA
+856  41   $3 v.41:no.3(2006:summer)- $z Project MUSE. Restricted to UCB $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1932-4855
+856  41   $3 Selected article text for Jun 2006- [Latest 12 months not available online]. $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1932-4855
+856  41   $3 v.41:no.5(2009:Sept./Oct.)- $u http://purl.access.gpo.gov/GPO/LPS1602 $x UC open access
+

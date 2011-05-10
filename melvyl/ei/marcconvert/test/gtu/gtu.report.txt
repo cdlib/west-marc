@@ -1,0 +1,48 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:35
+End:   2009-7-10 15:46:36
+
+------------------------------------------
+Run Statistics:
+          47 - Records Input
+          42 - Records Output
+           0 - Records Skipped
+           5 - Records Rejected
+           4 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  Cataloging source not GTU
+               1 occurrence:  Input lacks 901 $b
+               3 occurrences: no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      ii.gtu.benchjav.mrc
+  outfile:     gtu.convert.mrc
+  reportfile:  gtu.report.txt
+  errorfile:   gtu.error.mrc
+  rejectfile:  gtu.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

@@ -1,0 +1,94 @@
+Record 1
+LDR  02151nas  2200469   45  
+005  20010615000000.0
+008  850117m19279999mnu           00010 engm 
+010       $a 41005629 //r855
+035       $a (OCoLC)8878489
+040       $a DLC $c DLC $d m.c. $d CUS
+043       $a n-us---
+049       $a CUSD
+050  0    $a KF62 1927 $b .W45
+090       $a KF62 $b .W4
+098       $n ov=.b1902064
+110  10   $a United States
+240  10   $a Laws, etc. (U.S. code : 1982 ed.)
+245  10   $a United States code annotated
+260  0    $a St. Paul, $b West Pub. Co., $c 1927-
+300       $a v. in $c 25 cm
+500       $a UCSD PE: MULTIPLE 850 FIELDS WITH DUP LOCS. OUTPUT UNIQUE LOCS - 1,2,3,4,7,8,9,11. DROP 5,6,10. (02/02)
+500       $a UCSD PE: 1ST 850: NO 850 $d; MOVE 850 $h TO 852 $h & 850 $i TO 852 $i.
+500       $a UCSD PE: 2ND 850: HAS NO $d; HAS $h BUT NO $i; MOVE $h TO 852 $j.
+500       $a UCSD PE: 3RD 850: HAS $d; HAS 850 $h AND $i; MOVE $d ONLY TO 852 $j.
+500       $a UCSD PE: 4TH 850: HAS NO $d, NO $h, NO $i; DO NOT OUTPUT CALL NUMBER.
+500       $a UCSD PE: 7TH 850: HAS NO $d, NO $h, HAS $i, DO NOT OUTPUT CALL NUMBER.
+500       $a UCSD PE: 11TH 850: UNKNOWN LOC CODE; CREATE 998 WITH ERR MSG (06/02).
+650   0   $a Law $z United States
+710  20   $a West Publishing Company
+710  20   $a Edward Thompson Company
+710  11   $a United States. $t Constitution
+740  01   $a Constitution of the United States annotated
+852       $a SDB $b ca $h move to 852$h $i move to 852 $i $3 v.1-4;  1990- $D Currently received $O a
+852       $a SDB $b cph $j move to 852$j $3 v.6-9 $D Not currently received $O i
+852       $a SDB $b sr $j move to 852$j(2) $3 v.13-16 $D Not currently received $O t
+852       $a SDB $b cra $m Latest in Ref $3 1957- (1957- ) $D Currently received $O a
+852       $a SDB $b er $3 v.21-40 $D Currently received $O a
+852       $a SDB $b rr $j Ref Z 1215 P977 $3 1987-1988 (1987-1988) $O q
+852       $a SDB $b ck $j Ref Z 1215 P977 $3 1987-1988 (1987-1988)
+852       $a SDB $b XX $j Ref Z 1215 P977 $m LIB. RETAINS LATEST ONLY $3 1990/91- (1990/91- ) $D Not currently received $O t
+901       $a SDB $b 18216468
+998       $a SDB $b 1003 $c Record contains the unknown location code XX $d Release-027-000 $e 18216468
+
+Record 2
+LDR  01544nXX  2200373 a 45  
+005  20011218000000.0
+008  920513s1992    moua     b    001 0 eng c
+010       $a 92018767
+015       $a GB92-48577
+019       $a 27147779
+019       $a 27217457
+020       $a 1556643721
+035       $a (OCoLC)25877287
+040       $a DNLM/DLC $c DLC $d NLM $d UKM
+050  00   $a RC394.W63 $b C46 1992
+060  0    $a WV 272 $b C3973 1992
+069  0    $a 9206773
+260       $a St. Louis : $b Mosby Year Book, $c c1992
+300       $a x, 210 p. : $b ill. ; $c 28 cm
+500       $a UCSD: NO 245 FIELD, INVALID TYPE AND BIBLVL, UNKNOWN LOC CODE IN 920; TREAT AS MONO; CREATE 4 998 FIELDS, OUTPUT ERROR RECORD (12/05).
+650   0   $a Word deafness
+650   2   $a Auditory Diseases, Central $x complications
+650   2   $a Auditory Diseases, Central $x diagnosis
+650   2   $a Auditory Diseases, Central $x therapy
+700  1    $a Central auditory processing : $b a transdisciplinary view / $c [edited by] Jack Katz, Nancy A. Stecker, Donald Henderson
+700  1    $a Katz, Jack
+700  1    $a Stecker, Nancy Austin
+700  1    $a Henderson, Donald, $d 1938-
+852       $a SDB $b XXX $h RC394.W63 $i C46 1992
+901       $a SDB $b 33582269
+998       $a SDB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 33582269
+998       $a SDB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 33582269
+998       $a SDB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 33582269
+998       $a SDB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 33582269
+
+Record 3
+LDR  00965nas  2200253Ia 4500
+005  20051110000000.0
+008  770921c19739999enktr p       0   a0eng u
+035       $a (OCoLC)3284084
+040       $c MUL $d CUS
+090       $a PR1170 $b .G7
+098       $n ov=.b1724307
+260       $a Hanley, Stoke-on-Trent, England : $b Plan B Press, $c 1973-
+300       $a v. : $b ill. ; $c 30 cm
+310       $a Three times a year
+362  0    $a no. 1 (Apr. 1973)-
+500       $a UCSD PE: NO 245 FIELD, UNKNOWN LOC CODE - CREATE 2 998 ERROR FIELDS (12/05).
+650   0   $a English poetry $y 20th century $v Periodicals
+700  1    $a Symondson, Bill
+700  1    $a Philpott, Peter, $d 1949-
+793  0    $a Archive for New Poetry
+852       $a SDB $b XXX $j PR 1170 G7 $3 U1,U4,U6-7 (1973-MAY1979) $D Not currently received $O i
+901       $a SDB $b 2332630x
+998       $a SDB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 2332630x
+998       $a SDB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 2332630x
+

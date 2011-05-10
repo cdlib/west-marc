@@ -1,0 +1,315 @@
+Record 1
+LDR  00759nam  2200229Ia 45  
+005  19950306000000.0
+008  950217s1994    ctu      b    001 0 eng d
+010       $a 94060806
+020       $a 0936285230
+035       $a (OCoLC)32009005
+040       $a NED $c NED $d CUZ
+043       $a n-us---
+049       $a CUZA
+090       $a E872 $b .M238 1994
+100  1    $a Maga, Timothy P., $d 1952-
+245  14   $a The world of Jimmy Carter : $b U.S. foreign policy, 1977-1981 / $c Timothy P. Maga.
+260       $a West Haven, Conn. : $b University of New Haven Press, $c c1994.
+300       $a xi, 189 p. ; $c 21 cm.
+500       $a UCSC MONO: NO 920 FLD (NO LOC): NO 852 CREATED, REJECT (02/06).
+600  10   $a Carter, Jimmy, $d 1924-
+651   0   $a United States $x Foreign relations $y 1977-1981.
+901       $a SCB $b 18300923
+
+Record 2
+LDR  00895pam  2200253 a 45  
+005  19950322000000.0
+008  940518s1995    njub     b    001 0 eng  
+010       $a 94012972
+020       $a 1568212429
+035       $a (OCoLC)30547949
+040       $a DLC $c DLC $d CUZ
+043       $a n-us-ny
+049       $a CUZA
+050  00   $a F128.9.J5 $b K76 1995
+100  1    $a Kranzler, George, $d 1916-
+245  10   $a Hasidic Williamsburg : $b a contemporary American Hasidic community / $c George Kranzler.
+260       $a Northvale, N.J. : $b Jason Aronson, $c c1995.
+300       $a xvi, 331 p : $b maps ; $c 24 cm.
+500       $a UCSC MONO: NO 920 $l (NO LOC): NO 852 CREATED, REJECT (02/06).
+650   0   $a Jews $z New York (N.Y.) $x Social conditions.
+650   0   $a Hasidim $z New York (N.Y.) $x Social conditions.
+651   0   $a Williamsburg (New York, N.Y.) $x Social conditions.
+651   0   $a New York (N.Y.) $x Social conditions.
+901       $a SCB $b 18307292
+
+Record 3
+LDR  00924pam  2200289 a 45  
+001  30029344
+003  OCoLC
+005  19940430141203.0
+008  940302s1994    nyua     b    001 0 eng  
+010       $a 94009827
+020       $a 0815626266 (cloth : alk. paper)
+020       $a 0815626274 (alk. paper)
+040       $a DLC $c DLC $d CUZ
+043       $a n-us-ny
+049       $a CUZA
+090       $a      
+100  1    $a Grover, Kathryn, $d 1953-
+245  10   $a Make a way somehow : $b African-American life in a northern community, 1790-1965 / $c Kathryn Grover.
+250       $a 1st ed.
+260       $a Syracuse, N.Y. : $b Syracuse University Press, $c 1994.
+300       $a 321 p. : $b ill. ; $c 25 cm.
+500       $a UCSC: REC HAS NO 901, SOURCE CAN'T BE DETERMINED - REJECT (04/02).
+650   0   $a Afro-Americans $z New York (State) $z Geneva $x History.
+651   0   $a Geneva (N.Y.) $x Race relations.
+902       $a 950321
+999       $b 1 $c 950303 $d m $e a $f - $g 0
+920       $l mstax
+
+Record 4
+LDR  00822nas  2200229Ia 45  
+005  19950421000000.0
+008  850702d17811783nyuuu n a     0   a0eng d
+035       $a (OCoLC)12227186
+040       $a VA@ $c VA@ $d CUZ
+049       $a CUZF
+099       $a Microfilm
+099       $a Microfilm
+245  04   $a The Pennsylvania evening post, and public advertiser $h [microform]
+260       $a Philadelphia [Pa.] : $b B. Towne, $c 1781-1783.
+300       $a 3 v.
+310       $a Semiweekly.
+362  0    $a Vol. 7, no. 760 (Aug. 3, 1781)-v. 9, no. 906 (May 19, 1783)
+500       $a UCSC PE: NO 850 $b (LOC CODE): NO 852 CREATED, REJECT (02/06).
+780  00   $t Pennsylvania evening post $w (OCoLC) 12227152.
+785  00   $t Pennsylvania evening post, and daily advertiser $w (OCoLC) 12227170.
+752       $a United States $b Pennsylvania $d Philadelphia.
+901       $a SCB $b 1809207x
+
+Record 5
+LDR  00852Qam  22002179a 45  
+005  19960129000000.0
+008  821218s1932    ksuab         000 0 eng  
+010       $a gs 33000388
+040       $a DLC $c CarP $d CU-SC
+043       $a n-us-ks
+090       $a QE113.A2 no.19
+100  1    $a Moss, Rycroft Gleason, $d 1904-
+245  14   $a The geology of Ness and Hodgeman counties, Kansas,
+260       $a Lawrence, $b kans., Printed by authority of the state of Kansas, $c 1932.
+300       $a 48 p. $b incl. illus., tabes, diagrs. 2 fold. col. maps, fold. diagr. $c 23 cm.
+490       $a Kansas. State geological survey. Bulletin 19.
+500       $a Bibliographical foot-notes.
+500       $a UCSC MONO: 3 920 LOCS; ALL 3 BEGIN WITH 'x': DO NOT OUTPUT ANY 852 FLDS, REJECT (02/06).
+650   0   $a Geology $z Kansas $z Ness County.
+650   0   $a Geology $z Kansas $z Hodgeman County.
+901       $a SCB $b 1687013x
+
+Record 6
+LDR  00750 as  2200229 a 45  
+005  19960307000000.0
+008  810630s1968                  0   0 eng  
+022  0    $a 0016-4842
+030       $a ACHRE4
+040       $a MUL $c MUL $d SUL $d OCL $d HUL $d COO $d NSD $d HUL $d NSD $d m.c.
+049       $a CUZA
+090       $a QD1.A264
+098       $n ov=.b2287225
+245  00   $a Accounts of chemical research.
+260       $a [Easton, Pa.] $b American Chemical Society.
+222   0   $a Accounts of chemical research.
+300       $a v. $b ill. $c 29 cm. monthly.
+362  0    $a v. 1-   Jan. 1968-
+500       $a UCSC PE: 4 850 LOCS; ALL 4 BEGIN WITH 'x': DO NOT OUTPUT ANY 852'S; REJECT (02/06).
+650   0   $a Chemistry $x Research $x Periodicals.
+710  20   $a American Chemical Society.
+901       $a SCB $b 15071820
+
+Record 7
+LDR  00478 as  2200169 a 45  
+005  19960307000000.0
+008  711124s0000                  0   0 eng00
+022       $a 0001-8708
+090       $a QA1.A3
+098       $n ov=.b2288813
+245  00   $a Advances in mathematics.
+260       $a New York, Academic Press.
+300       $a v.
+362       $a v.1; 1961-
+500       $a UCSC PE: 4 920 LOCS; ALL 4 BEGIN 'x'; DO NOT OUTPUT 852'S; REJECT (02/06).
+650   0   $a Mathematics $x Periodicals.
+901       $a SCB $b 15073373
+
+Record 8
+LDR  01714cXb  2200409 a 45  
+005  19970313000000.0
+006  sqr1p   o   0   a0
+007  crucnu
+008  951212c19969999mdu        d        eng d
+010       $a sn 95006658
+022  0    $a 1086-3214
+035       $a (OCoLC)33892627
+037       $b Johns Hopkins University Press, P.O. Box 19966, Baltimore, MD 21211 $c $54.90
+040       $a NSD $c NSD $d OCL $d NSD $d GUA $d WAU $d CUZ
+042       $a nsdp $a lcd
+049       $a CUZA
+130  0    $a Journal of democracy (Online)
+210  0    $a J. democr. $b (Online)
+222   0   $a Journal of democracy $b (Online)
+245  10   $a Journal of democracy $h [computer file]
+260       $a Baltimore, MD : $b National Endowment for Democracy : $b Johns Hopkins University Press, $c [1995-
+310       $a Quarterly.
+362  0    $a 7.1 (Jan. 1996)-
+500       $a UCSC: SERIALS REC WITH UNKNOWN TYPE, SO FORMAT DEFAULTS TO BKS; HAS 850, NO 920, SO NO 852 CREATED - REJECT (02/06).
+538       $a System requirements: World Wide Web browser software.
+538       $a Mode of access: Internet.  Address for full text: http://muse.jhu.edu/journals/journal $o f $d emocracy.
+516       $a Text (electronic journal)
+530       $a Also available in a print ed.
+650   0   $a Representative government and representation $x Periodicals.
+650   0   $a Democracy $x Periodicals.
+650   0   $a Political participation $x Periodicals.
+710  2    $a National Endowment for Democracy (U.S.)
+710  2    $a Project Muse.
+776  1    $t Journal of democracy $x 1045-5736 $w (DLC)   90640838 $w (OCoLC)20333981.
+856  7    $u http://muse.jhu.edu/journals/journal $o f $d emocracy $2 http $z View full text.
+856  7    $u http://muse.jhu.edu $2 http $z View Project Muse.
+901       $a SCB $b 19239014
+
+Record 9
+LDR  00884 as  2200265 a 45  
+005  19971216000000.0
+008  870120s1986                  0   0 eng  
+010       $a 86-645169
+022  0    $a 0886-4179
+035       $a (OCoLC)12884328
+040       $a NSD $c NSD $d OCL $d NSD $d DLC $d NST
+049       $a CUZA
+090       $a Z6941.S38
+098       $n ov=.b2476836
+130  0    $a Serials directory (Birmingham, Ala.)
+222   4   $a The serials directory $b (Birmingham, Ala.)
+245  14   $a The serials directory : $b an international reference book.
+260       $a Birmingham, Ala. : $b EBSCO, $c c1986-.
+300       $a v. ; $c 28 cm.
+310       $a Annual.
+362  0    $a 1986-.
+500       $a UCSC PE: ONE LOC IN 850 $b; $f = '1'; LOC CODE BEGINS WITH 'x'; DO NOT OUTPUT ANY 852'S - REJECT (02/06).
+650   0   $a Serial publications $x Bibliography $x Periodicals.
+650   0   $a Periodicals $x Directories.
+901       $a SCB $b 15251500
+
+Record 10
+LDR  00667 as  2200217oa 45  
+005  19971208000000.0
+008  860821s19uu                  0   0 eng  
+022       $a 0737-951x
+035       $a (OCoLC)14082977
+040       $a CUZ $c CUZ
+049       $a CUZA
+090       $a QA76.9.D3D26
+098       $n ov=.b2473495
+245  00   $a Database alert.
+260       $a White Plains, N.Y. : $b Knowledge Industry Publications.
+300       $a v. ; $c 28 cm.
+500       $a UCSC PE: ONE LOC IN 850 $b; $f = '0'; DO NOT OUTPUT ANY 852'S - REJECT (02/06).
+650   0   $a Database management $x Periodicals.
+650   0   $a Computer service industry $x Directories.
+780  00   $t Data base alert.
+901       $a SCB $b 15248434
+
+Record 11
+LDR  00583 as  2200169 a 45  
+005  19971120000000.0
+008  770621s1975                  0   0 eng  
+022       $a 0360-5280
+090       $a QA76.5.A1B9
+098       $n ov=.b2308897
+245  00   $a Byte.
+260       $a Peterborough, N.H., $b Byte Publications [etc.]
+300       $a v. ill. monthly.
+362       $a v.1-    Sept. 1975-    .
+500       $a UCSC PE: LOCS TAKEN FROM 850S: 1ST 850 HAS $f THAT IS NOT '1', 2ND 850 $b IS A LOC BEGINNING WITH 'x'. DO NOT OUTPUT ANY 852'S, REJECT (02/06).
+650       $a Minicomputers $x Periodicals.
+901       $a SCB $b 15092537
+
+Record 12
+LDR  00905pam  2200289 a 45  
+001  30701071
+003  OCoLC
+005  19940512162150.0
+008  940614s1994    lau          s001 0 eng  
+010       $a 94028320
+020       $a 0807119164 (acid-free paper)
+040       $a DLC $c DLC $d CUZ
+043       $a n-us---
+049       $a CUZA
+050  00   $a E868 $b .A53 1994
+100  1    $a Anderson, Patrick, $d 1936-
+245  10   $a Electing Jimmy Carter : $b the campaign of 1976 / $c Patrick Anderson.
+260       $a Baton Rouge : $b Louisiana State University Press, $c c1994.
+300       $a 180 p. ; $c 24 cm.
+500       $a UCSC: 901 $a HAS NO RECORD ID NUMBER - REJECT (04/02).
+600  10   $a Carter, Jimmy, $d 1924-
+650   0   $a Presidents $z United States $x Election $y 1976.
+651   0   $a United States $x Politics and government $y 1974-1977.
+901       $a UCSC  $b ms    $c x
+902       $a 950316
+999       $b 1 $c 950316 $d m $e a $f - $g 0
+920       $l mstax
+
+Record 13
+LDR  00646 as  2200193 a 45  
+008  760511s1947                  0   0 eng  
+090       $a QA1.S93
+110  2    $a American Mathematical Society.
+245  10   $a Proceedings of symposia in applied mathematics.
+260       $a Providence, R.I. [etc.]
+300       $a v. illus.
+362       $a v.1-    1947-    .
+500       $a UCSC: 901 $a HAS NO INPUT SOURCE, SOURCE CAN'T BE DETERMINED - REJECT (06/02).
+650       $a Mathematics $x Societies, etc.
+650       $a Mathematical physics $x Societies, etc.
+850       $b sstax $d - $3 a $f 1 $h 1(1947)-
+901       $a 15078140 $b ss    $c -
+902       $a 020509
+999       $b 1 $c 941201 $d s $e s $f - $g 0
+
+Record 14
+LDR  01929cas  2200469   45  
+005  20020506000000.0
+007  cr un---------
+008  791126c19099999inuqr1p       0   a0eng d
+010       $a 13003548  $z sc 80000602
+022  0    $a 0003-0031
+030       $a AMNAAF
+032       $a 020720 $b USPS
+035       $a (OCoLC)5731039
+040       $a NYG $c NYG $d DLC $d NSD $d DLC $d SER $d RCS $d AIP $d NST $d CAS $d NST $d AGL $d NSD $d NST $d RBN $d CUS
+042       $a lc $a nsdp
+069  1    $a A25364000
+090       $a QH1.A35
+091  00   $a QH1 $b .A35
+210  0    $a Am. midl. nat
+222   4   $a The American midland naturalist
+245  04   $a The American midland naturalist
+260       $a Notre Dame, Ind., $b University of Notre Dame
+300       $a v. $b ill. $c 24 cm
+310       $a Quarterly
+321       $a Bimonthly
+362  0    $a v. 1, no. 5-   Dec. 1909-
+500       $a UCSC PE: NO 850 OR 920 IN RECORD, NO 852 CREATED - REJECT (02/06).
+510  1    $a Biological & agricultural index $x 0006-3177
+530       $a Scanned images of back issues are available via the World Wide Web to subscribers of JSTOR
+599       $a UPD $b updated holdings in >856 for Exp. Acad. $c 020304
+650   0   $a Natural history $v Periodicals
+655   7   $a Online resources. $2 local
+710  2    $a University of Notre Dame
+710  2    $a JSTOR (Organization)
+710  2    $a BioOne (Organization)
+730  0    $a Expanded Academic ASAP
+776  1    $t American midland naturalist (Online : JSTOR (Organization)) $w (DLC)   00227427 $w (OCoLC)45446837
+780  00   $t Midland naturalist $x 0271-6844 $w (DLC)sf 82006978
+856  41   $3 v.139(1998)-v.140(1998),v.144(2000)- $z BioOne. Restricted to UC campuses $u http://uclibs.org/PID/7217
+856  41   $3 v.1:no.5(1909)- [Latest 3 years not available online] $z JSTOR. Restricted to UC campuses $u http://uclibs.org/PID/217
+856  41   $3 Selected article text for 1992- $z Expanded Academic ASAP. Restricted to UC campuses $u http://uclibs.org/PID/7218
+901       $a SCB $b 15078218
+

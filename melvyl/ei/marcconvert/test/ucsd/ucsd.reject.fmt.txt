@@ -1,0 +1,222 @@
+Record 1
+LDR  00835cam  2200265   45  
+005  19890524000000.0
+008  720601s1972    nyu           00010 eng b
+010       $a 72004593
+020       $a 0394479254 $a 0394718216 (pbk.)
+035       $a (CaOTULAS)112436334
+035       $a (OCoLC)333674
+040       $a DLC $c DLC $d CUS
+050  0    $a RC81 $b .F82 1972
+060       $a WB120 F827p 1972
+096       $a WB 120 F827p 1972
+100  10   $a Frank, Arthur, $d 1934-
+245  14   $a The people's handbook of medical care $c [by] Arthur Frank [and] Stuart Frank
+250       $a [1st ed.]
+260  0    $a New York, $b Random House $c [1972]
+300       $a xiv, 494 p. $c 22 cm
+500       $a UCSD MONO: NO 920 $l (LOC CODE), NO 852 CREATED; REJECT (12/05).
+650   0   $a Medicine, Popular
+650   2   $a Medicine, Popular
+700  10   $a Frank, Stuart, $d 1934-     ,
+901       $a SDB $b 1372688
+
+Record 2
+LDR  00787cam  2200241   45  
+005  19890525000000.0
+008  720612s1972    nyua     b   00110 eng  
+010       $a 75189513
+020       $a 0442260474
+035       $a (CaOTULAS)112445636
+035       $a (OCoLC)341048
+040       $a DLC $c DLC $d m.c. $d CUS
+050  0    $a VK541 $b .K73 1972
+090       $a VK541 $b .K743 1972
+100  10   $a Knight, Austin Melvin, $d 1854-1927
+245  10   $a Modern seamanship. $c Rev. by John V. Noel, Jr. Assisted by Frederick C. Dyer [and] William J. Miller
+250       $a 15th ed
+260  0    $a New York, $b Van Nostrand Reinhold $c [1972]
+300       $a xi, 684 p. $b illus. $c 23 cm
+500       $a UCSD MONO: NO 920 FLD, NO 852 CREATED. REJECT (12/05)
+650   0   $a Seamanship
+700  10   $a Noel, John Vavasour, $d 1912-
+901       $a SDB $b 1374061
+
+Record 3
+LDR  00970cas  2200313 ü 45  
+005  19910718000000.0
+008  751101c19609999vaufr1p        uuua0eng  cas ü
+010       $a sf 76000239
+012       $a 3 $j 0
+019       $a 6458375
+022  0    $a 00426555
+035       $a (CaOTULAS)112649429
+035       $a 13186 $b XUSL
+035       $a (OCoLC)1769190
+040       $a DLC $c MUL $d COO $d NSD $d DLC $d m.c. $d OCL $d AIP $d NSD $d CUS
+042       $a nsdp $a lc
+043       $a n-us-va
+050  0    $a F221 $b .V823
+090       $a F221 $b .V8
+098       $n ov=.b1445583
+110  20   $a Virginia Historical Society.
+210  0    $a Occas. bull. - Va. Hist. Soc.
+222   3   $a An Occasional bulletin - Virginia Historical Society.
+245  03   $a An Occasional bulletin - The Virginia Historical Society.
+260  00   $a Richmond, Va., $b Virginia Historical Society.
+265       $a 428 North Blvd.
+300       $b ill. $c 22 cm.
+500       $a UCSD PE: NO 850 $c (LOC CODE), NO 852 CREATED; REJECT (12/05).
+901       $a SDB $b 27236894
+
+Record 4
+LDR  00936nas  2200253 a 45  
+005  20011221000000.0
+008  991114s1999    mx       b    000 0 spa  
+010       $a 00315357
+020       $a 9683679994
+035       $a (OCoLC)45620810
+040       $a DLC $c DLC
+043       $a n-mx---
+050  00   $a HC135 $b .R3254 1999
+245  04   $a Las regiones en la historia econâomica mexicana, siglo XIX / $c Marâia Eugenia Romero Ibarra, coordinadora
+250       $a 1. ed
+260       $a Mâexico : $b Facultad de Economâia, $c 1999
+300       $a p. ; $c 23 cm
+310       $a Semimonthly
+500       $a UCSD PE: HAS 920, BUT NO 850 FLD, NO 852 CREATED; REJECT (12/05).
+650   0   $a Mexican states $x Economic conditions $y 19th century $v Case studies
+651   0   $a Mexico $x Economic conditions $y 19th century $v Case studies
+700  1    $a Romero I., Marâia Eugenia $q (Romero Ibarra)
+710  2    $a Universidad Nacional Autâonoma de Mâexico. $b Facultad de Economâia
+901       $a SDB $b 43191836
+
+Record 5
+LDR  01761nam  2200325Ia 45  
+001  48664877
+008  011226s1972    cau          s000 0 eng d
+040       $a CUS $c CUS
+099       $a SIO $a 1 $a CA2914 $a v.72 $a no.14
+100  1    $a Thomas, William H. $q (William Hewitt), $d 1926-
+245  10   $a Progress report. $n No. 5 : $b to Southern California Coastal Water Research Project : nutrients, chlorophyll, and phytoplankton productivity near Southern California sewage outfalls / $c William H. Thomas
+246  3    $a Nutrients, chlorophyll, and phytoplankton productivity near Southern California sewage outfalls
+260       $a [La Jolla, Calif.? : $b University of California, Institute of Marine Resources, $c 1972?]
+300       $a 4, [2] leaves ; $c 28 cm
+440   0   $a IMR reference ; $v no. 72-14
+500       $a UCSD: NO 901 FLD, SOURCE CAN'T BE DETERMINED - REJECT (06/02).
+500       $a "This report summarizes cruise activities, water analyses, phytoplankton enrichment experiments and bioassays made during the period January-March 1972 under the auspices of the Southern California Coastal Water Research Project in support of phytoplankton studies. A major cruise occurred during this period ... An enrichment experiment and bioassays of sea water collected on this cruise have been completed"--Leaf 2
+505  0    $a Cruise activities -- Enrichment experiment -- Bioassays
+650   0   $a Phytoplankton $x Growth
+650   0   $a Nitrogen
+650   0   $a Zooplankton
+650   0   $a Oceanography $x Research
+650   0   $a Tuna
+710  2    $a Southern California Coastal Water Research Project
+710  2    $a University of California (System). $b Institute of Marine Resources
+902       $a 011226
+993       $a .b43193602
+994       $a sio
+994       $a E0 $b CUS
+999       $b 1 $c 011226 $d m $e s $f - $g 0
+
+Record 6
+LDR  01670nas  2200481   45  
+001  5937082
+007  cr unu        
+008  800201c19809999nyubxzp       0   a0eng d
+010       $a 82641457 //r85 $z sc 80001957  $z sn 80000307
+012       $a 3 $b 3 $k 1 $l 1 $m 1
+022  0    $a 0197-0186
+030       $a NEUIDS
+032       $a 008361 $b USPS
+040       $a NSD $c NSD $d NLM $d DLC $d NSD $d NST $d DLC $d NSD $d DLC $d NST $d SER $d RCS $d NST $d AIP $d NST $d AIP $d DLC $d NST $d IUL $d NST $d NSD $d NST $d MYG $d NSD
+042       $a lc $a nsdp
+050  00   $a QP356.3 $b .N465
+060  0    $a W1 NE442
+069  1    $a N12530000
+098       $n ov=.b1555996
+210  0    $a Neurochem. int
+222   0   $a Neurochemistry international
+245  00   $a Neurochemistry international
+260       $a Oxford ; $a New York : $b Pergamon Press,
+265       $a Pergamon Press, Maxwell House, Fairview Park, Elmsford, N.Y. 10523
+300       $a v. : $b ill. ; $c 25 cm
+310       $a Eight no. a year, $b <1986->
+321       $a Bimonthly, $b 1981-<1984>
+321       $a Semiannual, $b 1980
+362  1    $a Began in 1980
+500       $a UCSD: 901 $a HAS UNKNOWN PREFIX, SOURCE CAN'T BE IDENTIFIED - REJECT (06/02).
+690       $a Electronic journals $x Biology and medicine
+710  2    $a ScienceDirect (Online Service)
+793  0    $a ScienceDirect Online Journals
+850       $a i $c bk $h W1 NE442 $g 1-25 (1980-1994)
+850       $a a $c ba $h W1 NE442 $g 26- (1995- )
+850       $a a $c nnet $f Electronic journal $g 26- (1995- )
+856  41   $3 v.26(1995)- $z Restricted to UC campuses $u http://uclibs.org/PID/2416
+901       $a UCXXb23157999 $b multi $c -
+902       $a 020521
+910       $a tsw 11/12/92 rev
+993       $a 23157999
+994       $a bml $a net
+999       $b 2 $c 921112 $d s $e   $f - $g 0
+
+Record 7
+LDR  01450nas  2200445   45  
+001  6272568
+007  cr un-
+008  800502c19809999nyubx1p       0   a0eng d
+010       $a 80648846 //r83 $z sn 80000879
+012       $a 2 $b 3 $k 1 $l 1 $m 1
+022  0    $a 0198-8859
+030       $a HUIMDQ
+032       $a 702390 $b USPS
+040       $a NSD $c NSD $d DLC $d m.c. $d DLC $d NSD $d DLC $d OCL $d NST $d OCL $d NST $d SER $d RCS $d NSD $d DLC $d NSD $d AIP $d NST $d AIP $d NST
+042       $a nsdp $a lc
+050  00   $a QR180 $b .H85
+060  0    $a W1 HU448H
+069  1    $a H22270000
+096       $a W1 HU662
+098       $n ov=.b1560839
+210  0    $a Hum. immunol
+222   0   $a Human immunology
+245  00   $a Human immunology
+260       $a [New York, N.Y.] $b Elsevier/North-Holland
+265       $a Subscription Dept., Elsevier/North-Holland, 52 Vanderbilt Ave., New York, NY 10017
+300       $a v. $b ill. $c 26 cm
+310       $a 8 no. a year, $b 1981-
+321       $a Four no. a year
+362  0    $a v. 1-   July 1980-
+500       $a UCSD: 901 $a DOES NOT HAVE RECORD ID NUMBER - REJECT (06/02).
+650   2   $a Allergy and Immunology $v periodicals
+710  20   $a American Association for Clinical Histocompatibility Testing
+850       $a a $c nnet $f Electronic journal $g 42- (1995- )
+856  41   $3 v.42(1995)- $z Restricted to UC campuses $u http://uclibs.org/PID/2421
+901       $a UCSD $b multi $c -
+902       $a 020524
+910       $a tsw 5/13/92
+993       $a 23162831
+994       $a bml $a net
+999       $b 2 $c 920513 $d s $e   $f - $g 0
+
+Record 8
+LDR  00971nms  2200253   45  
+005  20020521000000.0
+008  790807d19uu1987no uu m       0    0nor d
+022       $a 0525-4760
+035       $a (OCoLC)5248603
+040       $a YUS $c YUS $d AIP $d CUS
+090       $a GC1 $b .B47
+098       $n ov=.b1688467
+110  2    $a Universitetet i Bergen. $b Geofysisk institutt
+245  10   $a Report Geofysisk Institutt. $n Division A, $p Physical oceanography
+246  30   $a Physical oceanography
+246  30   $a Oceanography
+246  30   $a Geophysical Institute oceanography
+260       $a Bergen : $b University of Norway, Geophysical Institute,
+300       $a v. : $b ill., diagrs., maps ; $c 30 cm
+500       $a UCSD: TYPE = 'm', BIBLVL = "s", MRDF RECORD, PROCESS AS SERIALS - HAS NO 850, HAS 920, CANNOT CREATE 852, REJECT (12/05).
+510  2    $a Life sciences collection
+650   0   $a Oceanography $v Periodicals
+785  00   $a tReport (Universitetet i Bergen. Geofysisk Institutt. Oceanography)
+901       $a SDB $b 23290468
+

@@ -1,0 +1,182 @@
+Record 1
+LDR  01024cam  22002894a 4500
+003  OCoLC
+005  20031112091118.0
+008  010322s2001    inua     b    001 0 eng  
+010       $a 2001089107
+019       $a 47028181
+020       $a 0764547712 (pbk.)
+040       $a DLC $c DLC
+042       $a pcc
+049       $a MAIN
+082  00   $a 005.4/32 $2 21
+100  1    $a Barkakati, Nabajyoti, $d 1956-
+245  10   $a Red Hat Linux 7.1 secrets / $c Naba Barkakati.
+260       $a Indianapolis, IN : $b Hungry Minds, $c 2001.
+300       $a xxxiv, 1135 p. : $b ill. ; $c 24 cm. + $e 3 computer optical discs (4 3/4 in.)
+500       $a UCM: NO 001 FIELD - REJECT (04/05).
+630  00   $a Linux.
+650   0   $a Operating systems (Computers)
+852       $a MER $b kmain $h QA76.76.O63 $i B366166 2001
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley021/2001089107.html
+998       $a kmain $b 11-12-03 $c m $d a $e n $f eng $g inu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105940 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i10000276 $z 01-29-04
+
+Record 2
+LDR  02340cgm  2200541Ka 4500
+001  b10000161
+003  OCoLC
+005  20031112091118.0
+007  vd bgaiz-
+008  020614p20011954cau113            vleng d
+020       $a 0792172116
+040       $a TXB $c TXB
+049       $a MAIN
+090       $a PN1997 $b .S22 2001
+130  0    $a Sabrina (Motion picture : 1954)
+245  10   $a Sabrina $h [videorecording] / $c Paramount Pictures ; producer, Billy Wilder ; written for the screen, Billy Wilder, Samuel Taylor and Ernest Lehman ; director, Billy Wilder.
+260       $a Hollywood, Calif. : $b Paramount, $c c2001.
+300       $a 1 videodisc (113 min.) : $b sd., b&w ; $c 4 3/4 in.
+440   0   $a Audrey Hepburn collection
+500       $a UCM:  001 FIELD DOES NOT BEGIN UCM - REJECT (04/05).
+546       $a Closed-captioned.
+511  1    $a Humphrey Bogart, Audrey Hepburn, William Holden, Walter Hampden, John Williams, Martha Hyer, Joan Vohs.
+508       $a Cinematographer, Charles Lang ; editor, Arthur P. Schmidt ; music, Frederick Hollander ; costume designer, Edith Head.
+520       $a The daughter of the chauffeur for an immensely wealthy family returns from Paris and dazzles the family's two sons.
+586  8    $a Academy Awards, 1955, Oscar - Best Costume Design, Black-and-White (Edith Head)
+586  8    $a Golden Globe, 1955, Best Screenplay (Ernest Lehman, Samuel A. Taylor, Billy Wilder)
+586  8    $a NBR Award, 1954, Best Supporting Actor (John Williams)
+650   0   $a Man-woman relationships $v Drama.
+700  1    $a Wilder, Billy, $d 1906-
+700  1    $a Taylor, Samuel Albert, $d 1912-
+700  1    $a Lehman, Ernest, $d 1915-
+700  1    $a Bogart, Humphrey, $d 1899-1957.
+700  1    $a Hepburn, Audrey, $d 1929-
+700  1    $a Holden, William, $d 1918-
+700  1    $a Hampden, Walter, $d 1879-1955.
+700  1    $a Williams, John, $d 1903-
+700  1    $a Hyer, Martha.
+700  1    $a Vohs, Joan.
+700  1    $a Lang, Charles B.
+700  1    $a Schmidt, Arthur.
+700  1    $a Hollaender, Friedrich.
+700  1    $a Head, Edith.
+700  1    $a Taylor, Samuel Albert, $d 1912- $t Sabrina fair.
+710  2    $a Paramount Pictures Corporation.
+852       $a MER $b kmain
+998       $a kmain $b 11-12-03 $c m $d g $e n $f eng $g cau $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105952 $l kmain $o - $p $0.00 $q - $r - $s - $t 4 $u 0 $v 0 $w 0 $x 0 $y .i10000288 $z 01-29-04
+
+Record 3
+LDR  01898cgm  2200445Ia 4500
+001  UCMb10000197
+003  OCoLC
+005  20040510143000.0
+007  vf cbaho-
+008  931209s1993    cau105            vleng d
+020       $a 0800126122 : $c $92.95
+024  10   $a 043396524132
+028  42   $a 52413 $b Columbia TriStar Home Video
+040       $a MRQ $c MRQ $d CNB $d JPL $d LML $d JED
+049       $a MAIN
+090       $a PN1997 $b .S54 1993
+130  0    $a Sleepless in Seattle (Motion picture)
+245  10   $a Sleepless in Seattle $h [videorecording] / $c Tri-Star Pictures ; a Gary Foster production ; directed by Nora Ephron ; produced by Gary Foster ; screenplay by Nora Ephron, David S. Ward, Jeff Arch.
+260       $a [Burbank, Calif. : $b Columbia TriStar Home Video], $c 1993.
+300       $a 1 videocassette (105 min.) : $b sd., col. ; $c 1/2 in.
+500       $a UCM: NO INPUT 852 - REJECT (04/05).
+546       $a Closed-captioned.
+511  1    $a Tom Hanks, Meg Ryan, Ross Malinger, Rosie O'Donnell, Bill Pullman, Rob Reiner.
+508       $a Executive producers, Lynda Obst, Patrick Crowley ; story by Jeff Arch ; camera, Sven Nykvist ; editor, Ribert Reitano ; music, Marc Shaiman.
+521  8    $a MPAA: Rated PG.
+520       $a After hearing a man confess his love for his dearly departed wife on a call-in radio show, a woman falls deeply, inexplicably in love with him.  Deciding he is her destiny, she treks across country on a wildly romantic impulse to meet him.
+650   0   $a Comedy films.
+650   0   $a Feature films.
+650   0   $a Video recordings for the hearing impaired.
+700  1    $a Ephron, Nora.
+700  1    $a Hanks, Tom.
+700  1    $a Ryan, Meg.
+700  1    $a Malinger, Ross.
+700  1    $a O'Donnell, Rosie.
+700  1    $a Pullman, Bill.
+700  1    $a Reiner, Rob.
+700  1    $a Shaiman, Marc.
+710  2    $a Tri-Star Pictures.
+710  2    $a Columbia TriStar Home Video (Firm)
+901       $a MER $b 10000197
+
+Record 4
+LDR  00979cas  2200289   4500
+001  UCXb10000276
+003  DLC
+005  19940303154251.0
+008  751101c19599999nyuar1        0   a0eng  
+010       $a 59010849
+022       $a 0073-5477
+035       $a (OCoLC)1752685
+040       $a DLC $c MnMULS $d NIC $d DLC $d NSDP $d OCoLC $d NSDP $d OCoLC $d NST $d OCoLC
+042       $a lc $a nsdp
+043       $a n-us---
+082       $a 741.64058
+222   0   $a Illustrators
+245  00   $a Illustrators.
+260       $a New York, $b Hastings House.
+300       $a v. $b ill. (part col.) $c 31 cm.
+362  0    $a 1st-   1959-
+500       $a UCM: RECORD ID IN 001 BEGINS WITH UNKNOWN VALUE - REJECT (04/05).
+650   0   $a Illustration of books $z United States $x Periodicals.
+710  20   $a Society of Illustrators (New York, N.Y.)
+852       $a MER $b kmain $h NC975.A1 $i I5
+998       $a kmain $b 03-03-94 $c s $d a $e n $f eng $g nyu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+945       $g 1 $i 30001000920332 $l kmain $o - $p $0.00 $q - $r - $s - $t 0 $u 0 $v 0 $w 0 $x 0 $y .i10000409 $z 01-29-04
+
+Record 5
+LDR  00884pam  2200253 a 4500
+001  UCMb10000306
+003  DLC
+005  20040510143000.0
+008  021230s2003    nyua     b    001 0 eng  
+010       $a 2002156439
+020       $a 0393020290
+040       $a DLC $c DLC $d NhCcYBP
+082  00   $a 027/.009 $2 21
+100  1    $a Battles, Matthew.
+245  10   $a Library : $b an unquiet history / $c Matthew Battles.
+250       $a 1st ed.
+260       $a New York. : $b W.W. Norton, $c c2003.
+300       $a x, 245 p. : $b ill. ; $c 22 cm.
+500       $a UCM: ONLY 852 DOES NOT HAVE SUBFLD b WITH LOC CODE - REJECT (04/05).
+505  0    $a Reading the library -- Burning Alexandria -- The house of wisdom -- The battle of the books -- Books for all -- Knowledge on fire -- Lost in the stacks.
+650   0   $a Libraries $x History.
+650   0   $a Libraries and society $x History.
+650   0   $a Books $x History.
+901       $a MER $b 10000306
+
+Record 6
+LDR  01079cam  22003014a 4500
+001  UCM1000015x
+003  OCoLC
+005  20031112091118.0
+008  010322s2001    inua     b    001 0 eng  
+010       $a 2001089107
+019       $a 47028181
+020       $a 0764547712 (pbk.)
+040       $a DLC $c DLC
+042       $a pcc
+049       $a MAIN
+082  00   $a 005.4/32 $2 21
+100  1    $a Barkakati, Nabajyoti, $d 1956-
+245  10   $a Red Hat Linux 7.1 secrets / $c Naba Barkakati.
+260       $a Indianapolis, IN : $b Hungry Minds, $c 2001.
+300       $a xxxiv, 1135 p. : $b ill. ; $c 24 cm. + $e 3 computer optical discs (4 3/4 in.)
+500       $a UCM: 001 FLD DOES NOT HAVE "b" FOLLOWING THE UCM - REJECT (04/05).
+630  00   $a Linux.
+650   0   $a Operating systems (Computers)
+852       $a MER $b kmain $h QA76.76.O63 $i B366166 2001
+856  41   $3 Table of contents $u http://www.loc.gov/catdir/toc/wiley021/2001089107.html
+998       $a kmain $b 11-12-03 $c m $d a $e n $f eng $g inu $h 0 $i 1 $j 02-06-04 $k 01-29-04
+994       $a X0 $b MERUC
+945       $g 1 $i 31114636105940 $l kmain $o - $p $0.00 $q - $r - $s - $t 1 $u 0 $v 0 $w 0 $x 0 $y .i10000276 $z 01-29-04
+

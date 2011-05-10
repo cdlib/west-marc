@@ -1,0 +1,125 @@
+Record 1
+LDR  01296nam  2200337 a 45  
+001  07-ARY-2526
+005  20000705094917.0
+008  930816s1994    fr       bw   001 0 eng  
+010       $a    93030240
+035       $a (OCoLC)28721288
+040       $a DLC $c DLC $d GUL $d FCI $d CLU
+020       $a 9284201616 (ICC)
+020       $a 9065446702 (Kluwer)
+041  0    $a engfre
+050  00   $a K2400.A495 $b C65 1993
+082  00   $a 341.5/22 $2 20
+049       $a CLUM
+245  00   $a Collection of ICC arbitral awards, 1986-1990 = $b Recueil des sentences arbitrales de la CCI / $c [compiled by] Sigvard Jarvin, Yves Derains, Jean-Jacques Arnaldez.
+260       $a Paris ; $a New York : $b ICC Pub. ; $a Deventer ; $a Boston : $b Kluwer Law and Taxation Publishers, $c c1994.
+300       $a cxi, 578 p. ; $c 25 cm.
+490  1    $a ICC publication ; $v 514
+500       $a UCLA: 901 $C IS NOT 'LAD' - REJECT (05/02).
+504       $a Includes bibliographical references and indexes.
+650   0   $a Arbitration and award, International $x Cases.
+700  1    $a Jarvin, Sigvard.
+700  1    $a Derains, Yves.
+700  1    $a Arnaldez, Jean-Jacques.
+710  2    $a International Chamber of Commerce.
+740  01   $a Recueil des sentences arbitrales de la CCI.
+830   0   $a ICC publication ; $v no 514.
+852       $a LAD $b LAWSTAX $h K2400.A495 $i C65 1990 $3 Library has: v.1-3.
+
+Record 2
+LDR  01039cam  2200289 a 45  
+001  07-ARY-2853
+005  20000706111301.0
+008  981218s1999    njua     b    001 0 eng c
+010       $a    98055169
+035       $a (OCoLC)40608564 (OCoLC)40926532
+040       $a DNLM/DLC $c DLC $d YDX $d UKM $d NLM $d CLU
+020       $a 0896037037 (alk. paper)
+050  00   $a QR185.8.C45 $b C486 1999
+060  10   $a QW 568 $b C5175 1999
+069  0    $a 100883513
+082  00   $a 616.07/9 $2 21
+049       $a CLUM $l L0079428967
+245  00   $a Chemokines in disease : $b biology and clinical research / $c edited by Caroline Hâebert ; foreword by Peter A. Ward.
+260       $a Totowa, N.J. : $b Humana Press, $c c1999.
+300       $a xx, 330 p. : $b ill. (some col.) ; $c 26 cm.
+440   0   $a Contemporary immunology
+500       $a UCLA: NO 920 IN RECORD & NOT A DELETE - CREATE ERROR FIELD  (05/02).
+504       $a Includes bibliographical references and index.
+650  12   $a Chemokines
+650  22   $a Receptors, Chemokine
+700  1    $a Hâebert, Caroline $q (Caroline Alice)
+901       $a LAD $b 07-ARY-2853
+
+Record 3
+LDR  00926cas  22003017a 45  
+001  07-ANM-2694
+005  20020315074603.0
+008  980720c19889999caugr1        0   a0eng d
+010       $a sn 98000817
+035       $a (OCoLC)39512640
+040       $a NSD $c NSD $d CLU
+022  0    $a 1520-3522
+082  10   $a 917 $2 13
+090       $a F869.S33 $b B466
+049       $a CLUR
+210  0    $a Best San Franc. North. Calif.
+222   4   $a The best of San Francisco & Northern California
+245  04   $a The best of San Francisco & Northern California.
+246  3    $a Best of San Francisco and Northern California
+246  30   $a San Francisco & Northern California
+260       $a Los Angeles, CA : $b Gault Millau, Inc.,
+300       $a v.
+310       $a Biennial
+362  1    $a Began in 1988?
+500       $a UCLA: 901 LACKS $c: REJECT RECORD (05/02).
+700  1    $a Gayot, Andrâe.
+710  2    $a Gault Millau (Firm)
+852       $a LAD $b COLTRAV $D Not currently received. $O 5
+
+Record 4
+LDR  01023njm  2200313Ia 45  
+001  01-AAA-0343
+005  20020208215951.0
+007  sduzsnznnmlned
+008  941227s1985    mx fmn   di         spa  
+010       $a    94771291 /R
+020       $a 9684991673
+035       $a (OCoLC)31745295
+040       $a DLC $c LCD $d CLU
+043       $a n-mx---
+050  00   $a Corason MTCD101/3<Rec Sound>
+245  00   $a Antologâia del son de Mâexico $h [sound recording] = $b Anthology of Mexican sones.
+260       $a [Mexico] : $b Corason, $c p1985.
+300       $a 3 sound discs : $b digital ; $c 4 3/4 in. + $e 1 booklet (34 p. : ill. ; 28 cm.)
+500       $a Corason: COCD101--COCD103.
+500       $a "Musica tradicional"--Container.
+500       $a UCLA: NO 901 FIELD: REJECT RECORD (05/02).
+511  0    $a Various performers.
+650   0   $a Folk music $z Mexico.
+650   0   $a Sones $z Mexico.
+700  1    $a Lieberman, Baruj.
+700  1    $a Llerenas, Eduardo.
+700  1    $a Ramâirez de Arellano, Enrique.
+740  01   $a Anthology of Mexican sones.
+852       $a LAD $b ETHSTAX
+
+Record 5
+LDR  00878nam  2200205K  45  
+001  07-AAA-0831
+005  20020813153354.0
+008  841212s1963    tu a           00 0 tur d
+035       $a (OCoLC)11482482
+040       $a DRB $c DRB $d CLU
+245  00   $a 23 Ekim 1960 genel nèufus say¸m¸ : $b çil, ilce, bucak ve kèoyler itibariyle nèufus = Census of population, 23 October 1960 : population by provinces, districts sub. districts and villages.
+260       $a Ankara, $c 1963.
+300       $a vi, 601 p. of tables. $c 29 cm.
+490  1    $a Yay¸n, $v no. 444
+500       $a UCLA: 1ST LOC IS 'ARTSPCSR', 2ND LOC IS 'URLRFSRL' - DO NOT OUTPUT 852 FLDS, REJECT RECORD (08/02).
+651   0   $a Turkey $x Census, 1960.
+651   0   $a Turkey $x Population $x Statistics.
+710  1    $a Turkey. $b çIstatistik Genel Mèudèurlèuægèu.
+830   0   $a Yay¸n (Turkey. çIstatistik Genel Mèudèurlèuægèu) ; $v no. 444.
+901       $a LAD $b 07-AAA-0831
+

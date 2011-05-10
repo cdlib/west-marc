@@ -1,0 +1,48 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:30
+End:   2009-7-10 15:46:31
+
+------------------------------------------
+Run Statistics:
+          40 - Records Input
+          37 - Records Output
+           0 - Records Skipped
+           3 - Records Rejected
+           3 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  245 $a indicates delete
+               1 occurrence:  Missing 001 field
+               1 occurrence:  no 852 was generated
+
+
+               Error records
+               1 occurrence:  1002: no 245 field
+               1 occurrence:  1003: unknown location code
+               3 occurrences: 1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      dr.csl.benchjav.mrc
+  outfile:     csl.convert.mrc
+  reportfile:  csl.report.txt
+  errorfile:   csl.error.mrc
+  rejectfile:  csl.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20030326000000.0
+  forcedate:   Y
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

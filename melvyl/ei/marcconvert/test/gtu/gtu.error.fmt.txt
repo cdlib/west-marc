@@ -1,0 +1,87 @@
+Record 1
+LDR  01309cas  2200301   45  
+005  19930429000000.0
+008  810106c19489999oncax p       ü  ü 0eng d
+010       $a cn 75031289
+022       $a 0082-786X
+035       $a 060-S
+040       $a CaOONL $b eng $c CaOONL $d CBGTU
+042       $a nlc $a isds/c
+043       $a n-cn---
+110  2    $a United Church of Canada. $b Committee on Archives.
+222  00   $a Bulletin - Committee on Archives of the United Church of Canada.
+260  00   $a Toronto, $b United Church Pub. House, $c 1948-
+265       $a United Church Archives, Victoria University, 73 Queen's Park Crescent East, Toronto, Ont. M5S 2C4.
+300       $a no. $c 23 cm.
+362  1    $a Began publication in 1948.
+500       $a GTU: NO 245 FIELD - OUTPUT ERROR FIELD (04/02).
+555       $a Nos. 1-14 (1948-1961) öiön no. 14.
+580       $a No. 26 (1977) issued combined with vol. 19, no. 1-2 (Mar./June 1977) of Journal of the Canadian Church Historical Society ISSN 0008-3208.
+610  20   $a United Church of Canada $x History $x Periodicals.
+710  20   $a Victoria University (Toronto, Ont.)
+787  1    $t Journal of the Canadian Church Historical Society $g 1977 $x 0008-3208.
+852       $a GTB $b gtu $h CD3620 $i .U5 $3 GTU has 19th Edition
+901       $a GTB $b 1155343
+998       $a GTB $b 1002 $c Record contains no 245 field $d Release-027-000 $e 1155343
+
+Record 2
+LDR  01074nXm  2200253u  45  
+005  19920326000000.0
+008  890609s1951    it c          10010 lat d
+035       $a 89-B3303
+040       $c NIC $d CStRLIN $d CBGTU
+111  2    $a Congressus Scotisticus Internationalis $n (1st : $d 1950 : $c Rome, Italy)
+245  10   $a Scholastica ratione historico-critica instauranda. $b Acta Congressus Scholastici Internationalis Romae anno sancto MCML celebrati.
+260  0    $a Romae, $b Pontificium Athenaeum Antonianum, $c 1951.
+300       $a xxiii, 668 p. $b group ports. $c 22 cm.
+490  1    $a Bibliotheca Pontificii Athenaei Antoniani, $v 7.
+500       $a GTU: UNKNOWN TYPE - OUTPUT ERROR FIELD (04/02).
+600  20   $a Duns Scotus, John, $d ca. 1266-1308.
+650   0   $a Scholasticism $x Congresses.
+650   0   $a Philosophy, Medieval.
+830   0   $a Bibliotheca Pontificii Athenaei Antoniani ; $v 7.
+852       $a GTB $b gtu $h B734 $i .C6
+852       $a GTB $b sfts $h B734 $i .C6
+852       $a GTB $b grar $h B734 $i .C6
+901       $a GTB $b 1000004
+998       $a GTB $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 1000004
+
+Record 3
+LDR  00795naX  2200217 a 45  
+005  19931213000000.0
+008  890609s1904    gw       b    00010 gerüd
+035       $a 89-B3300
+040       $a CBGTU $c CBGTU
+045       $a e3k0
+100  1    $a Dobschèutz, Ernst von, $d 1870-1934.
+245  10   $a Probleme des apostolischen Zeitalters / $c von Ernst von Dobschèutz.
+260  0    $a Leipzig : $b J.C. Hinrichs, $c 1904.
+300       $a 138 p. ; $c 24 cm.
+500       $a GTU: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+504       $a Includes bibliographical references.
+650   0   $a Church history $y Early church, ca. 30-600.
+852       $a GTB $b gtu $h BR165 $i .D58 1904
+852       $a GTB $b sfts $h BR165 $i .D58 1904
+901       $a GTB $b 1000001
+998       $a GTB $b 1005 $c Record contains the invalid bibliographic level X $d Release-027-000 $e 1000001
+
+Record 4
+LDR  00744nam  2200229   45  
+005  19920326000000.0
+008  890609s1973    ne f     b    00100 fre  
+010       $a 74159490 //r84
+020       $a 9025606067
+035       $a 89-B3301
+041  0    $a frelat
+043       $a e-fr---
+100  1    $a Jeauneau, Edouard.
+245  10   $a "Lectio philosophorum"; $b recherches sur l'âEcole de Chartres.
+260  0    $a Amsterdam, $b A. M. Hakkert, $c 1973.
+300       $a xvi, 395 p. $b plates. $c 23 cm.
+500       $a GTU: UNKNOWN LOC CODE - CREATE ERROR FIELD (04/02).
+650   0   $a Philosophy, Medieval.
+650   0   $a Platonists.
+852       $a GTB $b XXX $h B732 $i .J4
+901       $a GTB $b 1000002
+998       $a GTB $b 1003 $c Record contains the unknown location code XXX $d Release-027-000 $e 1000002
+

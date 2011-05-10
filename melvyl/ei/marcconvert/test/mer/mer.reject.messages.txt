@@ -1,0 +1,6 @@
+Record Rejected: I-1 R-1 Input lacks 001
+Record Rejected: I-2 R-2 Not UCM Source
+Record Rejected: I-5 R-3 no 852 was generated
+Record Rejected: I-10 R-4 Not UCM Source
+Record Rejected: I-14 R-5 no 852 was generated
+Record Rejected: I-17 R-6 The 4th character of 001 field not a 'b'

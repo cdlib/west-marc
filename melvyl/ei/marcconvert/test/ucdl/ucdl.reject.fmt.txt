@@ -1,0 +1,85 @@
+Record 1
+LDR  00913cam  2200229   45  
+005  19930729000000.0
+008  790711m19739999enk           00100 eng  
+010       $a 74166926
+020       $a 0421193506 (v. A1)
+035       $a (CStRLIN)11315733-B
+043       $a ew-----
+050  0    $a LAW
+245  00   $a Encyclopedia of European Community law; $c general editor K. R. Simmonds
+260  0    $a London, $b Sweet & Maxwell; $a Edinburgh, $b Green $a [New York] $b Bender $c [1973-
+300       $a v. (loose-leaf) $c 26 cm
+350       $a ¹17.50 (v. A1)
+500       $a UCDL: NO LOC. CODE IN 1ST 920, IGNORE ALL OTHER 920S; REJECT (07/06).
+505  1    $a v. A. United Kingdom sources. 1. Community secondary legislation. -v. B. European Community treaties. 2 v
+650   0   $a Law $z European Economic Community countries
+700  10   $a Simmonds, K. R. $q (Kenneth R.)
+730  01   $a Official journal of the European Communities: special edition
+901       $a DLB $b 102773
+
+Record 2
+LDR  01025cam  2200241   45  
+001  14228629-B
+005  19891127000000.0
+008  800222s1832    pau           üüü1übeng d
+040       $a CU-AL  $c CU-AL
+043       $a n-us---
+100  10   $a Marshall, John, $d 1755-1835
+245  14   $a The life of George Washington, $b commander in chief of the American forces, during the war which established the independence of his country, and first president of the United States. $c Compiled under the inspection of the Honourable Bushrod Washington, from original papers ... By John Marshall
+250       $a 2d ed., rev. and cor. $b by the author ..
+260  0    $a Philadelphia, $b Crissy, $c 1832
+300       $a 2 v
+500       $a UCDL: 901 $a HAS NO VALID SOURCE - REJECT (04/02).
+901       $a UCDXb1133275 $b rare  $c u
+902       $a 950124
+999       $b 1 $c 950124 $d m $e - $g 4
+920       $a E312.M36 1832 $l rare
+950       $l STKS $f c $i 02/22/80 N
+955       $l STKS $c 1 $q 3556c $i 02/22/80 C
+998       $a 02/22/80 $t c $s 9344 $n CU-AL $w NYCX82B60415 $d 05/14/81 $c DY $b DV $i 800222 $l CUDL
+
+Record 3
+LDR  00903cas  2200277   45  
+001  0217-S
+005  19891127000000.0
+008  800902c19549999enkmr p       0uuua0eng d
+022       $a 0011-135X
+040       $a MUL $c MUL $d CU-CU $d CStRLIN $d CU-AL
+043       $a e-uk---
+245  04   $a The Criminal law review
+260  01   $a London : $b Sweet and Maxwell Ltd.,
+300       $a v. ; $c 28 cm
+362  0    $a Jan., 1954-
+500       $a UCDL: INPUT 901 HAS $a BEGINNING UCDL, BUT NO RECORD ID NUMBER; REJECT (05/02).
+650   0   $a Criminal law $z Great Britain $x Periodicals
+650   0   $a Criminal procedure $z Great Britain $x Periodicals
+901       $a UCDLb $b stx   $c u
+902       $a 020109
+999       $b 1 $c 011220 $d s $e p $g 4
+920       $a K3 $b .R535 $l stx
+950       $l STKS $i 09/02/80 C
+955       $l STKS $c 1 $q 1145A $r nc $i 09/02/80 C
+998       $a 09/02/80 $t c $s 9191 $n CU-AL $w DCLC867061S $d 10/07/81 $c CK $b PSL $i 800902 $l CUDL
+950       $b UCDL:1954--
+
+Record 4
+LDR  00792nas  2200229 a 45  
+005  20020403000000.0
+008  981006c19989999njufr    gbg  0  |a0eng d
+035       $a (CStRLIN)98-S117
+040       $a WaU-L $c WaU-L $d CU-AL
+043       $a n-us---
+050   4   $a K22 $b .U86
+245  00   $a Rutgers race & the law review
+260       $a Newark, N.J. : $b Rutgers University School of Law--Newark, $c 1998-
+300       $a v. ; $c 24 cm
+310       $a Semiannual
+362  0    $a Vol. 1, no. 1 (1998)-
+500       $a UCDL: NO 920, NO LOC CODE - REJECT (07/06).
+650   0   $a Race discrimination $x Law and legislation $z United States $x Periodicals
+650   0   $a Discrimination $x Law and legislation $z United States $x Periodicals
+710  2    $a Rutgers Law School (Newark, N.J.)
+740  0    $a Rutgers race & law review
+901       $a DLB $b 203363
+

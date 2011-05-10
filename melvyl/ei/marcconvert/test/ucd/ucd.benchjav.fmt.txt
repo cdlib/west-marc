@@ -1,0 +1,369 @@
+Record 1
+LDR  00478cam^^22001819^^4500
+005  20020819183309.0
+008  830823c19651964enk           00000 eng  
+010       $a 67118666
+035       $a REMARC67118666
+035  9    $a (UCD)AFB-3893
+049       $a MAIN
+090       $a PT3919.T7 $b W4
+100  1    $a Traven, B.
+245  14   $a The White Rose
+260  0    $a London, $b R. Hale $c [1965, c1964]
+300       $a 206 p. $c 21 cm.
+500       $a DVXL: NO 001 IN RECORD; REJECT.
+852  0    $a CU-A $b SHLDS $c GEN $h PT3919.T7 $i W4
+
+Record 2
+LDR  00543cam^^2200181^i^4500
+001  XPc-001432903
+005  20020819183309.0
+008        s1928    enk           00011 eng d
+035       $a 10985883-B
+035  9    $a (UCD)AFB-3894
+049       $a CUVA
+090       $a PR6045.A55 $b W45 1928
+100  1    $a Walsh, Maurice, $d 1879-1964.
+245  10   $a While rivers run / $c by Maurice Walsh.
+260  0    $a London : $b W. & R. Chambers, $c [1928]
+300       $a 352 p. ; $c 19 cm.
+500       $a DVXL: 001 DOES NOT BEGIN 'UCD'; REJECT.
+852  0    $a CU-A $b SHLDS $c GEN $h PR6045.A55 $i W45 1928
+
+Record 3
+LDR  00822cam^^2200265^a^4500
+001  UCD001432904
+005  20020819183309.0
+008  840423s1983    ctu      b    00110 eng  
+010       $a 83003573
+020       $a 0300030118
+035       $a 84-B11309
+035  9    $a (UCD)AFB-3896
+049       $a MAIN
+082  0    $a 901 $2 19
+090       $a D16 $b .F69 1983
+100  1    $a Fogel, Robert William.
+245  10   $a Which road to the past? : $b two views of history / $c Robert William Fogel and G.R. Elton.
+260  0    $a New Haven : $b Yale University Press, $c c1983.
+300       $a vii, 136 p. ; $c 22 cm.
+500       $a DVXL:001 LACKS HYPHEN AFTER 'UCD'; REJECT.
+650   0   $a History $x Methodology.
+650   0   $a Historiography.
+650   0   $a History $x Philosophy.
+700  1    $a Elton, G. R. $q (Geoffrey Rudolph)
+852  0    $a CU-A $b SHLDS $c GEN $h D16 $i .F69 1983
+
+Record 4
+LDR  00836dXQ^^22002539^^4500
+001  UCD-001432905
+005  20020819183309.0
+008  830721s1962    enkbe         00000 eng  
+010       $a 62002655
+035       $a REMARC62002655
+035  9    $a (UCD)AFB-3897
+043       $a e-uk---
+049       $a MAIN
+090       $a DA498 $b .W5 1962
+100  1    $a Williams, Basil, $d 1867-1950.
+250       $a 2d ed.
+260  0    $a Oxford, $b Clarendon Press, $c 1962.
+300       $a xix, 504 p. $b maps, plan. $c 23 cm.
+500       $a DVXL:DELETE REC; HAS NO 245, UNKOWN LOC,BAD BIBLEVEL, BAD TYPE ; DON'T CREATE 998.
+651   0   $a Great Britain $x Politics and government $y 1714-1760.
+651   0   $a Great Britain $x History $y George I, 1714-1727.
+651   0   $a Great Britain $x Social conditions.
+830   0   $a Oxford history of England ; $v 11.
+852  0    $a CU-A $b BAD $c DOG $h D16 $i .F69 1983
+
+Record 5
+LDR  00794cam^^2200253^^^4500
+001  UCD-001432906
+005  20020819183309.0
+008  711126s1971    tnu      b    00100 eng  
+010       $a 72157742
+020       $a 0826511716
+035       $a REMARC72157742
+035  9    $a (UCD)AFB-3898
+043       $a n-usu--
+049       $a MAIN
+082       $a 261.8/34/5196073
+090       $a BR535 $b .H37
+100  1    $a Harrell, David Edwin.
+245  10   $a White sects and Black men in the recent South. $c Foreword by Edwin S. Gaustad.
+260  0    $a Nashville, $b Vanderbilt University Press, $c 1971.
+300       $a xix, 161 p. $c 21 cm.
+350       $a $6.50
+500       $a DVXL: INPUT RECORD HAS NO 852; REJECT.
+650   0   $a Christian sects $z Southern States.
+650   0   $a Race relations $x Religious aspects $x Christianity $z Southern States.
+
+Record 6
+LDR  01044dam^^2200313^a^4500
+001  UCD-001432907
+005  20020819183309.0
+008  891220s1989    tnua     b   s00110 eng  
+010       $a 88027788
+020       $a 0870496018 (alk. paper) : $c $34.95
+035       $a 89-B63164
+035  9    $a (UCD)AFB-3899
+043       $a nwbb---
+049       $a MAIN
+082  0    $a 306/.363/0972981 $2 19
+090       $a HD4875.B37 $b B43 1989
+100  1    $a Beckles, Hilary, $d 1955-
+245  10   $a White servitude and black slavery in Barbados, 1627-1715 / $c Hilary McD. Beckles.
+250       $a 1st ed.
+260  0    $a Knoxville : $b University of Tennessee Press, $c c1989.
+300       $a xv, 218 p. : $b ill. ; $c 23 cm.
+500       $a DVXL: DELETE REC HAS NO 852; DO NOT REJECT
+504       $a Bibliography: p. [205]-213.
+650   0   $a Indentured servants $z Barbados $x History.
+650   0   $a British $z Barbados $x History.
+650   0   $a Slave labor $z Barbados $x History.
+650   0   $a Blacks $z Barbados $x History.
+651   0   $a Barbados $x Economic conditions.
+651   0   $a Barbados $x Social conditions.
+
+Record 7
+LDR  00762cXZ^^2200241^a^4500
+001  UCD-001432908
+005  20020819183309.0
+008  890629s1988    nju           00100 eng d
+020       $a 0865430497 (pbk.) : $c $9.95
+020       $a 0865430489 : $c $29.95
+035       $a 89-B25217
+035  9    $a (UCD)AFB-3900
+043       $a f-sa---
+049       $a MAIN
+090       $a DT779.952 $b .W5 1988
+260  0    $a Trenton, N.J. : $b Africa World Press, $c 1988.
+300       $a viii, 192 p. ; $c 23 cm.
+500       $a DVXL: NO 245, BAD BIBLEVEL, BAD TYPE, UNKNOWN LOC;CREATE 4 998s
+651   0   $a South Africa $x Politics and government $y 1978-1989.
+651   0   $a South Africa $x Race relations.
+700  1    $a Magubane, Bernard.
+700  1    $a Mandaza, Ibbo.
+852  0    $a CU-A $b GOD $c ZILLA $h DT779.952 $i .W5 1988
+
+Record 8
+LDR  00656cam^^22002299^^4500
+001  UCD-001432909
+005  20020819183309.0
+008  830714s1947    enkf          00000 eng  
+010       $a 47008159
+035       $a REMARC47008159
+035  9    $a (UCD)AFB-3901
+043       $a f-sa---
+049       $a MAIN
+090       $a DT763 $b .W6
+100  1    $a Wolton, Douglas G.
+245  10   $a Whither, South Africa?
+260  0    $a London, $b Lawrence & Wishart, $c 1947.
+300       $a 155 p. $b plates $c 23 cm.
+500       $a DVXL: SINGLE 852 HAS NO  $c ; DON'T OUTPUT 852; REJECT.
+650   0   $a Indigenous peoples $z South Africa.
+651   0   $a South Africa $x History.
+852  0    $a CU-A $b SHLDS $h DT763 $i .W6
+
+Record 9
+LDR  00880cam^^2200265^i^4500
+001  UCD-001432910
+005  20020819183309.0
+008  750327r1977    pau           00000 eng  
+010       $a 74032519
+020       $a 083861194X : $c $18.00
+035       $a 7187726-B
+035  9    $a (UCD)AFB-3902
+041       $a engmul
+049       $a CUVA
+082       $a 891.8
+090       $a PG551.E1 $b W5
+245  00   $a White stones and fir trees : $b an anthology of contemporary Slavic literature / $c edited by Vasa D. Mihailovich.
+260  0    $a [Lewisburg] : $b Bucknell University Press, $c c1977.
+300       $a 603 p. ; $c 24 cm.
+500       $a DVXL: SINGLE 852 HAS NO  $b ; DON'T OUTPUT 852; REJECT.
+650   0   $a Slavic literature $y 20th century $x Translations into English.
+650   0   $a English literature.
+700  1    $a Mihailovich, Vasa D.
+730  0    $a Literary review (Teaneck, N.J.)
+852  0    $a CU-A $c GEN $h PG551.E1 $i W5
+
+Record 10
+LDR  00660cam^^2200229^a^4500
+001  UCD-001432911
+005  20020819183309.0
+008  840817r1984    nyu           00011 eng  
+010       $a 83022330
+020       $a 082530198X
+035       $a 84-B22811
+035  9    $a (UCD)AFB-3903
+049       $a CUVA
+082  0    $a 823/.914 $2 19
+090       $a PR6057.E72 $b W5 1984
+100  1    $a Gerson, Jack.
+245  14   $a The Whitehall sanction : $b a novel / $c Jack Gerson.
+250       $a 1st American ed.
+260  0    $a New York : $b Beaufort Books, $c c1984.
+300       $a 235 p. ; $c 22 cm.
+500       $a DVXL: SINGLE 852 HAS NO  $b  OR  $c ; DON'T OUTPUT 852; REJECT.
+852  0    $a CU-A $h PR6057.E72 $i W5 1984
+
+Record 11
+LDR  01146cam^^22002899^^4500
+001  UCD-001432912
+005  20020819183309.0
+008  830715s1949    at bf         00000 eng  
+010       $a 50003400
+035       $a REMARC50003400
+035  9    $a (UCD)AFB-3904
+043       $a u-at---
+049       $a MAIN
+090       $a HT1523 $b .P7
+100  1    $a Price, A. Grenfell $q (Archibald Grenfell), $c Sir, $d 1892-
+245  10   $a White settlers and native peoples; $b an historical study of racial contacts between English-speaking whites and aboriginal peoples in the United States, Canada, Australia and New Zealand.
+260  0    $a Melbourne, $b Georgian House, $c 1949.
+300       $a 232 p. $b plates, maps. $c 22 cm.
+500       $a DVXL: 1ST 852 HAS NO  $b ; DON'T OUTPUT 852 FROM IT
+500       $a DVXL: 2ST 852 HAS NO  $c ; DON'T OUTPUT 852 FROM IT
+500       $a DVXL: 3RD 852 HAS  $b  &  $c ; OUTPUT 852 FROM IT & DON'T REJECT.
+650   0   $a Indians of North America.
+650   0   $a Maori (New Zealand people)
+650   0   $a Australian aborigines $x Government relations.
+852  0    $a CU-A $c LOC1 $h HT1523 $i .P7
+852  0    $a CU-A $b LOC2 $h HT1523 $i .P7
+852  0    $a CU-A $b SHLDS $c GEN $h HT1523 $i .P7
+
+Record 12
+LDR  01014cam^^22002179^^4500
+001  UCD-001432914
+005  20020819183309.0
+008  830714s1928    miuab         00000 eng  
+010       $a 29003300
+035       $a REMARC29003300
+035  9    $a (UCD)AFB-3906
+049       $a MAIN
+090       $a QL666.O6 $b O7
+100  1    $a Ortenburger, A. I. $q (Arthur Irving), $d b. 1898.
+245  14   $a The whip snakes and racers: genera Masticophis and Coluber,
+260  0    $a Ann Arbor, $b University of Michigan, $c 1928.
+300       $a 3 p.l., v-xviii, 247 p. $b illus., xxxvi pl., maps (part fold.) diagrs. $c 28 cm.
+500       $a DVXL: OUTPUT THE VARIOUS 852 SUBFIELDS.
+650   0   $a Masticophis.
+650   0   $a Coluber.
+852  0    $6 Link $a CU-A $b SHLDS $c GEN $e Address1 $e Address2 $f CodedLocQualifier $f CodedLocQual2 $g NonCodedLQ1 $g NonCodedLQ2 $h QL666.O6 $i O7 $k Prefix1 $k Prefix2 $l ShelvTitle $m Suffix1 $m Suffix2 $n Cntry $p PieceDesig1 $p PieceDesig2 $q PhysCond $s copyright $t copynum $x NonPub1 $x NonPub2 $z Pub1 $z Pub2 $2 Scheme $3 Holdings1 $3 Holdings2 $8 Sequence $D CollDevDisplay $O ColDevCode
+
+Record 13
+LDR  01064cam^^2200289Ma^4500
+001  UCD-000495646
+005  20020819183309.0
+008  990121s1998    ja af    b    001 0 jpn d
+020       $c Y53,000
+035       $a 41562726
+035  9    $a (UCD)AUP-1764
+040       $a HIN $c HIN $d CUV
+043       $a a-ja---
+049       $a UC6A [Asian] [Language] [Coll.] [LIBRARY] [HAS] [v.1-8]
+066       $c $1
+090       $a DS889.5 $b .K67 1998
+100  1    $6 880-01 $a Kōsaka, Masataka, $d 1934-
+100  1    $6 880-01/$1 $a 高坂正堯, $d 1934-
+245  10   $6 880-02 $a Kōsaka Masataka chosakushū / $c [henshū Kōsaka Masataka Chosakushū Kankōkai]
+245  10   $6 880-02/$1 $a 高坂正堯著作集 / $c [編集高坂正堯著作集刊行会]
+260       $6 880-03 $a Tōkyō : $b Toshi Shuppan, $c 1998.
+260       $6 880-03/$1 $a 東京: $b 都市出版, $c 1998.
+300       $a 8 v. : $b ill. ; $c 22 cm.
+500       $a DVXL: CJK RECORD.
+651   0   $a Japan $x Politics and government $y 20th century.
+651   0   $a Japan $x Foreign relations $y 20th century.
+852  0    $a CU-A $b SHLDS $c EAL $h DS889.5 $i .K67 1998 $3 v.1-8 $p Subfield p
+
+Record 14
+LDR  03977cas^^2200769^^^4500
+001  UCD-000779789
+005  20020819183309.0
+007  cr unu
+008  751101d19291999ohumr1p       0   a0eng d
+010       $a 30012569 $z 82644518
+012       $b 3 $e n $j 1 $k 1 $m 1
+016  7    $a H09780000 $2 DNLM
+019       $a 6987942 $a 34343241
+022  0    $a 0017-940X
+030       $a HPAOAM
+032       $a 464930 $b USPS
+035       $a b1875097
+035       $a 01751932
+035  9    $a (UCD)AGU-1253
+040       $a MUL $c MUL $d NSD $d RCS $d AIP $d OCL $d AIP $d NST $d OCL $d DLC $d NSD $O CL $N ST $I UL $N SD $D LC $W AU $O CL $W AU $U MC $N SD $D LC $d CUV
+042       $a nsdp $a lc
+049       $a CUV& $a CUVI $a UC6R
+082  10   $a 697 $2 11
+090       $a TH7201 $b .H6
+210  0    $a Heat. piping air cond.
+222   0   $a Heating, piping and air conditioning
+245  00   $a Heating, piping, and air conditioning.
+246  1    $i Issues for Feb. 1996-<1999> have title: $a HPAC : $b heating, piping, air conditioning
+246  30   $a Heating, piping, air conditioning
+260       $a [Chicago, Ill. : $b Domestic Engineering Co., $c 1929-.
+300       $a v. : $b ill. ; $c 28-31 cm.
+310       $a Monthly
+362  0    $a Vol. 1, no. 1 (May 1929)-
+362  1    $a Ceased with v. 71, no. 4 (Apr. 1999).
+500       $a DVXL: 4 852s; 1st NO  $h ; 2nd NO  $i ; 3rd NO  $h  OR  $i ; 4th  $j  ONLY.
+500       $a Title from cover.
+510  1    $a Applied science & technology index $x 0003-6986
+510  2    $a Chemical abstracts $x 0009-2258
+510  2    $a Coal abstracts $x 0309-4979
+510  2    $a Electronics and communications abstracts journal (Riverdale) $x 0361-3313
+510  2    $a Energy information abstracts $x 0147-6521
+520       $a Vols. for May 1929-Dec. 1958 include the Journal of the American Society of Heating and Air-Conditioning Engineers (called in 1929-54 American Society of Heating and Ventilating Engineers) in "Journal section."
+525       $a Each June issue for <1993>-1999 called: Info-dex.
+525       $a Vol. for Jan. 1999 accompanied by supplement titled: Building systems innovation.
+530       $a Selected article text available through Expanded Academic ASAP
+530       $a Also available on microfilm from University Microfilms.
+555       $a Vols. 40 (1968)-43 (1971). with v. 43.
+590       $a Library has microfilm copy with call no.: TH7201 H6
+650   0   $a Heating $v Periodicals.
+650   0   $a Ventilation $v Periodicals.
+650   0   $a Air conditioning $v Periodicals.
+655   7   $a Electronic journals. $2 local
+655   7   $a Online resources. $2 local
+710  2    $a American Society of Heating and Ventilating Engineers.
+710  2    $a American Society of Heating and Air-Conditioning Engineers.
+730  0    $a Expanded Academic ASAP
+740  02   $a Info-dex.
+740  02   $a Building systems innovation.
+780  05   $t Aerologist $w (OCoLC)2444384 $g Apr. 1937
+780  05   $t Journal of the American Society of Heating and Ventilating Engineers $x 0095-9081 $w (DLC) 23015968 $w (OCoLC)1330815
+785  01   $a American Society of Heating and Air-Conditioning Engineers. $t Journal of the American Society of Heating and Air-Conditioning Engineers $x 0402-1185 $w (DLC) 59039613 $w (OCoLC)1923302
+785  00   $t Heating/piping/air conditioning engineering $x 1527-4055 $w (DLC)sn 99050051 $w (OCoLC)41442935
+856  41   $3 Selected article text for 1989-1999. $z Expanded Academic ASAP. Restricted to UC campuses $u http://uclibs.org/PID/13937
+852  0    $a CU-A $b NRLF $c GEN $i H6 $z . Volumes relocated to NRLF; inquire at PSE Circulation Desk. $D 2  $O Ceased $3 v.1-62, 1929-1990. (See microfilm copy for v.1-43, no.4, 1929-Apr.1971. with call no. TH7201 .H6 mf)
+852  0    $a CU-A $b PSE $c GEN $h TH7201 $z Status: Ceased publication $D 5  $O Not currently received. $3 v.63-71, 1991-Apr.1999. (See microfilm copies for v.1-44, 1929-1977. with call no. TH7201 H6 mf)
+852  0    $a CU-A $b PSE $c MICRO $D 2  $O Ceased $3 v.1-44, 1929-1977. (See paper copy for v.1-71, 1929-Apr.1999. with call no. TH7201 H6)
+852  0    $a CU-A $b ELECT $c GEN $j Internet $D 2  $O Ceased $3 Check website for coverage
+
+Record 15
+LDR  00943cam^^2200289^^^4500
+001  UCD-001432916
+005  20020819183309.0
+008  701120s1970    nju      b    00110 eng  
+010       $a 73126823
+020       $a 0139576134
+035       $a REMARC73126823
+035  9    $a (UCD)AFB-3908
+043       $a n-us--- $a n-usu--
+049       $a CUVA
+082       $a 301.451
+090       $a F215 $b .F73
+100  1    $a Friedman, Lawrence Jacob, $d 1940-
+245  14   $a The white savage; $b racial fantasies in the postbellum South $c [by] Lawrence J. Friedman.
+260  0    $a Englewood Cliffs, N.J., $b Prentice-Hall $c [1970]
+300       $a vii, 184 p. $c 22 cm.
+350       $a $5.95
+440   0   $a New insights in history
+440   0   $a Spectrum book
+500       $a DVXL: HAS MULTIPLES OF: 852  $a ,  $b ,  $c ,  $h ,  $i 
+650   0   $a African Americans $z Southern States.
+651   0   $a Southern States $x Race relations.
+852  0    $a CU-A $a CU-A $b PSE $b SHLDS $c GEN $c MICRO $h F215 $h ShelvLoc2 $i .F73 $i ItemPt2
+

@@ -1,0 +1,390 @@
+Record 1
+LDR  00826ngm a2200241Ka 4500
+001  4512224
+003  CLU
+005  20020510143000.0
+007  vf cbaho               
+008  000923s1992                      v fre u
+035       $9 07-ASA-7291
+245  00   $a Afrique, je te plumerai $h [videorecording] : $b (Africa, I will fleece you) / $c Jean-Marie Teno.
+260       $b California Newsreel [distributor], $c 1992.
+300       $a 1 videocassette (VHS) (88 min.) : $b sd., col. ; $c 1/2 in.
+500       $a UCLA GEN: DROP INCOMING 005 AND SUBSTITUTE CONFIG VALUE.
+500       $a OUT 856 FIELDS AFTER ALL 852s.
+500       $a TEST REC 7 *****
+650   0   $a Imperialism.
+651   0   $a Cameroon.
+852       $a LAGE $b mg $j VC14784 $3 1 videocassette (VHS) (88 min) : sd., col. ; 1/2 in.
+856   0   $a First 856
+856   0   $a Second 856
+901       $a LAGE $b 4512224
+
+Record 2
+LDR  01103cgm a2200349Ka 4500
+001  4857417
+003  CLU
+005  20020510143000.0
+007  vd cgaizu
+007  vd cgaizu
+008  000509p20001945cau140            vleng d
+035       $a (OCoLC)44009587
+035       $9 07-ATV-1392
+040       $a GZD $c GZD $d CLU
+020       $a 0790744430
+024  1    $a 012569507029
+028  40   $a 65070 $b Warner Home Video/DVD Video
+092       $a 791.4372
+099       $a DVD 158
+049       $a CLUV $o MUSCLSD [MUSCLSD-MULTIMED] $l L0080930803
+245  00   $a Anchors aweigh $h [videorecording] / $c a Metro-Goldwyn-Mayer Picture.
+250       $a Standard version.
+260       $a Burbank, Calif. : $b Warner Home Video, $c 2000.
+300       $a 1 videodisc (140 min.) : $b sd., col. ; $c 3 3/4 in.
+500       $a UCLA GEN: DROP 9XX FROM BIB SEGMENT
+500       $a DROP ALL FIELDS FROM HOL SEGMENT (OUTPUT SOME TO NEW 852)
+500       $a TEST REC 8 *****
+650   0   $a Video recordings for the hearing impaired.
+700  1    $a Sidney, George, $d 1911-
+710  2    $a Metro-Goldwyn-Mayer.
+852       $a LAGE $b muclsdmm $j DVD 158
+901       $a LAGE $b 4857417
+
+Record 3
+LDR  01229cem a2200385Ia 4500
+001  3709641
+003  CLU
+005  20020510143000.0
+006  m        m f      
+007  co cg|
+007  vd cgaizu
+008  920327m19911993vau       z  fs 0   eng d
+035       $a (OCoLC)25541363
+035       $9 07-ANK-0562
+040       $a GPO $c GPO $d MNM $d OCL $d OCLCQ $d CLU
+034  1    $a a $b 100000
+052       $a 3701
+074       $a 0621-J
+086  0    $a I 19.120:D 56/AREA 1-14/OPTION.
+090       $a G3701.P1 $b s100, G46
+049       $a CLUG
+110  2    $a Geological Survey (U.S.)
+245  10   $a Map leading to Godzilla's undersea home
+250       $a US GeoData optional format.
+255       $a Scale: 1:100,000
+260       $a Reston, VA : $b U.S. Dept. of the Interior, U.S. Geological Survey, $c 1991-1993.
+300       $a 14 computer optical discs : $b col. ; $c 4 3/4 in.
+500       $a UCLA GEN: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAGE;  901 sub/b=3709641
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAGE;
+500       $a TEST REC 9 *****
+650   0   $a Monster hideouts $v Maps.
+655   7   $a CD-ROMs. $2 lcsh
+710  2    $a Geological Survey (U.S.). $b National Mapping Division.
+852       $a LAGE $b biper $j Box 99
+901       $a LAGE $b 3709641
+
+Record 4
+LDR  00699nam a22002175  4500
+001  8
+003  CLU-ETH
+005  20020510143000.0
+007  s
+008                 us                  eng  
+028  02   $a 308A $b Indian Records, Inc.
+035       $9 01-AAA-0007
+245  00   $a 16 Northern Cheyenne Pow Wow Songs $h sound recording
+260       $a Fay, Oklahoma : $b Indian Records, $c 19--?
+500       $a UCLA EMA: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAEM;  901 sub/b=8
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAEM;
+500       $a TEST REC 10 *****
+690   0   $a Indians of North America.
+690   0   $a Cheyenne Indians.
+852       $a LAEM $b etstx $h ARC172 $i .vol. 1-2 $z Two copies.
+901       $a LAEM $b 8
+
+Record 5
+LDR  00884ngm a22001931i 4500
+001  9999
+003  CLU-FT
+005  20020510143000.0
+007  vf|cbahom
+008        s1955    xxu                 eng d
+245  00   $a Mothra rules / $c RKO Radio
+260       $c 1955.
+500       $a UCLA FTV: CREATE 901 BASED ON 001 AND 003 VALUES. 901 sub/a=LAFT;  901 sub/b=6597
+500       $a CREATE 852 sub/a BASED ON 003; sub/a=LAFT;
+500       $a TEST REC 11 *****
+650   0   $a Monsters $v Drama.
+655   7   $a Features. $2 mim
+852       $a LAFT $b ftarsc $j VA1834 M $z AVAILABILITY: Study copy. Available for onsite viewing only. $z PRESERVATION: Stage 3 preservation. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 1 videocassette of 1 (VHS) (87 min.) : sd., col. ; 1/2 in.
+901       $a LAFT $b 9999
+
+Record 6
+LDR  01498nmm a2200265ia 4500
+001  4306875
+003  CLU
+005  20020510143000.0
+008  990624s1998    fr         u        fre d
+245  00   $a Mothra learns PL/I in France.
+250       $a [Nouvelle version] CD-ROM PC/Mac.
+260       $a [Paris] : $b Havas Interactive, $c c1998.
+300       $a 1 computer optical disc : $b sd., col. ; $c 4 3/4 in. + $e 1 guide (inserted in jewel case).
+500       $a UCLA GEN: CHECK THAT 852 SUBFIELD OUTPUT FROM 852 INPUT MATCHES SPEC
+500       $a TEST REC 12 *****
+852       $a LAGE $b arsc $c Collie $c Calf $e Ermine $e EEK $e Elf $z Zhol1** $3 v.111
+852       $a LAGE $b biper $f Frog $f Fawn $g Godzilla $g Goat $j Jellyfish Coll $z Zhol3** $3 v.333
+852       $a LAGE $b cars $h Halogen $i Icythyosaur $i Inchworm $z Zhol4** $3 v.444
+852       $a LAGE $b eanews $j Juggernaut Coll $k Kangaroo Rat $k Kidney $k Kingfisher $l Luna Moth $z Zhol5** $3 v.555
+852       $a LAGE $b idcoll $j JuneBug $m Mosquito $m Mermaid $m Mulligatawny $z Zhol6** $z Zanza $3 v.666
+852       $a LAGE $b lwsc $n Nutshell $p PrarieDog $q Quacker $z Zhol7** $3 v.777
+852       $a LAGE $b mg $h DC39 $i .A2 1998 $s Scarlet $s Silk $s Satin $t Taffeta $z Zhol888**
+852       $a LAGE $b scav $z Zorro $z Zhol9 $3 v.999
+852       $a LAGE $b ueefolk $c Citrine $c Coral $e Emerald $e Earthfire $f Fire Agate $f Fools Gold $f Feldspar $g Garnet $g Grenadine $h Heliotrope $i Iolite $i Indian Star Ruby $j Jade $k Kyanite $k Keraline $l Lapis Lazuli $m Moonstone $m Malachite $n Nephrite $p Peridot $q Quartz $s Sardonyx $s Sea Jasper $t Topaz $z Zircon $z Zoisite $z Zhol10 $3 v.101010
+901       $a LAGE $b 4306875
+
+Record 7
+LDR  01445nas a2200241 a 4500
+001  4978
+003  CLU
+005  20020510143000.0
+008  980402c19uu9999azuuu         0    0eng d
+010       $a sn 98017887 
+130  0    $a Art life (Central and Northern Arizona ed.)
+245  00   $a Art life.
+246  13   $a Art life Arizona
+250       $a Central and Northern Arizona ed.
+260       $a Tucson, AZ : $b The Stanbery Corp.,
+300       $a v. : $b ill. ; $c 23 x 10 cm.
+500       $a UCLA GEN: DO NOT OUTPUT sub/x SUBFIELDS FROM 852,866,867,868, BUT DO OUTPUT sub/z and sub/3 from those fields.
+500       $a PUT LABEL SUPPLEMENTS IN FRONT OF sub/a FROM 867s; PUT LABEL INDEXES IN FRONT OF sub/a FROM 868s.
+500       $a TEST REC 13 *****
+650   0   $a Art museums $z Arizona $x Directories.
+852       $a LAGE $b arsc $h N511.A7 $i A78 $z Output this note from 852. $z Banana:Output this note from the 866 $z Kiwi:Output this note from the 867 $z Plum:Output this note from the 2nd 867 $z Fig:Output this note from the 868 $3 v.90-95; v.99-102; Supplements:v.95A,97A; v.99B; Indexes:v.1-100
+852       $a LAGE $b yrpe $k Oversize $m Latest in secret alcove $z Radish:Output from first 866 $z Turnip:Output from 2nd 866 $z Carrot:Output from 3rd 866 $z Bean:Output2 from 3rd 866 $z Pea:Output from the 867 $z Broccoli:Output2 from 867 $z Rutabaga:Outputfrom 868 $z Yam:Outputfrom 2nd 868 $z Endive:Output2 from 2nd 868 $3 v.2-17; v.18-80; v.81-88; Supplements:v.77A; Indexes:v.1-100; v.101-200
+901       $a LAGE $b 4978
+
+Record 8
+LDR  01821nas a2200409   4500
+001  17423
+003  CLU
+005  20020510143000.0
+008  750824c19619999ne mrzp       0   a0eng d
+010       $a sf 80000094 $z sn 80008490
+022  0    $a 0014-3138
+035       $a (OCoLC)01568475
+035       $9 07-AOS-3114
+042       $a lc $a nsdp
+043       $a e------
+049       $a CLUL
+050  00   $a LAW
+050  14   $a KJC7101.3 $b .E97
+210  0    $a Euro. tax.
+222   0   $a European taxation
+245  00   $a European taxation.
+246  10   $a ET : European taxation. $f <1997>-
+260       $a [Amsterdam, $b International Bureau of Fiscal Documentation]
+300       $a v. $c 28 cm.
+310       $a Monthly $b <, May 1973->
+321       $a Biweekly, $b Jan. 1961-
+362  0    $a v. 1-   Jan. 15th, 1961-
+500       $a UCLA GEN: BIB RECORD LACKS 005; CREATE ONE FROM CONFIG FILE DATE
+500       $a TEST REC 14 *****
+510  2    $a Public Affairs Information Service bulletin $x 0033-3409
+525       $a Kept up to date by loose-leaf entitled: Supplementary service to European taxation.
+650   0   $a Taxation $x Law and legislation $z Europe $v Periodicals.
+710  2    $a International Bureau of Fiscal Documentation.
+730  0    $a Supplementary service to European taxation.
+852       $a LAGE $b lw $h KJC7101.3 $i .E97 $z Cumulative indexes are bound with the last volume covered.  Annual indexes are bound with volumes after volume 11. ** Do not retain binders for issues. $z 1967 out of print.  Loose-leaf with older supplementary material bound. $3 B1-42(1961-2002)U43N1-10(2003); Supplements:SUPPLEMENTARY SERVICE:U(1963-2002)UN1-10(2003); SECTION E (SUPPLEMENTARY SERVICE):B(1963-66).B(1968-71).B(1976-81).B(1986-92); Indexes:CUMULATIVE INDEXES:B1-2(1961-62)B3-4(1963-64)B5-6(1965-66)B7-8(1967-68)B9-10(1969-70)
+852       $a LAGE $b lwsc
+901       $a LAGE $b 17423
+
+Record 9
+LDR  01623nXZ a2200409 a 4500
+001  52269
+003  CLU
+005  20020510143000.0
+007  t
+008  830803s1983    nyu      b     01 0 eng  
+010       $a    83072214 
+020       $a 0872623750 (pbk.)
+035       $a (OCoLC)09829991
+035       $9 07-AAI-4646
+039  0    $a 2 $b 3 $c 3 $d 3 $e 3
+040       $a DLC $c DLC $d CLU
+050  0    $a TH4581 $b .A427 1983
+082  0    $a 621.48/35$219
+110  2    $a American Society of Civil Engineers.
+260       $a New York, N.Y. : $b American Society of Civil Engineers, $c c1983.
+300       $a xi, 23 p. ; $c 23 cm.
+500       $a UCLA GEN: NONDELETE REC HAS NO 245, UNKNOWN LOC, INVALID TYPE, & INVALID BIBLEVEL; CREATE 4 998 FIELDS; WRITE TO ERROR FILE; WRITE TO OUTPUT FILE
+500       $a TEST REC 15 *****
+500       $a On cover: ASCE standard.
+504       $a Includes bibliographical references and index.
+650   0   $a Nuclear power plants $x Design and construction.
+650   0   $a Civil engineering.
+650   0   $a Earthwork.
+740  01   $a N725 guideline for design and analysis of nuclear safety related earth structures.
+740  01   $a ASCE standard.
+852       $a LAGE $b badbadLocation $h TH4581 $i .A426 1983
+852       $a LAGE $b sr
+901       $a LAGE $b 52269
+998       $a LAGE $b 1003 $c Record contains the unknown location code badbadLocation $d Release-027-000 $e 52269
+998       $a LAGE $b 1004 $c Record contains the invalid leader type X $d Release-027-000 $e 52269
+998       $a LAGE $b 1005 $c Record contains the invalid bibliographic level Z $d Release-027-000 $e 52269
+998       $a LAGE $b 1002 $c Record contains no 245 field $d Release-027-000 $e 52269
+
+Record 10
+LDR  00965dQP a2200313   4500
+001  54758
+003  CLU
+005  20020510143000.0
+007  t
+007  t
+008  730131s1972    inu      b     00 0 eng  
+010       $a    72090559 
+035       $a (OCoLC)00578230
+035       $9 07-AAV-2307
+040       $a DLC $c DLC $d m.c. $d CLU
+050  0    $a LB2806 $b .B33
+100  1    $a Barnes, Ronald E.
+260       $a Bloomington, Ind., $b Phi Delta Kappa Educational Foundation $c [1972]
+300       $a 38 p. $c 18 cm.
+440   0   $a PDK fastbacks, $v 9
+500       $a UCLA GEN: DELETE REC HAS NO 245, UNKNOWN LOC, INVALID TYPE, & INVALID BIBLEVEL; CREATE NO 998 FIELDS; DON'T WRITE TO ERROR FILE; WRITE TO OUTPUT FILE
+500       $a TEST REC 16 *****
+504       $a Bibliography: p. 35-38.
+650   0   $a Educational planning.
+650   0   $a School management and organization.
+852       $a LAGE $b horribleloc
+852       $a LAGE $b yrsr $h LB2806 $i .B263l
+852       $a LAGE $b sr
+901       $a LAGE $b 54758
+
+Record 11
+LDR  16103ngm a22009731i 4500
+001  6597
+003  CLU-FT
+005  20020510143000.0
+007  vf|cbahom
+007  mr|caaafm|artacac198503
+007  mr|caaafm|artacac198701
+007  mr|caaafm|artacai198701
+007  vf|ccahrm
+007  vf|ccahrm
+007  vf|ccahrm
+007  vr|c ahpm
+007  mr|caaafm|artacac198602
+007  mr|bab fn|aetknai198410
+007  mr|bab fn|aetinai198410
+007  mr|bab fn|aetjnai198410
+007  mr|naaafm|betnnai198504
+007  mr|n a dm|  tnnai198504
+007  mr|n abdm|n tnnac
+007  st|omncmb|nn e
+007  st|pmnzmb|nn e
+007  st|pmnzmb|nn e
+007  mr|cabafn|boih ni
+007  mr|cabafn|boii ai198712
+007  mr|cabafn|boij ai198712
+007  mr|naaafm|bdinnni198311
+007  mr|cabafn|aeig ni
+007  mr|cabafn|aeih ni
+007  mr|cabafn|aeik ni
+007  mr|cabafn|  ik ni
+007  st|omncmb|nn e
+007  mr|naabfm|n|tnnac199810
+008        s1935    xxu                 eng d
+035       $9 04-AAA-6617
+040       $a CLU $c CLU
+245  00   $a Becky Sharp / $c RKO Radio ; producer, Kenneth Macgowan ; director, Rouben Mamoulian ; screen play, Francis Edward Faragoh.
+260       $c 1935.
+500       $a UCLA FTV: RECORD HAS 28 HOL SEGMENTS; CHECK THAT ALL ARE HANDLED PROPERLY; MOVE 007s FROM HOL SEGS TO BIB SEG OF OUTPUT RECORD
+500       $a TEST REC 17 *****
+562       $c Restored version.
+500       $a Based on Vanity fair by W.M. Thackeray.
+511  1    $a Miriam Hopkins, Frances Dee, Cedric Hardwicke, Billie Burke, Alison Skipworth, Nigel Bruce, Colin Tapley, G.P. Huntley, Jr., William Stack, George Hassell, William Faversham, Charles Richman, Doris Lloyd, Leonard Mudie, Bunny Beatty, Charles Coleman, May Beatty, Finis Barton, Alan Mowbray.
+508       $a Designed by Robert Edmond Jones; photographed by Ray Rennahan; editor, Archie Marshek.
+500       $a Credits were supplied from Maltin, 1992, and Film daily yearbook, 1936.
+500       $a Playing time on release was 83 min., according to: Maltin, 1993.
+599  1    $a PRESERVATION HISTORY: Preserved at UCLA in a number of stages. Stage 1 was completed in 1984. Around 1988 (stage 2), Italian print material was obtained, which allowed the picture on the last reel to be upgraded, while the somewhat splicey English sound track was edited to fit the Italian print material. For stage 3, a print was obtained from the Netherlands that allowed improvement in both picture and sound quality.
+650   0   $a Fortune hunters $z England $v Drama.
+655   7   $a Features. $2 mim
+655   7   $a UCLA preservation. $2 local
+700  1    $a Mamoulian, Rouben. $e direction
+700  1    $a Thackeray, William Makepeace, $d 1811-1863. $t Vanity fair.
+852       $a LAFT $b ftarsc $j VA1834 M $z AVAILABILITY: Study copy. Available for onsite viewing only. $z PRESERVATION: Stage 3 preservation. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 3/4 in. videocassette (M53897). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 1 videocassette of 1 (VHS) (87 min.) : sd., col. ; 1/2 in.
+852       $a LAFT $b ftcoms $j M32244 $q Select print. Excellent condition (Melnitz cond. report, 2/21/91). $z CONDITION: Select print. Excellent condition (Melnitz cond. report, 2/21/91). $z AVAILABILITY: Research copy. Usually available for onsite viewing; some restrictions may apply. Projection only; no individual viewing. $z PRESERVATION: Stage 2 preservation. $z NOTES: New computer-generated UCLA Film and Television Archive logo (gold version) added to head, r1. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 5 reels of 5 (85 min.) (ca. 10000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAFT $b ftcoms $j M34211 $q No intro. titles. $z CONDITION: No intro. titles. $z AVAILABILITY: Research copy. Usually available for onsite viewing; some restrictions may apply. Individual use only; no projection. $z PRESERVATION: Stage 2 preservation. $z NOTES: Second best print. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 5 reels of 5 (ca. 9000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAFT $b ftcoms $j M34228 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z PRESERVATION: Early version of restoration (stage 1?). $z REPRODUCTION: Reproduced by the UCLA Film, Television and Radio Archives from 16 mm. blow-up materials. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z ADDITIONAL PHYSICAL DESCRIPTION: r5AB. $3 1 reel of 5 (r5) (ca. 1000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAFT $b ftcoms $j M41545 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. Missing from assigned location prior to SRLF move. $z PRESERVATION: Earlier stage of preservation, possibly stage 2? $z NOTES: "Second best tape." $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from 35 mm. safety print (M32244). $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 2 videocassettes of 2 : sd., col. ; 3/4 in.
+852       $a LAFT $b ftcoms $j M53897 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. $z PRESERVATION: Stage 3 preservation. $z NOTES: "CS2918." "Select tape." $z REPRODUCTION: Pic reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 1993 by Archive Preservation unit; recorded at the Post Group, Feb. 9, 1993, by UCLA Film and Television Archive. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 2 videocassettes of 2 (87 min.) : sd., col. ; 3/4 in.
+852       $a LAFT $b ftcoms $j M57718 $q Print source in excellent condition. $z CONDITION: Print source in excellent condition. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Conservation copy. $z PRESERVATION: Stage 3 preservation? $z REPRODUCTION: Reproduced from 35 mm. safety print (M32244) and uninventoried 35 mm. nitrate print from Netherlands Film Museum; sd. reproduced from uninventoried 35 mm. mag trk master produced in 199? by Archive preservation unit; recorded at the Post Group by UCLA Film and Television Archive. $z Reproduction for preservation purposes permitted by NTA (Republic), Feb. 1993. $3 2 videocassettes of 2 (85 min.) : sd., col. ; 3/4 in.
+852       $a LAFT $b ftpres $j XVE728 -729 M $q 1 min. overlap between r1 and r2. $z CONDITION: 1 min. overlap between r1 and r2. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z PRESERVATION: DV NVTC Ch3 (12/13/88). Has campus no. 5a,bo. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive at the Post Group from 35 mm. safety print (M34211) at stage 1 of preservation, before upgrading of last reel, 1988. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: XVE728 -729 M. $3 2 videoreels of 2 : sd., col. ; 1 in.
+852       $a LAFT $b ftcoms $j M32235 $z AVAILABILITY: Withdrawn, 1987. $z NOTES: Second best print; preview print. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: A1-468-3 $3 5 reels of 5 (ca. 10000 ft.) : opt sd., EC (col.), low-fade ; 35 mm. safety print.
+852       $a LAFT $b ftpres $j M28359 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r1AB, 2A, 3B, 4B. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-13. $3 5 reels of 10 (r1-3, 6, 8) (ca. 5000 ft.) : yellow ; 35 mm. safety prsv pic masterpos.
+852       $a LAFT $b ftpres $j M28360 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r1B. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-19. $3 1 reel of 10 (r2) (ca. 1000 ft.) : cyan ; 35 mm. safety prsv pic masterpos.
+852       $a LAFT $b ftpres $j M28361 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Untimed, intermediate stage. r5A. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-9. $3 1 reel of 10 (r9) (ca. 1000 ft.) : magenta ; 35 mm. safety prsv pic masterpos.
+852       $a LAFT $b ftpres $j M16779 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z PRESERVATION: Stage 2?. $z NOTES: r1=r4+6;r2=r5+8;r3=r7+9. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from original sound trk neg cut to short version. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: XFE4335-4337 M. $3 3 reels of 5 : opt sd. ; 35 mm. safety prsv dbl edge trk masterpos.
+852       $a LAFT $b ftcoms $j M16790 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. Missing from assigned location prior to SRLF move. $z ADDITIONAL PHYSICAL DESCRIPTION: Mixed, restored sd. trk. $z NOTES: r1=r1-4; r2=r5-9. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from separate 35 and 16 mm. trk elements (UCLA/NTA). $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: A6-68-2. $3 2 reels of 3 ; 16 mm. safety prsv trk.
+852       $a LAFT $b ftpres $j M16780 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: Raw trks; must be mixed. $z NOTES: Each can, 2 rolls, except r4=1 roll, r7=1 roll, r9=1 roll; 1=16 dub; 1=35 dub. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA, 1985. $z LOCATION: P1-26. $3 9 reels of ? : sd., 24 fps, edge trk, 1-trk, mono. ; 16 mm. prsv mag trk.
+852       $a LAFT $b ftcoms $j M21349 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z NOTES: "Box 7." $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from various sources. $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $3 9 sound tape reels of 9 : analog, 7 1/2 ips, 2-trk., mono. ; 7 in. prsv mag trk master.
+852       $a LAFT $b ftpres $j XAG304 -306 M $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: 2500 ft. reel. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from Dutch-subtitled 35 mm. nitrate print (M53415). $z Reproduction for preservation purposes permitted by ,̲̲̲̲̲̲ Dec. 1993. $z LOCATION: XAG304 -306 M. $3 3 sound tape reels of 3 : analog, 15 ips, 2-trk, mono. ; 10 1/2 in. prsv mag trk master.
+852       $a LAFT $b ftpres $j XAG307 -308 M $q Print source was incomplete. $z CONDITION: Print source was incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z ADDITIONAL PHYSICAL DESCRIPTION: 1200 ft. reel. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from 35 mm. nitrate trk neg (M26965). $z Reproduction for preservation purposes permitted by NTA (Republic), Dec. 1993. $z LOCATION: XAG307 -308 M. $3 2 sound tape reels of 2 : analog, 15 ips, 2-trk., mono. ; 10 1/2 in. prsv mag trk master.
+852       $a LAFT $b ftnitr $j M34279 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-R10-16. $3 2 reels of ? (r2,9) (ca. 2000 ft.) : blue ; 35 mm. nitrate pic neg.
+852       $a LAFT $b ftnitr $j M53959 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-L12-13. $3 1 reel of ? (r8) (ca. 1000 ft.) : cyan ; 35 mm. nitrate pic neg.
+852       $a LAFT $b ftnitr $j M53960 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-L12-14. $3 1 reel of ? (r2) (ca. 1000 ft.) : magenta ; 35 mm. nitrate pic neg.
+852       $a LAFT $b ftnitr $j M26965 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F109-R30-2. $3 6 reels of 9 (r4-9) (ca. 6000 ft.) : opt sd. ; 35 mm. nitrate trk neg.
+852       $a LAFT $b ftnitr $j M34281 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: F104-R10-20. $3 6 reels of ? (r1,3-4,6-8) (ca. 6000 ft.) : red ; 35 mm. nitrate pic masterpos.
+852       $a LAFT $b ftnitr $j M34282 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: LOCATION: F104-R13-24. $3 8 reels of ? (r1-7,9) (ca. 8000 ft.) : blue ; 35 mm. nitrate pic masterpos.
+852       $a LAFT $b ftnitr $j M34283 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z LOCATION: LOCATION: F104-R10-26. $3 2 reels of ? (r5,7) (ca. 2000 ft.) : yellow ; 35 mm. nitrate pic masterpos.
+852       $a LAFT $b ftnitr $j M34280 $q Incomplete. $z CONDITION: Incomplete. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z PRESERVATION: Used in early stage of restoration; not printing materials. $z LOCATION: LOCATION: F104-R10-18. $3 2 reels of ? (r2,5) (ca. 2000 ft.) : yellow ; 35 mm. nitrate preprint.
+852       $a LAFT $b ftnitr $j XAF399 M $z PART/ELEMENT: Intro music. $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z REPRODUCTION: Reproduced by UCLA Film and Television Archive from ?.̲̲̲̲̲̲̲̲̲̲̲ $z Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z LOCATION: XAF399 M. $3 1 sound tape reel of ? : analog, 7 1/2 ips, 2-trk., mono. ; 7 in.? prsv mag trk master.
+852       $a LAFT $b ftpres $j M67642 $z AVAILABILITY: Archival copy. Not available for viewing. Contact the Research and Study Center for further information. $z REPRODUCTION: Reproduced by the UCLA Film and Television Archive from prsv sound tape reels (XAG304 -308 M). Reproduction for preservation purposes permitted by NTA (Republic), 1985. $z PRESERVATION: Final prsv mag. $z LOCATION: PRES. VAULT. $3 9 reels of 9 (ca. 9000 ft.) ; 35 mm. safety prsv re-recorded mag trk.
+901       $a LAFT $b 6597
+
+Record 12
+LDR  00661nam a22002295  4500
+001  8
+003  CLU-ETH
+005  20020510143000.0
+007  s
+008                 us                  eng  
+028  02   $a 308A $b Indian Records, Inc.
+035       $9 01-AAA-0007
+100       $a Arden, Dale
+245  00   $a The history of the planet Mongo
+260       $a Mingo City, Mongo : $b Astral Publishing $c 19--?
+500       $a UCLA EMA: DROP 852s FROM BIB SEGMENT
+500       $a TEST REC 18 *****
+600   0   $a Merciless, Ming the
+600   0   $a Gordon, Flash.
+650   0   $a Clay People
+852       $a LAEM $b etdiss $j Box 9 in secret passage $z Two secret words required to open.
+901       $a LAEM $b 8
+
+Record 13
+LDR  01007nas a2200313   4500
+001  199966
+003  CLU
+005  20020510143000.0
+008  750824c19619999ne mrzp       0   a0eng d
+010       $a 80000094
+022  0    $a 0014-3138
+035       $a (OCoLC)01568475
+035       $9 07-AOS-3114
+042       $a lc $a nsdp
+043       $a e------
+049       $a CLUL
+245  00   $a Dragon collectors' magazine.
+260       $a [Amsterdam, $b IBFD
+300       $a v. $c 35 cm.
+310       $a Monthly $b <, May 1973->
+321       $a Biweekly, $b Jan. 1961-
+362  0    $a v. 1-   Jan. 15th, 1961-
+500       $a UCLA: RECORD CONTAINS SHARED PRINT JSTOR LOCATION "srucl2". OUTPUT 793 NOTE WITH SUBFLD a = "UCL Shared Print" AND SUBFLD p = "JSTOR serials" (05/05).
+500       $a TEST REC 19 *****
+650   0   $a Dragons $x Collectors and collecting $v Periodicals.
+793       $a UCL Shared Print $p JSTOR serials
+852       $a LAGE $b srucl2 $h NK5173 $i .A46 $3 B1-42(1961-2002)U43N1-10(2003)
+852       $a LAGE $b ar* $3 v.44- (2004-)
+901       $a LAGE $b 199966
+

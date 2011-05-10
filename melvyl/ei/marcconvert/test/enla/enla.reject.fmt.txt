@@ -1,0 +1,117 @@
+Record 1
+LDR  00690cas a2200229 a 4500
+001  3806866
+003  CLU
+005  20040311130725.0
+008  750514c19609999caumx1p       0   a0eng d
+245  04   $a The Alien behavioral scientist.
+260       $a Princeton, N.J. : $b A. De Grazia, $c c1960-
+300       $a v. : $b ill ; $c 23-28 cm.
+500       $a UCLA GEN PE: RECORD HAS NO 009 FIELD. REJECT FOR NO 009 FIELD.
+500       $a TEST REC 1 *****
+655   7   $a Online resources. $2 local
+780  00   $t Political research, organization and design $w (DLC)   86655223 $w (OCoLC)10002746
+001  5548677
+003  CLU
+004  3806866
+005  20030912101538.0
+008  9907251u    0   0   au    990725
+852       $a CLU $b sr
+
+Record 2
+LDR  00604cas a2200169i  4500
+001  3295
+003  CLU
+005  20020510143000.0
+008  750726c18679999ilumr1p      u0   a0enged
+245  04   $a The American un-naturalist.
+260       $a Chicago, Ill. [etc.] $b Published for the American Society of UnNaturalists by the University of Chicago Press [etc.]
+300       $a v. $b ill. $c 27 cm.
+500       $a UCLA GEN PE: RECORD HAS NO 852 IN HOLDING SEGMENT. REJECT FOR NO OUTPUT 852.
+500       $a TEST REC 2 *****
+650   0   $a Un-natural history $x Periodicals.
+710  2    $a American Society of Un-naturalists.
+901       $a LAGE $b 3295
+
+Record 3
+LDR  00582nem a2200169I  4500
+001  2357971
+003  CLU
+005  20020510143000.0
+008  820809s1968    fr        a     0   fre  
+245  10   $a Treasure map
+260       $a [Paris] $b Association of African Geological Surveys, Unesco, $c 1968.
+300       $a col. map $c 182 x 181 cm. on 9 sheets 68 x 101 cm. or smaller.
+500       $a UCLA GEN MAP: RECORD HAS 2 HOL SEGS. EACH HAS 1 852 WITH NO $b . REJECT FOR NO OUTPUT 852 FIELDS.
+500       $a TEST REC 3 *****
+507       $a Scale 1:5,000,000.
+650   0   $a Geology $z Africa $x Maps.
+901       $a LAGE $b 2357971
+
+Record 4
+LDR  00765ncm a2200277Ia 4500
+001  4616593
+005  20011208120715.0
+008  010601s2001    wiumua         n    eng d
+020       $a 063403023X
+110  2    $a Beatles.
+240  10   $a Songs. $k Selections
+245  10   $a 1 : $b piano, vocal, guitar / $c The Beatles.
+246  3    $a One
+260       $a Milwaukee, WI : $b H. Leonard Corp., $c [2001?].
+300       $a 1 score (109 p.) ; $c 31 cm.
+500       $a UCLA GEN MUSIC: BIB SEGMENT LACKS 003 FIELD: REJECT
+500       $a TEST REC 4 *****
+650   0   $a Rock music $y 1961-1970.
+009  00273nx. a22001331i.4500
+001  6196955
+003  CLU
+004  4616593
+005  20020215163127.0
+007  t
+008  0112080u    0   0   uueng 011208
+852  0    $a CLU $b mu $h M1741.18.B36 $i S6 2001
+
+Record 5
+LDR  00718nim a2200229i  4500
+001  463252
+003  CLU-BLOTZ
+005  19950807153920.0
+007  sd|bsmenn|||ue      
+008  800709s1961    pau  n         l    eng d
+245  00   $a Actual speeches of Franklin D. Roosevelt and John F. Kennedy. $h Sound recording $c Franklin D. Roosevelt, John F. Kennedy.
+262       $a Media, PA, $b Miller International, $c P-16100. $d 1961?
+305       $a 1 disc. $b 33-1/3 rpm. stereo. $c 12 in.
+500       $a UCLA:  003 IN BIB SEGMENT IS INVALID: REJECT
+500       $a TEST REC 5 *****
+009  00257nx  a22001331i 4500
+001  24523
+003  CLU
+004  463252
+007  sd-bsmenn---ue
+008  9808210u    8   4   aueng 980821
+852       $a CLU $b sr
+
+Record 6
+LDR  00901cjm a2200265Ia 4500
+003  CLU
+005  20020913203033.0
+007  sd fungnn|||ee
+008  910517p19901941dcusgn   abdfi      eng d
+010       $a    91741910
+099       $a CDA 13496
+100  1    $a Hill, Joe, $d 1879-1915.
+245  10   $a Don't mourn--organize! $h [sound recording] : $b songs of labor songwriter Joe Hill.
+260       $a Washington, DC : $b Smithsonian/Folkways ; $a Cambridge, Mass. : $b Nationally distributed by Rounder, $c p1990.
+300       $a 1 sound disc : $b digital ; $c 4 3/4 in.
+500       $a UCLA: BIB SEGMENT LACKS 001. REJECT.
+500       $a TEST REC 6 *****
+650   0   $a Working class $z United States $v Songs and music.
+600  10   $a Hill, Joe, $d 1879-1915 $v Songs and music.
+650   0   $a Protest songs $z United States.
+009  00281nx. a22001331i.4500
+001  6416319
+003  CLU
+004  4672694
+852  4    $a CLU $b muclsdsdr $j CDA 13496
+

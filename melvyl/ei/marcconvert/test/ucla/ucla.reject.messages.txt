@@ -1,0 +1,5 @@
+Record Rejected: I-8 R-1 901 field is missing
+Record Rejected: I-10 R-2 no 852 was generated
+Record Rejected: I-13 R-3 901 field is missing
+Record Rejected: I-14 R-4 901 field is missing
+Record Rejected: I-17 R-5 no 852 was generated

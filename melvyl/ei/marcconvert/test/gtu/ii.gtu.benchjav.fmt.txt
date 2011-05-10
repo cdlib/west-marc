@@ -1,0 +1,1238 @@
+Record 1
+LDR  01084cam  2200277   45  
+001  14430150-B
+005  19910823000000.0
+008  800305s1961    it       b    00100 ger  
+010       $a 62035202
+040       $c CBGTU $d CBGTU
+100  1    $a Mainka, Rudolf M.
+245  10   $a Zinovij von Oten'; $b ein russischer Polemiker und Theologe der Mitte des 16. Jahrhunderts.
+260  0    $a Roma, $b Pont. Institutum Orientalium Studiorum, $c 1961.
+300       $a xvi, 226 p. $c 24 cm.
+490  1    $a Orientalia Christiana analecta ; $v 160.
+500       $a GTU: REC ID IN 901 $a IS 8 CHARS LONG - DROP FINAL CHECK CHAR & OUTPUT 7 DIGIT ID IN OUTPUT 901 $b; OUTPUT "GTB" IN 901 $a (04/02).
+500       $a 902 FLD BEGINS "19" - ADD "19" TO BEGINNING OF 902 & OUTPUT IN 005 IN MARC 21 STANDARD FORMAT.
+500       $a Includes indexes.
+504       $a Bibliography: p. [xiii]-xvi.
+600  00   $a Zinoviæi, $c Otenskiæi, $d d. 1568.
+830   0   $a Orientalia Christiana analecta ; $v 160.
+901       $a GTUb11500001 $b gtu   $c -
+902       $a 920401
+920       $a BX101 $b .O7 no.160 $l gtu
+998       $s 9116
+999       $b 2 $c 920207 $d m $e a $g 0
+
+Record 2
+LDR  01382cas  2200361   45  
+001  010-S
+005  19910823000000.0
+008  800801c19539999gw ar p      ü1bhuü0gerüa
+010       $a 57046675 //r67
+040       $c CBGTU $d CBGTU
+043       $a ee-----
+111  2    $a Kongress Kirche in Not.
+245  10   $a Kirche in Not.
+260  00   $a Kèonigstein/Ts., $b Ostpriesterhilfe $c [1953-
+300       $a v. $c 21 cm.
+362  0    $a 1-
+500       $a GTU PE: OUTPUT 852'S FROM 1ST 920; OUTPUT CALL NUM FROM 1ST 920 $a $b TO 852 $h $i FOR ALL 852'S (04/02).
+500       $a OUTPUT HOLDINGS FROM 1ST VALID $b IN 1ST 950 TO 852 $3 OF 1ST 852; OUTPUT DEFAULT HOLDINGS NOTE IN 852 $3 OF ALL OTHER 852'S.
+500       $a Proceedings of the 1st and 3rd congresses (1951,1954) not published.
+500       $a Each vol. has also distinctive title.
+555       $a Vols. 1-10 öiön v. 10.
+610  20   $a Catholic Church $z Europe, Eastern $x Congresses.
+650   0   $a Persecution $z Europe, Eastern $x Congresses.
+901       $a GTUb11552761 $b gtu   $c -
+902       $a 930317
+920       $a BR738.6 (1ST 920) $b .K6 $l gtu $l grar $l gper
+920       $u v.39 (2ND 920) $l grar(2ND 920)
+920       $a BR738.6 (3RD 920) $b .K6 $u v.38 1990 $l garc(3RD 920)
+920       $u v.37 1990 (4TH 920) $l gper(4TH 920)
+950       $b 1ST 950$b $b *** GTU has v.1- (2ND 950 $b) $b 3RD 950$b
+950       $b v.4(2ND 950)-
+998       $s 9116
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 3
+LDR  01113cam  2200289 i 45  
+001  14430509-B
+005  19910823000000.0
+008  800305s1919    gw a     b    üü11ü ger  
+010       $a 22008181
+040       $c CBGTU $d CBGTU
+043       $a f-it---
+100  1    $a Mèuller, Nikolaus, $d 1857-1912.
+245  14   $a Die Inschriften der jèudischen Katakombe am Monteverde zu Rom / $c entdeckt und erklèart von Nikolaus Mèuller ; vervollstèandigt und hrsg. von Nikos A. Bees.
+260  0    $a Leipzig : $b Harrassowitz, $c 1919.
+300       $a ix, [i], 184 p. : $b ill. ; $c 33 cm.
+490  1    $a Schriften - Gesellschaft zur Fèorderung der Wissenschaft des Judentums.
+500       $a GTU: OUTPUT INCOMING 001 AS IS IN 035 FIELD (05/06).
+504       $a Bibliography: p. [x]
+650   0   $a Inscriptions, Jewish.
+651   0   $a Rome (Italy) $x Antiquities.
+700  10   $a Beåes, Nikos A. $q (Nikos Athanasiou), $d 1882-1958.
+830   0   $a Schriften (Gesellschaft zur Fèorderung der Wissenschaft des Judentums (Germany))
+901       $a GTUb11500013 $b gref  $c -
+902       $a 930223
+920       $a CN745 $b .M $l gref
+998       $s 9666
+999       $b 1 $c 920207 $d m $e a $g 4
+
+Record 4
+LDR  00744cam  2200205   45  
+001  14430932-B
+005  19910823000000.0
+008  800305s1974    ja c          00000 eng d
+040       $a CBGTU $c CBGTU
+245  00   $a Experiences of members in the Divine Light Program.
+260  0    $a Atami, Japan : $b Church of World Messianity, $c c1974.
+300       $a 224 p. : $b ports. ; $c 21 cm.
+500       $a GTU: 3 LOCS IN 1ST 920 WITH COPY INFO IN PARENS; REMOVE COPY INFO & OUTPUT IN 3 852'S.  920 HAS $a ONLY - OUTPUT AS 852 $j FOR ALL LOCS (04/02).
+610  20   $a Sekai Kyåuseikyåo.
+710  20   $a Sekai Kyåuseikyåo.
+901       $a GTUb11500025 $b gtu   $c -
+902       $a 920401
+920       $a BL2228.S43.E9 $l (2)gtu $l (3)gref $l (2)grar
+998       $s 9116
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 5
+LDR  01634cas  2200409   45  
+001  0319-S
+005  19910823000000.0
+008  810803c19699999nyumn p       0uuu 0eng d
+010       $a sc 81005002  $z 78004436 /sn
+022       $a 0364-4103
+040       $a MBTI $c MBTI $d NSDP $d DLC $d CBGTU
+042       $a nsdp $a lc
+212  0    $a Joint Strategy and Action Committee grapevine.
+222  00   $a JSAC grapevine.
+240       $a published 10 times/year.
+245  00   $a JSAC grapevine.
+246       $a Grapevine.
+246  10   $a Grapevine.
+260  00   $a New York, $b Joint Strategy and Action Committee, $c 1969-
+265       $a 475 Riverside Dr., Room 1700A, 10027.
+300       $a v. $b ill. $c 28 cm.
+310       $a Monthly (except Aug. and Dec.) $b < Feb. 1975->
+321       $a Seven no. a year, $b Feb. 1969-
+362  0    $a v. 1-   Feb. 1969-
+500       $a GTU: CALL NUM IS IN 1ST 920 $a, OUTPUT AS 852 $j; IGNORE CALL NUM IN 2ND 920.  2ND LOCATION IS "gts"; DO NOT OUTPUT (04/02).
+500       $a 950 HAS 2 $b'S, 1ST CONTAINS "has v" - OUTPUT IN 852 $3 OF 1ST 852; IGNORE OTHER $b'S. OUTPUT DEFAULT IN OTHER 852'S.
+590       $a SFTS copy classified at HN 30 J7.
+650   0   $a Church and social problems $x Periodicals.
+710  21   $a Joint Strategy and Action Committee (New York, N.Y.). $t Grapevine.
+710  20   $a Joint Strategy and Action Committee (New York, N.Y.)
+901       $a GTUb11553017 $b multi $c -
+902       $a 930317
+920       $a Periodical (1ST 920) $l gper $l gts $l sfts $l sref
+920       $a HN 30 J7 (2ND 920) $u v.19-21:2 1987/88-1989
+950       $b GTU has v.2(1970) (1ST 950 $b) $b GTU-P has v.10:6 (2ND $b)-
+998       $s 9110
+999       $b 3 $c 920207 $d s $e a $g 0
+
+Record 6
+LDR  01268cam  2200289 i 45  
+001  14431246-B
+005  19910823000000.0
+008  800305s1974    dcu      b    00010 eng d
+040       $a CBGTU $c CBGTU
+041  1    $a englat
+043       $a a-is---
+110  2    $a Catholic Church. $b Pope (1963-1978 : Paul VI)
+240  10   $a Nobis in animo. $l English.
+245  10   $a Apostolic exhortation of his Holiness Paul VI to the bishops, clergy and faithful of the world concerning the increased needs of the Church in the Holy Land.
+260  0    $a Washington : $b Publications Office, United States Catholic Conference, $c 1974.
+300       $a 9 p. ; $c 22 cm.
+500       $a GTU: CALL NUMBER IN 920 $a $a $b; OUTPUT IN SINGLE 852 $j (04/02).
+504       $a Includes bibliographical references.
+650   0   $a Christianity $z Israel.
+710  20   $a Catholic Church. $b Pope (1963-1978 : Paul VI). $t Church in the Holy Land.
+710  20   $a Catholic Church. $b Pope (1963-1978 : Paul VI). $t Concerning the increased needs of the church in the Holy Land.
+710  20   $a Catholic Church. $b Pope (1963-1978 : Paul VI). $t Apostolic exhortation.
+901       $a GTUb11500037 $b gtu   $c -
+902       $a 920401
+920       $a BR1110 (1ST $a) $a .P10 (2ND $a) $b .C3 ($b) $l gtu $l grar
+998       $s 9116
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 7
+LDR  00963cas  2200301   45  
+001  013-S
+005  19910823000000.0
+008  801201c19689999tnuuu         ü  ü 0eng  
+010       $a 76008149 //r712
+022       $a 0091-8326
+042       $a lc $a nsdp
+110  2    $a United Methodist Church (U.S.). $b Program Council.
+222  00   $a Book of resolutions of the United Methodist Church.
+245  14   $a The book of resolutions of the United Methodist Church.
+260  00   $a Nashville, $b United Methodist Pub. House [etc.]
+300       $a v. $c 22 cm.
+362  0    $a 1968-
+500       $a GTU: NO CALL NUMBER IN 1ST 920, DO NOT OUTPUT ANY CALL NUM (04/02).
+650   0   $a Church and social problems $x United Methodist Church (U.S.)
+901       $a GTUb11552797 $b gtu   $c -
+902       $a 930301
+920       $l grar $l gref $u 1984
+920       $a BX8382.2.A1 (2ND 920) $b U56 $l gtu
+920       $u 1980
+920       $u 1968
+950       $b GTU has 1968, 1980-
+998       $s 9110
+999       $b 1 $c 920207 $d s $e a $g 4
+
+Record 8
+LDR  01186cas  2200313   45  
+001  023-S
+005  19910823000000.0
+008  800702c19769999abczx     b   0uaua0eng d
+022  0    $a 0702-8245
+040       $a CBGTU $c CBGTU
+245  00   $a Ugaritic studies.
+260  0    $a Calgary, Alta. : $b Dept. of Religious Studies, University of Calgary, $c 1976-
+265       $a Dean's Office, Faculty of Humanities, University of Calgary, Calgary, Alta., Canada T 2 N 1N4.
+300       $a v. ; $c 28 cm.
+362  0    $a [1] (1976)-
+500       $a GTU: CALL NUM IN 1ST 920 HAS SUFFIX - OUTPUT AS 852 $m FOR ALL 852'S. NO HOLDINGS INFO IN 950, OUTPUT DEFAULT HOLDINGS FOR ALL 852'S (04/02).
+570       $a Editor: P. C. Craigie.
+650   0   $a Ugaritic philology $x Periodicals.
+651   0   $a Ugarit (Extinct city) $x Periodicals.
+710  21   $a Canadian Society of Biblical Studies.
+710  21   $a Society of Biblical Literature.
+730  00   $a Newsletter for Ugaritic studies.
+901       $a GTUb11552839 $b gref  $c -
+902       $a 930216
+920       $a DS99.R3 SIZE 9 $b U35 $l gref $l sarc $l gtu
+920       $a TT99.R3 SIZE t (2ND 920) $b U35 $l gref
+950       $b NO VALID HOLDINGS INFO
+998       $s 9616
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 9
+LDR  01435cas  2200349   45  
+001  0511-S
+005  19910823000000.0
+008  810205c19429999nyuuu         0uuua0eng  
+010       $a 57009125
+022       $a 0070-5101
+040       $c DI $d NIC $d CU-CU $d CBGTU
+043       $a n-us---
+222  00   $a Directory of American scholars.
+245  00   $a Directory of American scholars.
+260  00   $a New York, [etc.] $b R. R. Bowker, Co. [etc.]
+300       $a v. $c 26-29 cm.
+362  0    $a [1st]-   ed; 1942-
+500       $a GTU PE: 950 $B HAS BOTH HOLDINGS & "CURRENT" NOTE; IN 1ST 852, DO NOT OUTPUT $m "CURRENT" NOTE, DO OUTPUT 852 $3; OUTPUT DEFAULT HOLDINGS IN 852 $3 FOR ALL OTHER 852'S (04/02).
+550  1    $a Published 1963-1969 with the cooperation of the American Council of Learned Societies.
+570       $a Editor: 1942-1957 J. Cattell.
+650   0   $a Scholars $z United States $x Directories.
+650   0   $a Theologians $z United States $x Directories.
+700  11   $a Cattell, Jaques, $d 1904-1960, $e ed.
+901       $a GTUb11553285 $b multi $c -
+902       $a 920804
+920       $a LA2311 $b .C32 SIZE 2 $l gref $l sref
+920       $a LA2311 $b .C32
+920       $a LA2311 $b .C32
+950       $b GTU has v.4: Philosophy, religion and law. 7th ed. Current vol. only retained. $b GTU-S has v.4, 6th ed
+950       $b GTU has v.5:  LATEST VOL. only retained. 2ND 950 - DO NOT OUTPUT. $b GTU-S has v.5, 6th ed. 2ND 950 - DO NOT OUTPUT
+998       $s 9111
+999       $b 2 $c 920207 $d s $e a $g 0
+
+Record 10
+LDR  01140cam  2200301 i 45  
+001  14441730-B
+005  19910823000000.0
+008  800306m19799999gw       b    00010 ger  
+010       $a 79392002
+020       $a 3766690531 (v. 2)
+100  1    $a Loretz, Oswald.
+245  14   $a Die Psalmen : $b Beitr. d. Ugarit-Texte zum Verstèandnis von Kolometrie u. Textologie d. Psalmen / $c Oswald Loretz.
+260  0    $a Kevelaer : $b Butzon und Becker ; $a Neukirchen-Vluyn : $b Neukirchener Verlag, $c 1979-
+300       $a v. ; $c 22 cm.
+490  1    $a Alter Orient und Altes Testament ; $v Bd. 207.
+500       $a GTU MONO: 1ST INPUT 934 $a BEGINS WITH 'V.'; OUTPUT TO 852 $3 OF 1ST 852 ONLY; IGNORE 2ND $a; IGNORE 2ND 934  (04/02).
+505  1    $a T. 2. Psalm 90-150.
+630  00   $a Bible. $p O.T. $p Psalms $x Criticism, Textual.
+650   0   $a Cuneiform inscriptions, Ugaritic.
+830   0   $a Alter Orient und Altes Testament ; $v Bd. 207.
+901       $a GTUb11500098 $b gtu   $c -
+902       $a 921019
+920       $a BS1430.2 $b .L67 $l gtu $l grar $l gref
+920       $u v.2
+934       $a v.2. $a #80 (1ST 934, 2ND $A)
+934       $a v.3-4 (2ND 934)
+998       $s 9610
+999       $b 1 $c 920207 $d m $e a $g 4
+
+Record 11
+LDR  00959cam  2200277 i 45  
+001  14519658-B
+005  19910823000000.0
+008  800311m19641973nyu           üüüüü eng  
+010       $a 64003132
+040       $c CSt $d CBGTU
+245  00   $a New theology / $c edited by Martin E. Marty and Dean G. Peerman.
+260  0    $a New York : $b Macmillan, $c c1964-1973.
+300       $a 10 v. ; $c 19 cm.
+500       $a Consists of reprints from various religious journals.
+500       $a GTU MONO: 2ND $a OF 1ST 934 FIELD CONTAINS "HAS V" - OUTPUT TO 852 $3 OF 1ST 852; IGNORE 1ST $a; IGNORE 2ND 934 (04/02).
+650   0   $a Theology.
+650   0   $a Christianity $y 20th century.
+700  10   $a Marty, Martin E., $d 1928-
+700  10   $a Peerman, Dean G.
+901       $a GTUb11500384 $b multi $c -
+902       $a 920817
+920       $a BR53 $b .N5 $l gtu $l sfts
+934       $a 20 (1st $a) $a SFTS has v. 2-18 (2nd $a)
+934       $a GTU has v. 1 (2ND 934) $a 20 (2ND $A)
+998       $s 9666
+999       $b 2 $c 920207 $d m $e a $g 0
+
+Record 12
+LDR  01880cas  2200409   45  
+001  030-S
+005  19910823000000.0
+008  800403c19079999njutn p       ü  ü 0eng  
+010       $a 11000958 /ca
+022       $a 0032-8413
+040       $c MUL $d MBTI $d NSDP $d DLC $d CBGTU
+042       $a nsdp $a lc
+043       $a n-us-nj
+222  04   $a The Princeton Seminary bulletin.
+245  04   $a The Princeton Seminary bulletin.
+260  00   $a [Princeton, N.J., $b Princeton Theological Seminary], $c 1907-
+265       $a Princeton Seminary Bulletin, Princeton, NJ 08540.
+300       $a v. in $c 23-28 cm.
+310       $a Frequency varies: three or four issues yearly.
+362  0    $a Vol. 1, no.1 (May 1907)-v.68, no. 3 (winter 1976); new ser. v. 1, no. 1 ([winter] 1977)-
+500       $a GTU: OUTPUT ALL 590 NOTES AS 852 $x'S FOR ALL 852'S (04/02).
+520       $a One issue of each vol. is the academic catalog of the Seminary, 1907-76.
+590       $a Index for v.56(1962)-68(1976) and v.1(1977)-12(1991) (590 FLD)
+590       $a Index for v.1-55 (old series) is stored in Archive (590 FLD)
+590       $a Vol 1. no 1 in Archive (590 FLD)
+590       $a One copy at SFTS Reference Desk (590 FLD)
+610  20   $a Princeton Theological Seminary.
+710  20   $a Princeton Theological Seminary.
+785       $a Princeton seminary bulletin (new series)
+901       $a GTUb11552906 $b sfts  $c -
+902       $a 930324
+920       $a BV4070 $b .P712 $l sfts $l gtu $l gref
+920       $a BV4070 $b .P712
+950       $b rl $b GTU-S has v.44:2 (1950), v.47-48 (1953/55), v.50:2 (1956), v.55:3-4 (1962), v.58-61 (1964/65-1967/68), v.62:4 (1969), v.63:2-4 (1970), v.65:1-2,4 (1972), v.66- (1973/74- ) $b Vol. 66
+950       $b GTU has v.44:2 (1950), v.47-48 (1953/55), v.50:2 (1956), v.55:3-4 (1962), v.58-61 (1964/1965-1967/68), v.62:4 (1969), v.63:2-4 (1970), v.65:1-2,4 (1972), v.66- (1973/74- )
+998       $s 9110
+999       $b 2 $c 920207 $d s $e a $g 4
+
+Record 13
+LDR  01312cas  2200349   45  
+001  035-S
+005  19910823000000.0
+008  800703c18449999pauqr p       0uuua0eng  
+010       $a 15000601
+022       $a 0360-3725
+040       $c CBGTU $d CBGTU
+043       $a n-us---
+212  0    $a African Methodist Episcopal Church review.
+240       $a quarterly.
+245  04   $a The A.M.E. Church review.
+246       $a The AME Church Review.
+260  01   $a Philadelphia, $b Publishing House of African M.E. Church, $c 1884-
+300       $a v. $b ports. $c 23 cm.
+362  0    $a v.1-     July, 1884-
+500       $a GTU PE: 950 $b BEGINS 'V.' - OUTPUT 852 $3 IN 1ST 852 ONLY; OUTPUT DEFAULT HOLDINGS NOTE IN ALL OTHER 852'S (04/02).
+515       $a Issues are also numbered consecutively.
+515       $a 19<71>- numerous errors in numbering: vol. no. frequently changes with each issue; no. 250-270 omitted in 1972.
+570       $a Editors: 1884-     B.T.Tanner.--        L.J. Coppin.
+610  20   $a African Methodist Episcopal Church $x Periodicals.
+700  11   $a Tanner, Benj. T. $q (Benjamin Tucker), $d 1835-1923, $e ed.
+901       $a GTUb11553066 $b gper  $c -
+902       $a 930317
+920       $a Periodical $l gper $l sper $l sref
+920       $u 1983-84
+950       $b v. 245-272 (1971-1972); no. 286- (1977-
+998       $s 9116
+999       $b 1 $c 920207 $d s $e a $g 4
+
+Record 14
+LDR  01516cas  2200385 a 45  
+001  0313-S
+005  19910823000000.0
+008  810403d19011974enkuuz   b    0uuua0eng  
+010       $a 68088411 //r75
+022       $a 0084-2753
+035       $a GTUL
+035       $a HARR
+035       $a UCB13430683
+035       $a S453
+040       $c NIC $d DLC $d NSDP $d OCL $d CBGTU
+042       $a lc $a nsdp
+043       $a e-uk---
+222  00   $a Writings on British history.
+245  00   $a Writings on British history.
+260  01   $a London : $b Jonathan Cape for the Royal Historical Society, $c 1937-1986.
+300       $a 27 v. ; $c 24 cm.
+362  0    $a 1901/1933-1973/1974.
+500       $a "A bibliography of books and articles on the history of Great Britain ... with an appendix containing a select list of publications."
+500       $a GTU PE: REC HAS "LATEST" NOTE IN 2ND $b IN 1ST 950, BUT NO HOLDINGS INFO IN 1ST 950. OUTPUT "LATEST" IN $m OF 1ST 852. DO NOT OUTPUT DEFAULT HOLDINGS NOTE FOR 1ST 852.  OUTPUT DEFAULT HOLDINGS FOR OTHER 852'S (04/02).
+651   0   $a Great Britain $x History $x Bibliography.
+710  20   $a University of London. $b Institute of Historical Research.
+710  21   $a Royal Historical Society (Great Britain)
+785  14   $t Annual bibliography of British and Irish History.
+901       $a GTUb11552955 $b gref  $c -
+902       $a 920921
+920       $a Z2016 $b .W74 $l gref $l sref $l gper
+950       $b GTU-S: v. 4, 5th ed. $b GTU keeps latest edition at Ref Desk
+950       $b GTU: v. 5 only
+998       $s 9110
+999       $b 4 $c 920207 $d s $e a $g 0
+
+Record 15
+LDR  00903eas  2200301   45  
+001  039-S
+005  19910823000000.0
+008  800903c19689999nyu ü1p       0uuua0eng d
+010       $a 79005001 /sn
+022  0    $a 0161-2360
+040       $a NSDP $d CBGTU $d CStRLIN
+042       $a nsdp
+222  00   $a World Goodwill commentary.
+245  00   $a World Goodwill commentary.
+260  00   $a New York, $b World Goodwill, $c 1968-
+300       $a no. ; $c 22 cm.
+362  0    $a No. 1 (Sept. 1968)-
+500       $a GTU: CALL NUM CONSISTS OF MULT 920 $a'S, NO $b; OUTPUT AS SINGLE 852 $j (04/02).
+650   0   $a Peace $x Periodicals.
+710  20   $a World Goodwill.
+901       $a GTUb11553108 $b gtu   $c -
+902       $a 930422
+920       $a JX1901 (920 $a) $a .W67 (2ND $a) $a .XT1 (3RD $a) $l gtu
+920       $u no.11-17 1978-84
+920       $u no.1-10 1968-76
+950       $b *** GTU has no.1 (Sept. 1968)-
+998       $s 9661
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 16
+LDR  00940cam  2200241 i 45  
+001  14522497-B
+005  19910823000000.0
+008  800311s1868    ie g          00100 eng d
+040       $a CBGTU $c CBGTU
+245  00   $a Church hymnal : $b with appropriate tunes.
+250       $a 7th ed.
+260  0    $a Dublin : $b Association for Discountenancing Vice and Promoting the Knowledge and Practice of the Christian Religion, $c 1868.
+300       $a xx, 371 p. : $b music ; $c 19 cm.
+500       $a GTU: CALL NUM IN 1ST 920 CONSISTS OF 920 $b, NO $a - OUTPUT AS 852 $j; IGNORE 2ND 920 (04/02).
+610  20   $a Church of Ireland $x Hymns.
+650   0   $a Hymns, English.
+710  21   $a Association for Discountenancing Vice and Promoting the Knowledge and Practice of the Christian Religion.
+901       $a GTUb1150044x $b gtu   $c -
+902       $a 920401
+920       $b M2136 .C56 1868 (1ST 920 $b) $l gtu
+920       $a M2136 $b .C56 1868 $l gref
+998       $s 9116
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 17
+LDR  00915cam  2200289 i 45  
+001  14500795-B
+005  19910823000000.0
+008  800310s1979    nyua     b    00100 eng  
+010       $a 78027224
+020       $a 0306401029
+040       $d CBGTU
+245  00   $a Mind/body integration : $b essential readings in biofeedback / $c edited by Erik Peper, Sonia Ancoli, and Michele Quinn.
+260  0    $a New York : $b Plenum Press, $c c1979.
+300       $a xx, 586 p. : $b ill. ; $c 26 cm.
+500       $a GTU: NO LOCATION IN 1ST 920, IGNORE 2ND 920. NO 852 OUTPUT - REJECT (07/06).
+650   0   $a Biofeedback training.
+650   0   $a Psychotherapy.
+650   0   $a Medicine, Psychosomatic.
+700  10   $a Peper, Erik.
+700  10   $a Ancoli, Sonia.
+700  10   $a Quinn, Michele.
+901       $a GTUb11500256 $b gtu   $c -
+902       $a 920401
+920       $a BF319.5.B5 $b M55
+920       $a BF319.5.B5 $b M55 $l gtu
+998       $s 9610
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 18
+LDR  01784cam  2200325   45  
+001  14526999-B
+005  19910823000000.0
+008  800311m18861892nyuabc   b    00110deng  
+010       $a 35016425
+040       $c CBGTU $d CBGTU
+043       $a n-us--- $a n-us-ma
+100  1    $a Shea, John Gilmary, $d 1824-1892.
+245  12   $a A history of the Catholic Church within the limits of the United States, from the first attempted colonization to the present time. $c By John Gilmary Shea.
+260  0    $a New York, $b J. G. Shea, $c 1886-92.
+300       $a 4 v. front. (v. 2) $b illus. (incl. facsims.) plates, ports., maps. $c 25 cm.
+500       $a GTU: CALL NUM IS IN ONE 920 $a $b - OUTPUT AS 852 $h $i (04/02).
+504       $a Includes bibliographical references and indexes.
+505  0    $a [I] The Catholic Church in colonial days. The thirteen colonies, the Ottawa and Illinois country, Louisiana, Florida, Texas, New Mexico and Arizona. 1521-1763.--[II] Life and times of the Most Rev. John Carroll ... Embracing the history of the Catholic Church in the United States. 1763-1815.--[III] From the division of the Diocese of Baltimore, 1808, and death of Archbishop Carroll, 1815, to the Fifth Provincial Council of Baltimore, 1843.--[IV] From the Fifth Provincial Council of Baltimore, 1843, to the Second Plenary Council of Baltimore, 1866.
+600  10   $a Carroll, John, $d 1735-1815.
+610  14   $a Maryland $x History.
+610  20   $a Catholic Church $z United States $x History.
+650   1   $a Catholic Church $x History $x Juvenile.
+650   0   $a Bishops $z Maryland $z Baltimore $x Biography.
+650   2   $a History of Medicine, 18th Century.
+650   4   $a Epidemics $x 18th Century.
+901       $a GTUb11500487 $b gtu   $c -
+902       $a 921215
+920       $a BX1406 $b .S5 1886 $l gtu
+998       $s 9116
+999       $b 1 $c 920207 $d m $e a $g 2
+
+Record 19
+LDR  00906cas  2200241   45  
+001  037-S
+005  19910823000000.0
+008  800703c19659999caumx p       0  0a0eng d
+040       $a CBGTU $c CBGTU
+245  00   $a Evangelion.
+260  01   $a Berkeley, Calif. : $b Community Association, Pacific School of Religion, $c 1965-
+265       $a Community Association, Pacific School of Religion, 1798 Scenic Ave., Berkeley, Calif. 94709.
+300       $a v. in   : $b ill. ; $c 29 cm.
+310       $a Irregular monthly, except July-Sept.
+362  0    $a Vol. 1, no. 1 (Nov. 1965)-
+500       $a GTU: NO 920 IN RECORD, NO 852 OUTPUT, REJECT (07/06).
+610  20   $a Pacific School of Religion (Berkeley, Calif.) $x Periodicals.
+710  20   $a Pacific School of Religion (Berkeley, Calif.). $b Community Association.
+780  02   $t i.e. (Berkeley)
+901       $a GTUb1155308x $b grar $c -
+902       $a 930104
+998       $s 9616
+999       $b 2 $c 920207 $d s $e a $g 0
+
+Record 20
+LDR  01058cas  2200313   45  
+001  043-S
+005  19910823000000.0
+008  810204c19639999dcuqr p a    f0uuua0eng  
+010       $a 80640838
+040       $d CBGTU
+042       $a lc
+245  04   $a The Christian socialist.
+260  01   $a [London, $b L. Hatts, etc.]
+300       $a no. $b ill. $c 21-44 cm.
+310       $a Quarterly, $b Jan. 1972-
+321       $a Bimonthly, $b 1963-71.
+362  0    $a No. 15 (June 1963)-
+500       $a GTU PE: NO 950 FLD - OUTPUT DEFAULT HOLDINGS NOTE IN ALL 852'S (04/02)
+500       $a 902 FIELD BEGINS WITH "0" - ADD "20" TO BEGINNING & OUTPUT IN 005 AS MARC 21 STANDARD FORMAT.
+550  0    $a Nos. for 1963-   issued by the Christian Socialist Movement.
+650   0   $a Socialism, Christian $x Periodicals.
+710  20   $a Christian Socialist Movement.
+780  00   $a Christian Socialist Movement. $t CSM news.
+901       $a GTUb11553182 $b gper  $c -
+902       $a 001012
+920       $a Periodical SIZE ff $l gper $l gtu
+920       $a HD17.E6 (2ND 920, IGNORE)
+998       $s 9110
+999       $b 1 $c 920207 $d s $e a $g 4
+
+Record 21
+LDR  01174cas  2200349 a 45  
+001  0517-S
+005  19910823000000.0
+008  810605c19559999oncuu p       0uuu 0eng d
+010       $a cn 75030999
+022       $a 0316-8743
+040       $a CaOONL $b eng $c CaOONL $d CBGTU
+041  0    $a engfre
+042       $a nlc $a isds/c
+043       $a n-cn---
+110  2    $a Canadian Religious Conference.
+222  10   $a Bulletin - Canadian Religious Conference.
+245  10   $a CRC bulletin.
+246       $a CRC Bulletin.
+260  00   $a Ottawa : $b The Conference, $c 1955-
+265       $a CRC Bulletin, 324 Laurier Ave. East, Ottawa K1N 6P6.
+300       $a v. ; $c 28 cm.
+310       $a Frequency varies.
+362  0    $a Vol. 1, no. 1 (Jan. 1955)-
+500       $a GTU PE: NO 950 $b HAS HOLDINGS OR "CURRENT" INFO - OUTPUT DEFAULT NOTE IN 852 $3 (04/02).
+610  20   $a Canadian Religious Conference.
+775  0    $a Canadian Religious Conference. $t Bulletin - Canadian Religious Conference. $b [Ed. franðcaise] $e (Fre.) $x 0316-8751.
+901       $a GTUb11553340 $b gper  $c -
+902       $a 930325
+920       $a Periodical $l gper
+950       $b New copy in office $b Old copy on shelf
+998       $s 9110
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 22
+LDR  01108cas  2200289   45  
+001  053-S
+005  19910823000000.0
+008  800805d19731977ii qr p       ü  ü 0eng  
+010       $a 75642830
+040       $d CBGTU
+042       $a lc
+043       $a a-ii---
+245  00   $a Spiritual India.
+260  00   $a Delhi : $b A. K. Krishna Nambiar, $c 1973-1977.
+300       $a 5 v. : $b ill. ; $c 25 cm.
+362  0    $a [v. 1, no. 1] ([Jan.] 1973)-v. 5, no. 2 (Apr. 1977)
+500       $a GTU PE: ONE 950 WITH MULT $b'S - OUTPUT ONLY 1ST $b WITH HOLDINGS TO 852 $3 OF 1ST 852; OUTPUT DEFAULT NOTE IN OTHER 852 $3'S (04/02).
+500       $a OUTPUT 1ST 950 $b WITH "CURRENT/LATEST" INFO TO 852 $m OF 1ST 852 ONLY.
+651   0   $a India $x Religion $x Periodicals.
+785  00   $a Spiritual India and Kundalini.
+901       $a GTUb11553364 $b gper  $c -
+902       $a 930202
+920       $a Periodical $l gper $l gtu
+920       $a Periodical $u v.1-5 1973-1977 inc
+950       $b ONE COPY LOST $b *** GTU has v.1-4 bd. (1974-1981) $b CURRENT ISSUE IN LIBRARIAN'S DESK $b GTU-REF HAS V. 15 (IGNORE) $b LATEST VOL STOLEN (IGNORE)
+998       $s 9110
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 23
+LDR  01322cas  2200337   45  
+001  060-S
+005  19910823000000.0
+008  810106c19489999oncax p       ü  ü 0eng d
+010       $a cn 75031289
+022       $a 0082-786X
+040       $a CaOONL $b eng $c CaOONL $d CBGTU
+042       $a nlc $a isds/c
+043       $a n-cn---
+110  2    $a United Church of Canada. $b Committee on Archives.
+222  00   $a Bulletin - Committee on Archives of the United Church of Canada.
+260  00   $a Toronto, $b United Church Pub. House, $c 1948-
+265       $a United Church Archives, Victoria University, 73 Queen's Park Crescent East, Toronto, Ont. M5S 2C4.
+300       $a no. $c 23 cm.
+362  1    $a Began publication in 1948.
+500       $a GTU: NO 245 FIELD - OUTPUT ERROR FIELD (04/02).
+555       $a Nos. 1-14 (1948-1961) öiön no. 14.
+580       $a No. 26 (1977) issued combined with vol. 19, no. 1-2 (Mar./June 1977) of Journal of the Canadian Church Historical Society ISSN 0008-3208.
+610  20   $a United Church of Canada $x History $x Periodicals.
+710  20   $a Victoria University (Toronto, Ont.)
+787  1    $t Journal of the Canadian Church Historical Society $g 1977 $x 0008-3208.
+901       $a GTUb11553431 $b gtu   $c -
+902       $a 930429
+920       $a CD3620 $b .U5 $l gtu
+950       $b GTU has 19th Edition
+998       $s 9110
+999       $b 1 $c 920207 $d s $e a $g 4
+
+Record 24
+LDR  01033cXX  2200313   45  
+001  070-S
+005  19910823000000.0
+008  800407c19669999nyuqr p       ü  ü 0eng  
+010       $a 73646585
+022       $a 0001-8449
+040       $d NSDP $d DLC $d CBGTU
+042       $a lc $a nsdp
+222  00   $a Adolescence.
+260  00   $a [Roslyn Heights, N.Y.] $b Libra Publishers, $c 1966.
+265       $a P.O. Box 165, 391 Willets Rd., 11577.
+300       $b ill. $c 23 cm.
+362  0    $a Vol. 1- (Spring 1966)-     = no. 1-
+500       $a GTU: 901 $c = "d"; REC HAS NO 245, NO 902, UNKNOWN TYPE, BIBLVL, LOC CODE - OUTPUT DELETE REC; USE FILE DATE FOR 005 FIELD; DO NOT OUTPUT 998 ERR FLDS (04/02).
+510  0    $a Education index $x 0013-1385.
+650   0   $a Youth $x Periodicals.
+650   0   $a Adolescence $x Periodicals.
+650   0   $a Adolescent psychology $x Periodicals.
+901       $a GTUb11553509 $b sfts  $c d
+920       $a HQ793 $b .A44 $l XXXX
+920       $a HQ793 $b .A44
+920       $a HQ793 $b .A44
+950       $b SFTS has vol 1-20
+998       $s 9110
+999       $b 2 $c 920207 $d s $e a $g 0
+
+Record 25
+LDR  01177cas  2200325 a 45  
+001  CGTT057-S
+005  19920720085015.0
+008  810205d19681978it ar     iy  0uuub0lat  
+010       $a 72624051 //r74
+040       $a DLC $c DLC $d OCoLC $d DLC $d OCoLC $d m.c. $d NNUT $d CBGTU
+042       $a lc
+245  00   $a Elenchus bibliographicus biblicus.
+260       $a Rome : $b Biblical Institute Press,
+300       $a 11 v. ; $c 24 cm.
+310       $a Annual.
+362  0    $a Vol. 49 (1968)-v. 58-59 (1977-1978)
+500       $a GTU: 901 $c = "d", NO 920 FLD WITH LOCS - OUTPUT DELETE REC; DO NOT OUTPUT 998 ERR FLDS (04/02).
+515       $a Vols. 58-59 (1977-1978) issued together in two parts.
+580       $a Previously included in Biblica.
+630  00   $a Bible $x Periodicals $x Indexes $x Periodicals.
+630  00   $a Bible $x Criticism, interpretation, etc. $x Periodicals $x Indexes $x Periodicals.
+700  10   $a Nober, Petrus.
+785  00   $t Elenchus bibliographicus biblicus of Biblica $x 0392-7423 $w (OCoLC)10172921.
+787  1    $t Biblica.
+901       $a GTUb11553406 $b multi $c d
+902       $a 920720
+920       $a Z7770 $b .E63
+950       $b GTU-Ref and GTU-S Ref have 1977/1978
+998       $s 9117
+999       $b 2 $c 920720 $d s $e a $g 0
+
+Record 26
+LDR  00839cas  2200277 a 45  
+001  086-S
+005  19910823000000.0
+008  800808d19uu1973enkar p       0 uua0engüd
+040       $a CBGTU $c CBGTU
+110  2    $a Alcuin Club.
+245  10   $a Report.
+260  00   $a [London : $b The Club, $c 19--]-1973.
+300       $a v. ; $c 22 cm.
+362  0    $a [19--]-1972/73.
+500       $a GTU: NO 901 FLD, CAN'T DETERMINE SOURCE - REJECT (04/02).
+650   0   $a Liturgics $x Church of England $x Periodicals.
+700  11   $a Wand, J. W. C. $q (John William Charles), $d 1885- . $t Anglican eucharistic theology in the twentieth century.
+785  00   $a Alcuin Club. $t Alcuin.
+902       $a 921125
+920       $a BX5141.A1 $b A55 $l gtu
+920       $u 1972/73
+920       $u 1971/72
+920       $u 1970/71
+950       $b GTU has 1970/71-1972/73
+998       $s 9116
+999       $b 1 $c 920207 $d s $e a $g 0
+
+Record 27
+LDR  00776nam  2200217uü 45  
+001  89-B3756
+005  19910823000000.0
+008  890621s1936    ne üüüü üüüü üüüüü0üdut ü
+040       $a CBGTU $c CBGTU
+100  1    $a Zuidema, Sytse Ulbe, $d 1906-
+245  13   $a De philosophie van Occam in zijn Commentar op de Sententièen. $b Supplement (Citaten)
+260  0    $a Hilversum, $b Schipper $c [1936]
+300       $a 399 p. $c 24 cm.
+500       $a GTU: 2ND OF 3 LOCS IS "gts"; IGNORE & OUTPUT 2 852 FIELDS (04/02).
+600  00   $a William, $c of Ockham, $d ca. 1285-ca. 1349.
+600  00   $a Peter Lombard, $c Bishop of Paris, $d ca. 1100-1160. $t Sententiarum libri IV.
+901       $a GTUb10004531 $b multi $c -
+902       $a 920326
+920       $a B765.O34 $b Z8 suppl $l sfts $l gts $l gtu
+998       $s 9664
+999       $b 1 $c 920207 $d m $e a $g 3
+
+Record 28
+LDR  00696nam  2200229 i 45  
+001  89-B3302
+005  19910823000000.0
+008  890609s1975    gw       b    00000 ger  
+010       $a 75516418
+020       $a 3791704222 :
+040       $d CBGTU
+245  00   $a Aktualitèat der Scholastik? / $c mit Beitr. von H. M. Barth ... [et al.] ; hrsg. von Joseph Ratzinger.
+260  0    $a Regensburg : $b Pustet, $c 1975.
+300       $a 127 p. ; $c 21 cm.
+500       $a GTU: RECORD HAS LOC "gts" ONLY - NO 852 CREATED, REJECT (07/06.
+650   0   $a Scholasticism.
+700  10   $a Ratzinger, Joseph.
+901       $a GTUb10000033 $b multi $c -
+902       $a 920326
+920       $a B734 $b .A48 $l gts
+998       $s 9110
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 29
+LDR  01002nXm  2200253u  45  
+001  89-B3303
+005  19910823000000.0
+008  890609s1951    it c          10010 lat d
+040       $c NIC $d CStRLIN $d CBGTU
+111  2    $a Congressus Scotisticus Internationalis $n (1st : $d 1950 : $c Rome, Italy)
+245  10   $a Scholastica ratione historico-critica instauranda. $b Acta Congressus Scholastici Internationalis Romae anno sancto MCML celebrati.
+260  0    $a Romae, $b Pontificium Athenaeum Antonianum, $c 1951.
+300       $a xxiii, 668 p. $b group ports. $c 22 cm.
+490  1    $a Bibliotheca Pontificii Athenaei Antoniani, $v 7.
+500       $a GTU: UNKNOWN TYPE - OUTPUT ERROR FIELD (04/02).
+600  20   $a Duns Scotus, John, $d ca. 1266-1308.
+650   0   $a Scholasticism $x Congresses.
+650   0   $a Philosophy, Medieval.
+830   0   $a Bibliotheca Pontificii Athenaei Antoniani ; $v 7.
+901       $a GTUb10000045 $b multi $c -
+902       $a 920326
+920       $a B734 $b .C6 $l gtu $l gts $l sfts $l grar
+998       $s 9665
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 30
+LDR  00734naX  2200229 a 45  
+001  89-B3300
+005  19910823000000.0
+008  890609s1904    gw       b    00010 gerüd
+040       $a CBGTU $c CBGTU
+045       $a e3k0
+100  1    $a Dobschèutz, Ernst von, $d 1870-1934.
+245  10   $a Probleme des apostolischen Zeitalters / $c von Ernst von Dobschèutz.
+260  0    $a Leipzig : $b J.C. Hinrichs, $c 1904.
+300       $a 138 p. ; $c 24 cm.
+500       $a GTU: UNKNOWN BIBLVL - CREATE ERROR FIELD (04/02).
+504       $a Includes bibliographical references.
+650   0   $a Church history $y Early church, ca. 30-600.
+901       $a GTUb1000001x $b multi $c -
+902       $a 931213
+920       $a BR165 $b .D58 1904 $l gtu $l sfts
+998       $s 9114
+999       $b 2 $c 920207 $d m $e a $g 0
+
+Record 31
+LDR  00725nam  2200253   45  
+001  89-B3301
+005  19910823000000.0
+008  890609s1973    ne f     b    00100 fre  
+010       $a 74159490 //r84
+020       $a 9025606067
+041  0    $a frelat
+043       $a e-fr---
+100  1    $a Jeauneau, Edouard.
+245  10   $a "Lectio philosophorum"; $b recherches sur l'âEcole de Chartres.
+260  0    $a Amsterdam, $b A. M. Hakkert, $c 1973.
+300       $a xvi, 395 p. $b plates. $c 23 cm.
+500       $a GTU: UNKNOWN LOC CODE - CREATE ERROR FIELD (04/02).
+650   0   $a Philosophy, Medieval.
+650   0   $a Platonists.
+901       $a GTUb10000021 $b gtu   $c -
+902       $a 920326
+920       $a B732 $b .J4 $l XXX
+998       $s 9110
+999       $b 1 $c 920207 $d m $e a $g 0
+
+Record 32
+LDR  01148nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU: NO RECORD ID NUMBER IN 901 $a - REJECT (07/02).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb $b gtu   $c -
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 33
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'o'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c o
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 34
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 'r'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c r
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 35
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'n'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c n
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 36
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 'b'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c b
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 37
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'p'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c p
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 38
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 'q'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c q
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 39
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 's'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c s
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 40
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 't'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c t
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 41
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'u'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c u
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 42
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 'v'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c v
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 43
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'w'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c w
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 44
+LDR  00991nas  2200349 a 45  
+001  CGTT98-S347
+003  CStRLIN
+005  19980227132816.0
+008  980227c1974uuuucauqr1p       0  |a0eng d
+010       $a sn 84009837
+022  1    $a 0742-8820
+040       $a NSDP $c NSDP $d DLC $d CBGTU
+042       $a nsdp
+090       $f mhb
+222   4   $a The White light.
+245  04   $a The White light.
+260       $a Pasadena, CA : $b Temple of Truth,
+300       $a v. : $b ill. ; $c 22 cm.
+310       $a Quarterly.
+362       $a Vol. 1, no. 1 (Fall 1974)-
+500       $a GTU PE: 901 $C = 'x'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+525       $a Index: v. 1-10, in 1 vol.
+650   0   $a Magic $x Periodicals.
+650   0   $a Occultism $x Periodicals.
+710  2    $a Temple of Truth (Pasadena, Calif.)
+901       $a GTUb10818182 $b gper  $c x
+902       $a 020503
+999       $b 1 $c 980227 $d s $e a $g 4
+920       $a Periodical $l gper
+998       $s 9110
+920       $u v.Index v.1-10 1974/75-1983/84
+920       $u v.v.2-9 1975/76-1982
+
+Record 45
+LDR  01168nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'y'; CHANGE STATUS TO 'd' AND OUTPUT (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c y
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 46
+LDR  01212nam  2200277Ia 45  
+001  4297491
+003  OCoLC
+005  20010921130434.0
+007  heubmu---bacu
+008  781017r19771849enk     b     000 0 eng d
+040       $a PTS $c PTS
+049       $a GTXA
+100  1    $a Hare, Julius Charles, $d 1795-1855.
+245  10   $a Thou shalt not bear false witness against thy neighbour  $h [microform]: $b a letter to the Editor of the English Review / $c by Julius Charles Hare ; with a letter from Professor Maurice to the author.
+260       $a London : $b J. W. Parker, $c 1849.
+300       $a 76 p. ; $c 21 cm.
+500       $a GTU MONO: 901 $C = 'O' (UPPERCASE LETTER O); OUTPUT STATUS AS IS IN LEADER, DO NOT CHANGE TO DELETE (02/03).
+533       $a Microfiche. $b Louisville, Ky. : $c Lost Cause Press, $d 1977; $e 2 microfiches : negative $f (Literature of theology and church history)(A-58,372 LCP - A-58,373 LCP)
+600  10   $a Sterling, John, $d 1806-1844.
+610  20   $a Church of England $x Doctrinal and controversial works.
+630  00   $a English Review.
+700  1    $a Maurice, Frederick Denison, $d 1805-1872.
+901       $a GTUb13569752 $b gtu   $c O
+902       $a 020506
+999       $b 2 $c 010921 $d m $e h $g 0
+920       $a Mfiche cab LTCH $b Hare Julius Thou $l gtu
+
+Record 47
+LDR  01570cai  2200457 a 4500
+001  50209411
+003  OCoLC
+005  20060117041424.0
+008  020722c200u9999mouwr1p       0   a0eng c
+010       $a 2002211952
+022  0    $a 1540-9643
+032       $a 427220 $b USPS
+037       $b Today's Pentecostal evangel, 1445 N. Boonville Avenue, Springfield, MO 65802-1894 $c $11.68 $c $23.00 (Canada)
+040       $a NSD $c NSD $d DLC $d GTX
+042       $a nsdp $a lc
+049       $a GTXA
+050  00   $a Periodical
+222   0   $a Today's Pentecostal evangel.
+245  00   $a Today's Pentecostal evangel.
+246  18   $a PE.
+260       $a Springfield, MO : $b Gospel Pub. House, General Council of the Assemblies of God.
+300       $a v. : $b col. ill. ; $c 28 cm.
+310       $a Weekly.
+500       $a GTU PE: INTEGRATING RESOURCE - TYPE = 'a', BIBLVL = 'i'; OUTPUT AS SERIAL, DO NOT OUTPUT ERROR (07/06).
+515       $a Issues for <June 16, 2002-> called also <4597->
+610  20   $a Assemblies of God $v Periodicals.
+710  2    $a Assemblies of God. $b General Council.
+780  00   $t Pentecostal evangel $x 0031-4897 $w (DLC)   76649446 $w (OCoLC)1680876.
+856  41   $u http://www.assembliesofgod/
+901       $a GTUb14080771 $b gper  $c -
+902       $a 060712
+999       $b 0 $c 060117 $d s $e a $g 0
+920       $l gper
+950       $b  GTU has no.4597(June 16, 2002)-
+920       $u v.nos.4756-4781 2005
+920       $u v.nos.4730-4755 2005
+920       $u v.nos.4704-4729 2004
+920       $u v.nos.4678-4703 2004
+920       $u v.nos.4652-4677 2003
+920       $u v.nos.4626-4651 2003
+920       $u v.nos.4600-4625 2002 
+

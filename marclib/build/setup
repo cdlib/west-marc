@@ -1,0 +1,15 @@
+setenv CURRENT_RELEASE Release-027-000
+setenv QA_HOME /exlibris1/cdl_convert/$CURRENT_RELEASE
+setenv MB_HOME $QA_HOME
+setenv ANT_HOME /exlibris1/cdl_convert/java/jakarta-ant-1.5
+setenv JAVA_HOME /usr/java130
+setenv PATH $ANT_HOME/bin:$JAVA_HOME/bin:$PATH
+setenv MARCCONV_RELEASE $CURRENT_RELEASE
+setenv MARCLIB_RELEASE $CURRENT_RELEASE
+setenv MARCUTIL_RELEASE $CURRENT_RELEASE
+setenv PERL5LIB $MB_HOME/perl:$PERL5LIB
+cd $CURRENT_RELEASE
+echo -n 'Please type the CVS user to use for the checkout: '
+setenv cvsuser $<
+setenv CVSROOT :pserver:$cvsuser@cvs.cdlib.org:/cvs/root
+cvs logon

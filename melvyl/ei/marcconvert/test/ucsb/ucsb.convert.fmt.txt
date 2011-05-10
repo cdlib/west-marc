@@ -1,0 +1,238 @@
+Record 1
+LDR  00978dQT^a2200265^a^4500
+001  SBXL001812015
+005  20020823110659.0
+008  950928s1995    stk      b    000 0 eng d
+010       $a gb 96064282 
+015       $a GB96-64282
+020       $a 0852614675
+035  9    $a (SBN)AJZ1023
+040       $a LRU $c LRU $d UKM
+100  1    $a Freeman, E. J.
+246  30   $a Cyrano de Bergerac
+246  14   $a Rostand, Cyrano de Bergerac
+260       $a Glasgow, Scotland : $b University of Glasgow French and German Publications, $c 1995.
+300       $a 76 p. ; $c 21 cm.
+490  1    $a Glasgow introductory guides to French literature ; $v 34
+500       $a SBXL: DELETE REC; HAS NO 245 UNKNOWN LOC, BAD BIBLEVEL BAD TYPE; DON'T CREATE 998.
+600  10   $a Rostand, Edmond, $d 1868-1918. $t Cyrano de Bergerac.
+600  14   $a Rostand, Edmond, $d 1868-1918. $t Cyrano de Bergerac.
+830   0   $a Glasgow introductory guides to French literature ; $v 34
+852       $a SBXL $b MOTHRAx $h PQ2635.O7 $i C9234 1995 $n us
+901       $a SBXL $b 001812015
+
+Record 2
+LDR  02171nQT^a2200313^a^4500
+001  SBXL001812016
+005  20020823110659.0
+008  931022s1995    nyu      b    000 0 eng  
+010       $a    93040237 
+020       $a 0820424358 (alk. paper)
+035  9    $a (SBN)AJZ1024
+040       $a DLC $c DLC $d DLC $d OrLoB-B
+050  00   $a P121 $b .S8115 1995
+082  00   $a 401 $2 20
+100  1    $a Strauch, Eduard Hugo, $d 1925-
+260       $a New York : $b P. Lang, $c c1995.
+300       $a xii, 319 p. ; $c 24 cm.
+490  1    $a American university studies. Series XIII, Linguistics, $x 0740-4557 ; $v vol. 29
+500       $a SBXL: NON-DELETE; HAS NO 245 UNKNOWN LOC, BAD BIBLEVEL BAD TYPE; CREATE 4 998s.
+504       $a Includes bibliographical references (p. [307]-316).
+505  0    $a Pt. 1. The Four Lessons of Nature. Ch. 1. The Lesson of Camouflage. Ch. 2. The Lesson of Metamorphosis and Ritual. Ch. 3. The Lesson of Life's Limits. Ch. 4. The Lesson of Symbiosis for Language and Thought -- Pt. 2. Nature's Four Lessons: The Evidence in Language and in Writing Strategies. Ch. 5. Camouflage Detection. Ch. 6. Understanding Metamorphosis. Ch. 7. Facing and Transcending the Limits of Language. Ch. 8. Symbiosis in Language -- Pt. 3. Nature's Four Lessons: The Evidence in Literature. Ch. 9. The Evidence of Nature in Literature. Ch. 10. Camouflage Detection, Metamorphosis, Limits, and Symbiosis in Poetry and Poetics. Ch. 11. Tragedy and Comedy. Ch. 12. Literary Theories and the Four Epistemic Modes -- An Ageless Epistemology for the New Age? -- The Existentialist versus the Symbiotic Understanding of Human Destiny.
+650   0   $a Philology $x Philosophy.
+830   0   $a American university studies. $n Series XIII, $p Linguistics ; $v vol. 29
+852       $a SBXL $b NESSIEx $h P121 $i .S8115 1995 $n us
+901       $a SBXL $b 001812016
+998       $a SBXL $b 1003 $c Record contains the unknown location code NESSIEx $d Release-027-000 $e 001812016
+998       $a SBXL $b 1004 $c Record contains the invalid leader type Q $d Release-027-000 $e 001812016
+998       $a SBXL $b 1005 $c Record contains the invalid bibliographic level T $d Release-027-000 $e 001812016
+998       $a SBXL $b 1002 $c Record contains no 245 field $d Release-027-000 $e 001812016
+
+Record 3
+LDR  01487dam^a2200301^a^4500
+001  SBXL001812018
+005  20020823110659.0
+008  941212s1995    ctu      b    001 0 eng  
+010       $a    94046927 
+020       $a 0313295700 (alk. paper)
+035  9    $a (SBN)AJZ1026
+040       $a DLC $c DLC $d DLC $d OrLoB-B
+043       $a n-us--- $a e-ur---
+050  00   $a E183.8.S65 $b S33 1995
+082  00   $a 327.7304/09/091 $2 20
+100  1    $a Schild, Georg.
+245  10   $a Between ideology and realpolitik : $b Woodrow Wilson and the Russian Revolution, 1917-1921 / $c Georg Schild.
+260       $a Westport, Conn. : $b Greenwood Press, $c 1995.
+300       $a 173 p. ; $c 25 cm.
+490  1    $a Contributions to the study of world history, $x 0885-9159 ; $v no. 51
+500       $a SBXL: DELETE REC HAS NO INPUT 852; DO NOT REJECT
+505  0    $a 1. War and Revolution -- 2. "Without Annexations and Contributions": Wilson, Lenin, and the War-Aims Question -- 3. The Decision to Intervene -- 4. Intervention and the Paris Peace Conference: Wilson's Russian Policy in 1919 -- 5. National Self-Determination Versus "Russia One and Indivisible" -- Conclusions: Between Ideology and Realpolitik.
+651   0   $a United States $x Foreign relations $z Soviet Union.
+651   0   $a Soviet Union $x Foreign relations $z United States.
+651   0   $a Soviet Union $x History $y Revolution, 1917-1921 $x Diplomatic history.
+600  10   $a Wilson, Woodrow, $d 1856-1924.
+830   0   $a Contributions to the study of world history ; $v no. 51
+901       $a SBXL $b 001812018
+
+Record 4
+LDR  01262nam^a2200277^a^4500
+001  SBXL001812020
+005  20020823110659.0
+008  950412s1994    sz a     b    101 0 eng d
+035  9    $a (SBN)AJZ1028
+040       $a InU $c InU $d CU $d CU-SB
+043       $a a------ $a e------
+245  00   $a Recovering the Orient : $b artists, scholars, appropriations / $c edited by Andrew Gerstle and Anthony Milner.
+260       $a Chur : $b Harwood Academic Publishers, $c 1994.
+300       $a ix, 362 p. : $b ill. ; $c 26 cm.
+490  1    $a Studies in anthropology and history, $x 1055-2464 ; $v v. 11
+500       $a SBXL: 1ST 852 HAS NO $c SO DON'T OUTPUT AN 852; 2ND 852 HAS $c BUT NO $b SO OUTPUT THAT 852.
+500       $a "Essays in this vol. were presented in draft form at two conferences held in the Humanities Research Centre of the Australian National University"--Cf. inserted leaf.
+504       $a Includes bibliographical references and index.
+650   0   $a East and West $x Congresses.
+650   0   $a Civilization, Oriental $x Congresses.
+651   0   $a Europe $x Civilization $x Oriental influences $x Congresses.
+700  1    $a Gerstle, C. Andrew, $d 1951-
+700  1    $a Milner, Anthony.
+830   0   $a Studies in anthropology and history ; $v v. 11
+852       $a SBXL $b NDARF $h JK123 $i .T12 $n us
+901       $a SBXL $b 001812020
+
+Record 5
+LDR  03082nam^a2200325^a^4500
+001  SBXL001812021
+005  20020823110659.0
+008  950502s1995    coub     b    000 0 eng  
+010       $a    95004613 
+020       $a 1555875882 (pbk. : alk. paper)
+035  9    $a (SBN)AJZ1029
+040       $a DLC $c DLC $d DLC $d CU-SB $d OrLoB
+043       $a aw-----
+050  00   $a JQ1758.A5 $b T68 1995
+082  00   $a 306.2/0956 $2 20
+245  00   $a Toward civil society in the Middle East? : $b a primer / $c edited by Jillian Schwedler.
+260       $a Boulder, CO : $b L. Rienner, $c 1995.
+300       $a xii, 124 p. : $b map ; $c 23 cm.
+500       $a SBXL: NO 005 IN INPUT RECORD; SUPPLY FILEDATE AS 005
+505  0    $a Foreword / Augustus Richard Norton -- Introduction: Civil Society and the Study of Middle East Politics / Jillian Schwedler -- 1. The Future of Civil Society in the Middle East / Augustus Richard Norton -- 2. Modern Islamic Fundamentalist Discourses on Civil Society, Pluralism, and Democracy / Ahmad Moussalli -- 3. Democratization in the Arab World / Saad Eddin Ibrahim -- 4. Economic Pressures for Accountable Governance in the Middle East and North Africa / Alan Richards -- 5. Civil Society and the Authoritarian Temptation in Algerian Politics / John P. Entelis -- 6. Algeria's Short-Lived Experiment with Electoral Politics / Abdeslam Maghraoui -- 7. A Civil Society in Egypt? / Mustapha Kamil al-Sayyid -- 8. Civil Society and Iranian Politics / Farhad Kazemi -- 9. Civil Society Under the Ba'th in Iraq / Zuhair Humadi -- 10. Two Civil Societies and One State: Jews and Arabs in the State of Israel / Gideon Doron -- 11. "In the Beginning Was the State..." Civil Society in Jordan / Laurie Brand.
+505  8    $a 12. Civil Society in Jordan: A Preliminary Study / Atef Odhibat -- 13. Civil Society in Kuwait / Neil Hicks and Ghanim al-Najjar -- 14. Civil Society in the Arab Gulf States / Jill Crystal -- 15. Civil Society Against the War System: The Lebanese Case / Antoine Messarra -- 16. Palestinian Civil Society / Muhammad Muslih -- 17. Civil Society in the Gaza Strip / Sara Roy -- 18. Early Elections in the West Bank and Gaza / Jillian Schwedler -- 19. The Destruction of Civil Society in the Sudan / Ann Mosely Lesch -- 20. State, Civil Society, and Political Change in Syria / Raymond A. Hinnebusch -- 21. Civil Society in Formation: Tunisia / Eva Bellin -- 22. Notes on Civil Society in Tunisia / Abdelbaki Hermassi -- 23. Civil Society in Turkey / Binnaz Toprak -- 24. Authoritarian Secularism and Islamic Participation: The Case of Turkey / Nilufer Gole -- 25. Yemen Between Civility and Civil War / Sheila Carapico.
+505  8    $a Conclusion: Civil Society and Political Reform in the Middle East / Farhad Kazemi and Augustus Richard Norton.
+651   0   $a Middle East $x Politics and government $y 1976.
+650   0   $a Civil society $z Middle East.
+650   0   $a Democracy $z Middle East.
+650   0   $a Political culture $z Middle East.
+650   0   $a Islam and politics $z Middle East.
+700  1    $a Schwedler, Jillian.
+852       $a SBXL $b MAIN $h JQ1758.A5 $i T68 1995 $n us
+901       $a SBXL $b 001812021
+
+Record 6
+LDR  01215cam^a22002297a^4500
+001  SBXL001812023
+005  20020823110659.0
+007  he|bmb   bbca
+008  940713s1992    dcua    b    f100 0 eng d
+035  9    $a (SBN)AJZ1031
+040       $a CU-SB $c CU-SB
+111  2    $a National Innovation Workshop for the New England Region $d (1991 : $c Portland, Me.)
+245  10   $a Making invention pay : $h microform $b Portland, Maine, October 4-5, 1991.
+260       $a [Washington, D.C.?] : $b Dept. of Energy, $c 1991.
+300       $a 1 folded pamphlet : $b ill. ; $c 23 cm.
+500       $a SBXL: OUTPUT OR DROP VARIOUS 852 SUBFIELDS
+533       $a Microfiche. $b [Washington, D.C] : $c U.S. G.P.O. $d 1992. $e 1 microfiche : negative.
+650   0   $a Inventions $z United States $x Congresses.
+650   0   $a Technological innovations $z United States $x Congresses.
+852       $a SBXL $b MUS $e Address1 $e Address2(R) $f CodedLocQualifier $f CodedLocQual2(R) $g NonCodedLQ1 $g NonCodedLQ2(R) $h QL666.O6 $i O7 $i ItemPart2(R) $k Prefix1 $k Prefix2(R) $l ShelvTitle $m Suffix1 $m Suffix2(R) $n Cntry $p PieceDesig1 $q PhysCond1 $s Copyright1 $s Copyright2(R) $t Copynum1 $x NonPub1 $x NonPub2(R) $z Pub1 $z Pub2(R) $3 Holdings1 $D CollDevDisplay $O ColDevCode
+852       $a SBXL $b GPUSM $h E 1.89:0339 P $n us
+901       $a SBXL $b 001812023
+
+Record 7
+LDR  01417nam^a2200337^a^4500
+001  SBXL001812024
+005  20020823110659.0
+008  950525s1994    nyua     bd   001 0ceng  
+010       $a    94001028 
+015       $a GB94-84792
+020       $a 0815311761 (alk. paper)
+035  9    $a (SBN)AJZ1032
+040       $a DLC $c DLC $d *UKM* $d CU $d CStRLIN
+043       $a n-us---
+050  00   $a KF8744 $b .S859 1994
+082  00   $a 347.73/2634/03 $a B $a 347.307353403 $a B $2 20
+245  04   $a The Supreme Court justices : $b a biographical dictionary / $c edited by Melvin I. Urofsky.
+260       $a New York : $b Garland Pub., $c 1994.
+300       $a xv, 570 p. : $b ill. ; $c 27 cm.
+490  1    $a Garland reference library of the humanities ; $v vol. 1851
+500       $a SBXL: 5 852s; 1ST NO $h ; 2ND NO $i ; 3RD NO $h OR $i ; 4TH $j ONLY; 5TH 1 $h & 2 $i .
+610  10   $a United States. $b Supreme Court $x Officials and employees $x Biography $x Dictionaries.
+650   0   $a Judges $z United States $x Biography $x Dictionaries.
+700  1    $a Urofsky, Melvin I.
+830   0   $a Garland reference library of the humanities ; $v vol. 1851
+852       $a SBXL $b MARF $i .Box99 $k REF
+852       $a SBXL $b SPROM $h Box50 $z Marbled end papers. $z Marbled beginning papers. $z Marbles everywhere.
+852       $a SBXL $b MUS $3 Library has: all pages.
+852       $a SBXL $b NDARF $j Box21 $x Gift of Kerry Stratton.
+852       $a SBXL $b MUCAG $h KF8744 $i .S859 1994 $i SecondI(R) $m Shelved on sunporch.
+901       $a SBXL $b 001812024
+
+Record 8
+LDR  01089nam^a2200289^a^4500
+001  SBXL001812025
+005  20020823110659.0
+008  951101s1995    txua     b    000 0 eng  
+010       $a    95220908 
+035  9    $a (SBN)AJZ1033
+040       $a DLC $c DLC
+050  00   $a GB2401.72.R42 $b A38 1995
+100  1    $a Allison, Ian.
+245  10   $a Sea ice in the global climate system : $b requirements for an ocean observing system / $c Ian Allison and Richard Moritz.
+260       $a College Station, TX : $b Ocean Observing System Development Panel, $c [1995]
+300       $a v, 28 p. : $b ill. ; $c 28 cm.
+490  1    $a OOSDP background report ; $v no. 7
+500       $a SBXL: MOVE VALUE IN 852 $c TO $b ; DROP INPUT $b 's
+500       $a "April 1995"--Cover.
+504       $a Includes bibliographical references (p. 25-28).
+650   0   $a Sea ice $x Remote sensing.
+650   0   $a Global Ocean Observing System.
+700  1    $a Moritz, Richard Edward.
+710  2    $a Ocean Observing System Development Panel.
+830   0   $a OOSDP background report ; $v no. 7
+852       $a SBXL $b SEL $h GB2401.72 $i .R42 $i A38 1995 $n us
+901       $a SBXL $b 001812025
+
+Record 9
+LDR  01427cam^a2200421^a^4500
+001  SBXL001817920
+005  20020823110659.0
+008  970516m19839999cc a     b    00000 chi  
+010       $a    86173798 /ACN/r932
+020       $a 7101004962 (v. 1)
+020       $a 7101004970 (v. 2)
+020       $a 7101009212 (v. 3)
+020       $a 7101009220 (v. 4)
+035  9    $a (SBN)AJZ9107
+035       $a AJZ9107
+035       $a (CStRLIN)CASO97-B1157
+040       $d CStRLIN $d CU-SB
+043       $a a-cc---
+050  0    $a DS721 $b .K83 1983 <Orien China>
+066       $c $1
+082  0    $a 951 $2 19
+090       $a DS721 $b .K83 1983 $i 12/19/01 T $h 05/16/97 T
+245  00   $6 880-01 $a Gu dai li zhi feng su man tan / $c "Wen shi zhi shi" bian ji bu.
+250       $6 880-02 $a Di 1 ban.
+260       $6 880-03 $a Beijing : $b Zhonghua shu ju : $b Xin hua shu dian Beijing fa xing suo fa xing, $c 1983-
+300       $a v. : $b ill. ; $c 19 cm.
+440   0   $6 880-04 $a Wen shi zhi shi wen ku
+500       $a SBXL: CJK RECORD WITH 880s
+504       $a Includes bibliographical references.
+651   0   $a China $x Social life and customs.
+710  2    $6 880-05 $a "Wen shi zhi shi" bian ji bu.
+852       $a SBXL $b ASIAN $h DS721 $i .K83 1983 $n us $3 v.1-4
+880  00   $6 245-01/$1 $a 古代 礼制 风俗 漫谈臚编辑部
+880       $6 250-02/$1 $a 第
+880       $6 260-03/$1 $a 北京
+880   0   $6 440-04/$1 $a 文史 知识 文库
+880  2    $6 710-05/$1 $a 《文史 知识》
+901       $a SBXL $b 001817920
+

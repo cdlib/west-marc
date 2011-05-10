@@ -1,0 +1,73 @@
+Record 1
+LDR  01096nas  2200241Ia 45  
+001  861239
+005  19930302143920.0
+008  810521d19801983dcu x m   s  f0uuua0eng d
+040       $a CU-IT $c CU-IT $d m/c $d CU-IT
+043       $a n-us---
+245  00   $a 1977 nationwide personal transportation study : $b report / $c U.S. Department of Transportation, Federal Highway Administration, Office of Highway Planning.
+246  13   $a Nationwide personal transportation study.
+260  01   $a Washington, D.C. : $b The Office, $c 1980-
+300       $a v. ; $c 28 cm.
+362  0    $a No. 1 (Oct. 1980)-no. 11 (Dec. 1983)
+500       $a ITS OCLC PE: UNKNOWN LOCATION IN 920 $a; CREATE 998 FIELD.
+650   0   $a Automobile driving $z United States $x Statistics.
+650   0   $a Automobile drivers $z United States $x Statistics.
+710  10   $a United States. $b Office of Highway Planning
+710  10   $a United States. $b Federal Highway Administration
+852       $a CBT $b CBT* $j Ref. Highway Stats. $3 No. 1 (Oct. 1980)-no. 11 (Dec. 1983)
+901       $a CBT $b 07438500
+998       $a CBT $b 1003 $c Record contains the unknown location code CBT* $d Release-027-000 $e 07438500
+
+Record 2
+LDR  00999cbj  2200229Ia 45  
+001  825722
+005  19930302143707.0
+008  830705c19839999cau x m  s   c0   a0eng d
+040       $a CU-IT $c CU-IT $d OCoLC $d CU-IT
+043       $a n-us-ca
+245  00   $a 1980 Census working paper.
+260       $a Berkeley, Calif. : $b Metropolitan Transportation Commission, $c 1983-
+265       $a Metropolitan Transportation Commission, Hotel Claremont, Berkeley, CA 94705
+300       $a v. ; $c 28 cm.
+362  0    $a 1 (Feb. 1983)-
+500   0   $a ITS OCLC NON-DELETE REC: HAS INVALID LEADER TYPE=b; CREATE 998 FIELD.
+500   0   $a ITS OCLC NON-DEL REC: INVALID LEADER BIBLVL=j; CREATE 2ND 998 FIELD.
+710  10   $a California. $b Metropolitan Transportation Commission
+852       $a CBT $b CBTM $j RTS1003 .M4 $3 No. 1 (Feb. 1983)
+901       $a CBT $b 09670033
+998       $a CBT $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e 09670033
+998       $a CBT $b 1005 $c Record contains the invalid bibliographic level j $d Release-027-000 $e 09670033
+
+Record 3
+LDR  00647nas  22002057a 45  
+001  5412
+005  20020318000000.0
+008  1020318c1974                        eng 
+010       $a    85644378 
+022  0    $a 0149-1423
+110  1    $a American Association of Petroleum Geologists
+245  00   $a AAPG bulletin.
+246  00   $a AAPG bulletin.
+260       $a Tulsa, Okla.
+362  0    $a v.58-  Ja 1974-
+500  0    $a LLNL LS PE.
+780  00   $t Continues American Association of Petroleum Geologists bulletin.
+852       $a LLNL $b main $3 32+  1948+
+901       $a LLNL $b 100341000
+998       $a LLNL $b 1003 $c Record contains the unknown location code main $d Release-027-000 $e 100341000
+
+Record 4
+LDR  00551nas  22001577a 45  
+001  369
+005  20020318000000.0
+008  1020318k19721997                    eng 
+022  0    $a 0363-5732
+245  00   $a Abstract journal in earthquake engineering.
+260       $a Richmond, CA : $b Earthquake Engineering Research Center, University of California.
+362  0    $a V.1-26, 1972-1997
+500  0    $a LLNL LS PE.
+852       $a LLNL $b main $3 V.1-26, 1972-1997
+901       $a LLNL $b 100001001
+998       $a LLNL $b 1003 $c Record contains the unknown location code main $d Release-027-000 $e 100001001
+

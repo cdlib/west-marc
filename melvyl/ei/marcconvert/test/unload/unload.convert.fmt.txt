@@ -1,0 +1,877 @@
+Record 1
+LDR  02262nam  2200421Ia 45  
+001  2766191
+005  19860425151703.0
+008  860425s1986    xx a          00010 eng d
+035       $a (CStRLIN)12997013-B
+040       $a CU-IT $c CU-IT
+100  10   $a 0'Toole, Daniel E.
+245  10   $a Monster transit in America.
+300       $a 1 million p. : $b ill. ; $c 600 cm.
+500       $a ITS MONO: OUTPUT  6 852 FIELDS FROM 6 HOLDING SEGMENTS.
+500       $a ITS MONO: DROP INCOMING 000, 005, 852, & 9XX FIELDS.
+500       $a ITS MONO: MOVE 910 TO 035.
+500       $a ITS MONO: OCLC 901 $b IS < 8 CHARS.; LEFT PAD WITH ZEROES.
+500       $a LOC CBTJ: 930 HAS > 1 $c; REMOVE SUBFLDS & CODES - OUTPUT IN 852 $j.
+500       $a LOC CBTM: 930 HAS $a & $b; MOVE TO 852 $h AND $i.
+500       $a LOC CBTP: 930 HAS $a ONLY; MOVE TO 852 $j.
+500       $a LOC CBTR: 930 HAS $b ONLY; MOVE TO 852 $j.
+500       $a LOC CBTZ: 930 HAS $c No Call Number - DON'T OUTPUT ANY CALL NUM IN 852
+500       $a LOC CBTI: 930 HAS $c Call number not reported - DON'T OUTPUT  ANY CALL NUM IN 852
+500       $a LOC CBTJ: MOVE 933 $a TO 852 $g.
+500       $a LOC CBTJ: MOVE 1ST 963 TO 852 $p; DROP ALL OTHERS.
+500       $a LOC CBTM: MOVE 2 928s TO 2 852 $k's.
+500       $a LOC CBTM: MOVE 1ST 2 932s TO 2 852 $m's.
+500       $a LOC CBTM: MOVE 'SHARED PURCHASE' 932 TO 852 $z.
+500       $a LOC CBTP: 1ST 935 HAS IND2=0 MOVE TO 852 $z; 2ND HAS IND2=1 MOVE TO 852
+500       $a LOC CBTR: MOVE 934 $a TO 852 $3.
+650   0   $a Local transit $x Employees $x Training of.
+852       $a CBT $b CBTJ $g At NRLF: copy 2. $j See Journal Area Stacks $p 7071234
+852       $a CBT $b CBTM $h TL725.3.T7 $i F68 1987 $k Folio $k Godzilla $m Shelved out of reach of humans. $m On shelf unless in librarian's car. $z SHared PuRchase.
+852       $a CBT $b CBTP $j Santos Coll. $z Bound by Martha Stewart with glue gun. $x Worms throughout. $x Not To Be Removed from Library.
+852       $a CBT $b CBTR $j Box 919 $3 Library has: 1-78.
+852       $a CBT $b CBTZ
+852       $a CBT $b CBTI $g This is CBTI's 933 field. $k This is CBTI's 928 field. $m This is CBTI's 932 field. $p This is CBTI's 1st 963 field. $z This is CBTI's 935 field, ind2=0. $x This is CBTI's 935 field; ind2=1. $x This is CBTI's 935 field; ind2=blank $3 This is CBTI's 934 field.
+901       $a CBT $b 00095216
+
+Record 2
+LDR  01209cas  2200277 a 45  
+001  955869
+005  19930302145341.0
+008  790823d19791980azuar     s  s0uuua0eng d
+010       $a    82642525 
+050  0    $a HE356.A7 $b A15
+082       $a 388.1/09791
+245  00   $a 5 year highway construction & airport development program.
+260       $a Martian Dept. of Transportation
+300       $a v. : $b ill. ; $c 22 x 28 cm.
+310       $a Annual
+362  1    $a Began with 1979.
+500       $a ITS OCLC PE: CREATE 4 852 FIELDS.
+500       $a ITS OCLC PE: MOVE 950s TO 852 $3's EXCEPT FOR LOC CBTM($a = Holdings not reported)
+500   0   $a ITS OCLC PE: CHECK 852 $D & $O OUTPUT FROM 951 FIELDS.
+500   0   $a LOC CBTR: 950 $a=holdings not reported; DO NOT CREATE 852$3.
+650   0   $a Airports $z Mars $x Planning $x Periodicals.
+852       $a CBT $b CBTJ $h HE28 $i .A62 $k quarto $m Not shelved to avoid overuse. $x Gift of Gab. $3 1979/80 $O 0
+852       $a CBT $b CBTM $j 93 04 616 $m Shelving has collapsed. $z Library use only - if you can find it. $3 v.22-25 $D On order. $O 3
+852       $a CBT $b CBTP $j CH191KL223 $x Helen Wellenmellon collection $3 1921- $D Currently received $O 4
+852       $a CBT $b CBTR $j A414A K10 $D Not currently received. $O 5
+901       $a CBT $b 05303702
+
+Record 3
+LDR  01004nas  2200229Ia 45  
+001  909894
+005  19901219175354.0
+008  901219d19861988cau x m       0uuua0eng d
+040       $a CU-IT $c CU-IT
+043       $a n-us-ca
+245  00   $a 101 corridor study. $n Phase II, $p Technical memorandum / $c prepared by Barton-Aschman Associates, Inc.
+260  00   $a [San Jose, Calif.] : $b Barton-Aschman Associates, $c 1986-1988.
+300       $a 19 v. : $b ill. ; $c 28 cm.
+362  0    $a No. 1 (July 1986)-no. 19 (Oct. 1988)
+500       $a ITS OCLC PE: OUTPUT 3 852s FROM 3 LOCATION SEGMENTS.
+500   0   $a ITS OCLC PE: CHECK 852 $D & $O OUTPUT FROM 951 FIELDS.
+650   0   $a High occupancy vehicle lanes $z California $z Marin County $x Periodicals.
+710  20   $a 101 Corridor Action Committee (Calif.)
+852       $a CBT $b CBTJ $j RTS5020 .B382 $3 No. 1 (July 1986)-no. 19 (Oct. 1988) $D No longer published. $O x
+852       $a CBT $b CBTP $h VX46420 $i .R898 $3 v.1-10, 23- $D Subscription cancelled. $O y
+852       $a CBT $b CBTR $h JT12 $i .D33 $O 9
+901       $a CBT $b 22877666
+
+Record 4
+LDR  01096nas  2200241Ia 45  
+001  861239
+005  19930302143920.0
+008  810521d19801983dcu x m   s  f0uuua0eng d
+040       $a CU-IT $c CU-IT $d m/c $d CU-IT
+043       $a n-us---
+245  00   $a 1977 nationwide personal transportation study : $b report / $c U.S. Department of Transportation, Federal Highway Administration, Office of Highway Planning.
+246  13   $a Nationwide personal transportation study.
+260  01   $a Washington, D.C. : $b The Office, $c 1980-
+300       $a v. ; $c 28 cm.
+362  0    $a No. 1 (Oct. 1980)-no. 11 (Dec. 1983)
+500       $a ITS OCLC PE: UNKNOWN LOCATION IN 920 $a; CREATE 998 FIELD.
+650   0   $a Automobile driving $z United States $x Statistics.
+650   0   $a Automobile drivers $z United States $x Statistics.
+710  10   $a United States. $b Office of Highway Planning
+710  10   $a United States. $b Federal Highway Administration
+852       $a CBT $b CBT* $j Ref. Highway Stats. $3 No. 1 (Oct. 1980)-no. 11 (Dec. 1983)
+901       $a CBT $b 07438500
+998       $a CBT $b 1003 $c Record contains the unknown location code CBT* $d Release-027-000 $e 07438500
+
+Record 5
+LDR  00999cbj  2200229Ia 45  
+001  825722
+005  19930302143707.0
+008  830705c19839999cau x m  s   c0   a0eng d
+040       $a CU-IT $c CU-IT $d OCoLC $d CU-IT
+043       $a n-us-ca
+245  00   $a 1980 Census working paper.
+260       $a Berkeley, Calif. : $b Metropolitan Transportation Commission, $c 1983-
+265       $a Metropolitan Transportation Commission, Hotel Claremont, Berkeley, CA 94705
+300       $a v. ; $c 28 cm.
+362  0    $a 1 (Feb. 1983)-
+500   0   $a ITS OCLC NON-DELETE REC: HAS INVALID LEADER TYPE=b; CREATE 998 FIELD.
+500   0   $a ITS OCLC NON-DEL REC: INVALID LEADER BIBLVL=j; CREATE 2ND 998 FIELD.
+710  10   $a California. $b Metropolitan Transportation Commission
+852       $a CBT $b CBTM $j RTS1003 .M4 $3 No. 1 (Feb. 1983)
+901       $a CBT $b 09670033
+998       $a CBT $b 1004 $c Record contains the invalid leader type b $d Release-027-000 $e 09670033
+998       $a CBT $b 1005 $c Record contains the invalid bibliographic level j $d Release-027-000 $e 09670033
+
+Record 6
+LDR  00678nam  2200205Ia 45  
+001  9530214
+005  19941013195238.0
+008  941013s1994    cau           000 0 eng d
+040       $a CU-IG $c CU-IG
+043       $a n-us-ca
+245  00   $a 3 strikes and you're out! : $b media kit.
+260       $a Clovis, CA : $b 3 Strikes and You're Out Committee, $c [1994]
+300       $a 1 portfolio ; $c 30 cm. + $e 2 videocassetts.
+500       $a IGS OCLC MONO.
+650   0   $a Sentences (Criminal procedure) $z California.
+690       $a Proposition 184, November 1994.
+710  2    $a 3 Strikes and You're Out Committee.
+740  01   $a Three strikes and you're out.
+852       $a CBG $b CBGA $j 94 00936 2pts.
+901       $a CBG $b 31279626
+
+Record 7
+LDR  00868cam  2200229Ia 45  
+001  4443822
+005  19880923185051.0
+008  871019s1986    xx be        l00010 eng d
+040       $a CU-IG $c CU-IG
+043       $a n-us-ca
+110  20   $a 3D/International.
+245  10   $a Main-Pier redevelopment master plan, city of Huntington Beach, California.
+260  0    $a [S.l.] : $b 3D/International, $c 1986.
+300       $a 49, [4] p. : $b maps, plans ; $c 28 cm.
+500       $a IGS OCLC MONO.
+650   0   $a Central business districts $z California $z Huntington Beach $x Planning.
+650   0   $a Waterfronts $z California $z Huntington Beach $x Planning.
+650   0   $a City planning $z California $z Huntington Beach.
+650   0   $a Urban renewal $z California $z Huntington Beach.
+710  10   $a Huntington Beach Redevelopment Agency.
+852       $a CBG $b CBGA $j 87 01833 $z This is a 935 field, 2nd ind=0
+901       $a CBG $b 16868469
+
+Record 8
+LDR  00527cas  2200133b  45  
+001  801368
+005  19890630000000.0
+008  10je82           uu  p  igslf      eng  
+245       $a 80 census of population and housing : supplementary report. Provisional estimates of social, economic and housing characteristics, PHC80-S1
+260       $a Washington, D.C
+265       $a U.S. Bureau of the Census
+500       $a IGS OCLC PE
+852       $a CBG $b CBGA $j A6859 $m Shelved near highway 61, revisted. $x Townhouses reported separately. $3 1, 1982-
+901       $a CBG $b 84843232
+
+Record 9
+LDR  00812cas  2200229Ia 45  
+001  1788443
+005  20000104174400.0
+008  980813d19981998caubr p       0   a0eng d
+040       $a CU-IG $c CU-IG
+043       $a n-us-ca $a n-us---
+245  00   $a 215 reporter.
+246  30   $a Two fifteen reporter
+260       $a Frazier Park, CA : $b Access Unlimited, $c 1998-1998.
+300       $a v. : $b ill. ; $c 28 cm.
+362  0    $a Vol. 1, no. 1 (Feb. 1998)-v. 1, no. 4 (July-Aug. 1998).
+500       $a IGS OCLC PE
+650   0   $a Marijuana $x Law and legislation $z California $x Periodicals.
+650   0   $a Marijuana $x Law and legislation $z United States $x Periodicals.
+650   0   $a Marijuana $x Therapeutic use $x Periodicals.
+710  2    $a Access Unlimited (Organization)
+852       $a CBG $b CBGS $j A9824 $3 1:1(Feb 1998)-1:4(July/Aug 1998).
+901       $a CBG $b 39693985
+
+Record 10
+LDR  01235nam  22003498a 45  
+001  9092506
+005  19940331142952.0
+008  930824s1993    onc      b   f000 0 eng d
+010       $a cn 93099625 
+015       $a C93-99625-9
+020       $a 0662208528
+040       $a CaOODP $b eng $c NLC $d CU-WR
+043       $a n-cn---
+055   3   $a TD887*
+082  0    $a 363.73/8 $2 20
+086  1    $a DSS Cat. no. En40-215/19E
+245  00   $a 1,1,2,2,-Tetrachloroethane / $c Government of Canada, Environment Canada, Health and Walfare Canada.
+260       $a Ottawa : $b Environment Canada, $c c1993.
+263       $a 9308
+300       $a v, 26 p. ; $c 28 cm.
+440   0   $a Priority substances list assessment report
+500       $a WRCA OCLC MONO.
+500       $a At head of title: Canadian Environmental Protection Act.
+504       $a Includes bibliographical references.
+650   0   $a Vinyl chloride $x Environmental aspects.
+650   0   $a Ethylene dichloride $x Environmental aspects.
+710  10   $a Canada. $b Environment Canada.
+710  10   $a Canada. $b Health and Welfare Canada.
+740  01   $a Priority substances list assessment report.
+740  01   $a Canadian Environmental Protection Act.
+852       $a WCA $b WCAA $j G110 N2 1,1,2,2- tetra- chloro- ethane
+901       $a WCA $b 29030354
+
+Record 11
+LDR  01153nam  22003258a 45  
+001  9057779
+005  19940310125553.0
+008  931119s1993    onc      b   f000 0 eng d
+010       $a cn 93099694 
+015       $a C93-99694-1
+020       $a 0662210727
+040       $a CaOODP $b eng $c NLC $d CU-WR
+055   3   $a TD427*
+082  0    $a 363.73/84 $2 20
+086  1    $a DSS Cat. no. En40-215/33E
+245  00   $a 1,2-Dichlorobenzene / $c Government of Canada, Environment Canada, Health Canada.
+260       $a Ottawa : $b Environment Canada, $c c1993.
+263       $a 9310
+440   0   $a Priority substances list assessment report
+500       $a WRCA OCLC MONO
+500       $a At head of title: Canadian Environmental Protection Act.
+504       $a Includes bibliographical references.
+650   0   $a Dichlorobenzene $x Environmental aspects.
+650   0   $a Environmental monitoring $z Canada.
+710  10   $a Canada. $b Environment Canada.
+710  10   $a Canada. $b Health Canada.
+740  01   $a Priority substances list assessment report.
+740  01   $a Canadian environmental protection act.
+852       $a WCA $b WCAA $j G110 N2 Di- chloro- benzene $3 Library has: entire series
+901       $a WCA $b 29469085
+
+Record 12
+LDR  01233cas  2200325 a 45  
+001  861469
+005  19971003182435.0
+008  751030c19uu9999cauuu        s0   a0eng  
+010       $a    73161207 //r75
+012       $a 3 $b 3 $d 7 $e - $f - $g p $h - $i 8610
+040       $a DLC $c DLC $d NST $d OCoLC $d CU-WR
+042       $a lc
+043       $a n-us-ca
+050  00   $a KFC524.P5 $b A812
+082       $a 343/.794/0965
+245  00   $a ABCs of California boating law.
+246  00   $a California boating law
+246  00   $a ABCs of the California boating law
+260       $a Sacramento, CA : $b Dept. of Boating and Waterways,
+265       $a 1929 S St., Sacramento, CA 95814-7291
+300       $a v. : $b ill. ; $c 23 cm.
+500       $a WRCA OCLC PE.
+500       $a Issues for 1973-   have title: ABCs of the California boating law.
+550       $a Issued by: California. Dept. of Navigation and Ocean Development,   -<1973>; California. Dept. of Boating and Waterways, <1990- >
+650   0   $a Boats and boating $x Law and legislation $z California.
+710  1    $a California. $b Dept. of Boating and Waterways
+710  1    $a California. $b Dept. of Navigation and Ocean Development
+850       $a CU $a DLC
+852       $a WCA $b WCAA $j L262 X $3 1961-62; 1973-75; 1980; 1983-85; 1988-
+901       $a WCA $b 02239434
+
+Record 13
+LDR  00878nas  2200241Ia 45  
+001  826210
+005  19890809140020.0
+008  870327c19829999cc ar         0uuua0eng d
+040       $a GIS $c GIS $d m/c $d CU-WR
+130  00   $a Abstracts of papers (Shui li shui tien k°o hsèueh yen chiu yèuan (China)
+245  00   $a Abstracts of papers / $c Institute of Water Conservancy and Hydroelectric Power Research (IWHR).
+260  01   $a Beijing : $b The Institute.
+300       $a v. ; $c 26 cm.
+310       $a Annual
+362  0    $a 1982-
+500       $a WRCA OCLC PE.
+500       $a Description based on: 1983.
+650   0   $a Water resources development $z China $x Periodicals.
+650   0   $a Water resources development $x Periodicals.
+650   0   $a Ocean wave power $x Periodicals.
+710  20   $a Shui li shui tien k°o hsèueh yen chiu yèuan (China)
+852       $a WCA $b WCAA $j G924 W-1 $3 Library has: 1984-
+901       $a WCA $b 15378833
+
+Record 14
+LDR  01279nam  2200313Ia 45  
+001  6120984
+005  19900223173342.0
+008  900223s1989    nyua     bt   00010 eng d
+040       $a CU-EERC $c CU-EERC
+088       $a NCEER-89-0026
+245  00   $a 1:4 scale model studies of active tendon systems and active mass dampers for aseismic protection / $c by A.M. Reinhorn ... [et al.]
+260  0    $a Buffalo, NY : $b National Center for Earthquake Engineering Research, $c 1989.
+300       $a 1 v. (various pagings) : $b ill. ; $c 28 cm.
+490  1    $a Technical report ; $v NCEER-89-0026
+500       $a EERC OCLC MONO.
+500       $a Report prepared by SUNY Buffalo and Takenaka Komuten Construction Co.
+504       $a Bibliography: p. 7-1.
+536       $a NCEER $b 87-2001 and $b 88-2001 ; NSF $b 86-07591
+650   0   $a Tall buildings $x Models.
+650   0   $a Damping (Mechanics)
+650   0   $a Algorithms.
+690       $a Structural control.
+700  10   $a Reinhorn, Andrei M.
+710  20   $a National Center for Earthquake Engineering (U.S.)
+710  20   $a Takenaka Komuten Construction Co.
+740  01   $a Scale model studies of active tendon systems.
+830   0   $a Technical report (National Center for Earthquake Engineering (U.S.)) ; $v NCEER-89-0026.
+852       $a QCE $b QCEA $j 500 N24 89-26
+901       $a QCE $b 21118348
+
+Record 15
+LDR  00765nam  2200217Ia 45  
+001  6288293
+005  19900517170939.0
+008  900517s1990    enkab         00000 eng d
+040       $a CU-EERC $c CU-EERC
+245  14   $a The 2nd April 1990 Bishop's Castle earthquake / $c [prepared by BEQE Ltd.]
+260  0    $a [Birchwood, Warrington, Cheshire : $b BEQE, Ltd. $c c1990]
+300       $a 8 p. : $b ill., maps ; $c 28 cm.
+500       $a EERC OCLC MONO.
+650   0   $a Buildings $z England $x Earthquake effects.
+650   0   $a Masonry $z England $x Earthquake effects.
+651   0   $a Bishop's Castle (Salop, England)
+710  20   $a BEQE, Ltd.
+740  01   $a Bishop's Castle earthquake.
+740  01   $a Second April 1990 Bishop's Castle earthquake.
+852       $a QCE $b QCEA $j 705.475 1990B S42
+901       $a QCE $b 21551483
+
+Record 16
+LDR  01896cas  2200433   45  
+001  369
+005  20010510201510.0
+008  751020d19711997cauar1    ab s0   a0eng  
+010       $a    72627421
+012       $a 3 $e n $i 8501 $j 0 $l 1
+022  0    $a 0363-5732
+030       $a AJEEDW
+040       $a DLC $c SUL $d NSD $d DLC $d OCoLC $d DLC $d NSD $d AIP $d NST $d NSD $d HUL $d NST $d NYG $d NST $d CU-S $d CU-EERC
+042       $a nsdp $a lc
+050  00   $a TA658.44 $b .A25
+082       $a 624/.176
+210  0    $a Abstr. j. earthq. eng.
+222   0   $a Abstract journal in earthquake engineering
+245  00   $a Abstract journal in earthquake engineering.
+260       $a Richmond, Calif., $b Earthquake Engineering Research Center, University of California.
+265       $a Earthquake Engineering Research Center, University of California, 1301 South 46th St., Richmond, Calif., 94804
+300       $a v. $c 26 cm.
+362  1    $a Ceased with v. 26, issue 2 (April 1997)
+362  0    $a v. 1-   1971-
+500       $a EERC OCLC PE.
+580       $a Continued by the online publication, Earthquake engineering abstracts.
+650   0   $a Earthquakes $v Abstracts $v Periodicals.
+650   0   $a Earthquake engineering $v Bibliography $v Periodicals.
+650   0   $a Earthquake engineering $v Abstracts $v Periodicals.
+650   0   $a Buildings $x Earthquake effects $v Abstracts $v Periodicals.
+650   0   $a Structural design $v Abstracts $v Periodicals.
+650   0   $a Buildings $x Earthquake effects $v Bibliography $v Periodicals.
+650   0   $a Structural design $v Bibliography $v Periodicals.
+650   0   $a Earthquakes $v Bibliography $v Periodicals.
+710  2    $a University of California, Berkeley. $b Earthquake Engineering Research Center
+730  0    $a Earthquake engineering abstracts.
+850       $a AAP $a CU-I $a CU-S $a CaBVa $a CaOOG $a DLC $a FU $a KMK $a MChB $a MdU $a N $a NjR $a OkU $a PPiC $a RPB-S $a TxDaM $a UPB
+852       $a QCE $b QCEA $j 400 A25 $3 v. 1 (1971)-v. 26, issue 2 (April 1997)
+901       $a QCE $b 01719080
+
+Record 17
+LDR  01193cas  2200265Ia 45  
+001  994153
+005  19890721194300.0
+008  810901d19341966cauqr p   a  f0uuua0eng d
+040       $a CU-Riv $c CU-Riv $d OCoLC $d CU-EERC
+043       $a n-usp--
+086  0    $a I 19.69
+245  00   $a Abstracts of earthquake reports for the Pacific Coast and the Western Mountain Region / $c U.S. Department of Commerce, Environmental Services Administration, Coast and Geodetic Survey.
+246  10   $a Earthquake reports for the Pacific Coast and Western Mountain Region.
+260  01   $a San Francisco, Calif. : $b U.S. Coast and Geodetic Survey, $c 1934-1966.
+300       $a 132 no. ; $c 28 cm.
+310       $a Quarterly
+362  0    $a [MSA 1] (Jan.-Mar. 1934)-MSA 132 (Oct.-Dec. 1966)
+500       $a EERC OCLC PE.
+650   0   $a Earthquakes $z Western Mountain Region $x Periodicals.
+650   0   $a Earthquakes $z Pacific Coast $x Periodicals.
+710  20   $a U.S. Coast and Geodetic Survey
+780  00   $a Abstracts of earthquake reports for California and western Nevada
+785  00   $t Abstracts of earthquake reports for the United States $w (OCoLC) 4270475
+852       $a QCE $b QCEA $j 380.1 U818 no.MSA $3 MSA 1 (1934)-MSA 132 (1966)
+901       $a QCE $b 07718780
+
+Record 18
+LDR  00565cam  2200181Ia 45  
+001  11357143
+005  19990212172900.0
+008  810812s1976    inua          000 0 eng d
+040       $a MWU $c MWU $d WAU $d CU-MZ
+245  00   $a 200 years of surgery : $b milestones in American medicine.
+260       $a [Indianapolis] : $b Eli Lilly, $c c1976.
+300       $a [44] p. : $b ill. ; $c 28 cm.
+500       $a MT ZION OCLC MONO.
+650   0   $a Surgery $x History.
+650   2   $a Surgery $x history $z United States
+740  01   $a Milestones in American medicine.
+852       $a HMF $b HMFH $j HOM Eli
+901       $a HMF $b 07662457
+
+Record 19
+LDR  01424cam  2200265Ia 45  
+001  12549789
+005  20000905191955.0
+008  990224s1998    dcu           001 0 eng d
+040       $a MAL $c MAL $d CWS $d OUB $d COU $d JYJ $d CU-MZ
+245  00   $a 270 ways to put your talent to work in the health field.
+246  3    $a Two hundred seventy ways to put your talent to work in the health field
+246  3    $a Two hundred and seventy ways to put your talent to work in the health field
+246  0    $i At head of title: $a National Health Council presents
+260       $a Washington, DC : $b National Health Council, $c c1998.
+300       $a vii, 130 p. ; $c 28 cm.
+500       $a MT ZION OCLC MONO.
+505  2    $a Clinical laboratory services -- Dentistry -- Dietetics and nutrition -- Emergency medicine -- Health information and communication -- Health service administrator -- Medical careers -- Mental and social health -- Nursing -- Pharmacy -- Public health -- Science and engineering -- Technical instrumentation -- Therapy and rehabilitation -- Veterinary medicine -- Vision care -- Health careers in the armed forces -- Alternative medicine.
+650   0   $a Public health $x Vocational guidance.
+650   0   $a Medicine $x Vocational guidance.
+650   0   $a Nursing $x Vocational guidance.
+650   2   $a Health Occupations
+650   2   $a Career Choice
+710  2    $a National Health Council (U.S.)
+852       $a HMF $b HMFR $j W 21 T974 1998
+901       $a HMF $b 40851118
+
+Record 20
+LDR  00552cas  2200193M  45  
+001  813
+005  19991203133320.0
+008  751101c19729999mdumr p       0    0eng u
+040       $c MUL $d OCoLC $d NLM $d CU-MZ
+069  1    $a A02835000
+245  00   $a Accel.
+260       $a Bethesda, Md., $b American College of Cardiology.
+362  0    $a v. 4, no. 10-   1972-
+500       $a MT ZION OCLC PE.
+650   2   $a Cardiovascular disease $x periodicals.
+710  2    $a American College of Cardiology
+780  00   $t Access
+852       $a HMF $b HMFP $j Journals $3 Latest 5 years
+901       $a HMF $b 01779056
+
+Record 21
+LDR  01381cas  2200445 a 45  
+001  1163842
+005  19941219152714.0
+008  910211c19919999paubr1p       0   a0eng d
+010       $a    93642454  $z sn 91034736 
+012       $a 2 $i 9309 $l y
+022  0    $a 1056-8751 $y 0003-4819
+030       $z AIMEAS
+040       $a NYG $c NYG $d NLM $d NSD $d ELM $d NST $d AGL $d NST $d DLC $d NLM $d CU-MZ
+042       $a lc $a nsdp
+050  00   $a R11 $b .A13
+060  00   $a ZW 1 $b A185
+069  1    $a SR0070319
+069  0    $a 9104824
+070  0    $a R11.A52
+072   0   $a X380
+082  00   $a 616/.005 $2 20
+210  0    $a ACP j. club
+212  0    $a American College of Physicians journal club
+222   0   $a ACP journal club
+245  00   $a ACP journal club.
+260       $a Philadelphia, Penn. : $b American College of Physicians, $c c1991-
+300       $a v. ; $c 28 cm.
+310       $a Bimonthly
+362  0    $a Vol. 114, suppl. 1 (Jan./Feb. 1991)-
+500       $a MT ZION OCLC PE.
+510  2    $a Index medicus $x 0019-3879 $b Jan.-Feb. 1994-
+650   0   $a Internal medicine $x Periodicals.
+650   2   $a Review Literature.
+650   2   $a Medicine $x abstracts.
+710  20   $a American College of Physicians
+730  00   $a Annals of internal medicine.
+772  0    $t Annals of internal medicine $x 0003-4819 $w (DLC)   43032966 $w (OCoLC)1481385
+852       $a HMF $b HMFP $j Journals $3 v. 114, 1991-
+890       $a ACP journal club.
+901       $a HMF $b 23085040
+
+Record 22
+LDR  00874nam  2200205Ia 45  
+001  8369241
+005  19930611160322.0
+008  930611s1987    gw a     b    000 0 ger d
+040       $a CRL $c CRL
+245  00   $a 1. Statusbericht MAW- und HTR-BE-Versuchseinlagerung in Bohrlèochern : $b 10. und 11. Dezember 1986 Kernforschungsanlage Jèulich / $c herausgegeben von E. Barnert.
+260       $a Jèulich : $b Zentralbibliothek der Kernforschungsanlage Jèulich GmbH, $c 1987.
+300       $a 224 p. : $b ill. (some col.) ; $c 30 cm.
+440   0   $a Berichte der Kernforschungsanlage Jèulich. $p Jèul-Conf, $x 0344-5798 ; $v 60
+500       $a CRL OCLC MONO.
+700  10   $a Barnert, E.
+740  01   $a Erster Statusbericht.
+740  01   $a Statusbericht MAW- und HTR-BE-Versuchseinlagerung in Bohrlèochern.
+740  01   $a MAW- und HTR-BE-Versuchseinlagerung in Bohrlèochern.
+852       $a CRL $b CRLL $j E-8855
+901       $a CRL $b 28261611
+
+Record 23
+LDR  00470nam  2200145K  45  
+001  6044356
+005  19900106113910.0
+008  900104s1848    fr            00000 fre d
+040       $a CRL $c SER $d CRL
+245  00   $a 1áere lettre du citoyen Victor Letellier, fondateurrâedacteur en chef de l'Impitoyable, $b journal de tous les abus publics, au gâenâeral Cavaignac.
+260  1    $a Paris, $c 1848.
+300       $a 2 p.
+500       $a CRL OCLC MONO.
+852       $a CRL $b CRLL $j F-1642:44
+901       $a CRL $b 20843088
+
+Record 24
+LDR  00811cas  2200301 a 45  
+001  1584652
+005  19941130101843.0
+008  841017u19809999ii qr p       0   z0tamr 
+010       $a    81910334 /SA
+012       $a 4 $i 9305
+025       $a PL480:I-D-T-148
+040       $a DLC $c DLC $d CRL
+042       $a lc
+050  00   $a PL4758.45 $b .A15
+245  00   $a 1/4.
+246  13   $a Kåalåaònòtu itaöl
+246  13   $a Malarmaönönan veòliyåiòtu
+246  13   $a Malarmannan veliyeedu
+260       $a Madras : $b Malarmannan, $c [1980-
+300       $a v. ; $c 26 cm.
+310       $a Quarterly
+362  0    $a I, i (Jåulai/Cepòtampar 1980)-
+500       $a CRL OCLC PE.
+546       $a In Tamil.
+650   0   $a Tamil literature $x Periodicals.
+852       $a CRL $b CRLS $3 v. 1, no. 1, 3-4 (July/Sept. 1980-Oct./Dec. 1981)
+890       $a 1/4.
+901       $a CRL $b 11275775
+
+Record 25
+LDR  01817cas  2200373 a 45  
+001  1347731
+005  19901207095255.0
+008  861216c19869999fr wr pe      0uuu 0fre d
+010       $a sn 88043308 
+012       $i 8808
+022       $a 0398-1169
+040       $a CRL $c CRL
+042       $a lcd
+245  00   $a 01 informatique.
+246  10   $a Zâero un informatique
+260  00   $a [Paris : $b Groupe Tests,
+265       $a 01 Informatique, Service Diffusion, 5, place du Colonel-Fabien, 75491 Paris Cedex 10
+300       $a v. : $b ill. ; $c 42 cm.
+310       $a Weekly
+350       $a 1510.00F (includes subscription to: O1 râefâerences; Tâelâecoms magazine; and: 01 informatique.  Annuaire des fournisseurs en informatique, micro-informatique, informatique [i.e. tâelâematique])
+362  1    $a Began in 1986.
+500       $a CRL OCLC PE.
+515       $a No. <904-> also designated <19.-> annâee.
+580       $a Supplements: 01 informatique magazine, 1986-1988; 01 râefâerences, 1989-   ; Tâelâecoms magazine, 1990-   .
+580       $a Also includes: 01 informatique.  Annuaire des fournisseurs en informatique, micro-informatique, bureautique, informatique [i.e. tâelâematique], 1987- .
+650   0   $a Information storage and retrieval systems $x Periodicals.
+650   0   $a Computer industry $x Periodicals.
+770  1    $t Tâelâecoms magazine $w (DLC)sn 90017967 $w (OCoLC)22789035
+770  1    $t 01 râefâerences $w (DLC)sn 90017275 $w (OCoLC)21980561
+770  1    $t 01 informatique magazine $w (DLC)sn 88043307 $w (OCoLC)18420895
+780  00   $t 01 hebdo
+787  1    $t 01 informatique.  Annuaire des fournisseurs en informatique, micro-informatique, bureautique, informatique [i.e. tâelâematique] $x 0299-5948 $w (DLC)sn 87018575 $w (OCoLC)15250759
+852       $a CRL $b CRLS $3 [no. 904-1130 May 5, 1986-Sept. 28, 1990] ++ no. 1131- Oct. 5, 1990-
+901       $a CRL $b 14978816
+
+Record 26
+LDR  01181cam  2200277Ia 45  
+001  8742042
+005  19931007210612.0
+008  930617s1989    caua    rb   l001 0 eng d
+040       $a JTD $c JTD $d CSFA
+043       $a n-us-ca
+245  00   $a 4th R : recycling curriculum : $b K thru 5th grade / $c developed by San Francisco school teachers ; sponsored by the San Francisco Recycling Program ; [editors, Martin Strauss, Rosanne Werges].
+260       $a [San Francisco, Calif.] : $b The Program, $c [1989]
+300       $a 147 p. : $b ill. ; $c 30 cm.
+500       $a CAS OCLC MONO.
+500       $a Issued also in Spanish as: 4th R : un plan de estudio en reciclaje : para niveles de kinder a 5o grado.
+504       $a Includes bibliographical references (p. 147) and index.
+533       $a Photocopy.
+650   0   $a Recycling (Waste, etc.) $x Study and teaching (Primary) $z California.
+650   0   $a Refuse and refuse disposal $x Study and teaching (Primary) $z California.
+700  10   $a Strauss, Martin.
+700  10   $a Werges, Rosanne.
+710  20   $a San Francisco Recycling Program.
+740  01   $a Fourth R.
+740  01   $a Recycling curriculum.
+852       $a CAW $b CAWR $h TD794.5 $i .A15 1989a $x pub. gift
+901       $a CAW $b 28288719
+
+Record 27
+LDR  01323nam  2200313Ia 45  
+001  8742060
+005  19931007212738.0
+008  931007s1989    caua    rb   l001 0 spa d
+040       $a CSFA $c CSFA
+041  1    $a spa $h eng
+043       $a n-us-ca
+240  00   $a 4th R. $l Spanish
+245  00   $a 4th R : $b un plan de estudio en reciclaje : para niveles de kinder a 5o grado / $c desarrollado por maestros escolares de San Francisco ; patrocinado por San Francisco Recycling Program ; [editores, Martin Strauss, Rosanne Werges ; traductor, Josâe Serrano ; editora, Ada Whaler].
+260       $a [San Francisco, Calif.] : $b The Program, $c [1989?]
+300       $a v, 86 p. : $b ill. ; $c 30 cm.
+500       $a CAS OCLC MONO.
+500       $a Translation of: 4th R : recycling curriculum : K thru 5th grade.
+504       $a Includes bibliographical references (p. 85) and index.
+533       $a Photocopy.
+650   0   $a Recycling (Waste, etc.) $x Study and teaching (Primary) $z California.
+650   0   $a Refuse and refuse disposal $x Study and teaching (Primary) $z California.
+700  10   $a Strauss, Martin.
+700  10   $a Werges, Rosanne.
+700  10   $a Whaler, Ada.
+710  20   $a San Francisco Recycling Program.
+740  01   $a Fourth R.
+740  01   $a Plan de estudio en reciclaje.
+852       $a CAW $b CAWR $h TD794.5 $i .A1518 1989a $x pub. gift
+901       $a CAW $b 28956193
+
+Record 28
+LDR  00905nas  2200217Ia 45  
+001  828067
+005  19891226202855.0
+008  891004c19889999caufr p       0uuua0eng d
+040       $a CU-S $c CU-S $d CSFA
+043       $a n-us-ca
+245  00   $a A'lul'quoy / $c Channel Islands National Marine Sanctuary & The Sea Center of the Santa Barbara Museum of Natural History.
+260  00   $a Santa Barbara, Calif. : $b Channel Islands National Marine Sanctuary, $c 1988-
+300       $a v. : $b ill. ; $c 28 cm.
+362  0    $a Vol. 1, no. 1 (spring 1988)-
+500       $a CAS OCLC PE.
+650   0   $a Natural history $z California $z Santa Barbara Channel $x Periodicals.
+650   0   $a Marine biology $z California $z Santa Barbara Channel $x Periodicals.
+710  20   $a Santa Barbara Museum of Natural History. $b Sea Center
+710  20   $a Channel Islands National Marine Sanctuary (U.S.)
+852       $a CAW $b CAWA $h QH104.5.P32 $i A48 $x exch. $3 1:1-
+901       $a CAW $b 20438595
+
+Record 29
+LDR  01174cas  2200277 a 45  
+001  1628452
+005  19971002201745.0
+008  950926c19959999dcuar         1    0eng d
+010       $a sn 95015511 
+040       $a AGL $c AGL $d MYG $d CSFA
+042       $a lcd
+043       $a n-us---
+111  2    $a AAAS Meeting and Science Innovation Exposition
+245  10   $a AAAS Annual Meeting and Science Innovation Exposition : $b [program and abstracts] / $c the ... National Meeting of the American Association for the Advancement of Science.
+246  3    $a American Association for the Advancement of Science Annual Meeting and Science Innovation Exposition
+260       $a [Washington, D.C.] : $b AAAS, $c c1995-
+300       $a v. ; $c 28 cm.
+310       $a Annual
+362  1    $a Began with 161st Meeting.
+362  0    $a 1995-
+500  20   $a CAS OCLC PE.
+650   0   $a Science $z United States $x Congresses.
+710  2    $a American Association for the Advancement of Science
+780  00   $a American Association for the Advancement of Science. National Meeting $t AAAS ... program/abstracts $w (DLC)sn 93015339 $w (OCoLC)26883177
+852       $a CAW $b CAWA $h Q11 $i .A22 $m Serials $x 1995, 1997- gift: A. Leviton
+901       $a CAW $b 33199967
+
+Record 30
+LDR  01834nam  2200289La 45  
+001  12558316
+005  20000617121512.0
+008  000119s1999    ja a     b    100 0 eng d
+040       $a WG9 $c WG9 $d CSfH
+041  0    $a engjpn
+043       $a a-ja--- $a u-at--- $a n-us---
+245  00   $a 5th comparative law and politics symposium : a celebration of the 5th anniversary of the ICCLP : 26 November 1998 / $c International Center for Comparative Law and Politics, Graduate School of Law and Politics, The University of Tokyo.
+246  30   $a Celebration of the 5th anniversary of the ICCLP
+246  3    $a Tåokyåo Daigaku Daigakuin Håogaku Seijigaku Kenkyåuka Fuzoku Hikaku Håosei Kokusai Sentåa setsuritsu 5-shåunen kinen shinpojiumu håokokushåu
+260       $a Tåokyåo : $b Tåokyåo Daigaku Daigakuin Håogaku Seijigaku Kenkyåuka Fuzoku Hikaku Håosei Kokusai Sentåa, $c 1999.
+300       $a 48 p. : $b ill. ; $c 26 cm.
+500       $a HASTINGS OCLC MONO.
+504       $a Includes bibliographical references.
+505  2    $a Foreword / Noboru Kashiwagi -- Order and governance in the post-cold war era / Glenn D. Hook -- Commercial and consumer contracts : current issues in Japan and Australia consumer contracts and unconscionability / Malcolm D.H. Smith -- Consuming contracts : the Australian paradigm / Veronica L. Taylor -- Legislative trends in Japanese consumer contracts law : Australia compared / Seiichi Ochiai -- "Judicial activism" in the United States and Japan / Daniel H. Foote.
+546       $a In English and Japanese.
+610  20   $a Tåokyåo Daigaku. $b Håogaku Seijigaku Kenkyåuka. $b Hikaku Håosei Kokusai Sentåa.
+650   0   $a Law $z Japan.
+650   0   $a Law $z Australia.
+650   0   $a Law $z United States.
+710  2    $a Tåokyåo Daigaku. $b Håogaku Seijigaku Kenkyåuka. $b Hikaku Håosei Kokusai Sentåa.
+852       $a CUH $b CUH5 $h K555 $i .C65 1999
+901       $a CUH $b 43447021
+
+Record 31
+LDR  00957cam  2200277 a 45  
+001  10006138
+005  19960703145146.0
+008  941207s1995    enk      b    001 0 eng  
+010       $a    94047354 
+015       $a GB95-46019
+020       $a 1855215071
+040       $a DLC $c DLC $d UKM $d CSfH
+050  00   $a K656 $b .A15 1995
+100  1    $a 6, Perri, $d 1960-
+245  10   $a Liberty, charity, and politics : $b non-profit law and freedom of speech / $c Perri 6 and Anita Randon.
+260       $a Aldershot : $b Brookfield, USA : $b Dartmouth, $c c1995.
+300       $a viii, 230 p. ; $c 23 cm.
+500       $a HASTINGS OCLC MONO.
+650   0   $a Nonprofit organizations $x Law and legislation.
+650   0   $a Nonprofit organizations $x Political activity.
+650   0   $a Charity laws and legislation.
+650   0   $a Charitable uses, trusts, and foundations $x Political activity.
+650   0   $a Freedom of speech.
+700  1    $a Randon, Anita.
+852       $a CUH $b CUH5 $h K656 $i .A15 1995
+901       $a CUH $b 31782882
+
+Record 32
+LDR  00647nas  22002057a 45  
+001  5412
+005  20020318000000.0
+008  1020318c1974                        eng 
+010       $a    85644378 
+022  0    $a 0149-1423
+110  1    $a American Association of Petroleum Geologists
+245  00   $a AAPG bulletin.
+246  00   $a AAPG bulletin.
+260       $a Tulsa, Okla.
+362  0    $a v.58-  Ja 1974-
+500  0    $a LLNL LS PE.
+780  00   $t Continues American Association of Petroleum Geologists bulletin.
+852       $a LLNL $b main $3 32+  1948+
+901       $a LLNL $b 100341000
+998       $a LLNL $b 1003 $c Record contains the unknown location code main $d Release-027-000 $e 100341000
+
+Record 33
+LDR  00551nas  22001577a 45  
+001  369
+005  20020318000000.0
+008  1020318k19721997                    eng 
+022  0    $a 0363-5732
+245  00   $a Abstract journal in earthquake engineering.
+260       $a Richmond, CA : $b Earthquake Engineering Research Center, University of California.
+362  0    $a V.1-26, 1972-1997
+500  0    $a LLNL LS PE.
+852       $a LLNL $b main $3 V.1-26, 1972-1997
+901       $a LLNL $b 100001001
+998       $a LLNL $b 1003 $c Record contains the unknown location code main $d Release-027-000 $e 100001001
+
+Record 34
+LDR  00436nam  2200157   45  
+001  994209
+005  20011025000000.0
+008         1979                        eng  
+010       $a    79005070 
+100  10   $a Abbott, George C.
+245  10   $a International indebtedness and the developing countries
+260       $a London, Eng $b Croom Helm $c 1979
+300       $a 312p
+500       $a GIA LS MONO.
+852       $a GIA $b NRLF $j HJ8899/D4A2 $p B 4 293 426
+901       $a GIA $b 2901
+
+Record 35
+LDR  00471nam  2200157ba 45  
+001  2064017
+005  19930402000000.0
+008         1955                        eng  
+010       $a    55007945 
+100  10   $a Abbott, Lawrence, 1902-
+245  00   $a Quality and competition; an essay in economic theory / $c by Lawrence Abbott
+260  00   $a New York $b Columbia university press $c 1955
+300       $a 229p
+500       $a GIA LS MONO.
+852       $a GIA $b NRLF $h HB771 $i A2 $p B 3 428 044
+901       $a GIA $b 159
+
+Record 36
+LDR  00684cam  2200229   45  
+001  1368510
+005  19900603000000.0
+008  791120s1970    mau      b    00000 eng  
+010       $a    70028260
+035       $a (CStRLIN)12997013-B
+040       $c CU-AL
+043       $a n-us---
+050  0    $a HD5124 $b .F68
+245  00   $a 4 days, 40 hours; reporting a revolution in work and leisure. $c Edited by Riva Poor. Foreword by Paul A. Samuelson
+260  0    $a Cambridge, Mass., $b Bursk and Poor Pub., $c 1970
+300       $a 175 p. $c 22 cm
+350       $a $5.00
+500       $a UCD LAW III MONO.
+650   0   $a Four-day week $z United States.
+700  10   $a Poor, Riva.
+852       $a DLB $b stx $j HD5124.F68
+901       $a DLB $b 108961
+
+Record 37
+LDR  00950nam  2200277 a 45  
+001  10006138
+005  19960801000000.0
+008  960718s1995    enk      b    001 0 eng  
+010       $a    94047354 
+020       $a 1855215071
+035       $a (CStRLIN)96-B1328
+040       $a DLC $c DLC $d DLC
+050  00   $a K656 $b .A15 1995
+100  1    $a 6, Perri, $d 1960-
+245  10   $a Liberty, charity, and politics : $b non-profit law and freedom of speech / $c Perri 6 and Anita Randon
+260       $a Aldershot : $b Brookfield, USA : $b Dartmouth, $c c1995
+300       $a viii, 230 p. ; $c 23 cm
+500       $a UCD LAW III MONO.
+650   0   $a Nonprofit organizations $x Law and legislation.
+650   0   $a Nonprofit organizations $x Political activity.
+650   0   $a Charity laws and legislation.
+650   0   $a Charitable uses, trusts, and foundations $x Political activity.
+650   0   $a Freedom of speech.
+700  1    $a Randon, Anita.
+852       $a DLB $b stx $h K656 $i .A15 1995
+901       $a DLB $b 196331
+
+Record 38
+LDR  00787nas  2200241 a 45  
+001  1530946
+005  20010628000000.0
+008  871203d19271927mduzr    w    0uuua0eng d
+035       $a (CStRLIN)87-S150
+040       $a NIC $c NIC $d CLL $d CU-AL
+043       $a n-us---
+212  0    $a Five year digest of American maritime cases
+245  00   $a 5-year digest of American maritime cases
+246  00   $a Digest of American maritime cases
+260  00   $a Baltimore : $b American Maritime Cases, inc., $c 1928
+300       $a 1 v. : $b port. ; $c 24 cm
+310       $a Quinquennial
+362  0    $a 1st (1923-1927)
+500   0   $a UCD LAW III PE.
+730  01   $a American maritime cases
+785  00   $t 5-year index-digest of American maritime cases ..., A.M.C
+852       $a DLB $b stx $h KF1100.A2 $i A44 $3 1st, 1923-1927.
+901       $a DLB $b 166010
+
+Record 39
+LDR  00867nas  2200253 a 45  
+001  1089545
+005  19930323000000.0
+008  871203c19329999mduzr    w    0uuua0eng d
+035       $a (CStRLIN)87-S149
+040       $a C-L $c C-L $d NIC $d CLL $d CU-AL
+043       $a n-us---
+212  0    $a Five-year index-digest of American maritime cases
+245  00   $a 5-year index-digest of American maritime cases
+246  00   $a Index-digest of American maritime cases
+260  00   $a Baltimore : $b American Maritime Cases. Inc., $c 1933-
+300       $a v. ; $c 24 cm
+310       $a Quinquennial
+362  0    $a 2nd (1928-1932)-
+500       $a UCD LAW III PE.
+650   0   $a Maritime law $z United States $x Digests
+730  01   $a American maritime cases
+780  00   $t 5-year digest of American maritime cases
+852       $a DLB $b stx $h KF1100.A2 $i A44 $z Shared purchase. $3 2nd-13th, 1928/32-1983/87--
+901       $a DLB $b 166009
+

@@ -1,0 +1,138 @@
+Record 1
+LDR  00912ny   22003011n 4500
+001  .c274661x
+003  CUS
+004  .b4397966x
+005  20100203155530
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 1514433 $b OCoLC
+022  0    $a 0385-2342 $2 z
+035       $a (OCoLC)1514433
+500       $a UNKNOWN CAMPUS IN SECOND 920 FIELD - REJECT (02/10).
+852       $a CUS $b cdl
+856  41   $3 v.22(1963)-v.66(2007). $z JSTOR. Restricted to UCB, UCD, UCI, UCLA, UCM, UCR, UCSB, UCSC, and UCSD $u http://uclibs.org/PID/51913
+856  41   $3 Selected article text for Oct 2000-2007. $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0385-2342
+920       $a UCB
+920       $a UCX
+920       $a UCI
+920       $a UCLA
+920       $a UCM
+920       $a UCR
+920       $a UCSB
+920       $a UCSC
+920       $a UCSD
+920       $a UCSF
+
+Record 2
+LDR  00651ny   22001811n 4500
+001  .c2746621
+003  CUS
+004  .b46678384
+005  20100203155611
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 10401210 $b OCoLC
+022       $a 0255-0822 $2 z
+035       $a (OCoLC)10401210
+500       $a NO 920 FIELDS - REJECT (02/10)
+852       $a CUS $b cdl
+856  41   $3 no.30(2000)-no.43(2007). $z SourceOECD. Restricted to UCB, UCD, UCI, UCLA, UCM, UCR, UCSB, UCSC, and UCSD $u http://uclibs.org/PID/35734
+856  41   $3 Selected article text for v.2002(2002)-v.2006(2006). $z Business source complete. Restricted to UC campuses $u http://uclibs.org/PID/48628
+
+Record 3
+LDR  00556ny   22002771n 4500
+001  .c2746645
+003  CUS
+004  .b58422894
+005  20100203155653
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 85374605 $b OCoLC
+022  0    $a 1936-0886 $2 1
+035       $a (OCoLC)85374605
+500       $a NO 856 FIELDS - REJECT (02/10)
+852       $a CUS $b cdl
+920       $a UCB
+920       $a UCD
+920       $a UCI
+920       $a UCLA
+920       $a UCM
+920       $a UCR
+920       $a UCSB
+920       $a UCSC
+920       $a UCSD
+920       $a UCSF
+
+Record 4
+LDR  01183ny   22003011n 4500
+001  .c2746657
+003  CUS
+004  .b42640210
+005  20100203155723
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 16275086 $b OCoLC
+022  0    $a 0894-8631
+035       $a (OCoLC)16275086
+500       $a NO 852 FIELD - REJECT (02/10)
+856  41   $3 v.36(2001)-v.41:no.2(2006). $z Project MUSE. Restricted to UCB, UCD, UCI, UCLA, UCM, UCR, UCSB, UCSC, and UCSD $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0894-8631
+856  41   $3 v.38:no.2(2003:spring)-v.41:no.2(2006). $z WilsonWeb Library Lit. Restricted to UCB, UCLA, UCM, UCR, UCSB, UCSC, UCSD, and UCSF $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0894-8631
+856  41   $3 Selected article text for v.35(2000:winter)-v.41:no.2(2006:spring). $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=0894-8631
+920       $a UCB
+920       $a UCD
+920       $a UCI
+920       $a UCLA
+920       $a UCM
+920       $a UCR
+920       $a UCSB
+920       $a UCSC
+920       $a UCSD
+920       $a UCSF
+
+Record 5
+LDR  00951ny   22002891n 4500
+001  .c2746669
+004  .b51876309
+005  20100203155751
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 65636904 $b OCoLC
+022       $a 1871-5273
+035       $a (OCoLC)65636904
+500       $a NO 003 FIELD - REJECT (02/10)
+852       $a CUS $b cdl
+856  41   $3 v.5(2006)- $z Bentham via IngentaConnect. Restricted to UCB, UCI, UCLA, UCSD, and UCSF $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1871-5273
+856  41   $3 Selected article text for Feb 2006- [Latest 12 months not available online]. $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1871-5273
+920       $a UCB
+920       $a UCD
+920       $a UCI
+920       $a UCLA
+920       $a UCM
+920       $a UCR
+920       $a UCSB
+920       $a UCSC
+920       $a UCSD
+920       $a UCSF
+
+Record 6
+LDR  01110ny   22002411n 4500
+001  .c2746670
+003  CUS
+004  .b54612214
+005  20100203155831
+007  cr |||---|||||
+008  1002030u    0   0001uueng0000000
+014  1    $a 70273422 $b OCoLC
+022  0    $a 1932-4855 $y 0894-8631 $2 1
+035       $a (OCoLC)70273422
+500       $a 920 FIELDS FOR UCB AND UCSF ONLY; 1ST 856 RESTRICTED TO UCB ONLY - OUTPUT FOR UCB ONLY (02/10)
+500       $a 2ND 856 RESTRICTED TO UC CAMPUSES - OUTPUT FOR BOTH UCB AND UCSF 
+500       $a 3RD 856 IS OPEN RESOURCE - OUTPUT FOR BOTH UCB AND UCSF 
+852       $a CUS $b cdl
+856  41   $3 v.41:no.3(2006:summer)- $z Project MUSE. Restricted to UCB  $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1932-4855
+856  41   $3 Selected article text for Jun 2006- [Latest 12 months not available online]. $z Academic search complete. Restricted to UC campuses $u http://openurl.cdlib.org/?sid=SCP:SCP&genre=article&__char_set=utf8&issn=1932-4855
+856  41   $3 v.41:no.5(2009:Sept./Oct.)- $u http://purl.access.gpo.gov/GPO/LPS1602 $x UC open access
+920       $a UCB
+920       $a UCSF
+

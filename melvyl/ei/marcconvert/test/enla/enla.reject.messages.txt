@@ -1,0 +1,6 @@
+Record Rejected: I-1 R-1 No holding records found (009)
+Record Rejected: I-2 R-2 no 852 was generated
+Record Rejected: I-3 R-3 no 852 was generated
+Record Rejected: I-4 R-4 Missing 003 field
+Record Rejected: I-5 R-5 003 field not recognized
+Record Rejected: I-6 R-6 Bib segment not found

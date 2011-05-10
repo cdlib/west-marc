@@ -1,0 +1,6 @@
+LAGEsrucl2                    UCL Shared Print                                  JSTOR serials
+LAGEsrucl3                    UCL Shared Print                                  Core Science Journals
+LAGEsrucl4                    UCL Shared Print                                  Anglophone Literature
+GLADUL01                      UCL Shared Print                                  IEEE Journals and Proceedings
+DVXLNRLF-IEEE                 UCL Shared Print                                  IEEE Journals and Proceedings
+MERsps                        UCL Shared Print                                  Springer monographs

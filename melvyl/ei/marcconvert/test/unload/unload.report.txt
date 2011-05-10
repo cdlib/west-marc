@@ -1,0 +1,47 @@
+
+
+MARC CONVERT REPORT
+
+Start: 2009-7-10 15:46:59
+End:   2009-7-10 15:47:01
+
+------------------------------------------
+Run Statistics:
+          42 - Records Input
+          39 - Records Output
+           0 - Records Skipped
+           3 - Records Rejected
+           4 - Records with non-fatal errors
+
+
+               Reject records
+               1 occurrence:  901 field not found
+               1 occurrence:  902 $a subfield not found
+               1 occurrence:  920 field not found.
+
+
+               Error records
+               3 occurrences: 1003: unknown location code
+               1 occurrence:  1004: invalid leader type
+               1 occurrence:  1005: invalid bibliographic level
+
+------------------------------------------
+Configuration:
+  infile:      unload.benchjav.mrc
+  outfile:     unload.convert.mrc
+  reportfile:  unload.report.txt
+  errorfile:   unload.error.mrc
+  rejectfile:  unload.reject.mrc
+  loctabfile:  tab_locations.txt
+  sharedPrintfile:  shared_print_table.txt
+  filedate:    20020510143000.0
+  forcedate:   N
+  skip:        0
+  maxin:       2147483647
+  maxout:      2147483647
+  debuglevel:  0
+  validateout: Y
+  benchrun:    Y
+  benchdate:   Release-027-000
+
+------------------------------------------

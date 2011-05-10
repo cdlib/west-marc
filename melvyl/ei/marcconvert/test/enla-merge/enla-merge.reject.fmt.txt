@@ -1,0 +1,89 @@
+Record 1
+LDR  02570nam a2200781i  4500
+001  1406285
+003  CLU
+005  19930112072940.0
+008  900516s1895    iaua           00 0 eng c
+010       $a gs 05001142 
+035       $a (OCoLC)21543453
+035       $9 07-AEO-5703
+040       $a Library, U.S. Geological Survey $c IXA $d IXA $d CLU
+100  1    $a Gordon, Charles Henry, $d 1857-
+245  00   $a Buried river channels in southeastern Iowa. $c By C.H. Gordon. From Iowa Geological Survey, vol. III. Second annual report, 1893 ...
+260       $a Des Mones, $c 1895.
+300       $a 1 p. L., p. 239-255. $b illus. $c 26 cm.
+410  20   $a Iowa Geological Survey. $t [Reports and papers] $v v. 3
+500       $a BIB REC HAS 3 HOLDINGS RECS: INPUT 44,58,59
+500       $a INPUT: 43 *****
+500       $a HAS DUPLICATE BIB REC #49 REJECT
+650   0   $a Geology $z Iowa.
+910       $a rcpp 2404
+935       $a MC5280702
+001  1406285
+003  CLU
+005  19930112072940.0
+008  900516s1895    iaua           00 0 eng c
+010       $a gs 05001142 
+100  1    $a Gordon, Charles Henry, $d 1857-
+245  00   $a Buried river channels in southeastern Iowa. $c By C.H. Gordon. From Iowa Geological Survey, vol. III. Second annual report, 1893 ...
+260       $a Des Mones, $c 1895.
+300       $a 1 p. L., p. 239-255. $b illus. $c 26 cm.
+500       $a BIB REC HAS 3 HOLDINGS RECS: INPUT 44,57,58
+500       $a INPUT: 49 *****
+500       $a HAS DUPLICATE BIB REC #43 REJECT
+650   0   $a Geology $z Iowa.
+009  00335nx  a22001331i 4500
+001  1521410
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 44 *****
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b sg $h QE111 $i .I64 v.3
+009  00339nx  a22001331i 4500
+001  1212121
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 58 *****
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b etbjnl $h QE111 $i .I64 v.4
+009  00337nx  a22001331i 4500
+001  1313131
+003  CLU
+004  1406285
+007  t
+008  9808220u    8   4   aueng 980822
+500       $a HOL REC MATCHES BIB REC 43
+500       $a INPUT: 59 *****
+500       $a THIS HOL RECORD'S BIB REC A HAS DUPLICATE BIB REC #49: REJECT
+852  0    $a CLU $b arsc $h QE111 $i .I64 v.5
+997       $a Record Rejected - more than one bib record
+
+Record 2
+LDR  00372das a2200133u  4500
+001  4112540
+003  CLU
+005  20040311131311.0
+008                              0      spa  
+035       $9 07-AQC-7005
+245  00   $a Historiografia y bibliografia americanista.
+500       $a BIB REC HAS NO MATCHING HOL REC: REJECT
+500       $a INPUT: 57 *****
+997       $a Record Rejected - no holding record
+
+Record 3
+LDR  00304nam  2200121 a 4500
+009  00219dx  a22000974  4500
+003  CLU
+004  4112541
+008  0403154u    8   1001uu   0901128
+500       $a HOL REC HAS NO MATCHING BIB REC: REJECT
+500       $a INPUT: 53 *****
+852       $a CLU $b aa
+997       $a Record Rejected - no bib record
+

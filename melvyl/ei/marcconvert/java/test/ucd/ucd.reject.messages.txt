@@ -1,0 +1,7 @@
+Record Rejected: I-1 R-1 UCDConvert.build901: Input lacks 001
+Record Rejected: I-2 R-2 UCDConvert.build901: Not UCD Source
+Record Rejected: I-3 R-3 UCDConvert.build901: Not UCD Source
+Record Rejected: I-5 R-4 No 852 was generated
+Record Rejected: I-8 R-5 No 852 was generated
+Record Rejected: I-9 R-6 No 852 was generated
+Record Rejected: I-10 R-7 No 852 was generated

@@ -1,0 +1,82 @@
+Record 1
+LDR  00509nam  2200145 a 45  
+005  19830314110726.0
+008  830314s1982    enka     b    00110 eng  
+100  10   $a Sandstrèom, J.
+245  10   $a Alien impeachment.
+260  0    $a New York : $b Alien Press, $c 2002.
+300       $a 000 p. : $b ill. ; $c 204 cm.
+500       $a GLAD: RECORD LACKS 001; REJECT.
+950       $l BIOC $a QD96.N8 $b S26 1982 $i 05/05/02 C
+955       $l BIOC $c 1 $q dc5 $r 8010269 $u 40.00 $i 05/05/02 C
+998       $a 03/14/83 $t c $s 9110 $n CU-A $w DCLC8167904B $d 03/14/83 $c GG  $b ACQ $i 830314 $l CUDG
+
+Record 2
+LDR  00483nam  2200145 a 45  
+001  GLAD1492-B
+005  19830314110726.0
+100  10   $a Nonimus, A.
+245  10   $a Moldy realms.
+260  0    $a Amenia : $b Wassaic Press, $c 2003.
+300       $a 500 p. : $b ill. ; $c 20 cm.
+500       $a GLAD: 001 DOES NOT BEGIN WITH 4 SPACES; LI WON'T BE RECOGNIZED; REJECT
+950       $l CEDA $a NT001 $i 05/05/03 C
+955       $l CEDA $c 1 $u 90.00 $i 05/05/03 C
+998       $a 03/14/83 $t c $s 9110 $n CU-A $w DCLC8167904B $d 03/14/83 $c GG  $b ACQ $i 830314 $l CUDG
+
+Record 3
+LDR  00577nam  2200181 a 45  
+001      OOPS666-B
+005  19830314110726.0
+008  830314s1982    enka     b    00110 eng  
+010       $a    81067904
+020       $a 0126186200
+100  10   $a Nonimus, A.
+245  10   $a Underwater terror.
+260  0    $a Cincinnati : $b Ablution Press, $c 2001.
+300       $a 12 p. : $b ill. ; $c 1 cm.
+500       $a GLAD: 001 DOES NOT CONTAIN KNOWN LI; REJECT.
+950       $l AASL $a A10013 $i 05/05/02 C
+955       $l AASL $c 1 $u 90.00 $i 05/05/02 C
+998       $a 03/14/83 $t c $s 9110 $n CU-A $w DCLC8167904B $d 03/14/83 $c GG  $b ACQ $i 830314 $l CUDG
+
+Record 4
+LDR  01102nam  2200229   45  
+001      GLAD2319-B
+005  20020407000330.0
+008  830810s1981    dcu          f      eng u
+010       $a    81602570//r83
+035       $a ocm07767682
+086       $a Y 4.F 76/1:F 76/57/982/pt. 1-
+110  10   $a United States. $b Congress. $b House. $b Committee on Foreign Affairs.
+245  10   $a Foreign assistance legislation for fiscal year 1982 : $b hearing and Markup before the Subcommittee on Inter-American Affairs of the Committee on Foreign Affairs, Ninety-seventh Congress, first session.
+260  0    $a Washington: $b U.S. G.P.O., $c 1981
+300       $a 9 v. : $b ill. ; $c 24 cm
+500       $a GLAD: NO LOC CODE, CREATE 998 FIELD WITH "NO LOCATION IN EXPECTED PLACE" ERROR MSG (05/02).
+504       $a Includes bibliographical references
+650   0   $a Military assistance, American.
+650   0   $a Economic assistance, American.
+651   0   $a United States $x Appropriations and expenditures, 1982.
+710  10   $a United States. $b Congress. $b House. $b Committee on Foreign Affairs. $b Subcommittee on Asian and Pacific Affairs.
+901       $a GLAD $b 2319
+
+Record 5
+LDR  00898nXX  2200229   45  
+001      GLAD112932-S
+005  20020510143000.0
+008  840207c19439999fr ar p       0uuub1fre d
+022  0    $a 0373-5729 $y 0766-5598
+035       $a RLINCUBG15050300-S
+043       $a mm-----
+247  10   $a Etudes byzantines $f v. 1-3
+260       $a Paris $b De Boccard.
+300       $a v. $c 26 cm.
+310       $a Annual
+362  0    $a v. 1- 1943-
+500       $a GLAD: NO 005, NO 245, NO 950 (LOC CODE), INVALID TYPE & BIBLVL, NOT A DELETE REC - OUTPUT 005 FROM FILEDATE, DO NOT CREATE 852, CREATE MULTIPLE 998 FLDS WITH ERR MSGS FOR NO 245, NO LOC IN EXPECTED PLACE, INVALID TYPE, INVALID BIBLVL (05/02).
+550       $a Issued by Institut franâcais d'âetudes byzantines.
+651   0   $a Byzantine Empire $x Study and teaching $x Periodicals.
+710  2    $a Institut franðcais d'âetudes byzantines.
+780  00   $t Echos d'Orient
+901       $a GLAD $b 112932
+

@@ -1,0 +1,10 @@
+Record Rejected: I-1 R-1 Input lacks 001
+Record Rejected: I-2 R-2 Not UCI Source
+Record Rejected: I-8 R-3 no 852 was generated
+Record Rejected: I-11 R-4 no 852 was generated
+Record Rejected: I-12 R-5 no 852 was generated
+Record Rejected: I-21 R-6 no 852 was generated
+Record Rejected: I-30 R-7 Line feed (hex 0a) found on tag 852
+Record Rejected: I-31 R-8 Carriage return(hex 0d) found on leader
+Record Rejected: I-32 R-9 Line feed(hex 0a) found on leader
+Record Rejected: I-33 R-10 Carriage return (hex 0d) found on tag 008
