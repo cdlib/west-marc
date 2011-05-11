@@ -1,0 +1,61 @@
+# CONTACTS FOR CDL CONVERTER RUN REPORTS: INITIAL MELT
+# DATABASE
+# 8/27/02 rad; rev. 9/2/02 rad;
+# 4/03/03 rad; add CSL and modify GTU
+# 11/18/03 rkl; add 3 extra UCB contacts.
+# 01/14/04 rkl; change UCSF contact.
+# 02/27/04 rkl: change UCSF contact.
+# 07/01/04 rkl; change UCD contact to tmaw@ucdavis.edu, UCSC to techserv@library.ucsc.edu.
+
+
+# Processing Stream
+# Source    Contact
+# CVS version:	marcutil/perl/contacts.txt
+
+ALL virginia.Sinclair@ucop.edu
+ALL rebecca.Doherty@ucop.edu
+ALL mark.reyes@ucop.edu
+ALL randy.lai@ucop.edu
+
+drcsl DHagen@library.ca.gov
+
+drema bgts@library.ucla.edu
+drftv bgts@library.ucla.edu
+drla  bgts@library.ucla.edu
+
+exsb thomas@library.ucsb.edu
+
+exucd tmaw@ucdavis.edu
+
+glucb lmansur@library.berkeley.edu
+glucb ctakaro@library.berkeley.edu
+glucb pbertran@library.berkeley.edu
+glucb epinto@library.berkeley.edu
+
+iidla krlin@ucdavis.edu
+
+iigtu mfrances@gtu.edu 
+
+iiir mmtapper@lib.uci.edu
+iiir wpjaz@lib.uci.edu
+
+iiuci mmtapper@lib.uci.edu
+iiuci wpjaz@lib.uci.edu
+
+iiriv ttoy@library.ucr.edu
+
+iisc techserv@library.ucsc.edu 
+
+iisd Ryan@library.ucsd.edu
+
+iisf paul.wakeford@library.ucsf.edu
+#iisf mallek@library.ucsf.edu
+
+oclc virginia.Sinclair@ucop.edu
+oclc rebecca.Doherty@ucop.edu
+
+rlblt lisad@law.berkeley.edu
+
+rlchs bbaldwin@calhist.org
+
+rllbl JAOlivares@lbl.gov
