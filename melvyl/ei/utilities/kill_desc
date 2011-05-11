@@ -1,0 +1,65 @@
+#!/usr/bin/perl
+
+((@ARGV == 1) && ($ARGV[0] !~ /^-/)) || die "
+Usage: $0 <process ID>
+";
+# $user = $ENV{"USER"};		# picks up instance (m5xx) not Aleph user
+chop($user = `whoami`);
+$ps_command = "ps -u $user -f";
+
+&kill_r($ARGV[0]);
+exit;
+
+# recursively kill specified process and all its descendants
+
+sub kill_r {
+  local($victim) = $_[0];
+  local(@p);
+  local($p, $ps, $pps);
+  open(PS, "$ps_command|");
+  undef %ps_d;
+  <PS>;
+  while (<PS>) {
+    ($ps, $pps) = (split(' ', $_))[1,2];
+    $ps_d{$pps} .= " $ps";
+  }
+  close PS;
+#  print join(' ',%ps_d),"\n"; 
+  @p = split(' ', &desc($victim));
+#  print join(' ',@p),"\n";
+  for $p (@p) {
+    print "killing process $p\n";
+    kill(9, $p);
+  }
+#  $tmp = &ps_look($victim);
+  return(!$tmp);
+}
+
+##########################################################################
+
+# Input argument $x = process ID.
+# Also requires global hash variable %ps_d 
+#   where $ps_d{$p} is a string consisting of children of $p
+# Return string consisting of input $x and all descendents of $x
+
+sub desc {
+  local($x) = $_[0];
+  local(@p);
+  local($pa, $pp);
+  if ($pa = $ps_d{$x}) {
+    @p = split(' ', $pa);
+    for $pp (@p) { $x .= " " . &desc($pp) }
+  }
+  return($x);
+}
+
+##########################################################################
+
+sub logit {
+  if ($verbose) {
+    $stamp = &stamp;
+    print "$stamp $mytype $_[0]\n";
+  }
+}
+
+
