@@ -42,11 +42,20 @@ import org.cdlib.util.string.StringUtil;
  * This class runs the Marc conversion using a subclass
  * of MarcConvert
  *
+ * References:
+ * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/En.UCLA.Jav.doc
+ * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/sort_separate_records.doc
  *
  * @author <a href="mailto:david.loy@ucop.edu">David Loy</a>
  * @author <a href="mailto:shawnm@splorkin.com">Shawn McGovern</a>
  * @version $Id: ENLAMerge.java,v 1.3 2007/06/22 18:54:14 aleph Exp $
  */
+
+/* 
+ * Change history:
+ *   06/03/2011 dbb - Added comments re: processing specific to UCLA
+ */
+
 public class ENLAMerge
     implements ConvertConstants, MarcConstants
 {
@@ -206,6 +215,13 @@ public class ENLAMerge
         }
     }
 
+/* 
+ * 6/3/2011 dbb
+ * Program is invoked by org.cdlib.marcconvert.run.RunENLAMerge.java
+ *   ENLAMerge ucla = new ENLAMerge();
+ *   int rc = ucla.doCombine();
+ * Configuration from a properties file specified on command line
+ */
     public int doCombine()
     {
         int runStat = CONVERT_JOB_SUCCESS;
@@ -355,6 +371,11 @@ public class ENLAMerge
         }
         return runStatus;
     }
+
+/* 
+ * 6/3/2011 dbb
+ * Processing MAY be specific to UCLA.
+ */
 
     private Status processMergeRecord(int inx, MarcStream marcReader)
     {
@@ -1254,6 +1275,30 @@ public class ENLAMerge
         return bRet;
     }
 
+/* 
+ * 6/3/2011 dbb
+ * We are working with a single file that contains both bibliographic records
+ * and holdings records, not necessarily in order. 
+ *
+ * Step 1: Write MARC records to output files based on the bib record number
+ * so that all records with the same bib record number are in the same file.
+ *  
+ * The code that sets id = bib record number is specific to UCLA:
+ *
+ * UCLA bib records:
+ *    001 contains the bib record number
+ *    004 is not present
+ * UCLA holdings records:
+ *    001 contains some other number (if present)
+ *    004 contains the bib record number
+ *
+ * Intermediate output is to a temporary directory (deleted later). 
+ * Directory structure is defined by the id (bib record number). For example: 
+ *   All bib and holdings records for bib record number: 3806866 
+ *   Are in this output file: outDirName/380/686/6/marc.txt
+ * The program invokes writeAppendMarc to append matching records to the file
+ */
+
     private int marcToDir(MarcRecord marcIn)
         throws Exception
     {
@@ -1284,6 +1329,12 @@ public class ENLAMerge
             throw ex;
         }
     }
+
+/* 
+ * 6/3/2011 dbb
+ * To append records (boolean append = true):
+ * FileOutputStream fos = new FileOutputStream(outFileName, true)
+ */
 
     /**
      * Write a marc record to the output file.
@@ -1320,6 +1371,12 @@ public class ENLAMerge
         }
     }
 
+/* 
+ * 6/3/2011 dbb
+ * This step invokes processAllFiles to recursively process the temporary 
+ * files written by marcToDir.
+ */
+
     public int processFiles()
     {
         try {
@@ -1331,6 +1388,13 @@ public class ENLAMerge
             return CONVERT_JOB_FAILURE;
         }
     }
+
+/* 
+ * 6/3/2011 dbb
+ * This step walks the directory structure and calls combineFile to process 
+ * each marc.txt file. Each file at this point contains all the MARC bib and 
+ * holdings records for a bib record number (in no particular order).
+ */
 
     private void processAllFiles(File dir)
         throws MarcFailException
@@ -1352,6 +1416,12 @@ public class ENLAMerge
             }
         }
     }
+
+/* 
+ * 6/3/2011 dbb
+ * This step invokes buildCombinedRecord to build a single MARC record 
+ * containing both bib records and holdings.
+ */
 
     private int combineFile(File dir)
     {
@@ -1397,6 +1467,13 @@ public class ENLAMerge
         return convertStatus;
 
     }
+
+/* 
+ * 6/3/2011 dbb
+ * This step includes processing specific to UCLA in the logic to identify
+ * which of the records is the bib record. For UCLA records, the bib record
+ * (or base record) does not have an 004. (See marcToDir.)
+ */
 
     private Status buildCombinedRecord(File dir, Vector arr, MarcRecord outMarc)
     {
@@ -1475,6 +1552,12 @@ public class ENLAMerge
         outMarc.setLeader(inLeader);
         appendAll(outMarc, inMarc);
     }
+
+/* 
+ * 6/3/2011 dbb
+ * Details of this step (constructing 009 and appending holdings) are specific 
+ * to UCLA.
+ */
 
     private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc)
     {
