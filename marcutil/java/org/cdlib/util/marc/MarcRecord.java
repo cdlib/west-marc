@@ -1,5 +1,17 @@
 package org.cdlib.util.marc;
 
+/*
+ * pdoshi: 6/8/2011
+ * Note Commented out Methods
+ * setRecordType("a");
+ *  setRecordStatus("n");
+     setBibLvl("m");  
+ * 
+ * */
+
+
+
+
 import java.util.StringTokenizer;
 import java.util.Vector;
 
@@ -63,13 +75,16 @@ public class MarcRecord extends MarcBaseRecord
      *
      * @see MarcBaseRecord#MarcBaseRecord()
      */
+    
+    
+   
     public MarcRecord()
     {
         super();
-        setRecordStatus("n");
-        setRecordType("a");
-        setBibLvl("m");
-        setDescCatForm("a");
+     //setRecordStatus("n");
+     //   setRecordType("a");
+       // setBibLvl("m");
+      //  setDescCatForm("a");
     }
 
 
@@ -871,7 +886,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setBibLvl(String in)
     {
-        getLeader().setPos(7, in);
+   //     getLeader().setPos(7, in);
     }
 
 
@@ -919,7 +934,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setDescCatForm(String in)
     {
-        getLeader().setPos(18, in);
+        //getLeader().setPos(18, in);
     }
 
 
@@ -952,7 +967,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setRecordStatus(String in)
     {
-        getLeader().setPos(5, in);
+        //getLeader().setPos(5, in);
     }
 
     /**
@@ -962,7 +977,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setRecordType(String in)
     {
-        getLeader().setPos(6, in);
+       // getLeader().setPos(6, in);
     }
 
 }

@@ -54,7 +54,7 @@ import org.cdlib.util.string.StringUtil;
  * of MarcConvert
  *
  * References:
- * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/En.STF.Jav.doc
+ * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/En.UCSD.Jav.doc
  * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/sort_separate_records.doc
  *
  * @author <a href="mailto:david.loy@ucop.edu">David Loy</a>
@@ -64,10 +64,10 @@ import org.cdlib.util.string.StringUtil;
 
 /* 
  * Change history:
- *   06/03/2011 dbb - Added comments re: processing specific to STF
+ *   06/03/2011 dbb - Added comments re: processing specific to UCSD
  */
 
-public class STFMerge
+public class UCSDMerge
     implements ConvertConstants, MarcConstants
 {
 	     static final int CONVERT_EOF = -2;
@@ -78,7 +78,7 @@ public class STFMerge
 	/**
 	 * log4j Logger for this class.
 	 */
-    private static Logger log = Logger.getLogger(STFMerge.class);
+    private static Logger log = Logger.getLogger(UCSDMerge.class);
 
 	/**
 	 * CVS header string.
@@ -165,7 +165,7 @@ public class STFMerge
      * ENLAMerge - contructor - set subclass for marc conversion
      * @param inMarcConvert - Marc conversion subclass of MarcConvert
      */
-    public STFMerge()
+    public UCSDMerge()
         throws MarcParmException
     {
     }
@@ -385,7 +385,7 @@ public class STFMerge
 
 /* 
  * 6/3/2011 dbb
- * Processing MAY be specific to STF.
+ * Processing MAY be specific to UCSD.
  */
 
     private Status processMergeRecord(int inx, MarcStream marcReader)
@@ -815,7 +815,7 @@ public class STFMerge
         Properties pout = new Properties();
 
         String test = null;
-        System.setProperty("config", "C:/PAPR/config/STFconfig.txt" );
+        System.setProperty("config", "C:/Dev/conf/config/STFconfig.txt" );
         String configfile = System.getProperties().getProperty("config");
         log.info("Config file: " + configfile);
 
@@ -1295,12 +1295,12 @@ public class STFMerge
  * Step 1: Write MARC records to output files based on the bib record number
  * so that all records with the same bib record number are in the same file.
  *  
- * The code that sets id = bib record number is specific to STF:
+ * The code that sets id = bib record number is specific to UCSD:
  *
- * STF bib records:
+ * UCSD bib records:
  *    001 contains the bib record number
  *    004 is not present
- * STF holdings records:
+ * UCSD holdings records:
  *    001 contains some other number (if present)
  *    004 contains the bib record number
  *
@@ -1365,7 +1365,6 @@ public class STFMerge
             if ( marcStr != null ) {
                 String dispExists = "";
                 if ( (new File(outFileName)).exists() ) dispExists = " exists ";
-
                 FileOutputStream fos = new FileOutputStream(outFileName, true);
                 byte [] bMarc = marcStr.getBytes();
                 fos.write(bMarc);
@@ -1482,8 +1481,8 @@ public class STFMerge
 
 /* 
  * 6/3/2011 dbb
- * This step includes processing specific to STF in the logic to identify
- * which of the records is the bib record. For STF records, the bib record
+ * This step includes processing specific to UCSD in the logic to identify
+ * which of the records is the bib record. For UCSD records, the bib record
  * (or base record) does not have an 004. (See marcToDir.)
  */
 
@@ -1493,8 +1492,8 @@ public class STFMerge
         int baseCnt = 0;
         int holdCnt = 0;
      //  String id001 = null;
-        String bibId001 = null;
-        String holdId001 = null;
+        String id901 = null;
+        String id993 = null;
         Status status = new Status();
         status.pathName = dir.getPath();
 
@@ -1507,11 +1506,12 @@ public class STFMerge
         // append bib record(s)
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-             bibId001 = marcRec.getLeaderValue();
-            System.out.println(bibId001);
-
-            if (!(bibId001.charAt(6) == 'y' || bibId001.charAt(6) == 'u'
-				|| bibId001.charAt(6) == 'v' || bibId001.charAt(6) == 'x')){ // base record
+            id901 = marcRec.getFirstValue("901", null);
+            id993 = marcRec.getFirstValue("993", null);
+                  
+            
+            //if (id001 != null) 
+            if (!(id901== null ||id993 == null)){ // base record
         	appendBibMarc(outMarc, marcRec);
                 baseCnt++;
             }
@@ -1520,10 +1520,8 @@ public class STFMerge
         // append holding records
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-    
-            holdId001= marcRec.getLeaderValue();
-            if ((holdId001.charAt(6) == 'y' || holdId001.charAt(6) == 'u'
-				|| holdId001.charAt(6) == 'v' || holdId001.charAt(6) == 'x')) {
+          
+            if (id901== null ||id993 == null) {
         	appendHoldMarc(outMarc, marcRec);
                 holdCnt++;
             }
@@ -1565,24 +1563,28 @@ public class STFMerge
       //  status.marc = marc;
     }
 
+    
+    //This method is deleting all the 852 fields in Bib record
     private void appendBibMarc(MarcRecord outMarc, MarcRecord inMarc)
     {
-
-         MarcFieldList list = inMarc.allFields("852");
-       	outMarc.deleteFields(list);
+       //org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
+        //outMarc.setLeader(inLeader);
+     //    MarcFieldList list = inMarc.allFields("852");
+      // 	outMarc.deleteFields(list);
         appendAll(outMarc, inMarc);
     }
 
 /* 
  * 6/3/2011 dbb
  * Details of this step (constructing 009 and appending holdings) are specific 
- * to STF.
+ * to UCSD.
  */
 
+    
+    //no buisiness rule during holdings append
  private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc)
-    {
-        MarcFieldList list = inMarc.allFields("001", "009");
-	    outMarc.deleteFields(list);
+    {    MarcFieldList list = inMarc.allFields("001", "009");
+         outMarc.deleteFields(list);
         appendAll(outMarc, inMarc);
     }
 

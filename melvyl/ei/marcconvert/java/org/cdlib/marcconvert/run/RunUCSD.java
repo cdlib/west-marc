@@ -2,6 +2,7 @@ package org.cdlib.marcconvert.run;
 
 import java.util.Date;
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 import org.cdlib.marcconvert.UCSDConvert;
 import org.cdlib.marcconvert.RunConvert;
 import org.cdlib.util.marc.MarcParmException;
@@ -71,6 +72,7 @@ public class RunUCSD
             // from this run in the log.
             Thread t = Thread.currentThread();
             t.setName("RunUCSD_" + startDate.getTime());
+            PropertyConfigurator.configure("log4j.properties");  
 
             log.info("UCSD conversion started");
 
