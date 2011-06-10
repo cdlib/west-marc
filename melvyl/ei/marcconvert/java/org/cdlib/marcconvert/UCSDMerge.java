@@ -815,7 +815,7 @@ public class UCSDMerge
         Properties pout = new Properties();
 
         String test = null;
-        System.setProperty("config", "C:/Dev/conf/config/STFconfig.txt" );
+        System.setProperty("config", "C:/PAPR/config/UCSDconfig.txt" );
         String configfile = System.getProperties().getProperty("config");
         log.info("Config file: " + configfile);
 
@@ -1315,9 +1315,23 @@ public class UCSDMerge
         throws Exception
     {
         try {
-            String id = marcIn.getFirstValue("001", null);
-         //   String id004 = marcIn.getFirstValue("004", null);
-          //  if (id004 != null) id = id004;
+        	String id=null;
+        	 String id901= null;
+            //String id = marcIn.getFirstValue("001", null);
+        
+          String id004 = marcIn.getFirstValue("004", null);
+          if(id004!=null){
+        String x= id004.substring(1, id004.length());
+        System.out.println(x);
+         id=x;
+          }
+          
+         Field val = marcIn.getFirstField("901");
+         if (val != null){
+              id901= val.value().substring(7, 16);
+              System.out.println(id901);
+           	id=id901.trim();
+            }
             StringBuffer buf = new StringBuffer(100);
             buf.append(outDirName);
             String remain = id;
@@ -1333,7 +1347,7 @@ public class UCSDMerge
                 }
             }
             //buf.append(File.separator + outputCnt + ".txt");
-            buf.append(File.separator + "marc.txt");
+            buf.append(/*File.separator +*/ "marc.txt");
             writeAppendMarc(buf.toString(), marcIn);
             return CONVERT_REC_SORTOUT;
 
@@ -1366,7 +1380,7 @@ public class UCSDMerge
                 String dispExists = "";
                 if ( (new File(outFileName)).exists() ) dispExists = " exists ";
                 FileOutputStream fos = new FileOutputStream(outFileName, true);
-                byte [] bMarc = marcStr.getBytes();
+                byte [] bMarc = marcStr.getBytes("iso-8859-1");
                 fos.write(bMarc);
                 outputCnt++;
                 bRet = true;
@@ -1491,9 +1505,7 @@ public class UCSDMerge
         MarcRecord marcRec = null;
         int baseCnt = 0;
         int holdCnt = 0;
-     //  String id001 = null;
-        String id901 = null;
-        String id993 = null;
+        String id004=null;
         Status status = new Status();
         status.pathName = dir.getPath();
 
@@ -1506,12 +1518,8 @@ public class UCSDMerge
         // append bib record(s)
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id901 = marcRec.getFirstValue("901", null);
-            id993 = marcRec.getFirstValue("993", null);
-                  
-            
-            //if (id001 != null) 
-            if (!(id901== null ||id993 == null)){ // base record
+            id004 = marcRec.getFirstValue("004", null);
+            if (id004 == null) { // base record
         	appendBibMarc(outMarc, marcRec);
                 baseCnt++;
             }
@@ -1520,8 +1528,8 @@ public class UCSDMerge
         // append holding records
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-          
-            if (id901== null ||id993 == null) {
+            id004 = marcRec.getFirstValue("004", null);
+            if (id004 != null) {
         	appendHoldMarc(outMarc, marcRec);
                 holdCnt++;
             }

@@ -77,7 +77,7 @@ public class RunUCSDMerge
             // Get a new RunConvert using our conversion class.
             PropertyConfigurator.configure("log4j.properties");
 
-            log.info("STF conversion started");
+            log.info("UCSD conversion started");
 
             UCSDMerge ucsdm = new UCSDMerge();
 
@@ -85,7 +85,7 @@ public class RunUCSDMerge
             // RunConvert.process handles all I/O and the calling
             // of the MarcConvert routines to perform the conversion.
             int rc = ucsdm.doCombine();
-            log.info("STF merge completed - return code = " + rc);
+            log.info("UCSD merge completed - return code = " + rc);
             System.out.println("Job completed " + new java.util.Date() + " rc = " + rc);
             System.exit(rc);
         }
