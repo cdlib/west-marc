@@ -1575,8 +1575,8 @@ public class UCSDMerge
     //This method is deleting all the 852 fields in Bib record
     private void appendBibMarc(MarcRecord outMarc, MarcRecord inMarc)
     {
-       //org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
-        //outMarc.setLeader(inLeader);
+       org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
+        outMarc.setLeader(inLeader);
      //    MarcFieldList list = inMarc.allFields("852");
       // 	outMarc.deleteFields(list);
         appendAll(outMarc, inMarc);
