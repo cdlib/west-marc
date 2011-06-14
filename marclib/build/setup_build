@@ -1,0 +1,46 @@
+# Enforcement : For simplification, it requires that users must execute this
+#               script from this directory and must be and an aleph16 user.
+
+if ($user != aleph16) then
+        /bin/echo "[ERROR] You are not an aleph16 user."
+        exit
+endif
+
+setenv CURRENT_RELEASE Release-027-000
+
+setenv PERL5LIB .
+set build_dir = `pwd`
+set home = $build_dir/releases
+
+setenv QA_HOME $home/$CURRENT_RELEASE
+setenv MB_HOME $QA_HOME
+setenv ANT_HOME $build_dir/java/jakarta-ant-1.5
+
+# Use system java rather than the one set up by Exlibris.
+# As of 01/28/2008, it is using java version "1.5.0_11".
+setenv JAVA_HOME /usr/java
+
+setenv PATH $ANT_HOME/bin:${JAVA_HOME}:${JAVA_HOME}/bin:$PATH
+
+# Use local diff version.
+if (! -e /exlibris1/cdl_perl/usr/local/diffutils-2.8/bin) then
+        echo "[ERROR] Local diffutils not found by setup_build script."
+        exit
+endif
+setenv PATH /exlibris1/cdl_perl/usr/local/diffutils-2.8/bin:${PATH}
+
+setenv MARCCONV_RELEASE $CURRENT_RELEASE
+setenv MARCLIB_RELEASE $CURRENT_RELEASE
+setenv MARCUTIL_RELEASE $CURRENT_RELEASE
+setenv PERL5LIB $MB_HOME/perl:$PERL5LIB
+
+echo -n 'Please type the CVS user to use for the checkout: '
+setenv cvsuser $<
+setenv CVS_RSH  ssh
+#setenv CVSROOT :pserver:$user@cvs.cdlib.org:/cvs/root
+setenv CVSROOT :pserver:$cvsuser@cvs.cdlib.org:/cvs/root
+
+#alias cvs /cdlcommon/products/bin/cvs
+
+cvs logon
+unsetenv LOCTBL
