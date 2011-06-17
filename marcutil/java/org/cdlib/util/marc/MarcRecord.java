@@ -1,17 +1,5 @@
 package org.cdlib.util.marc;
 
-/*
- * pdoshi: 6/8/2011
- * Note Commented out Methods
- * setRecordType("a");
- *  setRecordStatus("n");
-     setBibLvl("m");  
- * 
- * */
-
-
-
-
 import java.util.StringTokenizer;
 import java.util.Vector;
 
@@ -75,25 +63,15 @@ public class MarcRecord extends MarcBaseRecord
      *
      * @see MarcBaseRecord#MarcBaseRecord()
      */
-    
-    
- 
- public MarcRecord()
+    public MarcRecord()
     {
         super();
-        
-//       setRecordStatus("n");
-//       setRecordType("a");
-//       setBibLvl("m");
-//      setDescCatForm("a");
-    
+        setRecordStatus("n");
+        setRecordType("a");
+        setBibLvl("m");
+        setDescCatForm("a");
     }
 
-    
-    
-    //Initialize the variable
-    
-   
 
     /**
      * Instantiate a new <code>MarcRecord</code> object from
@@ -609,7 +587,7 @@ public class MarcRecord extends MarcBaseRecord
      * @return the Marc bibliographic level
      */
     public String getBibLvl()
-    {    // System.out.println("Get Record Status Val: "+getLeader().getPos(7, 7));
+    {
         return (getLeader().getPos(7, 7));
     }
 
@@ -770,7 +748,7 @@ public class MarcRecord extends MarcBaseRecord
      * @return the Marc record type
      */
     public String getRecordStatus()
-    {  //System.out.println("Get Record Status Val: "+getLeader().getPos(5, 5));
+    {
         return (getLeader().getPos(5, 5));
     }
 
@@ -781,7 +759,7 @@ public class MarcRecord extends MarcBaseRecord
      * @return the Marc record type
      */
     public String getRecordType()
-    { //  System.out.println("Get Record Status Val: "+getLeader().getPos(6, 6));
+    {
         return (getLeader().getPos(6, 6));
     }
 
@@ -893,8 +871,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setBibLvl(String in)
     {
- 
-    	getLeader().setPos(7, in);
+        getLeader().setPos(7, in);
     }
 
 
@@ -975,8 +952,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setRecordStatus(String in)
     {
-    	
-    	getLeader().setPos(5, in);
+        getLeader().setPos(5, in);
     }
 
     /**
@@ -986,8 +962,7 @@ public class MarcRecord extends MarcBaseRecord
      */
     public void setRecordType(String in)
     {
-    	
         getLeader().setPos(6, in);
-   }
+    }
 
 }
