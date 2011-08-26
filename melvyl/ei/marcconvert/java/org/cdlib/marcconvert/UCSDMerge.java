@@ -815,7 +815,7 @@ public class UCSDMerge
         Properties pout = new Properties();
 
         String test = null;
-        System.setProperty("config", "C:/PAPR/config/UCSDconfig.txt" );
+        System.setProperty("config", "C:/PAPR/config/UCSDMerge.txt" );
         String configfile = System.getProperties().getProperty("config");
         log.info("Config file: " + configfile);
 
@@ -1315,37 +1315,36 @@ public class UCSDMerge
         throws Exception
     {
         try {
-        	String id=null;
-        	 String id901= null;
-            //String id = marcIn.getFirstValue("001", null);
-        
-          String id004 = marcIn.getFirstValue("004", null);
-          if(id004!=null){
-        String x= id004.substring(1, id004.length());
-        System.out.println(x);
-         id=x;
-          }
-          
-         Field val = marcIn.getFirstField("901");
-         if (val != null){
-              id901= val.value().substring(7, 16);
-              System.out.println(id901);
-           	id=id901.trim();
-            }
-            StringBuffer buf = new StringBuffer(100);
-            buf.append(outDirName);
-            String remain = id;
-            while (remain != null) {
-                if (remain.length() < 3) {
-                    buf.append(File.separator + remain);
-                    (new File(buf.toString())).mkdir();
-                    remain = null;
-                } else {
-                    buf.append(File.separator + remain.substring(0,3));
-                    (new File(buf.toString())).mkdir();
-                    remain = remain.substring(3);
-                }
-            }
+			String id = null;
+			String id901 = null;
+		
+			String id004 = marcIn.getFirstValue("004", null);
+			if (id004 != null) {
+				String x = id004.substring(1, id004.length());
+				System.out.println("Holdings"+x);
+				id = x;
+			}
+
+			Field val = marcIn.getFirstField("901");
+			if (val != null) {
+				id901 = val.value().substring(7, 16);
+				System.out.println("Bib"+id901);
+				id = id901.trim();
+			}
+			StringBuffer buf = new StringBuffer(100);
+			buf.append(outDirName);
+			String remain = id;
+			while (remain != null) {
+				if (remain.length() < 3) {
+					buf.append(File.separator + remain);
+					(new File(buf.toString())).mkdir();
+					remain = null;
+				} else {
+					buf.append(File.separator + remain.substring(0, 3));
+					(new File(buf.toString())).mkdir();
+					remain = remain.substring(3);
+				}
+			}
             //buf.append(File.separator + outputCnt + ".txt");
             buf.append(/*File.separator +*/ "marc.txt");
             writeAppendMarc(buf.toString(), marcIn);
@@ -1505,7 +1504,8 @@ public class UCSDMerge
         MarcRecord marcRec = null;
         int baseCnt = 0;
         int holdCnt = 0;
-        String id004=null;
+    	String bibIdLdr = null;
+		String holdIdLdr = null;
         Status status = new Status();
         status.pathName = dir.getPath();
 
@@ -1518,9 +1518,15 @@ public class UCSDMerge
         // append bib record(s)
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id004 = marcRec.getFirstValue("004", null);
-            if (id004 == null) { // base record
-        	appendBibMarc(outMarc, marcRec);
+			bibIdLdr = marcRec.getLeaderValue();
+/*            id004 = marcRec.getFirstValue("004", null);
+          if (id004 == null) { // base record
+        	appendBibMarc(outMarc, marcRec);*/
+            
+    		if (!(bibIdLdr.charAt(6) == 'y' || bibIdLdr.charAt(6) == 'u'
+				|| bibIdLdr.charAt(6) == 'v' || bibIdLdr.charAt(6) == 'x')) { // base
+																				// record
+			appendBibMarc(outMarc, marcRec);
                 baseCnt++;
             }
         }
@@ -1528,11 +1534,17 @@ public class UCSDMerge
         // append holding records
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id004 = marcRec.getFirstValue("004", null);
-            if (id004 != null) {
-        	appendHoldMarc(outMarc, marcRec);
-                holdCnt++;
-            }
+//            id004 = marcRec.getFirstValue("004", null);
+//            if (id004 != null) {
+//        	appendHoldMarc(outMarc, marcRec);
+//                holdCnt++;
+//            }
+    		holdIdLdr = marcRec.getLeaderValue();
+			if ((holdIdLdr.charAt(6) == 'y' || holdIdLdr.charAt(6) == 'u'
+					|| holdIdLdr.charAt(6) == 'v' || holdIdLdr.charAt(6) == 'x')) {
+				appendHoldMarc(outMarc, marcRec);
+				holdCnt++;
+			}
         }
 
         if (baseCnt == 0) {
@@ -1591,8 +1603,8 @@ public class UCSDMerge
     
     //no buisiness rule during holdings append
  private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc)
-    {    MarcFieldList list = inMarc.allFields("001", "009");
-         outMarc.deleteFields(list);
+    {    inMarc.deleteFields("001", "840");
+        // outMarc.deleteFields(list);
         appendAll(outMarc, inMarc);
     }
 

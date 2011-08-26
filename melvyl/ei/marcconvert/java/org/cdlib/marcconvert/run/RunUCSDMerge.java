@@ -75,7 +75,7 @@ public class RunUCSDMerge
             t.setName("RunSTFMerge" + startDate.getTime());
 
             // Get a new RunConvert using our conversion class.
-            PropertyConfigurator.configure("log4j.properties");
+            PropertyConfigurator.configure("log4jC.properties");
 
             log.info("UCSD conversion started");
 

@@ -1379,7 +1379,7 @@ public class STFMerge implements ConvertConstants, MarcConstants {
 		// String id001 = null;
 		String bibId001 = null;
 		String holdId001 = null;
-	//	String id004=null;
+		// String id004=null;
 		Status status = new Status();
 		status.pathName = dir.getPath();
 
@@ -1414,9 +1414,6 @@ public class STFMerge implements ConvertConstants, MarcConstants {
 				holdCnt++;
 			}
 		}
-		
-		
-
 
 		if (baseCnt == 0) {
 			setReject(status, outMarc, "Record Rejected - no bib record");
@@ -1447,16 +1444,17 @@ public class STFMerge implements ConvertConstants, MarcConstants {
 		// "  -$a" + msg,
 		// "-$", MarcRecord.END_LIST);
 
-		// status.id = marc.getFirstValue("001", null);
-		// if (status.id == null) status.id = marc.getFirstValue("001", null);
-		// status.marc = marc;
+		status.id = marc.getFirstValue("001", null);
+		if (status.id == null)
+			status.id = marc.getFirstValue("001", null);
+		status.marc = marc;
 	}
 
 	private void appendBibMarc(MarcRecord outMarc, MarcRecord inMarc) {
-		 org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
-	        outMarc.setLeader(inLeader);
-		MarcFieldList list = inMarc.allFields("852");
-		outMarc.deleteFields(list);
+		org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
+		outMarc.setLeader(inLeader);
+		inMarc.deleteFields("852");
+		// outMarc.deleteFields(list);
 		appendAll(outMarc, inMarc);
 	}
 
@@ -1466,8 +1464,8 @@ public class STFMerge implements ConvertConstants, MarcConstants {
 	 */
 
 	private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc) {
-		MarcFieldList list = inMarc.allFields("001", "009");
-		outMarc.deleteFields(list);
+		inMarc.deleteFields("001", "840");
+		// outMarc.deleteFields(list);
 		appendAll(outMarc, inMarc);
 	}
 

@@ -2,12 +2,15 @@ package org.cdlib.marcconvert.run;
 
 import java.util.Date;
 import org.apache.log4j.*;
-import org.cdlib.marcconvert.ENLAMerge;
-import org.cdlib.marcconvert.RunConvert;
+import org.cdlib.marcconvert.KKSMerge;
+import org.cdlib.marcconvert.ORZMerge;
+import org.cdlib.marcconvert.STFMerge;
+import org.cdlib.marcconvert.UCSDMerge;
 import org.cdlib.util.marc.MarcParmException;
 
 
 /**
+ * 
  * This class performs conversion of marc records from the ENLA source
  * by passing a ENLAConvert converter object to RunConvert and invoking
  * the RunConvert.convert() method.
@@ -16,12 +19,12 @@ import org.cdlib.util.marc.MarcParmException;
  * @author <a href="mailto:shawnm@splorkin.com">Shawn McGovern</a>
  * @version $Id: RunENLAMerge.java,v 1.1 2004/05/21 00:18:19 mreyes Exp $
  */
-public class RunENLAMerge
+public class RunORZMerge
 {
 	/**
 	 * log4j Logger for this class.
 	 */
-    private static Logger log = Logger.getLogger(RunENLAMerge.class);
+    static Logger log = Logger.getLogger(RunORZMerge.class);
 
 	/**
 	 * CVS header string.
@@ -71,23 +74,20 @@ public class RunENLAMerge
             // Change the thread name so we can easily identify messages
             // from this run in the log.
             Thread t = Thread.currentThread();
-            t.setName("RunENLAMerge_" + startDate.getTime());
+            t.setName("RunORZMerge" + startDate.getTime());
 
             // Get a new RunConvert using our conversion class.
-            String logconfig = System.getProperties().getProperty("logconfig");
-            if (logconfig != null) {
-                PropertyConfigurator.configureAndWatch(logconfig, 2000);
-            }
+            PropertyConfigurator.configure("log4jC.properties");
 
-            log.info("ENLA conversion started");
+            log.info("ORZ conversion started");
 
-            ENLAMerge ucla = new ENLAMerge();
-            PropertyConfigurator.configure("log4j.properties");
+            ORZMerge orzm = new ORZMerge();
+
 
             // RunConvert.process handles all I/O and the calling
             // of the MarcConvert routines to perform the conversion.
-            int rc = ucla.doCombine();
-            log.info("ENLA merge completed - return code = " + rc);
+            int rc = orzm.doCombine();
+            log.info("ORZ merge completed - return code = " + rc);
             System.out.println("Job completed " + new java.util.Date() + " rc = " + rc);
             System.exit(rc);
         }
