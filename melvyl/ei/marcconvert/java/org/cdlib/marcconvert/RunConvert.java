@@ -889,11 +889,13 @@ public class RunConvert
      *
      */
     private Properties processConfiguration()
-    {
+    {   String url = "";
+    
         Properties pin = new Properties();
         Properties pout = new Properties();
 
         String test = null;
+        System.setProperty("config", "C:/Dev/conf/config/config.txt" );
         String configfile = System.getProperties().getProperty("config");
         log.info("Config file: " + configfile);
 

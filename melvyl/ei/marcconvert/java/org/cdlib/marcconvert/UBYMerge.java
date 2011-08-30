@@ -1,3 +1,12 @@
+/**
+ * 
+ */
+
+
+/**
+  * @author pdoshi
+ *
+ */
 package org.cdlib.marcconvert;
 
 import java.io.BufferedOutputStream;
@@ -22,8 +31,10 @@ import java.text.ParsePosition;
 import java.text.SimpleDateFormat;
 
 import org.apache.log4j.Logger;
+import org.apache.log4j.PropertyConfigurator;
 
 import org.cdlib.util.marc.Field;
+import org.cdlib.util.marc.FieldList;
 import org.cdlib.util.marc.MarcFieldList;
 import org.cdlib.util.marc.MarcException;
 import org.cdlib.util.marc.LocationTable;
@@ -43,7 +54,7 @@ import org.cdlib.util.string.StringUtil;
  * of MarcConvert
  *
  * References:
- * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/En.UCLA.Jav.doc
+ * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/En.UCSD.Jav.doc
  * https://diva.cdlib.org/projects/melvyl/ei/ConverterSpecifications/sort_separate_records.doc
  *
  * @author <a href="mailto:david.loy@ucop.edu">David Loy</a>
@@ -53,13 +64,13 @@ import org.cdlib.util.string.StringUtil;
 
 /* 
  * Change history:
- *   06/03/2011 dbb - Added comments re: processing specific to UCLA
+ *   06/03/2011 dbb - Added comments re: processing specific to UCSD
  */
 
-public class ENLAMerge
+public class UBYMerge
     implements ConvertConstants, MarcConstants
 {
-        static final int CONVERT_EOF = -2;
+	     static final int CONVERT_EOF = -2;
         static final int CONVERT_INITIALIZE_OK = -3;
         static final int CONVERT_SORTOUT_SUCCESS = -4;
         static final int CONVERT_REC_SORTOUT = -5;
@@ -67,7 +78,7 @@ public class ENLAMerge
 	/**
 	 * log4j Logger for this class.
 	 */
-    private static Logger log = Logger.getLogger(ENLAMerge.class);
+    private static Logger log = Logger.getLogger(UBYMerge.class);
 
 	/**
 	 * CVS header string.
@@ -154,7 +165,7 @@ public class ENLAMerge
      * ENLAMerge - contructor - set subclass for marc conversion
      * @param inMarcConvert - Marc conversion subclass of MarcConvert
      */
-    public ENLAMerge()
+    public UBYMerge()
         throws MarcParmException
     {
     }
@@ -276,7 +287,7 @@ public class ENLAMerge
     {
         int runStatus = CONVERT_SORTOUT_SUCCESS;
         int convertStatus = CONVERT_REC_SORTOUT;
-       MarcRecord marcRecIn  = null;
+        MarcRecord marcRecIn  = null;
         MarcStream marcReader = initMarcReader(inFileName);
         if (marcReader == null) return CONVERT_JOB_SUCCESS;
         Status status = null;
@@ -374,7 +385,7 @@ public class ENLAMerge
 
 /* 
  * 6/3/2011 dbb
- * Processing MAY be specific to UCLA.
+ * Processing MAY be specific to UCSD.
  */
 
     private Status processMergeRecord(int inx, MarcStream marcReader)
@@ -804,7 +815,7 @@ public class ENLAMerge
         Properties pout = new Properties();
 
         String test = null;
-        System.setProperty("config", "C:/PAPR/config/STFconfig.txt");
+        System.setProperty("config", "C:/PAPR/config/UBYMerge.txt" );
         String configfile = System.getProperties().getProperty("config");
         log.info("Config file: " + configfile);
 
@@ -1284,12 +1295,12 @@ public class ENLAMerge
  * Step 1: Write MARC records to output files based on the bib record number
  * so that all records with the same bib record number are in the same file.
  *  
- * The code that sets id = bib record number is specific to UCLA:
+ * The code that sets id = bib record number is specific to UCSD:
  *
- * UCLA bib records:
+ * UCSD bib records:
  *    001 contains the bib record number
  *    004 is not present
- * UCLA holdings records:
+ * UCSD holdings records:
  *    001 contains some other number (if present)
  *    004 contains the bib record number
  *
@@ -1304,25 +1315,30 @@ public class ENLAMerge
         throws Exception
     {
         try {
-            String id = marcIn.getFirstValue("001", null);
-           String id004 = marcIn.getFirstValue("004", null);
-            if (id004 != null) id = id004;
-            StringBuffer buf = new StringBuffer(100);
-            buf.append(outDirName);
-            String remain = id;
-            while (remain != null) {
-                if (remain.length() < 3) {
-                    buf.append(File.separator + remain);
-                    (new File(buf.toString())).mkdir();
-                    remain = null;
-                } else {
-                    buf.append(File.separator + remain.substring(0,3));
-                    (new File(buf.toString())).mkdir();
-                    remain = remain.substring(3);
-                }
-            }
+			String id = null;
+		
+			String id001 = marcIn.getFirstValue("001", null);
+			if (id001 != null)
+	          id = id001;   
+			
+
+	
+			StringBuffer buf = new StringBuffer(100);
+			buf.append(outDirName);
+			String remain = id;
+			while (remain != null) {
+				if (remain.length() < 3) {
+					buf.append(File.separator + remain);
+					(new File(buf.toString())).mkdir();
+					remain = null;
+				} else {
+					buf.append(File.separator + remain.substring(0, 3));
+					(new File(buf.toString())).mkdir();
+					remain = remain.substring(3);
+				}
+			}
             //buf.append(File.separator + outputCnt + ".txt");
-            buf.append(File.separator + "marc.txt");
+            buf.append(/*File.separator +*/ "marc.txt");
             writeAppendMarc(buf.toString(), marcIn);
             return CONVERT_REC_SORTOUT;
 
@@ -1354,7 +1370,6 @@ public class ENLAMerge
             if ( marcStr != null ) {
                 String dispExists = "";
                 if ( (new File(outFileName)).exists() ) dispExists = " exists ";
-
                 FileOutputStream fos = new FileOutputStream(outFileName, true);
                 byte [] bMarc = marcStr.getBytes("iso-8859-1");
                 fos.write(bMarc);
@@ -1471,8 +1486,8 @@ public class ENLAMerge
 
 /* 
  * 6/3/2011 dbb
- * This step includes processing specific to UCLA in the logic to identify
- * which of the records is the bib record. For UCLA records, the bib record
+ * This step includes processing specific to UCSD in the logic to identify
+ * which of the records is the bib record. For UCSD records, the bib record
  * (or base record) does not have an 004. (See marcToDir.)
  */
 
@@ -1481,8 +1496,8 @@ public class ENLAMerge
         MarcRecord marcRec = null;
         int baseCnt = 0;
         int holdCnt = 0;
-        String id004 = null;
-
+    	String bibIdLdr = null;
+		String holdIdLdr = null;
         Status status = new Status();
         status.pathName = dir.getPath();
 
@@ -1493,11 +1508,17 @@ public class ENLAMerge
         status.recordStatus = CONVERT_JOB_SUCCESS;
 
         // append bib record(s)
-       for (int i=0; i < arr.size(); i++) {
+        for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id004 = marcRec.getFirstValue("004", null);
-            if (id004 == null) { // base record
-        	appendBibMarc(outMarc, marcRec);
+			bibIdLdr = marcRec.getLeaderValue();
+/*            id004 = marcRec.getFirstValue("004", null);
+          if (id004 == null) { // base record
+        	appendBibMarc(outMarc, marcRec);*/
+            
+    		if (!(bibIdLdr.charAt(6) == 'y' || bibIdLdr.charAt(6) == 'u'
+				|| bibIdLdr.charAt(6) == 'v' || bibIdLdr.charAt(6) == 'x')) { // base
+																				// record
+			appendBibMarc(outMarc, marcRec);
                 baseCnt++;
             }
         }
@@ -1505,20 +1526,26 @@ public class ENLAMerge
         // append holding records
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id004 = marcRec.getFirstValue("004", null);
-            if (id004 != null) {
-        	appendHoldMarc(outMarc, marcRec);
-                holdCnt++;
-            }
+//            id004 = marcRec.getFirstValue("004", null);
+//            if (id004 != null) {
+//        	appendHoldMarc(outMarc, marcRec);
+//                holdCnt++;
+//            }
+    		holdIdLdr = marcRec.getLeaderValue();
+			if ((holdIdLdr.charAt(6) == 'y' || holdIdLdr.charAt(6) == 'u'
+					|| holdIdLdr.charAt(6) == 'v' || holdIdLdr.charAt(6) == 'x')) {
+				appendHoldMarc(outMarc, marcRec);
+				holdCnt++;
+			}
         }
 
         if (baseCnt == 0) {
             setReject(status, outMarc, "Record Rejected - no bib record");
 
-        } else if (holdCnt == 0) {
+        } /*else if (holdCnt == 0) {
             setReject(status, outMarc, "Record Rejected - no holding record");
 
-        } else if (baseCnt > 1) {
+        }*/ else if (baseCnt > 1) {
             setReject(status, outMarc, "Record Rejected - more than one bib record");
         }
             
@@ -1539,34 +1566,36 @@ public class ENLAMerge
         status.msg = msg;
         log.error(status.msg + "(" + status.pathName + ")");
         status.recordStatus = CONVERT_REC_REJECT;
-        marc.setField("997",
-            "  -$a" + msg, 
-            "-$", MarcRecord.END_LIST);
+//        marc.setField("997",
+//            "  -$a" + msg, 
+//            "-$", MarcRecord.END_LIST);
 
-        status.id = marc.getFirstValue("004", null);
-        if (status.id == null) status.id = marc.getFirstValue("001", null);
-        status.marc = marc;
+    //    status.id = marc.getFirstValue("001", null);
+      //  if (status.id == null) status.id = marc.getFirstValue("001", null);
+      //  status.marc = marc;
     }
 
+    
+    //This method is deleting all the 852 fields in Bib record
     private void appendBibMarc(MarcRecord outMarc, MarcRecord inMarc)
     {
-        org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
+       org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
         outMarc.setLeader(inLeader);
-    	appendAll(outMarc, inMarc);
+        appendAll(outMarc, inMarc);
     }
 
 /* 
  * 6/3/2011 dbb
  * Details of this step (constructing 009 and appending holdings) are specific 
- * to UCLA.
+ * to UCSD.
  */
 
-    private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc)
-    {
-       org.cdlib.util.marc.MarcLeader inLeader = inMarc.getLeader();
-        MarcFixedLengthField f009 = new MarcFixedLengthField("009", inLeader.value());
-        outMarc.setField(f009, MarcRecord.END_LIST);
-          appendAll(outMarc, inMarc);
+    
+    //no buisiness rule during holdings append
+ private void appendHoldMarc(MarcRecord outMarc, MarcRecord inMarc)
+    {    inMarc.deleteFields("001", "840");
+        // outMarc.deleteFields(list);
+        appendAll(outMarc, inMarc);
     }
 
     private void appendAll(MarcRecord outMarc, MarcRecord inMarc)
@@ -1650,4 +1679,7 @@ public class ENLAMerge
         public MarcRecord marc = null;
         public String id = null;
     }
+
+    
+
 }

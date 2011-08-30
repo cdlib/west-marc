@@ -3,7 +3,6 @@ package org.cdlib.marcconvert.run;
 import java.util.Date;
 import org.apache.log4j.*;
 import org.cdlib.marcconvert.STFMerge;
-import org.cdlib.marcconvert.UCSDMerge;
 import org.cdlib.util.marc.MarcParmException;
 
 
@@ -17,12 +16,12 @@ import org.cdlib.util.marc.MarcParmException;
  * @author <a href="mailto:shawnm@splorkin.com">Shawn McGovern</a>
  * @version $Id: RunENLAMerge.java,v 1.1 2004/05/21 00:18:19 mreyes Exp $
  */
-public class RunUCSDMerge
+public class RunSTFMerge
 {
 	/**
 	 * log4j Logger for this class.
 	 */
-    static Logger log = Logger.getLogger(RunUCSDMerge.class);
+    static Logger log = Logger.getLogger(RunSTFMerge.class);
 
 	/**
 	 * CVS header string.
@@ -77,15 +76,15 @@ public class RunUCSDMerge
             // Get a new RunConvert using our conversion class.
             PropertyConfigurator.configure("log4jC.properties");
 
-            log.info("UCSD conversion started");
+            log.info("STF conversion started");
 
-            UCSDMerge ucsdm = new UCSDMerge();
+            STFMerge stf = new STFMerge();
 
 
             // RunConvert.process handles all I/O and the calling
             // of the MarcConvert routines to perform the conversion.
-            int rc = ucsdm.doCombine();
-            log.info("UCSD merge completed - return code = " + rc);
+            int rc = stf.doCombine();
+            log.info("STF merge completed - return code = " + rc);
             System.out.println("Job completed " + new java.util.Date() + " rc = " + rc);
             System.exit(rc);
         }
