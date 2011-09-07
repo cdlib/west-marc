@@ -1,7 +1,35 @@
+# Script : build
+# Functions:
+#	1. Builds marcconvert.jar and marcutil.jar files. 
+#	   These two jar files can be found under Release-nnn-000/marc/build/lib	
+#	   where nnn represents the release number.
+#	2. Performs regression test.
+
+# Enforcement : For simplification, it requires that users must execute this
+#		script from this directory and must be and an aleph16 user.
+
+if ($user != aleph16) then
+	/bin/echo "[ERROR] You are not an aleph16 user."
+	exit
+endif
+
+set script = $0
+if (! -e $script ) then
+	/bin/echo "[ERROR] Must run under Build directory."
+	exit
+endif
+
+set base = `pwd`
 # set the environment variables and log onto CVS
-source /exlibris1/cdl_convert/setup
-# go to the release directory
+source $base/setup_build
+
+# go to the releases directory
 cd $MB_HOME
+
+# do not pick up system version.  has bug in export
+#alias cvs /exlibris1/cdl_perl/usr/local/bin/cvs
+# found no /cdlcommon set up on bastet
+#alias cvs /cdlcommon/products/bin/cvs
 
 # clean up 
 rm -rf marc
@@ -24,5 +52,5 @@ chmod +x diffwrap.sh
 # build, run the benchmarks and diff the results 
 ant -debug -buildfile build-marc.xml build-and-test >& ant.output
 
-echo ant output is in ant.output
+echo ant output is in $MB_HOME/scripts/ant.output
 
