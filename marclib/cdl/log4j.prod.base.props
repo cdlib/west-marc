@@ -12,7 +12,7 @@
 # using the desired appenders (console, file, rolling file)
 #------------------------------------------------------------------------------
 #log4j.rootLogger=INFO, F1, R1
-log4j.rootLogger=INFO, F1
+log4j.rootLogger=INFO, C1
 #log4j.rootLogger=DEBUG, F1
 #------------------------------------------------------------------------------
 # End of root logger setup

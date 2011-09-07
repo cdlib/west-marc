@@ -757,7 +757,7 @@ public class OHSMerge implements ConvertConstants, MarcConstants {
 		Properties pout = new Properties();
 
 		String test = null;
-		System.setProperty("config", "C:/PAPR/config/ORZ.txt");
+		System.setProperty("config", "C:/PAPR/config/OQHMerge.txt");
 		String configfile = System.getProperties().getProperty("config");
 		log.info("Config file: " + configfile);
 

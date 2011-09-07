@@ -82,7 +82,7 @@ public class MarcException extends RuntimeException
     public MarcException(Object obj, String comment)
     {
         super(comment);
-        localDetail = new String(obj.getClass().getName() + ":" + comment);
+        
     }
 
     /**

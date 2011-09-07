@@ -417,7 +417,7 @@ public class MarcBaseRecord implements MarcConstants
      * @see org.cdlib.util.marc.MarcLeader#getRecordStatus()
      */
     public char getRecordStatusChar()
-    {
+    {   log.debug(leader.getRecordStatus());
         return leader.getRecordStatus();
     }
 
@@ -427,8 +427,8 @@ public class MarcBaseRecord implements MarcConstants
      *
      * @see org.cdlib.util.marc.MarcLeader#setRecordStatus(char c)
      */
-    public void setRecordStatus(char c)
-    {
+   public void setRecordStatus(char c)  
+    {   System.out.println("Char to set"+c);
         leader.setRecordStatus(c);
     }
 
@@ -454,7 +454,7 @@ public class MarcBaseRecord implements MarcConstants
      * @see org.cdlib.util.marc.MarcLeader#typeOfRecord()
      */
     public char getRecordTypeChar()
-    {
+    {    log.debug(leader.typeOfRecord());
         return leader.typeOfRecord();
     }
 
@@ -479,8 +479,8 @@ public class MarcBaseRecord implements MarcConstants
      *
      * @see org.cdlib.util.marc.MarcLeader#bibLevel()
      */
-    public char getBibLevel()
-    {
+   public char getBibLevel()
+    {    log.debug(leader.bibLevel());
         return leader.bibLevel();
     }
 
@@ -951,7 +951,7 @@ public class MarcBaseRecord implements MarcConstants
      * @return this record's leader
      */
     public MarcLeader getLeader()
-    {
+    {  
         return leader;
     }
 
@@ -1054,9 +1054,9 @@ public class MarcBaseRecord implements MarcConstants
      * Check the bibliographic level in the leader to see if this is a monograph record.
      * Note: this test is not adequate for all sources.
      *
-     * @return true if this a monograph record, ohterwise false
+     * @return true if this a monograph record, ohterwise false 
      */
-    public final boolean isMonograph()
+    public final boolean isMonograph()          
     {
 		return (leader.bibLevel() == 'm');
     }
@@ -1154,7 +1154,9 @@ public class MarcBaseRecord implements MarcConstants
      *
      * @return the modified leader
      */
-    public MarcLeader setBib(String bib)
+    
+  
+   public MarcLeader setBib(String bib)
     {
         if (StringUtil.isEmpty(bib) || (bib.length() > 5))
         {
@@ -1370,7 +1372,7 @@ public class MarcBaseRecord implements MarcConstants
 
 
     /**
-     * Set the leader from the suppliec <code>MarcLeader</code> object.
+     * Set the leader from the supplied <code>MarcLeader</code> object.
      *
      * @param leader the new leader
      */

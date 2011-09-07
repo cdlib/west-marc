@@ -1,5 +1,12 @@
 package org.cdlib.util.marc;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.OutputStream;
+import java.io.OutputStreamWriter;
+
 import org.apache.log4j.Logger;
 
 /**
@@ -52,6 +59,7 @@ public class MarcDirectoryEntry extends FixedLengthData
       * 3. field start non-negative and less than 100,000<br>
       *
       * @exception MarcFormatException if any parameter is invalid
+     * @throws IOException 
       */
      MarcDirectoryEntry(String tag, int length, int start)
          throws MarcFormatException
@@ -64,6 +72,7 @@ public class MarcDirectoryEntry extends FixedLengthData
      /**
       * Create a directory entry from a string representation.
       * Must be of the form xxx999999999.
+     * @throws IOException 
       */
      MarcDirectoryEntry(String entry)
          throws MarcFormatException
@@ -108,6 +117,10 @@ public class MarcDirectoryEntry extends FixedLengthData
       *
       * @exception MarcFormatException if any parameter is invalid
       */
+     
+     
+
+     
      protected void init(String tag, int length, int start)
          throws MarcFormatException
      {
@@ -127,8 +140,8 @@ public class MarcDirectoryEntry extends FixedLengthData
          }
 
          if ( start < 0 || start > 99999 )
-         {
-             throw new MarcFormatException(this, "invalid directory entry start: " + start);
+         {   
+        	throw new MarcFormatException(this, "invalid directory entry start: " + start);
          }
 
          setPos(0, tag);
@@ -146,7 +159,7 @@ public class MarcDirectoryEntry extends FixedLengthData
      String fieldTag()
      {
          return getPos(0, 2);
-     }
+      }
 
      /**
       * Return length of field, including indicators,

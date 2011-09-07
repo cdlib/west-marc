@@ -14,7 +14,7 @@
 # log4j.rootLogger=DEBUG, C1, F1, R1
 #log4j.rootLogger=DEBUG, F1, R1
 # log4j.rootLogger=WARN, F1, R1
-log4j.rootLogger=INFO, F1
+log4j.rootLogger=INFO, C1
 #------------------------------------------------------------------------------
 # End of root logger setup
 #------------------------------------------------------------------------------

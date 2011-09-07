@@ -106,10 +106,26 @@ public class MarcLeader extends FixedLengthData
       * Create an uninitialized MARC record leader.
       * (Positions 10-11 and 20-23 are set to "22"
       * and "4500" respectively.)
+      * 
       */
-     public MarcLeader()
+    
+    
+    // Explicitly Defining other constructor
+    String leader = null;
+    
+     /**
+	 * @param len
+	 * @param leader
+	 */
+	public MarcLeader(int len, String leader) {
+		super(len);
+		this.leader = leader;
+	}
+
+	public MarcLeader()
      {
          this(null);
+         
          setPos(10, "22");
          setPos(20, "4500");
      }
