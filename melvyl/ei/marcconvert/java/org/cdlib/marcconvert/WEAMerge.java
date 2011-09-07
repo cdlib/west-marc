@@ -45,6 +45,7 @@ import org.cdlib.util.marc.MarcParmException;
 import org.cdlib.util.marc.MarcRecord;
 import org.cdlib.util.marc.MarcStream;
 import org.cdlib.util.marc.MarcFixedLengthField;
+import org.cdlib.util.marc.NormalizeData;
 import org.cdlib.util.string.F;
 import org.cdlib.util.string.StringUtil;
 
@@ -1315,11 +1316,13 @@ public class WEAMerge
         throws Exception
     {
         try {
+        
         	 String id = marcIn.getFirstValue("001", null);
-        //	 if(id != null)System.out.println(id.trim()); 
-        	 String id902 = marcIn.getFirstValue("902", "a");
-			 if (id902 != null) id = id902.trim();
-		//	 System.out.println("902 "+id902);
+        	 id = NormalizeData.normalizeWhiteSpace(id);
+      
+       	    String id902 = marcIn.getFirstValue("902", "a");
+			 if (id902 != null && !(id902.equals("BIB UTIL #"))) id = NormalizeData.normalizeWhiteSpace(id902);
+		
 			
 
 	
@@ -1327,19 +1330,21 @@ public class WEAMerge
 			buf.append(outDirName);
 			String remain = id;
 			while (remain != null) {
+				
 				if (remain.length() < 3) {
 					buf.append(File.separator + remain);
-					(new File(buf.toString())).mkdir();
+					(new File(buf.toString().trim())).mkdir();
 					remain = null;
 				} else {
 					buf.append(File.separator + remain.substring(0, 3));
-					(new File(buf.toString())).mkdir();
+					(new File(buf.toString().trim())).mkdir();
 					remain = remain.substring(3);
 				}
 			}
             //buf.append(File.separator + outputCnt + ".txt");
-       //    buf.append(File.separator + "marc.txt");
-            writeAppendMarc(buf.toString(), marcIn);
+			  buf.append( /*File.separator+ */"marc.txt");	
+           
+			writeAppendMarc(buf.toString(), marcIn);
             return CONVERT_REC_SORTOUT;
 
         } catch (Exception ex) {
@@ -1496,7 +1501,7 @@ public class WEAMerge
         MarcRecord marcRec = null;
         int baseCnt = 0;
         int holdCnt = 0;
-    	String id901 = null;
+    	String id001 = null;
         Status status = new Status();
         status.pathName = dir.getPath();
 
@@ -1510,8 +1515,8 @@ public class WEAMerge
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
 			
-            id901 = marcRec.getFirstValue("901", null);
-          if (id901 == null) { // base record
+            id001 = marcRec.getFirstValue("001", null);
+          if (id001 != null) { // base record
         	
         	  appendBibMarc(outMarc, marcRec);
                baseCnt++;
@@ -1522,8 +1527,8 @@ public class WEAMerge
         // append holding records
         for (int i=0; i < arr.size(); i++) {
             marcRec = (MarcRecord)arr.elementAt(i);
-            id901 = marcRec.getFirstValue("901", null);
-            if (id901 != null) {
+            id001 = marcRec.getFirstValue("001", null);
+            if (id001 == null) {
         	appendHoldMarc(outMarc, marcRec);
                 holdCnt++;
             }
