@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="melvyl/ei/marcconvert/java/"/>
+	<classpathentry kind="src" path="marcutil/java/"/>
+	<classpathentry kind="src" path="marclib"/>
+	<classpathentry kind="src" path="util"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="marclib/ext/jakarta-regexp-1.2.jar"/>
+	<classpathentry kind="lib" path="marclib/ext/log4j-1.2.5.jar"/>
+	<classpathentry kind="lib" path="marclib/ext/sax.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

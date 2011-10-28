@@ -46,57 +46,9 @@ public class NormalizeData {
 
 		val = sb.toString();
 		val = normalizeWhiteSpace(val);
-		return val.trim();
+		return val;
 	}
-	
-	
 
-	
-	/**
-	 * @param val
-	 * @return
-	 */
-	private static String removeWhiteSpace(String str) {
-
-		String val = "";
-		int whiteSpaceCount = 0;
-		int k=0;
-		
-		//StringBuilder sb = new StringBuilder();
-		char[] buff = new char[str.length()];
-
-		if ((str == null) || (str.length() == 0)) {
-			return val;
-		}
-
-		for (int i = 0; i < str.length(); i++) {
-  
-			if (Character.isWhitespace(str.charAt(i))) {
-
-				if (whiteSpaceCount < 1) {
-			     //buff[k] = str.charAt(i);
-                   buff[k] =' ';		
-					
-				} else {
-					
-					 continue; 
-				}
-				whiteSpaceCount++;
-			
-
-			}  else {
-				whiteSpaceCount = 0;
-			}
-			
-			buff[k] = str.charAt(i);
-		    k++;
-		    
-		}
-		
-		val = new String(buff);
-		return val.trim();
-
-	}
 
     /**
      * Normalize white space in a string
@@ -105,7 +57,7 @@ public class NormalizeData {
      * trim leading and trailing spaces. This method will normalize a
      * single space to an empty string.
      *
-     * @param String the original string
+     * @param str the original string
      * @return the normalized string (or null if String was null)
      */
     public static String normalizeWhiteSpace(String str) {
