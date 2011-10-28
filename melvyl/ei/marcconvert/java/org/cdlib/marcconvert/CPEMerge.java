@@ -748,7 +748,6 @@ public class CPEMerge implements ConvertConstants, MarcConstants {
 		Properties pout = new Properties();
 
 		String test = null;
-		System.setProperty("config", "C:/PAPR/config/CPEMerge.txt");
 		String configfile = System.getProperties().getProperty("config");
 		log.info("Config file: " + configfile);
 
