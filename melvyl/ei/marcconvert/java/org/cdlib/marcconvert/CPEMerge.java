@@ -1185,12 +1185,10 @@ public class CPEMerge implements ConvertConstants, MarcConstants {
 
 	private int marcToDir(MarcRecord marcIn) throws Exception {
 		try {
-			boolean isBib = false;
 			String id = marcIn.getFirstValue("001", null);
 			id = NormalizeData.normalizeWhiteSpace(id);
 			String id004 = marcIn.getFirstValue("004", null);
 			 if (id004 != null) id = NormalizeData.normalizeWhiteSpace(id004);
-			 isBib = DuplciateBibRecord.isBib(marcIn); 
 			StringBuffer buf = new StringBuffer(100);
 			buf.append(outDirName);
 			String remain = id;
@@ -1206,13 +1204,9 @@ public class CPEMerge implements ConvertConstants, MarcConstants {
 				}
 			}
 			// buf.append(File.separator + outputCnt + ".txt");
-			if (isBib && !DuplciateBibRecord.checkDuplicateBibRecord(id)) {
-				buf.append(File.separator + "marc.txt");
+					buf.append(File.separator + "marc.txt");
 				writeAppendMarc(buf.toString(), marcIn);
-			} else if(!isBib){
-				buf.append(File.separator + "marc.txt");
-				writeAppendMarc(buf.toString(), marcIn);
-			}
+		
 			return CONVERT_REC_SORTOUT;
 
 		} catch (Exception ex) {
