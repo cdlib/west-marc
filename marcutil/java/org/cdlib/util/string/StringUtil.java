@@ -798,11 +798,17 @@ public class StringUtil
      * Trim leading and trailing whitespace from a <code>Stringg/code>.
      * @param s the <code>String</code> to trim
      * @return the trimmed <code>String</code>
+     * 
+     * Modified : 12/12/2011 pjd
+     * commented old code 
+     * Replace with java 
      */
     public static String trimWhiteSpace(String s)
     {
         String sRet = null;
 
+   
+ /*begin comment old code */       
 /*        try
         {
         	
@@ -830,8 +836,13 @@ public class StringUtil
             log.debug("trimmed string = '" + sRet + "' hex = ' " + HexUtils.hexPrint(sRet) + "'");
         }
 
-        return sRet;*/
-        sRet = s.replaceAll("\\p{javaWhitespace}+", "");
+        return sRet;*/  /*end comment*/  
+        
+        
+        
+        /* Modified : 12/12/2011 pjd 
+         * replace with new code */    
+        sRet = s.replaceAll("\\p{javaWhitespace}+", " ");
     	return sRet.trim();
         
         
