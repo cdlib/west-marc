@@ -1,0 +1,5 @@
+Change Log for PAPR-customized melvyl marc utilities
+
+2011-12-12 Priyank Doshi
+Patched StringUtils.java to fix stack overflow trimWhitespace
+
