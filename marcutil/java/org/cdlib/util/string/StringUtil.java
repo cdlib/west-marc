@@ -8,7 +8,6 @@ import java.util.Vector;
 import org.apache.log4j.Logger;
 import org.apache.regexp.RE;
 import org.apache.regexp.RESyntaxException;
-
 import org.cdlib.util.HexUtils;
 
 /**
@@ -804,8 +803,9 @@ public class StringUtil
     {
         String sRet = null;
 
-        try
+/*        try
         {
+        	
             RE leadingWS = new RE("^\\s+");
             RE trailingWS = new RE("\\s+$");
             if ( log.isDebugEnabled() )
@@ -816,6 +816,8 @@ public class StringUtil
             sRet = leadingWS.subst(s, "");
             sRet = trailingWS.subst(sRet, "");
 
+        	
+  
         }
         catch (RESyntaxException e)
         {
@@ -828,7 +830,11 @@ public class StringUtil
             log.debug("trimmed string = '" + sRet + "' hex = ' " + HexUtils.hexPrint(sRet) + "'");
         }
 
-        return sRet;
+        return sRet;*/
+        sRet = s.replaceAll("\\p{javaWhitespace}+", "");
+    	return sRet.trim();
+        
+        
     }
 
     /*

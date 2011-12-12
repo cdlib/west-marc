@@ -13,11 +13,11 @@ import org.cdlib.util.marc.MarcRecord;
  * @author pdoshi
  * 
  */
-public class DuplciateBibRecord {
-	
+public class DuplicateBibRecord {
+
 	static Set<String> duplicateBib = new HashSet<String>();
 
-	private static Logger log = Logger.getLogger(DuplciateBibRecord.class);
+	private static Logger log = Logger.getLogger(DuplicateBibRecord.class);
 
 	public static boolean isBib(MarcRecord marcIn) {
 		String bibId;
@@ -34,12 +34,32 @@ public class DuplciateBibRecord {
 
 	}
 
+	public static boolean isBib(MarcRecord marcIn, String field,
+			String subField, boolean missingField) {
+		String vField;
+		boolean isBib = false;
+		vField = marcIn.getFirstValue(field, subField);
+
+		if (missingField) {
+			if (vField == null)
+				isBib = true;
+		} else {
+			if (vField != null)
+				isBib = true;
+
+		}
+
+		return isBib;
+
+	}
+
 	public static boolean checkDuplicateBibRecord(String id) {
-	
+
 		boolean isDuplicate = false;
 		if (!duplicateBib.add(id)) {
 			isDuplicate = true;
-			log.info("Record Rejected - Duplicate Bib record - " +"Bib record No -"+id);
+			log.info("Record Rejected - Duplicate Bib record - "
+					+ "Bib record No -" + id);
 
 		}
 		return isDuplicate;
