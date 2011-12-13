@@ -812,7 +812,11 @@ public class StringUtil
     	
  /*begin comment old code */       
        
-/*        try
+ /*
+        String sRet = null;
+        try
+ 
+
         {
         	
             RE leadingWS = new RE("^\\s+");
@@ -849,7 +853,7 @@ public class StringUtil
         
         /* Modified : 12/12/2011 pjd 
          * replace with new code */  
-    	String str = "";
+    	String str = null; 
     	String leadingWS = "^\\s+";
 		String trailingWS = "\\s+$";
 		
