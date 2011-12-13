@@ -4,6 +4,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.StringTokenizer;
 import java.util.Vector;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import org.apache.log4j.Logger;
 import org.apache.regexp.RE;
@@ -804,11 +806,12 @@ public class StringUtil
      * Replace with java 
      */
     public static String trimWhiteSpace(String s)
+    
     {
-        String sRet = null;
-
-   
+    	
+    	
  /*begin comment old code */       
+       
 /*        try
         {
         	
@@ -836,15 +839,32 @@ public class StringUtil
             log.debug("trimmed string = '" + sRet + "' hex = ' " + HexUtils.hexPrint(sRet) + "'");
         }
 
-        return sRet;*/  /*end comment*/  
+        return sRet; */ 
+        
+        
+        
+        /*end comment*/  
         
         
         
         /* Modified : 12/12/2011 pjd 
-         * replace with new code */    
-        sRet = s.replaceAll("\\p{javaWhitespace}+", " ");
-    	return sRet.trim();
-        
+         * replace with new code */  
+    	String str = "";
+    	String leadingWS = "^\\s+";
+		String trailingWS = "\\s+$";
+		
+		if (s != null) {
+
+			Pattern replace = Pattern.compile(leadingWS);
+			Matcher match = replace.matcher(s);
+			str = match.replaceAll("");
+			replace = Pattern.compile(trailingWS);
+			match = replace.matcher(str);
+			str = match.replaceAll("");
+		} 
+
+		return str;
+
         
     }
 
