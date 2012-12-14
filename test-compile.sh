@@ -15,7 +15,7 @@
 #Note: Recompile with -Xlint:unchecked for details.
 
 # BASE is the top-level directory for git repository clone (marc.git)
-BASE=$HOME/dbb-work/marc-local-copy
+BASE=$HOME/melvyl-converters
 
 MARCUTIL=$BASE/marcutil/java
 MARCCONVERT=$BASE/melvyl/ei/marcconvert/java
@@ -43,9 +43,3 @@ javac -classpath $MARCLIB/ext/jakarta-regexp-1.2.jar:$MARCLIB/ext/log4j-1.2.5.ja
 
 jar cf $MARCLIB/cdl/marcconvert.jar \
   org/cdlib/marcconvert/*.class org/cdlib/marcconvert/run/*.class
-
-# Build the Stanford and UCSD Merge programs - moved to papr repository
-
-#javac -classpath $MARCLIB/ext/jakarta-regexp-1.2.jar:$MARCLIB/ext/log4j-1.2.5.jar:$MARCLIB/cdl/marcutil.jar:$MARCLIB/cdl/marcconvert.jar:. \
-#  org/cdlib/marcconvert/STFMerge.java org/cdlib/marcconvert/run/RunSTFMerge.java \
-#  org/cdlib/marcconvert/UCSDMerge.java org/cdlib/marcconvert/run/RunUCSDMerge.java 
