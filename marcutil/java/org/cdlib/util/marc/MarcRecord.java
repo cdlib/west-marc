@@ -734,7 +734,12 @@ public class MarcRecord extends MarcBaseRecord
         else
         {
             field = new MarcVblLengthField(tag);
-            field.setIndicators(indicators);
+            try {
+                field.setIndicators(indicators);
+            }
+            catch (MarcFormatException e) {
+                log.warn(e.toString() + " tag=" + tag + " indicators=" + indicators);
+            }
         }
 
         setField(field, defaultOrder);

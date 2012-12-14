@@ -105,7 +105,12 @@ public class MarcVblLengthField extends Field
     {
         super(tag, (subfields == null ? new Vector(15, 15) : subfields));
         this.indicators = new FixedLengthData(2);
-        setIndicators(indicators);
+        try {
+            setIndicators(indicators);
+        }
+        catch (MarcFormatException e) {
+            log.warn(e.toString() + " tag=" + tag + " indicators=" + indicators);
+        }
     }
 
     /**
@@ -412,7 +417,12 @@ public class MarcVblLengthField extends Field
 			throw new MarcFormatException(this, "No subfields found");
 		}
 
-        setIndicators( t.nextToken() );
+        try {
+            setIndicators( t.nextToken() );
+        }
+        catch (MarcFormatException e) {
+            log.warn(e.toString() + " tag=" + tag + " tokenCount=" + tokenCount + " data=" + data);
+        }
 
         while( t.hasMoreTokens() )
         {
