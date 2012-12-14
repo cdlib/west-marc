@@ -1,0 +1,10 @@
+# Lines starting with '#' are comments
+# Ignore Java .class files
+*.class
+# Ignore log files
+*.log
+# Ignore Eclipse-generated files
+*.project
+*.classpath
+# Ignore build directories
+build
