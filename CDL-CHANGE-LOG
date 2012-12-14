@@ -3,3 +3,7 @@ Change Log for PAPR-customized melvyl marc utilities
 2011-12-12 Priyank Doshi
 Patched StringUtils.java to fix stack overflow trimWhitespace
 
+2012-12-14 Debra Bartling
+Catch MarcFormatException on bad argument to setIndicators, log, and continue
+- marcutil/java/org/cdlib/util/marc/MarcRecord.java 
+- marcutil/java/org/cdlib/util/marc/MarcVblLengthField.java
